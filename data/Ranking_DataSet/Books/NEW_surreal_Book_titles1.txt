@@ -1,0 +1,29 @@
+title	score
+The Coldest Winter Ever	1.0
+Holes (Holes, #1)	5.0
+The Quickie	1.0
+Misery	1.0
+Flowers for Algernon	1.0
+Rich Dad, Poor Dad	1.0
+Crime and Punishment	2.0
+Horns	3.0
+The Short Second Life of Bree Tanner (Twilight, #3.5)	1.0
+Eleanor & Park	1.0
+Binti (Binti, #1)	1.0
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change	1.0
+The BFG	5.0
+Sputnik Sweetheart	2.0
+One Flew Over the Cuckoo's Nest	4.0
+Charlie and the Chocolate Factory (Charlie Bucket, #1)	5.0
+Americanah	1.0
+William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars, #4)	3.0
+What I Talk About When I Talk About Running	1.0
+Halo (Halo, #1)	1.0
+Fangirl	1.0
+P.S. I Still Love You (To All the Boys I've Loved Before, #2)	3.0
+When Breath Becomes Air	1.0
+Beartown	1.0
+Amsterdam	1.0
+Hades (Halo, #2)	1.0
+Heaven (Halo, #3)	1.0
+El Diablo (The Devil, #1)	1.0

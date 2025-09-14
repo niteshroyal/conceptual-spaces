@@ -1,0 +1,11 @@
+title	score
+Gandhi (1982)	3.0
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	5.0
+Matrix, The (1999)	5.0
+Winged Migration (Peuple migrateur, Le) (2001)	5.0
+Atonement (2007)	4.0
+True Lies (1994)	3.0
+March of the Penguins (Marche de l'empereur, La) (2005)	4.0
+Painted Veil, The (2006)	4.0
+Verdict, The (1982)	1.0
+Love and Death on Long Island (1997)	1.0

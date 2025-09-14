@@ -1,0 +1,83 @@
+title	score
+Schindler's List (1993)	2.0
+Dances with Wolves (1990)	1.0
+Aliens (1986)	5.0
+Psycho (1960)	4.0
+Full Metal Jacket (1987)	3.0
+Terminator, The (1984)	2.0
+Titanic (1997)	2.0
+Roger & Me (1989)	3.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	3.0
+Ring, The (2002)	5.0
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	1.0
+Underworld (2003)	5.0
+Shaun of the Dead (2004)	3.0
+Batman Begins (2005)	1.0
+Interview with the Vampire: The Vampire Chronicles (1994)	3.0
+Jurassic Park (1993)	3.5
+Star Trek III: The Search for Spock (1984)	1.0
+Thing, The (1982)	5.0
+Ghostbusters (a.k.a. Ghost Busters) (1984)	2.0
+Close Encounters of the Third Kind (1977)	4.0
+Final Fantasy: The Spirits Within (2001)	5.0
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)	2.0
+Hot Fuzz (2007)	1.0
+Kung Fu Panda (2008)	1.0
+Silence of the Lambs, The (1991)	5.0
+Wizard of Oz, The (1939)	2.0
+Shining, The (1980)	5.0
+Donnie Darko (2001)	3.5
+Total Recall (1990)	1.0
+Requiem for a Dream (2000)	1.0
+Goodfellas (1990)	1.5
+Rear Window (1954)	3.0
+Stand by Me (1986)	2.0
+Sixth Sense, The (1999)	3.6666666667000003
+Driving Miss Daisy (1989)	1.0
+Birds, The (1963)	5.0
+No Country for Old Men (2007)	3.5
+Ray (2004)	1.0
+Pinocchio (1940)	1.0
+Sleeping Beauty (1959)	1.0
+Spirited Away (Sen to Chihiro no kamikakushi) (2001)	1.0
+Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)	2.0
+Departed, The (2006)	2.0
+Inglourious Basterds (2009)	2.0
+Station Agent, The (2003)	1.0
+Seven (a.k.a. Se7en) (1995)	4.2
+Blue Velvet (1986)	4.0
+One Hour Photo (2002)	5.0
+American Werewolf in London, An (1981)	3.5
+Eye of the Needle (1981)	5.0
+Mulholland Drive (2001)	4.0
+Descent, The (2005)	5.0
+Slumdog Millionaire (2008)	3.0
+King Kong (2005)	4.0
+The Devil's Advocate (1997)	5.0
+Westworld (1973)	2.0
+Evil Dead II (Dead by Dawn) (1987)	2.0
+Jerry Maguire (1996)	1.0
+Miss Congeniality (2000)	1.0
+School of Rock (2003)	1.0
+Batman Forever (1995)	1.0
+Exorcist, The (1973)	5.0
+Dawn of the Dead (1978)	2.0
+Village, The (2004)	3.0
+Super Size Me (2004)	3.0
+Elephant (2003)	3.0
+Million Dollar Baby (2004)	1.0
+Scream (1996)	3.0
+Outland (1981)	4.0
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)	2.5
+Quills (2000)	1.0
+Lord of the Flies (1963)	3.0
+Sexy Beast (2000)	2.0
+Gift, The (2000)	3.0
+Sleepwalkers (1992)	3.0
+Grudge, The (2004)	5.0
+Ninotchka (1939)	1.0
+Texas Chainsaw Massacre, The (1974)	5.0
+Sunless (Sans Soleil) (1983)	4.0
+Timeline (2003)	1.0
+Open Water (2003)	3.0
+Amityville Horror, The (2005)	5.0

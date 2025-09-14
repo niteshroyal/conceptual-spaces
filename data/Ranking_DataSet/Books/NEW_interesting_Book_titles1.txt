@@ -1,0 +1,34 @@
+title	score
+The Long Walk	4.0
+The Divine Comedy	3.0
+On the Beach	5.0
+The Coldest Winter Ever	4.0
+The Quickie	4.0
+James and the Giant Peach	2.0
+Stuart Little	5.0
+Misery	3.0
+Rich Dad, Poor Dad	1.0
+Crime and Punishment	3.0
+Dune (Dune Chronicles #1)	5.0
+The Memoirs of Sherlock Holmes	4.0
+Horns	3.0
+The Complete Sherlock Holmes	4.0
+Binti (Binti, #1)	4.0
+Charlotte's Web	5.0
+The Adventures of Sherlock Holmes	4.0
+The Prince	4.0
+How to Win Friends and Influence People	4.0
+The Time Machine	5.0
+Black Beauty	5.0
+Life is What You Make It: A Story of Love, Hope and How Determination Can Overcome Even Destiny	5.0
+Zoo	5.0
+The 48 Laws of Power	3.0
+Influence: The Psychology of Persuasion	5.0
+The God Delusion	5.0
+Predictably Irrational: The Hidden Forces That Shape Our Decisions	5.0
+Guilty Pleasures (Anita Blake, Vampire Hunter, #1)	5.0
+Circus of the Damned (Anita Blake, Vampire Hunter, #3)	5.0
+The Laughing Corpse (Anita Blake, Vampire Hunter, #2)	5.0
+Narcissus in Chains (Anita Blake, Vampire Hunter, #10)	5.0
+Obsidian Butterfly (Anita Blake, Vampire Hunter, #9)	5.0
+Micah (Anita Blake, Vampire Hunter, #13)	5.0

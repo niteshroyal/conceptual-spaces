@@ -1,0 +1,1321 @@
+Entity	QRank	item	itemLabel	unitLabel	unit	maxHeight
+Q12495	7732971	http://www.wikidata.org/entity/Q12495	Burj Khalifa	metre	http://www.wikidata.org/entity/Q11573	828.0
+Q9188	3172244	http://www.wikidata.org/entity/Q9188	Empire State Building	meter	http://www.wikidata.org/entity/Q3710	457.1999853696005
+Q11245	2538057	http://www.wikidata.org/entity/Q11245	One World Trade Center	metre	http://www.wikidata.org/entity/Q11573	541.3
+Q83063	1540033	http://www.wikidata.org/entity/Q83063	Petronas Towers	metre	http://www.wikidata.org/entity/Q11573	451.9
+Q83101	1532054	http://www.wikidata.org/entity/Q83101	Taipei 101	metre	http://www.wikidata.org/entity/Q11573	508.0
+Q737945	1437983	http://www.wikidata.org/entity/Q737945	Jeddah Tower	metre	http://www.wikidata.org/entity/Q11573	351.0
+Q29294	1259962	http://www.wikidata.org/entity/Q29294	Willis Tower	metre	http://www.wikidata.org/entity/Q11573	442.1
+Q7969454	1221715	http://www.wikidata.org/entity/Q7969454	Merdeka 118	metre	http://www.wikidata.org/entity/Q11573	678.9
+Q11274	1073542	http://www.wikidata.org/entity/Q11274	Chrysler Building	metre	http://www.wikidata.org/entity/Q11573	318.9
+Q18536	941890	http://www.wikidata.org/entity/Q18536	The Shard	metre	http://www.wikidata.org/entity/Q11573	306.0
+Q270066	886962	http://www.wikidata.org/entity/Q270066	7 World Trade Center	metre	http://www.wikidata.org/entity/Q11573	225.0
+Q18547	697467	http://www.wikidata.org/entity/Q18547	Shanghai Tower	metre	http://www.wikidata.org/entity/Q11573	632.0
+Q29272	647250	http://www.wikidata.org/entity/Q29272	Ryugyong Hotel	metre	http://www.wikidata.org/entity/Q11573	330.0
+Q868772	620199	http://www.wikidata.org/entity/Q868772	Trump Tower	meter	http://www.wikidata.org/entity/Q3710	202.3871935236098
+Q4635219	600765	http://www.wikidata.org/entity/Q4635219	33 Thomas Street	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q4255374	541103	http://www.wikidata.org/entity/Q4255374	Lakhta Centre	metre	http://www.wikidata.org/entity/Q11573	462.0
+Q167566	513354	http://www.wikidata.org/entity/Q167566	Palace of Culture and Science	metre	http://www.wikidata.org/entity/Q11573	230.0
+Q494895	485220	http://www.wikidata.org/entity/Q494895	Lotte World Tower	metre	http://www.wikidata.org/entity/Q11573	555.7
+Q189476	477417	http://www.wikidata.org/entity/Q189476	Abraj Al Bait	metre	http://www.wikidata.org/entity/Q11573	601.0
+Q1066676	476968	http://www.wikidata.org/entity/Q1066676	Plaza Hotel	metre	http://www.wikidata.org/entity/Q11573	76.0
+Q323767	443715	http://www.wikidata.org/entity/Q323767	Montparnasse Tower	metre	http://www.wikidata.org/entity/Q11573	209.0
+Q2631268	420780	http://www.wikidata.org/entity/Q2631268	111 West 57th Street	metre	http://www.wikidata.org/entity/Q11573	435.3
+Q191161	420269	http://www.wikidata.org/entity/Q191161	30 St Mary Axe	metre	http://www.wikidata.org/entity/Q11573	250.0
+Q18640924	372841	http://www.wikidata.org/entity/Q18640924	Landmark 81	metre	http://www.wikidata.org/entity/Q11573	461.5
+Q233940	360124	http://www.wikidata.org/entity/Q233940	432 Park Avenue	metre	http://www.wikidata.org/entity/Q11573	425.5
+Q1127212	359585	http://www.wikidata.org/entity/Q1127212	2 World Trade Center	metre	http://www.wikidata.org/entity/Q11573	403.3
+Q18398409	343942	http://www.wikidata.org/entity/Q18398409	One Vanderbilt	metre	http://www.wikidata.org/entity/Q11573	427.0
+Q217652	308877	http://www.wikidata.org/entity/Q217652	Woolworth Building	metre	http://www.wikidata.org/entity/Q11573	351.0
+Q206435	301994	http://www.wikidata.org/entity/Q206435	Turning Torso	metre	http://www.wikidata.org/entity/Q11573	190.0
+Q216357	279056	http://www.wikidata.org/entity/Q216357	Grande Arche	metre	http://www.wikidata.org/entity/Q11573	110.9
+Q217727	273734	http://www.wikidata.org/entity/Q217727	875 North Michigan Avenue	metre	http://www.wikidata.org/entity/Q11573	344.0
+Q546221	273652	http://www.wikidata.org/entity/Q546221	Trump International Hotel and Tower	metre	http://www.wikidata.org/entity/Q11573	423.2
+Q218305	267663	http://www.wikidata.org/entity/Q218305	40 Wall Street	metre	http://www.wikidata.org/entity/Q11573	284.0
+Q680614	253627	http://www.wikidata.org/entity/Q680614	30 Rockefeller Plaza	metre	http://www.wikidata.org/entity/Q11573	259.0
+Q212834	250001	http://www.wikidata.org/entity/Q212834	20 Fenchurch Street	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q745016	247200	http://www.wikidata.org/entity/Q745016	Kuala Lumpur Tower	metre	http://www.wikidata.org/entity/Q11573	421.0
+Q109648853	229792	http://www.wikidata.org/entity/Q109648853	270 Park Avenue	metre	http://www.wikidata.org/entity/Q11573	423.0
+Q336246	224399	http://www.wikidata.org/entity/Q336246	Torre Glòries	metre	http://www.wikidata.org/entity/Q11573	144.0
+Q278380	224251	http://www.wikidata.org/entity/Q278380	Fontainebleau Las Vegas	metre	http://www.wikidata.org/entity/Q11573	224.0
+Q216865	220178	http://www.wikidata.org/entity/Q216865	Transamerica Pyramid	metre	http://www.wikidata.org/entity/Q11573	260.0
+Q223207	219818	http://www.wikidata.org/entity/Q223207	Oriental Pearl Tower	metre	http://www.wikidata.org/entity/Q11573	259.0
+Q14684154	219801	http://www.wikidata.org/entity/Q14684154	Salesforce Tower	metre	http://www.wikidata.org/entity/Q11573	326.0
+Q16318627	210277	http://www.wikidata.org/entity/Q16318627	Abeno Harukas	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q80852	204836	http://www.wikidata.org/entity/Q80852	Shanghai World Financial Center	metre	http://www.wikidata.org/entity/Q11573	492.0
+Q464482	203269	http://www.wikidata.org/entity/Q464482	MetLife Building	metre	http://www.wikidata.org/entity/Q11573	246.0
+Q656743	202256	http://www.wikidata.org/entity/Q656743	Kingdom Centre	metre	http://www.wikidata.org/entity/Q11573	302.0
+Q737484	201656	http://www.wikidata.org/entity/Q737484	Seagram Building	metre	http://www.wikidata.org/entity/Q11573	157.0
+Q317034	189623	http://www.wikidata.org/entity/Q317034	International Commerce Centre	metre	http://www.wikidata.org/entity/Q11573	484.0
+Q15264266	189351	http://www.wikidata.org/entity/Q15264266	30 Hudson Yards	metre	http://www.wikidata.org/entity/Q11573	395.0
+Q651362	187769	http://www.wikidata.org/entity/Q651362	Singer Building	metre	http://www.wikidata.org/entity/Q11573	187.0
+Q1033099	183979	http://www.wikidata.org/entity/Q1033099	Grand Lisboa	metre	http://www.wikidata.org/entity/Q11573	261.0
+Q1138183	175295	http://www.wikidata.org/entity/Q1138183	Philadelphia City Hall	metre	http://www.wikidata.org/entity/Q11573	167.0
+Q620809	170749	http://www.wikidata.org/entity/Q620809	Palais Royale	metre	http://www.wikidata.org/entity/Q11573	320.0
+Q587108	170387	http://www.wikidata.org/entity/Q587108	Yokohama Landmark Tower	metre	http://www.wikidata.org/entity/Q11573	295.8
+Q1077308	154450	http://www.wikidata.org/entity/Q1077308	Ping An Finance Centre	metre	http://www.wikidata.org/entity/Q11573	599.05
+Q941908	152677	http://www.wikidata.org/entity/Q941908	3 World Trade Center	metre	http://www.wikidata.org/entity/Q11573	328.9
+Q1351208	151801	http://www.wikidata.org/entity/Q1351208	4 World Trade Center	metre	http://www.wikidata.org/entity/Q11573	297.7
+Q22329554	147069	http://www.wikidata.org/entity/Q22329554	The Brooklyn Tower	metre	http://www.wikidata.org/entity/Q11573	325.0
+Q192680	145972	http://www.wikidata.org/entity/Q192680	New York Times Building	metre	http://www.wikidata.org/entity/Q11573	318.8
+Q1156708	145234	http://www.wikidata.org/entity/Q1156708	The Venetian Macao	metre	http://www.wikidata.org/entity/Q11573	151.0
+Q25452628	144855	http://www.wikidata.org/entity/Q25452628	Mohammed VI Tower	metre	http://www.wikidata.org/entity/Q11573	250.0
+Q125846	144427	http://www.wikidata.org/entity/Q125846	Q1 Tower	metre	http://www.wikidata.org/entity/Q11573	322.0
+Q80813	141717	http://www.wikidata.org/entity/Q80813	Jin Mao Tower	metre	http://www.wikidata.org/entity/Q11573	421.0
+Q503477	140966	http://www.wikidata.org/entity/Q503477	One Canada Square	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q214855	138878	http://www.wikidata.org/entity/Q214855	Bank of China Tower	metre	http://www.wikidata.org/entity/Q11573	367.4
+Q151765	138276	http://www.wikidata.org/entity/Q151765	Commerzbank Tower	metre	http://www.wikidata.org/entity/Q11573	300.1
+Q652452	135016	http://www.wikidata.org/entity/Q652452	Metropolitan Life Insurance Company Tower	metre	http://www.wikidata.org/entity/Q11573	213.0
+Q57900	134940	http://www.wikidata.org/entity/Q57900	U.S. Bank Tower	metre	http://www.wikidata.org/entity/Q11573	310.3
+Q632566	134435	http://www.wikidata.org/entity/Q632566	Edifício Copan	metre	http://www.wikidata.org/entity/Q11573	118.43
+Q1509747	134026	http://www.wikidata.org/entity/Q1509747	Tour First	metre	http://www.wikidata.org/entity/Q11573	231.0
+Q602942	132190	http://www.wikidata.org/entity/Q602942	Sunshine 60	metre	http://www.wikidata.org/entity/Q11573	239.7
+Q2740354	131321	http://www.wikidata.org/entity/Q2740354	Sky Tower	metre	http://www.wikidata.org/entity/Q11573	212.0
+Q109703244	129773	http://www.wikidata.org/entity/Q109703244	Azabudai Hills Mori JP Tower	metre	http://www.wikidata.org/entity/Q11573	325.2
+Q391243	128466	http://www.wikidata.org/entity/Q391243	Citigroup Center	metre	http://www.wikidata.org/entity/Q11573	279.0
+Q119942	126456	http://www.wikidata.org/entity/Q119942	X-Seed 4000	metre	http://www.wikidata.org/entity/Q11573	4000.0
+Q2582539	124603	http://www.wikidata.org/entity/Q2582539	Wilshire Grand Center	meter	http://www.wikidata.org/entity/Q3710	0.6095999804928006
+Q2023928	123896	http://www.wikidata.org/entity/Q2023928	One57	meter	http://www.wikidata.org/entity/Q3710	306.3239901976323
+Q2023928	123896	http://www.wikidata.org/entity/Q2023928	One57	metre	http://www.wikidata.org/entity/Q11573	257.0
+Q30920691	121554	http://www.wikidata.org/entity/Q30920691	Tao Zhu Yin Yuan	metre	http://www.wikidata.org/entity/Q11573	93.2
+Q271695	121507	http://www.wikidata.org/entity/Q271695	Aon Center	metre	http://www.wikidata.org/entity/Q11573	69.8
+Q109595002	118876	http://www.wikidata.org/entity/Q109595002	Tokyu Kabukicho Tower	metre	http://www.wikidata.org/entity/Q11573	225.0
+Q18602	118864	http://www.wikidata.org/entity/Q18602	22 Bishopsgate	metre	http://www.wikidata.org/entity/Q11573	278.2
+Q17154027	118844	http://www.wikidata.org/entity/Q17154027	Karla Tower	metre	http://www.wikidata.org/entity/Q11573	246.0
+Q1139633	117227	http://www.wikidata.org/entity/Q1139633	One Times Square	meter	http://www.wikidata.org/entity/Q3710	110.64239645944332
+Q754321	114190	http://www.wikidata.org/entity/Q754321	China Media Group Guanghua Road Office Area	metre	http://www.wikidata.org/entity/Q11573	234.0
+Q920809	113923	http://www.wikidata.org/entity/Q920809	Pirelli Tower	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q1151808	113851	http://www.wikidata.org/entity/Q1151808	Umeda Sky Building	metre	http://www.wikidata.org/entity/Q11573	173.0
+Q5711011	113199	http://www.wikidata.org/entity/Q5711011	Plasco Building	metre	http://www.wikidata.org/entity/Q11573	42.0
+Q2742547	113072	http://www.wikidata.org/entity/Q2742547	122 Leadenhall Street	metre	http://www.wikidata.org/entity/Q11573	230.0
+Q798416	111279	http://www.wikidata.org/entity/Q798416	John Hancock Tower	metre	http://www.wikidata.org/entity/Q11573	241.0
+Q1156274	109866	http://www.wikidata.org/entity/Q1156274	Torre Velasca	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q700636	108612	http://www.wikidata.org/entity/Q700636	Yanggakdo International Hotel	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q337631	108217	http://www.wikidata.org/entity/Q337631	Tuntex Sky Tower	metre	http://www.wikidata.org/entity/Q11573	323.0
+Q1034660	107862	http://www.wikidata.org/entity/Q1034660	Capital Gate	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q7711913	107654	http://www.wikidata.org/entity/Q7711913	The 42	metre	http://www.wikidata.org/entity/Q11573	260.0
+Q1372014	107635	http://www.wikidata.org/entity/Q1372014	HSBC Building	metre	http://www.wikidata.org/entity/Q11573	178.7
+Q16724433	105180	http://www.wikidata.org/entity/Q16724433	Toranomon Hills	metre	http://www.wikidata.org/entity/Q11573	255.5
+Q14530911	104844	http://www.wikidata.org/entity/Q14530911	Residential Intempo	metre	http://www.wikidata.org/entity/Q11573	187.0
+Q1676687	104352	http://www.wikidata.org/entity/Q1676687	270 Park Avenue	metre	http://www.wikidata.org/entity/Q11573	215.0
+Q19817578	103476	http://www.wikidata.org/entity/Q19817578	St. Regis Chicago	metre	http://www.wikidata.org/entity/Q11573	362.9
+Q1771772	103223	http://www.wikidata.org/entity/Q1771772	Roppongi Hills Mori Tower	metre	http://www.wikidata.org/entity/Q11573	238.0
+Q3533060	103084	http://www.wikidata.org/entity/Q3533060	Tour Duo	metre	http://www.wikidata.org/entity/Q11573	180.0
+Q844324	101974	http://www.wikidata.org/entity/Q844324	Trump World Tower	metre	http://www.wikidata.org/entity/Q11573	262.0
+Q526963	100787	http://www.wikidata.org/entity/Q526963	BMW Headquarters	metre	http://www.wikidata.org/entity/Q11573	101.0
+Q59483	100756	http://www.wikidata.org/entity/Q59483	Mercury City Tower	metre	http://www.wikidata.org/entity/Q11573	338.8
+Q901058	100027	http://www.wikidata.org/entity/Q901058	Vehicle Assembly Building	metre	http://www.wikidata.org/entity/Q11573	160.3
+Q1827608	99564	http://www.wikidata.org/entity/Q1827608	Lipstick Building	metre	http://www.wikidata.org/entity/Q11573	133.0
+Q507939	98487	http://www.wikidata.org/entity/Q507939	World One	metre	http://www.wikidata.org/entity/Q11573	280.2
+Q64026922	97920	http://www.wikidata.org/entity/Q64026922	Shibuya Scramble Square	metre	http://www.wikidata.org/entity/Q11573	229.71
+Q15781036	97830	http://www.wikidata.org/entity/Q15781036	220 Central Park South	metre	http://www.wikidata.org/entity/Q11573	290.2
+Q797017	97681	http://www.wikidata.org/entity/Q797017	Cathedral of Learning	metre	http://www.wikidata.org/entity/Q11573	163.0
+Q1514587	96926	http://www.wikidata.org/entity/Q1514587	The Palazzo	metre	http://www.wikidata.org/entity/Q11573	196.0
+Q328505	96601	http://www.wikidata.org/entity/Q328505	Bank of America Tower	metre	http://www.wikidata.org/entity/Q11573	365.8
+Q197833	96111	http://www.wikidata.org/entity/Q197833	China Zun	metre	http://www.wikidata.org/entity/Q11573	528.0
+Q2640560	95712	http://www.wikidata.org/entity/Q2640560	CBS Building	meter	http://www.wikidata.org/entity/Q3710	149.65679521098255
+Q440082	94160	http://www.wikidata.org/entity/Q440082	Deutsche Bank Building	metre	http://www.wikidata.org/entity/Q11573	157.6
+Q156198	93676	http://www.wikidata.org/entity/Q156198	MesseTurm	metre	http://www.wikidata.org/entity/Q11573	256.5
+Q1319147	92604	http://www.wikidata.org/entity/Q1319147	The San Remo	metre	http://www.wikidata.org/entity/Q11573	122.0
+Q1319147	92604	http://www.wikidata.org/entity/Q1319147	The San Remo	meter	http://www.wikidata.org/entity/Q3710	121.91999609856012
+Q963111	92191	http://www.wikidata.org/entity/Q963111	UniCredit Tower	metre	http://www.wikidata.org/entity/Q11573	152.0
+Q244358	91963	http://www.wikidata.org/entity/Q244358	56 Leonard Street	metre	http://www.wikidata.org/entity/Q11573	250.2
+Q80367	89732	http://www.wikidata.org/entity/Q80367	Triumph Palace	metre	http://www.wikidata.org/entity/Q11573	264.0
+Q859452	89254	http://www.wikidata.org/entity/Q859452	Hearst Tower	metre	http://www.wikidata.org/entity/Q11573	182.0
+Q1030463	87652	http://www.wikidata.org/entity/Q1030463	Mode Gakuen Cocoon Tower	metre	http://www.wikidata.org/entity/Q11573	204.0
+Q166882	87510	http://www.wikidata.org/entity/Q166882	Istanbul Sapphire	metre	http://www.wikidata.org/entity/Q11573	261.0
+Q228242	86636	http://www.wikidata.org/entity/Q228242	383 Madison Avenue	metre	http://www.wikidata.org/entity/Q11573	230.0
+Q572887	85093	http://www.wikidata.org/entity/Q572887	8 Canada Square	metre	http://www.wikidata.org/entity/Q11573	199.51
+Q2143136	84184	http://www.wikidata.org/entity/Q2143136	Tribune Tower	metre	http://www.wikidata.org/entity/Q11573	141.0
+Q30686870	83284	http://www.wikidata.org/entity/Q30686870	Thamrin Nine	metre	http://www.wikidata.org/entity/Q11573	382.9
+Q2943880	81205	http://www.wikidata.org/entity/Q2943880	1211 Avenue of the Americas	metre	http://www.wikidata.org/entity/Q11573	180.44
+Q1331574	79979	http://www.wikidata.org/entity/Q1331574	Tower 42	metre	http://www.wikidata.org/entity/Q11573	182.9
+Q168575	79115	http://www.wikidata.org/entity/Q168575	CTF Finance Centre	metre	http://www.wikidata.org/entity/Q11573	530.0
+Q1613853	77913	http://www.wikidata.org/entity/Q1613853	Heron Tower	metre	http://www.wikidata.org/entity/Q11573	230.0
+Q20987795	77125	http://www.wikidata.org/entity/Q20987795	Fereshteh Pasargad Hotel	metre	http://www.wikidata.org/entity/Q11573	188.0
+Q571763	76140	http://www.wikidata.org/entity/Q571763	Barolo Palace	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q844780	74591	http://www.wikidata.org/entity/Q844780	Kasumigaseki Building	metre	http://www.wikidata.org/entity/Q11573	147.0
+Q375910	73290	http://www.wikidata.org/entity/Q375910	Kavanagh building	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q1985903	72394	http://www.wikidata.org/entity/Q1985903	Evolution Tower	metre	http://www.wikidata.org/entity/Q11573	255.0
+Q22968	72366	http://www.wikidata.org/entity/Q22968	63 Building	metre	http://www.wikidata.org/entity/Q11573	249.0
+Q368489	70932	http://www.wikidata.org/entity/Q368489	Los Angeles City Hall	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q659652	70817	http://www.wikidata.org/entity/Q659652	One Astor Plaza	metre	http://www.wikidata.org/entity/Q11573	227.0
+Q19492	70787	http://www.wikidata.org/entity/Q19492	Princess Tower	metre	http://www.wikidata.org/entity/Q11573	414.0
+Q850547	70697	http://www.wikidata.org/entity/Q850547	Gate Tower Building	metre	http://www.wikidata.org/entity/Q11573	71.9
+Q557933	70161	http://www.wikidata.org/entity/Q557933	Al Hamra Tower	metre	http://www.wikidata.org/entity/Q11573	412.0
+Q321291	69844	http://www.wikidata.org/entity/Q321291	Main Tower	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q510272	68340	http://www.wikidata.org/entity/Q510272	Olympic Tower	metre	http://www.wikidata.org/entity/Q11573	221.0
+Q47528623	68324	http://www.wikidata.org/entity/Q47528623	The Sky Taipei	metre	http://www.wikidata.org/entity/Q11573	280.0
+Q1052475	68206	http://www.wikidata.org/entity/Q1052475	First Canadian Place	metre	http://www.wikidata.org/entity/Q11573	298.0
+Q908703	67913	http://www.wikidata.org/entity/Q908703	Columbia Center	metre	http://www.wikidata.org/entity/Q11573	294.8
+Q1144187	67701	http://www.wikidata.org/entity/Q1144187	One Liberty Plaza	metre	http://www.wikidata.org/entity/Q11573	226.0
+Q20011078	65758	http://www.wikidata.org/entity/Q20011078	Sathorn Unique Tower	metre	http://www.wikidata.org/entity/Q11573	184.98
+Q1054303	65593	http://www.wikidata.org/entity/Q1054303	Confinanzas Financial Center	metre	http://www.wikidata.org/entity/Q11573	171.0
+Q391648	62953	http://www.wikidata.org/entity/Q391648	Cayan Tower	metre	http://www.wikidata.org/entity/Q11573	306.4
+Q1141262	62898	http://www.wikidata.org/entity/Q1141262	Gate of Europe	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q2303314	62828	http://www.wikidata.org/entity/Q2303314	Al Faisaliah Centre	metre	http://www.wikidata.org/entity/Q11573	267.0
+Q1347892	62476	http://www.wikidata.org/entity/Q1347892	Equitable Building	metre	http://www.wikidata.org/entity/Q11573	164.0
+Q1477826	62003	http://www.wikidata.org/entity/Q1477826	550 Madison Avenue	metre	http://www.wikidata.org/entity/Q11573	197.0
+Q3995200	61774	http://www.wikidata.org/entity/Q3995200	Allianz Tower	metre	http://www.wikidata.org/entity/Q11573	207.0
+Q321040	61700	http://www.wikidata.org/entity/Q321040	Seat of the European Central Bank	metre	http://www.wikidata.org/entity/Q11573	185.0
+Q2818016	61616	http://www.wikidata.org/entity/Q2818016	660 Fifth Avenue	meter	http://www.wikidata.org/entity/Q3710	147.21839528901134
+Q499486	61594	http://www.wikidata.org/entity/Q499486	Bank of America Plaza	metre	http://www.wikidata.org/entity/Q11573	311.8
+Q274916	61509	http://www.wikidata.org/entity/Q274916	8 Spruce Street	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q6063129	61502	http://www.wikidata.org/entity/Q6063129	Turkish House	metre	http://www.wikidata.org/entity/Q11573	171.0
+Q3954120	61418	http://www.wikidata.org/entity/Q3954120	Ministry of Foreign Affairs of Russia main building	metre	http://www.wikidata.org/entity/Q11573	172.0
+Q3272625	60815	http://www.wikidata.org/entity/Q3272625	Kenyatta International Convention Centre	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q466979	60810	http://www.wikidata.org/entity/Q466979	American Radiator Building	metre	http://www.wikidata.org/entity/Q11573	103.0
+Q632019	60500	http://www.wikidata.org/entity/Q632019	Solow Building	metre	http://www.wikidata.org/entity/Q11573	210.0
+Q3995702	60197	http://www.wikidata.org/entity/Q3995702	Torres Blancas	metre	http://www.wikidata.org/entity/Q11573	81.0
+Q1364394	59543	http://www.wikidata.org/entity/Q1364394	Torre Picasso	metre	http://www.wikidata.org/entity/Q11573	157.0
+Q1357866	58811	http://www.wikidata.org/entity/Q1357866	Warsaw Spire	metre	http://www.wikidata.org/entity/Q11573	220.0
+Q6130456	58723	http://www.wikidata.org/entity/Q6130456	Jardine House	metre	http://www.wikidata.org/entity/Q11573	178.54
+Q17217568	58311	http://www.wikidata.org/entity/Q17217568	Shinjuku Toho Building	metre	http://www.wikidata.org/entity/Q11573	130.25
+Q935919	57952	http://www.wikidata.org/entity/Q935919	JPMorgan Chase Tower	metre	http://www.wikidata.org/entity/Q11573	305.4
+Q622895	57806	http://www.wikidata.org/entity/Q622895	Aqua	metre	http://www.wikidata.org/entity/Q11573	262.0
+Q1165269	57762	http://www.wikidata.org/entity/Q1165269	Marina 101	metre	http://www.wikidata.org/entity/Q11573	425.0
+Q953610	57548	http://www.wikidata.org/entity/Q953610	Torre de Cristal	metre	http://www.wikidata.org/entity/Q11573	249.0
+Q1603308	57471	http://www.wikidata.org/entity/Q1603308	Helmsley Building	metre	http://www.wikidata.org/entity/Q11573	172.0
+Q1464592	56149	http://www.wikidata.org/entity/Q1464592	Wrigley Building	metre	http://www.wikidata.org/entity/Q11573	133.51
+Q838780	55729	http://www.wikidata.org/entity/Q838780	Almas Tower	metre	http://www.wikidata.org/entity/Q11573	363.0
+Q649426	55445	http://www.wikidata.org/entity/Q649426	Edificio España	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q16958963	54813	http://www.wikidata.org/entity/Q16958963	Comcast Technology Center	metre	http://www.wikidata.org/entity/Q11573	341.7
+Q10939987	54419	http://www.wikidata.org/entity/Q10939987	Tianjin Chow Tai Fook Binhai Center	metre	http://www.wikidata.org/entity/Q11573	530.0
+Q511612	53785	http://www.wikidata.org/entity/Q511612	Bahrain World Trade Center	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q112640	53607	http://www.wikidata.org/entity/Q112640	Central Plaza	metre	http://www.wikidata.org/entity/Q11573	374.0
+Q1783427	52785	http://www.wikidata.org/entity/Q1783427	Trump International Hotel and Tower	metre	http://www.wikidata.org/entity/Q11573	177.62
+Q249053	52639	http://www.wikidata.org/entity/Q249053	Złota 44	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q1495752	52362	http://www.wikidata.org/entity/Q1495752	Taipei Twin Towers	metre	http://www.wikidata.org/entity/Q11573	318.0
+Q3533204	52103	http://www.wikidata.org/entity/Q3533204	Triangle	metre	http://www.wikidata.org/entity/Q11573	180.0
+Q262041	51702	http://www.wikidata.org/entity/Q262041	70 Pine Street	metre	http://www.wikidata.org/entity/Q11573	290.2
+Q1156778	51612	http://www.wikidata.org/entity/Q1156778	Manhattan Municipal Building	metre	http://www.wikidata.org/entity/Q11573	176.79
+Q28873239	50809	http://www.wikidata.org/entity/Q28873239	Guoco Tower	metre	http://www.wikidata.org/entity/Q11573	290.0
+Q3995195	50615	http://www.wikidata.org/entity/Q3995195	Generali Tower	metre	http://www.wikidata.org/entity/Q11573	177.4
+Q1340132	50566	http://www.wikidata.org/entity/Q1340132	Encore	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q249065	49716	http://www.wikidata.org/entity/Q249065	Złote Tarasy	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q116002	49304	http://www.wikidata.org/entity/Q116002	200 West Street	meter	http://www.wikidata.org/entity/Q3710	228.29519269455383
+Q116002	49304	http://www.wikidata.org/entity/Q116002	200 West Street	metre	http://www.wikidata.org/entity/Q11573	228.0
+Q244391	48951	http://www.wikidata.org/entity/Q244391	General Electric Building	metre	http://www.wikidata.org/entity/Q11573	195.0
+Q519568	48453	http://www.wikidata.org/entity/Q519568	Torre Cepsa	metre	http://www.wikidata.org/entity/Q11573	248.3
+Q687413	48317	http://www.wikidata.org/entity/Q687413	4 Times Square	metre	http://www.wikidata.org/entity/Q11573	246.5
+Q1050074	48296	http://www.wikidata.org/entity/Q1050074	28 Liberty Street	metre	http://www.wikidata.org/entity/Q11573	247.8
+Q17640070	47941	http://www.wikidata.org/entity/Q17640070	Tour Hekla	metre	http://www.wikidata.org/entity/Q11573	220.0
+Q1113808	47760	http://www.wikidata.org/entity/Q1113808	Comcast Center	metre	http://www.wikidata.org/entity/Q11573	297.0
+Q143235	47695	http://www.wikidata.org/entity/Q143235	Wuhan Greenland Center	metre	http://www.wikidata.org/entity/Q11573	475.6
+Q1499859	47177	http://www.wikidata.org/entity/Q1499859	New York Life Building	metre	http://www.wikidata.org/entity/Q11573	187.5
+Q30303011	47158	http://www.wikidata.org/entity/Q30303011	The Link	metre	http://www.wikidata.org/entity/Q11573	241.0
+Q169420	46729	http://www.wikidata.org/entity/Q169420	Edifício Altino Arantes	metre	http://www.wikidata.org/entity/Q11573	161.22
+Q471329	46565	http://www.wikidata.org/entity/Q471329	City-Hochhaus Leipzig	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q684027	46506	http://www.wikidata.org/entity/Q684027	Key Tower	metre	http://www.wikidata.org/entity/Q11573	288.0
+Q1049122	46401	http://www.wikidata.org/entity/Q1049122	Marunouchi Building	metre	http://www.wikidata.org/entity/Q11573	179.2
+Q743683	46342	http://www.wikidata.org/entity/Q743683	Tour Total	metre	http://www.wikidata.org/entity/Q11573	187.0
+Q55908607	46239	http://www.wikidata.org/entity/Q55908607	Raffles City Chongqing	metre	http://www.wikidata.org/entity/Q11573	356.0
+Q702322	45700	http://www.wikidata.org/entity/Q702322	Koryo Hotel	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q814128	45486	http://www.wikidata.org/entity/Q814128	Beetham Tower	metre	http://www.wikidata.org/entity/Q11573	169.0
+Q1453542	45184	http://www.wikidata.org/entity/Q1453542	Freedom Tower	metre	http://www.wikidata.org/entity/Q11573	78.0
+Q2339039	44760	http://www.wikidata.org/entity/Q2339039	Centre Point	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q956198	44663	http://www.wikidata.org/entity/Q956198	New York World Building	metre	http://www.wikidata.org/entity/Q11573	106.6
+Q24885196	44590	http://www.wikidata.org/entity/Q24885196	Azrieli Sarona Tower	metre	http://www.wikidata.org/entity/Q11573	238.5
+Q21026850	44032	http://www.wikidata.org/entity/Q21026850	Neva Towers	metre	http://www.wikidata.org/entity/Q11573	345.0
+Q3489200	43854	http://www.wikidata.org/entity/Q3489200	345 Park Avenue	meter	http://www.wikidata.org/entity/Q3710	193.24624181612023
+Q3489200	43854	http://www.wikidata.org/entity/Q3489200	345 Park Avenue	metre	http://www.wikidata.org/entity/Q11573	193.0
+Q3499753	43848	http://www.wikidata.org/entity/Q3499753	Oslo Plaza	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q976172	43642	http://www.wikidata.org/entity/Q976172	Carlton Centre	metre	http://www.wikidata.org/entity/Q11573	222.5
+Q11226072	43625	http://www.wikidata.org/entity/Q11226072	JP Tower	metre	http://www.wikidata.org/entity/Q11573	200.0
+Q1342690	43369	http://www.wikidata.org/entity/Q1342690	One Worldwide Plaza	metre	http://www.wikidata.org/entity/Q11573	237.1
+Q1357650	43067	http://www.wikidata.org/entity/Q1357650	Williams Tower	metre	http://www.wikidata.org/entity/Q11573	274.6
+Q14084282	42806	http://www.wikidata.org/entity/Q14084282	Joelma Building	metre	http://www.wikidata.org/entity/Q11573	94.0
+Q382121	42583	http://www.wikidata.org/entity/Q382121	Zifeng Tower	metre	http://www.wikidata.org/entity/Q11573	450.0
+Q1201344	42384	http://www.wikidata.org/entity/Q1201344	Osaka Prefectural Government Sakishima Building	metre	http://www.wikidata.org/entity/Q11573	256.0
+Q1470046	42317	http://www.wikidata.org/entity/Q1470046	Kingkey 100	metre	http://www.wikidata.org/entity/Q11573	442.0
+Q5961370	42170	http://www.wikidata.org/entity/Q5961370	Haeundae LCT The Sharp	metre	http://www.wikidata.org/entity/Q11573	411.0
+Q700058	42143	http://www.wikidata.org/entity/Q700058	Cheung Kong Center	metre	http://www.wikidata.org/entity/Q11573	283.0
+Q130478	41913	http://www.wikidata.org/entity/Q130478	The Center	metre	http://www.wikidata.org/entity/Q11573	346.0
+Q1155401	40913	http://www.wikidata.org/entity/Q1155401	Midland Square	metre	http://www.wikidata.org/entity/Q11573	247.0
+Q194347	40688	http://www.wikidata.org/entity/Q194347	15 Penn Plaza	metre	http://www.wikidata.org/entity/Q11573	370.6
+Q3533034	40678	http://www.wikidata.org/entity/Q3533034	CMA CGM Tower	metre	http://www.wikidata.org/entity/Q11573	147.0
+Q28224747	40476	http://www.wikidata.org/entity/Q28224747	Belgrade Tower	metre	http://www.wikidata.org/entity/Q11573	168.0
+Q24840610	40269	http://www.wikidata.org/entity/Q24840610	Taipei Nan Shan Plaza	metre	http://www.wikidata.org/entity/Q11573	272.0
+Q648338	40231	http://www.wikidata.org/entity/Q648338	Rose Tower	metre	http://www.wikidata.org/entity/Q11573	333.0
+Q2446907	40068	http://www.wikidata.org/entity/Q2446907	53W53	metre	http://www.wikidata.org/entity/Q11573	320.0
+Q1101096	39925	http://www.wikidata.org/entity/Q1101096	Sanno Park Tower	metre	http://www.wikidata.org/entity/Q11573	194.5
+Q1101096	39925	http://www.wikidata.org/entity/Q1101096	Sanno Park Tower	meter	http://www.wikidata.org/entity/Q3710	194.45020177759355
+Q2741526	39895	http://www.wikidata.org/entity/Q2741526	De Rotterdam	metre	http://www.wikidata.org/entity/Q11573	149.0
+Q701571	39848	http://www.wikidata.org/entity/Q701571	Park Inn by Radisson Berlin Alexanderplatz	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q598604	39598	http://www.wikidata.org/entity/Q598604	Terminal Tower	metre	http://www.wikidata.org/entity/Q11573	215.8
+Q6108856	39473	http://www.wikidata.org/entity/Q6108856	JR Central Towers	metre	http://www.wikidata.org/entity/Q11573	245.1
+Q1567534	39320	http://www.wikidata.org/entity/Q1567534	The Adelaide Hotel Toronto	metre	http://www.wikidata.org/entity/Q11573	277.0
+Q5270	39194	http://www.wikidata.org/entity/Q5270	Tour Part-Dieu	metre	http://www.wikidata.org/entity/Q11573	169.4
+Q209017	39186	http://www.wikidata.org/entity/Q209017	1 Wall Street	metre	http://www.wikidata.org/entity/Q11573	199.0
+Q1043438	39021	http://www.wikidata.org/entity/Q1043438	Guangzhou International Finance Center	metre	http://www.wikidata.org/entity/Q11573	440.0
+Q939044	38980	http://www.wikidata.org/entity/Q939044	Shell Centre	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q1501652	38783	http://www.wikidata.org/entity/Q1501652	General Motors Building	metre	http://www.wikidata.org/entity/Q11573	215.0
+Q4640138	38779	http://www.wikidata.org/entity/Q4640138	The Scalpel	metre	http://www.wikidata.org/entity/Q11573	190.0
+Q737602	38463	http://www.wikidata.org/entity/Q737602	Aspire Tower	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q1138648	38363	http://www.wikidata.org/entity/Q1138648	One Penn Plaza	metre	http://www.wikidata.org/entity/Q11573	229.0
+Q80495	37679	http://www.wikidata.org/entity/Q80495	Millennium Tower	metre	http://www.wikidata.org/entity/Q11573	202.0
+Q1150357	37641	http://www.wikidata.org/entity/Q1150357	Midtown Tower	metre	http://www.wikidata.org/entity/Q11573	248.1
+Q244114	37596	http://www.wikidata.org/entity/Q244114	55 Water Street	metre	http://www.wikidata.org/entity/Q11573	209.0
+Q224126	37197	http://www.wikidata.org/entity/Q224126	30 Park Place	metre	http://www.wikidata.org/entity/Q11573	286.0
+Q933431	37077	http://www.wikidata.org/entity/Q933431	Fisher Building	metre	http://www.wikidata.org/entity/Q11573	135.47
+Q1196348	37055	http://www.wikidata.org/entity/Q1196348	Smith Tower	metre	http://www.wikidata.org/entity/Q11573	159.0
+Q2493262	36995	http://www.wikidata.org/entity/Q2493262	Imperia Tower	metre	http://www.wikidata.org/entity/Q11573	239.0
+Q1542408	35868	http://www.wikidata.org/entity/Q1542408	Gran Torre Costanera	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q8647	35730	http://www.wikidata.org/entity/Q8647	Tour Incity	metre	http://www.wikidata.org/entity/Q11573	200.0
+Q42258	35677	http://www.wikidata.org/entity/Q42258	Mirante do Vale	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q167195	35511	http://www.wikidata.org/entity/Q167195	Post Tower	metre	http://www.wikidata.org/entity/Q11573	162.5
+Q2878337	35495	http://www.wikidata.org/entity/Q2878337	Mode Gakuen Spiral Towers	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q875078	34720	http://www.wikidata.org/entity/Q875078	731 Lexington Avenue	metre	http://www.wikidata.org/entity/Q11573	245.7
+Q1201889	34620	http://www.wikidata.org/entity/Q1201889	Tokyo Opera City Tower	metre	http://www.wikidata.org/entity/Q11573	234.371
+Q118214	34501	http://www.wikidata.org/entity/Q118214	Telekom Tower	metre	http://www.wikidata.org/entity/Q11573	310.0
+Q1343055	34438	http://www.wikidata.org/entity/Q1343055	Swissôtel The Stamford	metre	http://www.wikidata.org/entity/Q11573	226.0
+Q227873	34414	http://www.wikidata.org/entity/Q227873	375 Pearl Street	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q3995204	34249	http://www.wikidata.org/entity/Q3995204	Libeskind Tower	metre	http://www.wikidata.org/entity/Q11573	175.0
+Q104857472	33981	http://www.wikidata.org/entity/Q104857472	Tokiwabashi Tower	metre	http://www.wikidata.org/entity/Q11573	212.0
+Q172811	33893	http://www.wikidata.org/entity/Q172811	1221 Avenue of the Americas	metre	http://www.wikidata.org/entity/Q11573	205.0
+Q47539081	33761	http://www.wikidata.org/entity/Q47539081	Fubon Xinyi A25	metre	http://www.wikidata.org/entity/Q11573	266.0
+Q4547246	33677	http://www.wikidata.org/entity/Q4547246	1101 Brickell	metre	http://www.wikidata.org/entity/Q11573	265.0
+Q3121267	33655	http://www.wikidata.org/entity/Q3121267	Iberdrola Tower	metre	http://www.wikidata.org/entity/Q11573	165.0
+Q992616	33643	http://www.wikidata.org/entity/Q992616	Four Seasons Hotel New York	metre	http://www.wikidata.org/entity/Q11573	208.0
+Q616863	33584	http://www.wikidata.org/entity/Q616863	Palazzo Lombardia	metre	http://www.wikidata.org/entity/Q11573	161.3
+Q1063195	33337	http://www.wikidata.org/entity/Q1063195	Torre de Madrid	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q1810949	32889	http://www.wikidata.org/entity/Q1810949	NBC Tower	metre	http://www.wikidata.org/entity/Q11573	191.0
+Q3500463	32867	http://www.wikidata.org/entity/Q3500463	BOK Tower	metre	http://www.wikidata.org/entity/Q11573	203.3
+Q651643	32709	http://www.wikidata.org/entity/Q651643	Torre PwC	metre	http://www.wikidata.org/entity/Q11573	236.0
+Q1093913	32557	http://www.wikidata.org/entity/Q1093913	Moshe Aviv Tower	metre	http://www.wikidata.org/entity/Q11573	244.1
+Q26723784	32485	http://www.wikidata.org/entity/Q26723784	Majakka	metre	http://www.wikidata.org/entity/Q11573	134.0
+Q769503	31944	http://www.wikidata.org/entity/Q769503	Centrum LIM	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q198046	31791	http://www.wikidata.org/entity/Q198046	Eurotower	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q1134387	31745	http://www.wikidata.org/entity/Q1134387	Shin-Marunouchi Building	metre	http://www.wikidata.org/entity/Q11573	197.6
+Q1066662	31598	http://www.wikidata.org/entity/Q1066662	Park Row Building	metre	http://www.wikidata.org/entity/Q11573	119.0
+Q1582716	31577	http://www.wikidata.org/entity/Q1582716	Water Tower Place	metre	http://www.wikidata.org/entity/Q11573	262.0
+Q48752023	31422	http://www.wikidata.org/entity/Q48752023	Tokyo Midtown Hibiya	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q21015905	31396	http://www.wikidata.org/entity/Q21015905	Amazon Tower I	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q21015905	31396	http://www.wikidata.org/entity/Q21015905	Amazon Tower I	meter	http://www.wikidata.org/entity/Q3710	159.71519488911375
+Q7984220	31051	http://www.wikidata.org/entity/Q7984220	Via 57 West	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q216264	30982	http://www.wikidata.org/entity/Q216264	23 Marina	metre	http://www.wikidata.org/entity/Q11573	392.4
+Q3234973	30970	http://www.wikidata.org/entity/Q3234973	Hopewell Centre	metre	http://www.wikidata.org/entity/Q11573	222.0
+Q683345	30780	http://www.wikidata.org/entity/Q683345	Prime Tower	metre	http://www.wikidata.org/entity/Q11573	126.0
+Q806675	30418	http://www.wikidata.org/entity/Q806675	Bank of America Plaza	metre	http://www.wikidata.org/entity/Q11573	281.0
+Q19817557	30012	http://www.wikidata.org/entity/Q19817557	One Thousand Museum	meter	http://www.wikidata.org/entity/Q3710	213.35999317248024
+Q19817557	30012	http://www.wikidata.org/entity/Q19817557	One Thousand Museum	metre	http://www.wikidata.org/entity/Q11573	210.0
+Q2915137	29823	http://www.wikidata.org/entity/Q2915137	Shalom Meir Tower	metre	http://www.wikidata.org/entity/Q11573	127.4
+Q1983213	29542	http://www.wikidata.org/entity/Q1983213	Barclay-Vesey Building	metre	http://www.wikidata.org/entity/Q11573	116.0
+Q2943678	29378	http://www.wikidata.org/entity/Q2943678	Chase Tower	metre	http://www.wikidata.org/entity/Q11573	147.22
+Q173498	29294	http://www.wikidata.org/entity/Q173498	Exxon Building	metre	http://www.wikidata.org/entity/Q11573	229.0
+Q30943611	29292	http://www.wikidata.org/entity/Q30943611	Taichung Commercial Bank Headquarters	metre	http://www.wikidata.org/entity/Q11573	200.0
+Q10413351	29269	http://www.wikidata.org/entity/Q10413351	Doha Tower	metre	http://www.wikidata.org/entity/Q11573	238.0
+Q1808317	29017	http://www.wikidata.org/entity/Q1808317	The Marina Torch	metre	http://www.wikidata.org/entity/Q11573	352.0
+Q609140	28729	http://www.wikidata.org/entity/Q609140	AON Hanoi Landmark Tower	metre	http://www.wikidata.org/entity/Q11573	346.0
+Q607743	28466	http://www.wikidata.org/entity/Q607743	Aon Center	metre	http://www.wikidata.org/entity/Q11573	262.0
+Q2919969	28406	http://www.wikidata.org/entity/Q2919969	Torres de Colón	metre	http://www.wikidata.org/entity/Q11573	116.0
+Q492112	28301	http://www.wikidata.org/entity/Q492112	Andraus Building	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q5735208	28111	http://www.wikidata.org/entity/Q5735208	Parsian Esteghlal Hotel	metre	http://www.wikidata.org/entity/Q11573	57.3
+Q1229086	28047	http://www.wikidata.org/entity/Q1229086	The Bow	metre	http://www.wikidata.org/entity/Q11573	237.5
+Q1344856	27923	http://www.wikidata.org/entity/Q1344856	Place Ville Marie	meter	http://www.wikidata.org/entity/Q3710	188.0006339839797
+Q1344856	27923	http://www.wikidata.org/entity/Q1344856	Place Ville Marie	metre	http://www.wikidata.org/entity/Q11573	188.0
+Q2669877	27574	http://www.wikidata.org/entity/Q2669877	Highcliff	metre	http://www.wikidata.org/entity/Q11573	252.4
+Q615950	27224	http://www.wikidata.org/entity/Q615950	Central Market Project	metre	http://www.wikidata.org/entity/Q11573	381.0
+Q2275601	27176	http://www.wikidata.org/entity/Q2275601	30 Hudson Street	metre	http://www.wikidata.org/entity/Q11573	238.0
+Q3535524	27167	http://www.wikidata.org/entity/Q3535524	Les Mercuriales	metre	http://www.wikidata.org/entity/Q11573	122.0
+Q643536	27147	http://www.wikidata.org/entity/Q643536	BahnTower	metre	http://www.wikidata.org/entity/Q11573	103.0
+Q3277027	27131	http://www.wikidata.org/entity/Q3277027	Suzhou Zhongnan Center	metre	http://www.wikidata.org/entity/Q11573	499.0
+Q1096141	27064	http://www.wikidata.org/entity/Q1096141	Act Tower	metre	http://www.wikidata.org/entity/Q11573	212.77
+Q2974817	26850	http://www.wikidata.org/entity/Q2974817	Paris Tribunal	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q708060	26568	http://www.wikidata.org/entity/Q708060	Tower 185	metre	http://www.wikidata.org/entity/Q11573	200.0
+Q948178	26555	http://www.wikidata.org/entity/Q948178	Torre Ejecutiva Pemex	metre	http://www.wikidata.org/entity/Q11573	211.0
+Q236201	26482	http://www.wikidata.org/entity/Q236201	Shun Hing Square	metre	http://www.wikidata.org/entity/Q11573	384.0
+Q152129	26343	http://www.wikidata.org/entity/Q152129	Carew Tower	metre	http://www.wikidata.org/entity/Q11573	175.0
+Q374662	26316	http://www.wikidata.org/entity/Q374662	Pentominium	metre	http://www.wikidata.org/entity/Q11573	516.0
+Q170610	26239	http://www.wikidata.org/entity/Q170610	Edifício Itália	metre	http://www.wikidata.org/entity/Q11573	165.0
+Q3090112	26171	http://www.wikidata.org/entity/Q3090112	Tour Pleyel	metre	http://www.wikidata.org/entity/Q11573	143.0
+Q5270933	26126	http://www.wikidata.org/entity/Q5270933	Diamond Tower	metre	http://www.wikidata.org/entity/Q11573	432.0
+Q247887	25964	http://www.wikidata.org/entity/Q247887	60 Wall Street	metre	http://www.wikidata.org/entity/Q11573	227.0
+Q1049868	25960	http://www.wikidata.org/entity/Q1049868	Warsaw Trade Tower	metre	http://www.wikidata.org/entity/Q11573	208.0
+Q496218	25809	http://www.wikidata.org/entity/Q496218	Busan Lotte World Tower	metre	http://www.wikidata.org/entity/Q11573	380.0
+Q3495648	25653	http://www.wikidata.org/entity/Q3495648	AZ Tower	metre	http://www.wikidata.org/entity/Q11573	111.0
+Q867340	25622	http://www.wikidata.org/entity/Q867340	Harbour Centre	metre	http://www.wikidata.org/entity/Q11573	169.0
+Q1925855	25407	http://www.wikidata.org/entity/Q1925855	Metropolitan Life North Building	metre	http://www.wikidata.org/entity/Q11573	137.5
+Q1417597	25348	http://www.wikidata.org/entity/Q1417597	One Island East	metre	http://www.wikidata.org/entity/Q11573	298.4
+Q2414200	25254	http://www.wikidata.org/entity/Q2414200	The Sherry-Netherland	metre	http://www.wikidata.org/entity/Q11573	170.69
+Q7757213	25186	http://www.wikidata.org/entity/Q7757213	The Pinnacle@Duxton	metre	http://www.wikidata.org/entity/Q11573	156.0
+Q1184156	25014	http://www.wikidata.org/entity/Q1184156	Gebouw Delftse Poort	metre	http://www.wikidata.org/entity/Q11573	151.0
+Q30754048	25003	http://www.wikidata.org/entity/Q30754048	Ciel Tower	metre	http://www.wikidata.org/entity/Q11573	366.0
+Q1785026	24913	http://www.wikidata.org/entity/Q1785026	Living Shangri-La	metre	http://www.wikidata.org/entity/Q11573	201.0
+Q1374287	24838	http://www.wikidata.org/entity/Q1374287	Eurasia	metre	http://www.wikidata.org/entity/Q11573	308.9
+Q1801054	24772	http://www.wikidata.org/entity/Q1801054	Lake Point Tower	metre	http://www.wikidata.org/entity/Q11573	197.0
+Q1749785	24417	http://www.wikidata.org/entity/Q1749785	Southeast Financial Center	metre	http://www.wikidata.org/entity/Q11573	233.0
+Q15790479	24209	http://www.wikidata.org/entity/Q15790479	Burj Rafal	metre	http://www.wikidata.org/entity/Q11573	308.0
+Q247531	24033	http://www.wikidata.org/entity/Q247531	Silberturm	metre	http://www.wikidata.org/entity/Q11573	166.3
+Q28223286	23821	http://www.wikidata.org/entity/Q28223286	Britam Tower	metre	http://www.wikidata.org/entity/Q11573	200.1
+Q525790	23770	http://www.wikidata.org/entity/Q525790	Cadillac Place	metre	http://www.wikidata.org/entity/Q11573	67.1
+Q109370484	23765	http://www.wikidata.org/entity/Q109370484	Osaka Umeda Twin Towers South	metre	http://www.wikidata.org/entity/Q11573	188.9
+Q3089263	23752	http://www.wikidata.org/entity/Q3089263	Frost Bank Tower	metre	http://www.wikidata.org/entity/Q11573	157.2
+Q21092654	23487	http://www.wikidata.org/entity/Q21092654	Stantec Tower	metre	http://www.wikidata.org/entity/Q11573	250.8
+Q2779414	23467	http://www.wikidata.org/entity/Q2779414	Torre Insignia	metre	http://www.wikidata.org/entity/Q11573	127.0
+Q18111159	23417	http://www.wikidata.org/entity/Q18111159	China Resources Tower	metre	http://www.wikidata.org/entity/Q11573	392.5
+Q3303658	23390	http://www.wikidata.org/entity/Q3303658	330 West 42nd Street	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q762816	23384	http://www.wikidata.org/entity/Q762816	26 Broadway	metre	http://www.wikidata.org/entity/Q11573	158.5
+Q133599	23372	http://www.wikidata.org/entity/Q133599	500 Fifth Avenue	metre	http://www.wikidata.org/entity/Q11573	216.1
+Q5364903	23316	http://www.wikidata.org/entity/Q5364903	Shibuya Mark City	metre	http://www.wikidata.org/entity/Q11573	99.67
+Q1774820	23257	http://www.wikidata.org/entity/Q1774820	Parc1	metre	http://www.wikidata.org/entity/Q11573	333.0
+Q657979	23237	http://www.wikidata.org/entity/Q657979	Westendstrasse 1	metre	http://www.wikidata.org/entity/Q11573	208.0
+Q11543018	23130	http://www.wikidata.org/entity/Q11543018	Yokohama City Hall	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q138752	22988	http://www.wikidata.org/entity/Q138752	25 Bank Street	metre	http://www.wikidata.org/entity/Q11573	153.0
+Q1816400	22876	http://www.wikidata.org/entity/Q1816400	South Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q555142	22729	http://www.wikidata.org/entity/Q555142	Cologne Tower	metre	http://www.wikidata.org/entity/Q11573	148.5
+Q3511624	22613	http://www.wikidata.org/entity/Q3511624	Süzer Plaza	metre	http://www.wikidata.org/entity/Q11573	153.6
+Q3533127	22457	http://www.wikidata.org/entity/Q3533127	Tour Majunga	metre	http://www.wikidata.org/entity/Q11573	194.0
+Q707379	22342	http://www.wikidata.org/entity/Q707379	Hotel Kazakhstan	metre	http://www.wikidata.org/entity/Q11573	129.8
+Q85810295	22339	http://www.wikidata.org/entity/Q85810295	Tour To-Lyon	metre	http://www.wikidata.org/entity/Q11573	171.0
+Q28405790	22331	http://www.wikidata.org/entity/Q28405790	Sky Fort	metre	http://www.wikidata.org/entity/Q11573	202.0
+Q48842378	22268	http://www.wikidata.org/entity/Q48842378	Olivia Star	metre	http://www.wikidata.org/entity/Q11573	180.0
+Q2673535	22224	http://www.wikidata.org/entity/Q2673535	Rinku Gate Tower Building	metre	http://www.wikidata.org/entity/Q11573	256.0
+Q268559	22162	http://www.wikidata.org/entity/Q268559	77 West Wacker Drive	metre	http://www.wikidata.org/entity/Q11573	204.0
+Q15264124	22156	http://www.wikidata.org/entity/Q15264124	10 Hudson Yards	metre	http://www.wikidata.org/entity/Q11573	273.0
+Q790054	22038	http://www.wikidata.org/entity/Q790054	111 Westminster Street	metre	http://www.wikidata.org/entity/Q11573	130.0
+Q2070225	22025	http://www.wikidata.org/entity/Q2070225	Daily News Building	metre	http://www.wikidata.org/entity/Q11573	145.0
+Q1264855	22015	http://www.wikidata.org/entity/Q1264855	The Index	metre	http://www.wikidata.org/entity/Q11573	328.0
+Q13892708	21897	http://www.wikidata.org/entity/Q13892708	Capital Market Authority Headquarters	metre	http://www.wikidata.org/entity/Q11573	385.0
+Q1327514	21891	http://www.wikidata.org/entity/Q1327514	Scotia Plaza	metre	http://www.wikidata.org/entity/Q11573	275.0
+Q12104593	21868	http://www.wikidata.org/entity/Q12104593	Klovski Descent 7A	metre	http://www.wikidata.org/entity/Q11573	168.0
+Q1766475	21829	http://www.wikidata.org/entity/Q1766475	Richard J. Daley Center	metre	http://www.wikidata.org/entity/Q11573	197.5
+Q164877	21793	http://www.wikidata.org/entity/Q164877	1000 de La Gauchetière	metre	http://www.wikidata.org/entity/Q11573	205.0
+Q212831	21577	http://www.wikidata.org/entity/Q212831	20 Exchange Place	metre	http://www.wikidata.org/entity/Q11573	226.0
+Q2956104	21547	http://www.wikidata.org/entity/Q2956104	Chanin Building	metre	http://www.wikidata.org/entity/Q11573	198.0
+Q21011003	21458	http://www.wikidata.org/entity/Q21011003	150 North Riverside Chicago	metre	http://www.wikidata.org/entity/Q11573	226.0
+Q3286566	21317	http://www.wikidata.org/entity/Q3286566	1095 Avenue of the Americas	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q3778256	21247	http://www.wikidata.org/entity/Q3778256	Prudential (Guaranty) Building	metre	http://www.wikidata.org/entity/Q11573	51.0
+Q1608810	21059	http://www.wikidata.org/entity/Q1608810	Morgan Stanley Building	metre	http://www.wikidata.org/entity/Q11573	209.0
+Q2818460	21038	http://www.wikidata.org/entity/Q2818460	801 Grand	metre	http://www.wikidata.org/entity/Q11573	192.03
+Q1121971	21033	http://www.wikidata.org/entity/Q1121971	Two Prudential Plaza	metre	http://www.wikidata.org/entity/Q11573	303.3
+Q1138772	20953	http://www.wikidata.org/entity/Q1138772	Rialto Towers	metre	http://www.wikidata.org/entity/Q11573	251.0
+Q328507	20849	http://www.wikidata.org/entity/Q328507	Hochhaus Uptown München	metre	http://www.wikidata.org/entity/Q11573	146.0
+Q245246	20666	http://www.wikidata.org/entity/Q245246	CITIC Plaza	metre	http://www.wikidata.org/entity/Q11573	390.2
+Q5364168	20556	http://www.wikidata.org/entity/Q5364168	Akasaka Biz Tower	metre	http://www.wikidata.org/entity/Q11573	179.25
+Q373143	20551	http://www.wikidata.org/entity/Q373143	Édifice Price	metre	http://www.wikidata.org/entity/Q11573	82.0
+Q373143	20551	http://www.wikidata.org/entity/Q373143	Édifice Price	meter	http://www.wikidata.org/entity/Q3710	81.99119737628169
+Q844621	20477	http://www.wikidata.org/entity/Q844621	Chinese People's Liberation Army Forces Hong Kong Building	metre	http://www.wikidata.org/entity/Q11573	113.0
+Q11415297	20430	http://www.wikidata.org/entity/Q11415297	JR Gate Tower	metre	http://www.wikidata.org/entity/Q11573	211.1
+Q3538182	20367	http://www.wikidata.org/entity/Q3538182	388 Greenwich Street	metre	http://www.wikidata.org/entity/Q11573	151.0
+Q673794	20343	http://www.wikidata.org/entity/Q673794	Truist Center (Charlotte)	metre	http://www.wikidata.org/entity/Q11573	201.0
+Q454985	20307	http://www.wikidata.org/entity/Q454985	Treptowers	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q845182	20188	http://www.wikidata.org/entity/Q845182	Emirates Office Tower	metre	http://www.wikidata.org/entity/Q11573	355.0
+Q328512	20180	http://www.wikidata.org/entity/Q328512	Colonia-Haus	metre	http://www.wikidata.org/entity/Q11573	147.0
+Q219984	20030	http://www.wikidata.org/entity/Q219984	277 Park Avenue	metre	http://www.wikidata.org/entity/Q11573	209.0
+Q1262915	20029	http://www.wikidata.org/entity/Q1262915	Dubai Pearl	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q15264622	19840	http://www.wikidata.org/entity/Q15264622	35 Hudson Yards	metre	http://www.wikidata.org/entity/Q11573	308.0
+Q2593778	19725	http://www.wikidata.org/entity/Q2593778	55 Hudson Yards	metre	http://www.wikidata.org/entity/Q11573	238.0
+Q333305	19675	http://www.wikidata.org/entity/Q333305	One Raffles Place	metre	http://www.wikidata.org/entity/Q11573	280.0
+Q5579712	19578	http://www.wikidata.org/entity/Q5579712	Le Meridien Taichung	metre	http://www.wikidata.org/entity/Q11573	178.0
+Q643334	19575	http://www.wikidata.org/entity/Q643334	One Prudential Plaza	metre	http://www.wikidata.org/entity/Q11573	183.0
+Q17228699	19311	http://www.wikidata.org/entity/Q17228699	JP Tower Nagoya	metre	http://www.wikidata.org/entity/Q11573	195.74
+Q28791021	19132	http://www.wikidata.org/entity/Q28791021	SPX Tower	metre	http://www.wikidata.org/entity/Q11573	255.0
+Q781961	19114	http://www.wikidata.org/entity/Q781961	One Court Square	metre	http://www.wikidata.org/entity/Q11573	205.0
+Q138768	19081	http://www.wikidata.org/entity/Q138768	One Churchill Place	metre	http://www.wikidata.org/entity/Q11573	156.3
+Q1330847	19047	http://www.wikidata.org/entity/Q1330847	Elite Residence	metre	http://www.wikidata.org/entity/Q11573	381.0
+Q173454	19034	http://www.wikidata.org/entity/Q173454	1250 René-Lévesque	metre	http://www.wikidata.org/entity/Q11573	199.0
+Q1795892	19009	http://www.wikidata.org/entity/Q1795892	KölnTriangle	metre	http://www.wikidata.org/entity/Q11573	103.2
+Q2411231	18977	http://www.wikidata.org/entity/Q2411231	Fairmont Pacific Rim	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q21015906	18935	http://www.wikidata.org/entity/Q21015906	Day 1	metre	http://www.wikidata.org/entity/Q11573	159.0
+Q21015906	18935	http://www.wikidata.org/entity/Q21015906	Day 1	meter	http://www.wikidata.org/entity/Q3710	158.80079491837455
+Q735913	18927	http://www.wikidata.org/entity/Q735913	Tour Areva	metre	http://www.wikidata.org/entity/Q11573	178.0
+Q247799	18695	http://www.wikidata.org/entity/Q247799	Oxford Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q806676	18684	http://www.wikidata.org/entity/Q806676	Miami Tower	metre	http://www.wikidata.org/entity/Q11573	191.0
+Q3142395	18639	http://www.wikidata.org/entity/Q3142395	Hyatt Regency Paris Etoile	metre	http://www.wikidata.org/entity/Q11573	190.0
+Q704778	18629	http://www.wikidata.org/entity/Q704778	Shin Kong Life Tower	metre	http://www.wikidata.org/entity/Q11573	244.8
+Q57767	18603	http://www.wikidata.org/entity/Q57767	Wells Fargo Plaza	metre	http://www.wikidata.org/entity/Q11573	302.4
+Q1665800	18601	http://www.wikidata.org/entity/Q1665800	InterContinental Warsaw	metre	http://www.wikidata.org/entity/Q11573	164.0
+Q1580807	18592	http://www.wikidata.org/entity/Q1580807	Times Square Tower	metre	http://www.wikidata.org/entity/Q11573	221.0
+Q2564383	18409	http://www.wikidata.org/entity/Q2564383	90 West Street	metre	http://www.wikidata.org/entity/Q11573	99.0
+Q1983016	18400	http://www.wikidata.org/entity/Q1983016	The Masterpiece	metre	http://www.wikidata.org/entity/Q11573	257.0
+Q2349903	18299	http://www.wikidata.org/entity/Q2349903	Cœur Défense	metre	http://www.wikidata.org/entity/Q11573	161.0
+Q195166	18185	http://www.wikidata.org/entity/Q195166	Trianon	metre	http://www.wikidata.org/entity/Q11573	186.0
+Q11367941	18032	http://www.wikidata.org/entity/Q11367941	Marunouchi Park Building	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q15661493	17829	http://www.wikidata.org/entity/Q15661493	Q22	metre	http://www.wikidata.org/entity/Q11573	195.0
+Q685377	17677	http://www.wikidata.org/entity/Q685377	W. R. Grace Building	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q3995184	17609	http://www.wikidata.org/entity/Q3995184	Torre Eurosky	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q960951	17607	http://www.wikidata.org/entity/Q960951	Nauru House	metre	http://www.wikidata.org/entity/Q11573	190.0
+Q58208336	17601	http://www.wikidata.org/entity/Q58208336	Tour La Marseillaise	metre	http://www.wikidata.org/entity/Q11573	136.0
+Q59149414	17564	http://www.wikidata.org/entity/Q59149414	Neuer Henninger Turm	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q1495771	17556	http://www.wikidata.org/entity/Q1495771	Gate to the East	metre	http://www.wikidata.org/entity/Q11573	302.0
+Q381996	17537	http://www.wikidata.org/entity/Q381996	AfE-Turm	metre	http://www.wikidata.org/entity/Q11573	116.4
+Q5116657	17404	http://www.wikidata.org/entity/Q5116657	Church Office Building	meter	http://www.wikidata.org/entity/Q3710	128.01904390339058
+Q1300529	17369	http://www.wikidata.org/entity/Q1300529	Scandic Victoria Tower	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q300254	17333	http://www.wikidata.org/entity/Q300254	AXA Equitable Center	metre	http://www.wikidata.org/entity/Q11573	229.0
+Q760541	17279	http://www.wikidata.org/entity/Q760541	Dorint Hotel Tower	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q1440000	17234	http://www.wikidata.org/entity/Q1440000	Four Seasons Hotel Miami	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q224563	17231	http://www.wikidata.org/entity/Q224563	311 South Wacker Drive	metre	http://www.wikidata.org/entity/Q11573	292.9128
+Q2736562	17224	http://www.wikidata.org/entity/Q2736562	Saint Luke's Tower	metre	http://www.wikidata.org/entity/Q11573	220.63
+Q2143957	17222	http://www.wikidata.org/entity/Q2143957	Maastoren	metre	http://www.wikidata.org/entity/Q11573	164.8
+Q621675	17191	http://www.wikidata.org/entity/Q621675	Namaste Tower	metre	http://www.wikidata.org/entity/Q11573	310.0
+Q1515605	17153	http://www.wikidata.org/entity/Q1515605	Renaissance Tower	metre	http://www.wikidata.org/entity/Q11573	270.0
+Q15264301	17128	http://www.wikidata.org/entity/Q15264301	15 Hudson Yards	metre	http://www.wikidata.org/entity/Q11573	278.0
+Q2051730	17125	http://www.wikidata.org/entity/Q2051730	Paramount Plaza	metre	http://www.wikidata.org/entity/Q11573	204.2
+Q28053434	17097	http://www.wikidata.org/entity/Q28053434	Capital Towers	metre	http://www.wikidata.org/entity/Q11573	294.95
+Q1043966	17072	http://www.wikidata.org/entity/Q1043966	Carnegie Hall Tower	metre	http://www.wikidata.org/entity/Q11573	231.0
+Q21449366	17066	http://www.wikidata.org/entity/Q21449366	Cathay Landmark	metre	http://www.wikidata.org/entity/Q11573	212.0
+Q3049341	16972	http://www.wikidata.org/entity/Q3049341	RSA Battle House Tower	metre	http://www.wikidata.org/entity/Q11573	227.1
+Q3363532	16903	http://www.wikidata.org/entity/Q3363532	1501 Broadway	metre	http://www.wikidata.org/entity/Q11573	131.5
+Q1469829	16819	http://www.wikidata.org/entity/Q1469829	St George Wharf Tower	metre	http://www.wikidata.org/entity/Q11573	185.0
+Q3995174	16803	http://www.wikidata.org/entity/Q3995174	Torre Diamante	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q961346	16768	http://www.wikidata.org/entity/Q961346	CNA Center	metre	http://www.wikidata.org/entity/Q11573	183.0
+Q15789968	16705	http://www.wikidata.org/entity/Q15789968	Brookfield Place	metre	http://www.wikidata.org/entity/Q11573	247.0
+Q910485	16694	http://www.wikidata.org/entity/Q910485	Dubai City Tower	metre	http://www.wikidata.org/entity/Q11573	2400.0
+Q1422777	16602	http://www.wikidata.org/entity/Q1422777	Manhattan Life Insurance Building	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q5460511	16565	http://www.wikidata.org/entity/Q5460511	Sky Tower	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q3489939	16446	http://www.wikidata.org/entity/Q3489939	City Tower	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q105702331	16432	http://www.wikidata.org/entity/Q105702331	CapitaSpring	metre	http://www.wikidata.org/entity/Q11573	280.0
+Q60862279	16426	http://www.wikidata.org/entity/Q60862279	Warsaw Unit	metre	http://www.wikidata.org/entity/Q11573	220.0
+Q1339295	16403	http://www.wikidata.org/entity/Q1339295	Empire Building	metre	http://www.wikidata.org/entity/Q11573	89.0
+Q617082	16037	http://www.wikidata.org/entity/Q617082	Suzhou IFS	metre	http://www.wikidata.org/entity/Q11573	450.0
+Q6904482	16008	http://www.wikidata.org/entity/Q6904482	Montauk Building	metre	http://www.wikidata.org/entity/Q11573	40.0
+Q7014774	15850	http://www.wikidata.org/entity/Q7014774	New York Tribune Building	metre	http://www.wikidata.org/entity/Q11573	79.25
+Q986382	15784	http://www.wikidata.org/entity/Q986382	White Swan Hotel	meter	http://www.wikidata.org/entity/Q3710	99.998780800039
+Q7451857	15733	http://www.wikidata.org/entity/Q7451857	Sepehr Tower	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q3487098	15700	http://www.wikidata.org/entity/Q3487098	U.S. Bank Center	metre	http://www.wikidata.org/entity/Q11573	183.19
+Q2361620	15688	http://www.wikidata.org/entity/Q2361620	Rembrandt Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q774178	15636	http://www.wikidata.org/entity/Q774178	Aura	metre	http://www.wikidata.org/entity/Q11573	272.0
+Q2484373	15624	http://www.wikidata.org/entity/Q2484373	Wuhan Center	metre	http://www.wikidata.org/entity/Q11573	438.0
+Q1093955	15487	http://www.wikidata.org/entity/Q1093955	City Investing Building	metre	http://www.wikidata.org/entity/Q11573	148.29
+Q1702873	15486	http://www.wikidata.org/entity/Q1702873	Tour de la Bourse	metre	http://www.wikidata.org/entity/Q11573	190.0
+Q1345944	15444	http://www.wikidata.org/entity/Q1345944	Europa Tower	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q806742	15332	http://www.wikidata.org/entity/Q806742	14 Wall Street	metre	http://www.wikidata.org/entity/Q11573	164.0
+Q19833930	15240	http://www.wikidata.org/entity/Q19833930	One Manhattan Square	metre	http://www.wikidata.org/entity/Q11573	213.0
+Q922589	15124	http://www.wikidata.org/entity/Q922589	Broadgate Tower	metre	http://www.wikidata.org/entity/Q11573	161.3
+Q885917	15115	http://www.wikidata.org/entity/Q885917	Błękitny Wieżowiec	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q2130764	15061	http://www.wikidata.org/entity/Q2130764	Random House Tower	metre	http://www.wikidata.org/entity/Q11573	208.0
+Q971317	15008	http://www.wikidata.org/entity/Q971317	Great American Tower at Queen City Square	metre	http://www.wikidata.org/entity/Q11573	202.69
+Q278518	14968	http://www.wikidata.org/entity/Q278518	Tour T1	metre	http://www.wikidata.org/entity/Q11573	185.0
+Q1326540	14952	http://www.wikidata.org/entity/Q1326540	Marine Building	metre	http://www.wikidata.org/entity/Q11573	97.8
+Q3281025	14929	http://www.wikidata.org/entity/Q3281025	APA Hotel & Resort Tokyo Bay Makuhari	metre	http://www.wikidata.org/entity/Q11573	180.0
+Q55642324	14872	http://www.wikidata.org/entity/Q55642324	The Pinnacle (Nairobi)	metre	http://www.wikidata.org/entity/Q11573	320.0
+Q686644	14685	http://www.wikidata.org/entity/Q686644	OpernTurm	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q593320	14649	http://www.wikidata.org/entity/Q593320	Four Seasons Hotel and Residences	metre	http://www.wikidata.org/entity/Q11573	205.0
+Q2877453	14646	http://www.wikidata.org/entity/Q2877453	Sail Tower	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q1892072	14595	http://www.wikidata.org/entity/Q1892072	Maple Leaf Square	metre	http://www.wikidata.org/entity/Q11573	184.0
+Q21150764	14534	http://www.wikidata.org/entity/Q21150764	V Tower	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q2289692	14522	http://www.wikidata.org/entity/Q2289692	245 Park Avenue	metre	http://www.wikidata.org/entity/Q11573	198.0
+Q3142331	14366	http://www.wikidata.org/entity/Q3142331	Tour Défense 2000	metre	http://www.wikidata.org/entity/Q11573	134.0
+Q64854670	14350	http://www.wikidata.org/entity/Q64854670	Skyline Tower (New York City)	metre	http://www.wikidata.org/entity/Q11573	237.1
+Q18589922	14194	http://www.wikidata.org/entity/Q18589922	Chengdu Greenland Tower	metre	http://www.wikidata.org/entity/Q11573	468.0
+Q22118338	14155	http://www.wikidata.org/entity/Q22118338	Kabukiza Tower	metre	http://www.wikidata.org/entity/Q11573	145.5
+Q5704885	14152	http://www.wikidata.org/entity/Q5704885	Eskan Towers (Tehran)	metre	http://www.wikidata.org/entity/Q11573	90.0
+Q739446	14036	http://www.wikidata.org/entity/Q739446	Intraco I	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q830533	13952	http://www.wikidata.org/entity/Q830533	TaunusTurm	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q1925883	13914	http://www.wikidata.org/entity/Q1925883	Metropolitan Tower	metre	http://www.wikidata.org/entity/Q11573	218.0
+Q2913609	13849	http://www.wikidata.org/entity/Q2913609	Nagoya Lucent Tower	metre	http://www.wikidata.org/entity/Q11573	180.2
+Q15106137	13815	http://www.wikidata.org/entity/Q15106137	Sky	metre	http://www.wikidata.org/entity/Q11573	206.0
+Q67934747	13806	http://www.wikidata.org/entity/Q67934747	HongWell i-Tower	metre	http://www.wikidata.org/entity/Q11573	180.6
+Q1207442	13757	http://www.wikidata.org/entity/Q1207442	Dubai Towers Doha	metre	http://www.wikidata.org/entity/Q11573	437.0
+Q1385414	13754	http://www.wikidata.org/entity/Q1385414	U.S. Bancorp Tower	metre	http://www.wikidata.org/entity/Q11573	163.4
+Q8530	13725	http://www.wikidata.org/entity/Q8530	Tour Oxygène	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q1368798	13675	http://www.wikidata.org/entity/Q1368798	SEG Plaza	metre	http://www.wikidata.org/entity/Q11573	291.6
+Q15917518	13643	http://www.wikidata.org/entity/Q15917518	Newfoundland Quay	metre	http://www.wikidata.org/entity/Q11573	219.8
+Q1109699	13541	http://www.wikidata.org/entity/Q1109699	Collini-Center	metre	http://www.wikidata.org/entity/Q11573	95.0
+Q16733944	13430	http://www.wikidata.org/entity/Q16733944	NITEL Building	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q1706824	13355	http://www.wikidata.org/entity/Q1706824	SunTrust Plaza	metre	http://www.wikidata.org/entity/Q11573	265.0
+Q806669	13339	http://www.wikidata.org/entity/Q806669	Bank of America Center	metre	http://www.wikidata.org/entity/Q11573	238.0
+Q85877619	13327	http://www.wikidata.org/entity/Q85877619	Peace Palace	metre	http://www.wikidata.org/entity/Q11573	144.0
+Q24036175	13227	http://www.wikidata.org/entity/Q24036175	Nile City Towers	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q3533638	13060	http://www.wikidata.org/entity/Q3533638	Finance Tower	metre	http://www.wikidata.org/entity/Q11573	145.0
+Q538076	13041	http://www.wikidata.org/entity/Q538076	Liberty Tower	metre	http://www.wikidata.org/entity/Q11573	117.4
+Q7092695	12918	http://www.wikidata.org/entity/Q7092695	Seneca One Tower	metre	http://www.wikidata.org/entity/Q11573	161.24
+Q604001	12816	http://www.wikidata.org/entity/Q604001	Gazprom Headquarters	metre	http://www.wikidata.org/entity/Q11573	150.9
+Q5410187	12743	http://www.wikidata.org/entity/Q5410187	Changsha IFS	metre	http://www.wikidata.org/entity/Q11573	452.1
+Q1136181	12720	http://www.wikidata.org/entity/Q1136181	Cosmopolitan Twarda 2/4	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q1808295	12701	http://www.wikidata.org/entity/Q1808295	Al Yaqoub Tower	metre	http://www.wikidata.org/entity/Q11573	330.1
+Q4852943	12693	http://www.wikidata.org/entity/Q4852943	Baltimore World Trade Center	meter	http://www.wikidata.org/entity/Q3710	123.44399604979212
+Q827638	12519	http://www.wikidata.org/entity/Q827638	Bertelsmann Building	metre	http://www.wikidata.org/entity/Q11573	223.0
+Q7712376	12366	http://www.wikidata.org/entity/Q7712376	Address Boulevard	metre	http://www.wikidata.org/entity/Q11573	368.0
+Q2301069	12296	http://www.wikidata.org/entity/Q2301069	1201 Third Avenue	meter	http://www.wikidata.org/entity/Q3710	235.30559247022103
+Q19288416	12294	http://www.wikidata.org/entity/Q19288416	Banco Industrial Guatemala	metre	http://www.wikidata.org/entity/Q11573	74.0
+Q2041005	12290	http://www.wikidata.org/entity/Q2041005	Tour Carpe Diem	metre	http://www.wikidata.org/entity/Q11573	166.0
+Q229605	12246	http://www.wikidata.org/entity/Q229605	3 Hudson Boulevard	metre	http://www.wikidata.org/entity/Q11573	301.0
+Q21015895	12229	http://www.wikidata.org/entity/Q21015895	4/C	metre	http://www.wikidata.org/entity/Q11573	338.0
+Q2946170	12201	http://www.wikidata.org/entity/Q2946170	Centro de Comercio Internacional	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q24192513	12144	http://www.wikidata.org/entity/Q24192513	452 Fifth Avenue	metre	http://www.wikidata.org/entity/Q11573	121.9
+Q4346073	12140	http://www.wikidata.org/entity/Q4346073	Q4346073	metre	http://www.wikidata.org/entity/Q11573	134.0
+Q5035571	12135	http://www.wikidata.org/entity/Q5035571	Capital Fort	metre	http://www.wikidata.org/entity/Q11573	126.0
+Q217827	12067	http://www.wikidata.org/entity/Q217827	250 East 57th Street	metre	http://www.wikidata.org/entity/Q11573	218.0
+Q2424258	12032	http://www.wikidata.org/entity/Q2424258	Gas Company Tower	metre	http://www.wikidata.org/entity/Q11573	228.3
+Q449607	11940	http://www.wikidata.org/entity/Q449607	Gallileo	metre	http://www.wikidata.org/entity/Q11573	136.0
+Q17640073	11931	http://www.wikidata.org/entity/Q17640073	Tour Trinity	metre	http://www.wikidata.org/entity/Q11573	167.0
+Q5139763	11930	http://www.wikidata.org/entity/Q5139763	Cocoa House	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q1537698	11840	http://www.wikidata.org/entity/Q1537698	One Shell Plaza	metre	http://www.wikidata.org/entity/Q11573	218.0
+Q176278	11828	http://www.wikidata.org/entity/Q176278	Montevideo	metre	http://www.wikidata.org/entity/Q11573	152.3
+Q198238	11793	http://www.wikidata.org/entity/Q198238	1717 Broadway	metre	http://www.wikidata.org/entity/Q11573	229.7
+Q20109768	11775	http://www.wikidata.org/entity/Q20109768	Saman Twin Towers	metre	http://www.wikidata.org/entity/Q11573	72.0
+Q2384310	11764	http://www.wikidata.org/entity/Q2384310	TIFF Bell Lightbox	metre	http://www.wikidata.org/entity/Q11573	156.7
+Q18380158	11736	http://www.wikidata.org/entity/Q18380158	Tour Saint-Gobain	metre	http://www.wikidata.org/entity/Q11573	177.95
+Q2928236	11674	http://www.wikidata.org/entity/Q2928236	Bunkyo Civic Center	metre	http://www.wikidata.org/entity/Q11573	141.7
+Q672984	11662	http://www.wikidata.org/entity/Q672984	80 South Street	metre	http://www.wikidata.org/entity/Q11573	438.0
+Q21609086	11659	http://www.wikidata.org/entity/Q21609086	Dubai One Tower	metre	http://www.wikidata.org/entity/Q11573	711.0
+Q7092848	11609	http://www.wikidata.org/entity/Q7092848	One Madison	meter	http://www.wikidata.org/entity/Q3710	189.2807939430146
+Q52386264	11534	http://www.wikidata.org/entity/Q52386264	Sapporo Sosei Square	metre	http://www.wikidata.org/entity/Q11573	154.0
+Q1320312	11531	http://www.wikidata.org/entity/Q1320312	Samsung Tower Palace 3 – Tower G	metre	http://www.wikidata.org/entity/Q11573	263.7
+Q1816401	11513	http://www.wikidata.org/entity/Q1816401	140 Broadway	metre	http://www.wikidata.org/entity/Q11573	209.7
+Q896364	11488	http://www.wikidata.org/entity/Q896364	Hypo-Haus	metre	http://www.wikidata.org/entity/Q11573	113.7
+Q2023952	11488	http://www.wikidata.org/entity/Q2023952	One Bayfront Plaza	metre	http://www.wikidata.org/entity/Q11573	320.0
+Q3090076	11468	http://www.wikidata.org/entity/Q3090076	Tour Ariane	metre	http://www.wikidata.org/entity/Q11573	152.0
+Q120546	11450	http://www.wikidata.org/entity/Q120546	Empire Tower	metre	http://www.wikidata.org/entity/Q11573	227.0
+Q806671	11410	http://www.wikidata.org/entity/Q806671	Bank of America Center	metre	http://www.wikidata.org/entity/Q11573	224.0
+Q266965	11394	http://www.wikidata.org/entity/Q266965	Japan Center	metre	http://www.wikidata.org/entity/Q11573	115.3
+Q7139977	11299	http://www.wikidata.org/entity/Q7139977	Parsian Azadi Hotel	metre	http://www.wikidata.org/entity/Q11573	90.02
+Q107552561	11275	http://www.wikidata.org/entity/Q107552561	Faro Tower	metre	http://www.wikidata.org/entity/Q11573	145.0
+Q1666430	11251	http://www.wikidata.org/entity/Q1666430	International Commerce Center 1	metre	http://www.wikidata.org/entity/Q11573	458.0
+Q587331	11226	http://www.wikidata.org/entity/Q587331	Atlas Tower	metre	http://www.wikidata.org/entity/Q11573	116.0
+Q2376935	11148	http://www.wikidata.org/entity/Q2376935	Tour Sequana	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q2421828	11144	http://www.wikidata.org/entity/Q2421828	Torre Europa	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q2614510	11110	http://www.wikidata.org/entity/Q2614510	Capital Tower	metre	http://www.wikidata.org/entity/Q11573	255.0
+Q28868	11090	http://www.wikidata.org/entity/Q28868	One Shell Square	metre	http://www.wikidata.org/entity/Q11573	212.45
+Q2219285	11082	http://www.wikidata.org/entity/Q2219285	Matitone	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q3995301	11048	http://www.wikidata.org/entity/Q3995301	Telecom Italia Tower	metre	http://www.wikidata.org/entity/Q11573	129.0
+Q14226100	11004	http://www.wikidata.org/entity/Q14226100	Two International Finance Centre	metre	http://www.wikidata.org/entity/Q11573	412.0
+Q3090555	10904	http://www.wikidata.org/entity/Q3090555	Tour EDF	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q17627890	10890	http://www.wikidata.org/entity/Q17627890	Entisar Tower	metre	http://www.wikidata.org/entity/Q11573	570.0
+Q882664	10878	http://www.wikidata.org/entity/Q882664	Westhafen Tower	metre	http://www.wikidata.org/entity/Q11573	112.3
+Q4822225	10840	http://www.wikidata.org/entity/Q4822225	Hilton Izmir	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q172402	10779	http://www.wikidata.org/entity/Q172402	120 Collins Street	metre	http://www.wikidata.org/entity/Q11573	265.0
+Q14681501	10753	http://www.wikidata.org/entity/Q14681501	140 New Montgomery	meter	http://www.wikidata.org/entity/Q3710	140.2110435132466
+Q16841056	10689	http://www.wikidata.org/entity/Q16841056	Hanza Tower	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q4855941	10652	http://www.wikidata.org/entity/Q4855941	Bank Markazi Tower (Davudiyeh)	metre	http://www.wikidata.org/entity/Q11573	71.62
+Q4546164	10616	http://www.wikidata.org/entity/Q4546164	100 North Main Street	metre	http://www.wikidata.org/entity/Q11573	140.21
+Q6914041	10531	http://www.wikidata.org/entity/Q6914041	Morrison Hotel	metre	http://www.wikidata.org/entity/Q11573	160.33
+Q245308	10382	http://www.wikidata.org/entity/Q245308	599 Lexington Avenue	metre	http://www.wikidata.org/entity/Q11573	199.0
+Q2377122	10360	http://www.wikidata.org/entity/Q2377122	Rogier Tower	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q697076	10334	http://www.wikidata.org/entity/Q697076	Chang-Gu World Trade Center	metre	http://www.wikidata.org/entity/Q11573	222.0
+Q134124	10310	http://www.wikidata.org/entity/Q134124	Ocean Heights	metre	http://www.wikidata.org/entity/Q11573	310.0
+Q3533359	10309	http://www.wikidata.org/entity/Q3533359	Tour de Lille	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q23907605	10306	http://www.wikidata.org/entity/Q23907605	Socony-Mobil Building	metre	http://www.wikidata.org/entity/Q11573	174.3
+Q686587	10297	http://www.wikidata.org/entity/Q686587	WestendGate	metre	http://www.wikidata.org/entity/Q11573	159.3
+Q666483	10277	http://www.wikidata.org/entity/Q666483	Tour Granite	metre	http://www.wikidata.org/entity/Q11573	184.0
+Q5163927	10251	http://www.wikidata.org/entity/Q5163927	Constellation Place	metre	http://www.wikidata.org/entity/Q11573	149.5
+Q30752740	10201	http://www.wikidata.org/entity/Q30752740	Mistral Office Tower	metre	http://www.wikidata.org/entity/Q11573	216.0
+Q1517863	10197	http://www.wikidata.org/entity/Q1517863	One Grand Central Place	metre	http://www.wikidata.org/entity/Q11573	205.1
+Q16255317	10148	http://www.wikidata.org/entity/Q16255317	Telus Sky	metre	http://www.wikidata.org/entity/Q11573	222.3
+Q2459733	10141	http://www.wikidata.org/entity/Q2459733	Tun Mustapha Tower	metre	http://www.wikidata.org/entity/Q11573	122.0
+Q1383405	10107	http://www.wikidata.org/entity/Q1383405	Transamerica Tower	metre	http://www.wikidata.org/entity/Q11573	161.24
+Q6541959	10093	http://www.wikidata.org/entity/Q6541959	Zunda Towers	metre	http://www.wikidata.org/entity/Q11573	123.0
+Q20645725	10079	http://www.wikidata.org/entity/Q20645725	HaShahar Tower	metre	http://www.wikidata.org/entity/Q11573	195.0
+Q910101	10004	http://www.wikidata.org/entity/Q910101	CitySpire	metre	http://www.wikidata.org/entity/Q11573	248.1
+Q138760	9996	http://www.wikidata.org/entity/Q138760	10 Upper Bank Street	metre	http://www.wikidata.org/entity/Q11573	151.0
+Q3490018	9908	http://www.wikidata.org/entity/Q3490018	City Empiria	metre	http://www.wikidata.org/entity/Q11573	103.7
+Q3297809	9840	http://www.wikidata.org/entity/Q3297809	The Austonian	metre	http://www.wikidata.org/entity/Q11573	208.15
+Q135672	9757	http://www.wikidata.org/entity/Q135672	Essen City Hall	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q1623326	9725	http://www.wikidata.org/entity/Q1623326	Hoftoren	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q1735111	9682	http://www.wikidata.org/entity/Q1735111	The Landmark	metre	http://www.wikidata.org/entity/Q11573	324.0
+Q2916305	9662	http://www.wikidata.org/entity/Q2916305	Castellana 81	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q5638300	9541	http://www.wikidata.org/entity/Q5638300	Haeundae I Park	metre	http://www.wikidata.org/entity/Q11573	292.0
+Q1810424	9513	http://www.wikidata.org/entity/Q1810424	Park Tower	metre	http://www.wikidata.org/entity/Q11573	257.0
+Q16680551	9507	http://www.wikidata.org/entity/Q16680551	Tour Alto	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q302517	9369	http://www.wikidata.org/entity/Q302517	Nabemba Tower	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q16099606	9292	http://www.wikidata.org/entity/Q16099606	FKI Tower	metre	http://www.wikidata.org/entity/Q11573	245.5
+Q7598177	9275	http://www.wikidata.org/entity/Q7598177	Standard Bank Centre	metre	http://www.wikidata.org/entity/Q11573	139.0
+Q20501898	9248	http://www.wikidata.org/entity/Q20501898	Bein Arim Tower	metre	http://www.wikidata.org/entity/Q11573	400.0
+Q18125763	9237	http://www.wikidata.org/entity/Q18125763	Huaguoyuan Tower 1	metre	http://www.wikidata.org/entity/Q11573	335.0
+Q15933302	9160	http://www.wikidata.org/entity/Q15933302	Taiwan Power Company Headquarters	metre	http://www.wikidata.org/entity/Q11573	114.54
+Q699317	9159	http://www.wikidata.org/entity/Q699317	Arraya Tower	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q5754149	9138	http://www.wikidata.org/entity/Q5754149	Higashiyama Sky Tower	metre	http://www.wikidata.org/entity/Q11573	214.0
+Q7661149	9130	http://www.wikidata.org/entity/Q7661149	Takamatsu Symbol Tower	metre	http://www.wikidata.org/entity/Q11573	151.3
+Q1208733	9107	http://www.wikidata.org/entity/Q1208733	Diamond of Istanbul	metre	http://www.wikidata.org/entity/Q11573	311.0
+Q2040985	9098	http://www.wikidata.org/entity/Q2040985	Tour D2	metre	http://www.wikidata.org/entity/Q11573	171.0
+Q4384864	9025	http://www.wikidata.org/entity/Q4384864	Times Tower	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q28410912	8992	http://www.wikidata.org/entity/Q28410912	The Landmark	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q3090121	8979	http://www.wikidata.org/entity/Q3090121	Tour France	metre	http://www.wikidata.org/entity/Q11573	126.0
+Q4836768	8955	http://www.wikidata.org/entity/Q4836768	BT Tower	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q60854801	8929	http://www.wikidata.org/entity/Q60854801	Mennica Legacy Tower	metre	http://www.wikidata.org/entity/Q11573	141.0
+Q683915	8870	http://www.wikidata.org/entity/Q683915	One Wall Centre	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q7988406	8867	http://www.wikidata.org/entity/Q7988406	Western Union Telegraph Building	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q11524180	8842	http://www.wikidata.org/entity/Q11524180	Tokyo Skytree East Tower	metre	http://www.wikidata.org/entity/Q11573	158.0
+Q10914092	8760	http://www.wikidata.org/entity/Q10914092	Taipei World Trade Centre International Trade Building	metre	http://www.wikidata.org/entity/Q11573	142.92
+Q880667	8742	http://www.wikidata.org/entity/Q880667	Friedrich-Engelhorn-Hochhaus	metre	http://www.wikidata.org/entity/Q11573	101.63
+Q2406016	8642	http://www.wikidata.org/entity/Q2406016	West Tower, Liverpool	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q3533185	8626	http://www.wikidata.org/entity/Q3533185	Tour Silex 2	metre	http://www.wikidata.org/entity/Q11573	129.0
+Q3533107	8563	http://www.wikidata.org/entity/Q3533107	Tour La Villette	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q19817559	8511	http://www.wikidata.org/entity/Q19817559	Pacific Star Building	metre	http://www.wikidata.org/entity/Q11573	112.5
+Q7801872	8486	http://www.wikidata.org/entity/Q7801872	Tikal Futura	metre	http://www.wikidata.org/entity/Q11573	75.0
+Q2412928	8477	http://www.wikidata.org/entity/Q2412928	Tour Sequoia	metre	http://www.wikidata.org/entity/Q11573	119.0
+Q1777464	8469	http://www.wikidata.org/entity/Q1777464	Metro Hall	metre	http://www.wikidata.org/entity/Q11573	128.0
+Q172408	8461	http://www.wikidata.org/entity/Q172408	120 Wall Street	metre	http://www.wikidata.org/entity/Q11573	121.6
+Q15464762	8427	http://www.wikidata.org/entity/Q15464762	Busan International Finance Center	metre	http://www.wikidata.org/entity/Q11573	289.0
+Q12811774	8380	http://www.wikidata.org/entity/Q12811774	Seljuk Tower	metre	http://www.wikidata.org/entity/Q11573	163.4
+Q165506	8376	http://www.wikidata.org/entity/Q165506	101 Collins Street	metre	http://www.wikidata.org/entity/Q11573	260.0
+Q1470076	8365	http://www.wikidata.org/entity/Q1470076	HHHR Tower	metre	http://www.wikidata.org/entity/Q11573	317.0
+Q22118627	8360	http://www.wikidata.org/entity/Q22118627	Global Gate	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q24081301	8360	http://www.wikidata.org/entity/Q24081301	Corinthia Hotel Prague	metre	http://www.wikidata.org/entity/Q11573	83.0
+Q1510199	8357	http://www.wikidata.org/entity/Q1510199	Heritage Plaza	metre	http://www.wikidata.org/entity/Q11573	232.0
+Q3512622	8346	http://www.wikidata.org/entity/Q3512622	Pennzoil Place	metre	http://www.wikidata.org/entity/Q11573	159.4
+Q1346703	8326	http://www.wikidata.org/entity/Q1346703	Epcor Tower	metre	http://www.wikidata.org/entity/Q11573	149.35
+Q24036143	8302	http://www.wikidata.org/entity/Q24036143	Far Eastern Mega Tower	metre	http://www.wikidata.org/entity/Q11573	207.4
+Q19817574	8203	http://www.wikidata.org/entity/Q19817574	451 E. Grand	metre	http://www.wikidata.org/entity/Q11573	257.0
+Q1922608	8175	http://www.wikidata.org/entity/Q1922608	One America Plaza	metre	http://www.wikidata.org/entity/Q11573	152.4
+Q11323905	8139	http://www.wikidata.org/entity/Q11323905	NADYA PARK	metre	http://www.wikidata.org/entity/Q11573	108.0
+Q1161278	8124	http://www.wikidata.org/entity/Q1161278	Shimao International Plaza	metre	http://www.wikidata.org/entity/Q11573	333.3
+Q11631626	8034	http://www.wikidata.org/entity/Q11631626	Yomiuri Shimbun Building	metre	http://www.wikidata.org/entity/Q11573	200.0
+Q95158872	8029	http://www.wikidata.org/entity/Q95158872	The Pacifica	metre	http://www.wikidata.org/entity/Q11573	178.7
+Q6546023	7994	http://www.wikidata.org/entity/Q6546023	Lighthouse	metre	http://www.wikidata.org/entity/Q11573	128.0
+Q5013234	7978	http://www.wikidata.org/entity/Q5013234	CN Tower	metre	http://www.wikidata.org/entity/Q11573	110.92
+Q882505	7960	http://www.wikidata.org/entity/Q882505	Die Pyramide	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q47321192	7916	http://www.wikidata.org/entity/Q47321192	50 West 66th Street	meter	http://www.wikidata.org/entity/Q3710	236.21999244096023
+Q1738921	7903	http://www.wikidata.org/entity/Q1738921	Marienturm	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q3304618	7891	http://www.wikidata.org/entity/Q3304618	Meiji University Liberty Tower	metre	http://www.wikidata.org/entity/Q11573	119.47
+Q11338492	7810	http://www.wikidata.org/entity/Q11338492	Boissonade Tower	metre	http://www.wikidata.org/entity/Q11573	122.43
+Q5560103	7798	http://www.wikidata.org/entity/Q5560103	Gifu City Tower 43	metre	http://www.wikidata.org/entity/Q11573	162.82
+Q223788	7762	http://www.wikidata.org/entity/Q223788	300 North LaSalle	metre	http://www.wikidata.org/entity/Q11573	239.0
+Q3090101	7740	http://www.wikidata.org/entity/Q3090101	Tour Initiale	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q5513479	7648	http://www.wikidata.org/entity/Q5513479	GIFT Diamond Tower	metre	http://www.wikidata.org/entity/Q11573	410.0
+Q195138	7645	http://www.wikidata.org/entity/Q195138	City-Haus	metre	http://www.wikidata.org/entity/Q11573	142.1
+Q2317800	7638	http://www.wikidata.org/entity/Q2317800	Antwerp Tower	metre	http://www.wikidata.org/entity/Q11573	87.0
+Q18465383	7606	http://www.wikidata.org/entity/Q18465383	Infinity Coast Tower	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q1181509	7593	http://www.wikidata.org/entity/Q1181509	Atrium Tower	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q1551686	7574	http://www.wikidata.org/entity/Q1551686	Tower 49	metre	http://www.wikidata.org/entity/Q11573	187.0
+Q575128	7572	http://www.wikidata.org/entity/Q575128	Emirates Crown	metre	http://www.wikidata.org/entity/Q11573	296.0
+Q2617194	7547	http://www.wikidata.org/entity/Q2617194	Babka Tower	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q1076144	7542	http://www.wikidata.org/entity/Q1076144	Chongqing World Financial Center	metre	http://www.wikidata.org/entity/Q11573	338.9
+Q28362967	7537	http://www.wikidata.org/entity/Q28362967	Hotel Estelar Bocagrande	metre	http://www.wikidata.org/entity/Q11573	202.0
+Q134137	7535	http://www.wikidata.org/entity/Q134137	DAMAC Heights	metre	http://www.wikidata.org/entity/Q11573	335.0
+Q1109555	7478	http://www.wikidata.org/entity/Q1109555	San José City Hall	metre	http://www.wikidata.org/entity/Q11573	86.9
+Q186406	7455	http://www.wikidata.org/entity/Q186406	Tianjin World Financial Center	metre	http://www.wikidata.org/entity/Q11573	337.0
+Q555113	7402	http://www.wikidata.org/entity/Q555113	Frankfurter Büro Center	metre	http://www.wikidata.org/entity/Q11573	142.4
+Q102317008	7399	http://www.wikidata.org/entity/Q102317008	Eurovea Tower	metre	http://www.wikidata.org/entity/Q11573	168.0
+Q3402410	7372	http://www.wikidata.org/entity/Q3402410	Uni-President International Tower	metre	http://www.wikidata.org/entity/Q11573	154.0
+Q54492	7366	http://www.wikidata.org/entity/Q54492	Deutsche Bank Place	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q467043	7332	http://www.wikidata.org/entity/Q467043	American Surety Building	metre	http://www.wikidata.org/entity/Q11573	103.02
+Q4855276	7332	http://www.wikidata.org/entity/Q4855276	Bangladesh Bank Building	metre	http://www.wikidata.org/entity/Q11573	137.1
+Q7727300	7313	http://www.wikidata.org/entity/Q7727300	The Concourse	metre	http://www.wikidata.org/entity/Q11573	175.0
+Q11088705	7270	http://www.wikidata.org/entity/Q11088705	StarWorld Hotel	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q467467	7246	http://www.wikidata.org/entity/Q467467	Americas Tower	metre	http://www.wikidata.org/entity/Q11573	211.0
+Q97213699	7243	http://www.wikidata.org/entity/Q97213699	BellTel Lofts	meter	http://www.wikidata.org/entity/Q3710	106.0703966057473
+Q296392	7226	http://www.wikidata.org/entity/Q296392	Arag-Tower	metre	http://www.wikidata.org/entity/Q11573	124.9
+Q18128054	7206	http://www.wikidata.org/entity/Q18128054	Millennium Palace	metre	http://www.wikidata.org/entity/Q11573	177.3
+Q14498348	7170	http://www.wikidata.org/entity/Q14498348	Sheraton Huzhou Hot Spring Resort	metre	http://www.wikidata.org/entity/Q11573	102.0
+Q5453420	7138	http://www.wikidata.org/entity/Q5453420	First National Center	meter	http://www.wikidata.org/entity/Q3710	135.94079564989454
+Q3533093	7125	http://www.wikidata.org/entity/Q3533093	Tour Franklin	metre	http://www.wikidata.org/entity/Q11573	116.0
+Q3648568	7108	http://www.wikidata.org/entity/Q3648568	Westpoint Tower	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q3533077	7058	http://www.wikidata.org/entity/Q3533077	Tour Eqho	metre	http://www.wikidata.org/entity/Q11573	131.0
+Q3533014	7044	http://www.wikidata.org/entity/Q3533014	Tour Adria	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q3533119	7041	http://www.wikidata.org/entity/Q3533119	Tour Les Poissons	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q241648	7034	http://www.wikidata.org/entity/Q241648	Victoria Towers	metre	http://www.wikidata.org/entity/Q11573	213.0
+Q5562012	6979	http://www.wikidata.org/entity/Q5562012	Gillender Building	metre	http://www.wikidata.org/entity/Q11573	83.0
+Q1353503	6970	http://www.wikidata.org/entity/Q1353503	Sparkasse Hagen office tower	metre	http://www.wikidata.org/entity/Q11573	98.0
+Q446265	6964	http://www.wikidata.org/entity/Q446265	Altus Skyscraper	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q1885896	6914	http://www.wikidata.org/entity/Q1885896	Maison Radio-Canada	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q2671422	6871	http://www.wikidata.org/entity/Q2671422	Chamran Grand Hotel	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q14551925	6830	http://www.wikidata.org/entity/Q14551925	Hannibal	metre	http://www.wikidata.org/entity/Q11573	69.8
+Q24837128	6806	http://www.wikidata.org/entity/Q24837128	Walsin Lihwa Building	metre	http://www.wikidata.org/entity/Q11573	134.0
+Q3044181	6788	http://www.wikidata.org/entity/Q3044181	Hesperia Tower	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q328491	6772	http://www.wikidata.org/entity/Q328491	Bayer-Hochhaus	metre	http://www.wikidata.org/entity/Q11573	122.0
+Q5189543	6764	http://www.wikidata.org/entity/Q5189543	Crowne Plaza Times Square	meter	http://www.wikidata.org/entity/Q3710	146.3070433181746
+Q598603	6756	http://www.wikidata.org/entity/Q598603	Sinar Mas Center	metre	http://www.wikidata.org/entity/Q11573	320.0
+Q11306560	6748	http://www.wikidata.org/entity/Q11306560	The Scene Johoku	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q11304620	6735	http://www.wikidata.org/entity/Q11304620	Southern Sky Tower Hachioji	metre	http://www.wikidata.org/entity/Q11573	157.5
+Q3499774	6713	http://www.wikidata.org/entity/Q3499774	17 State Street	metre	http://www.wikidata.org/entity/Q11573	165.0
+Q1140508	6683	http://www.wikidata.org/entity/Q1140508	Waldorf Astoria Chicago	metre	http://www.wikidata.org/entity/Q11573	209.0
+Q1820001	6620	http://www.wikidata.org/entity/Q1820001	Beijing Television Cultural Center	metre	http://www.wikidata.org/entity/Q11573	159.0
+Q2670504	6590	http://www.wikidata.org/entity/Q2670504	Q2670504	metre	http://www.wikidata.org/entity/Q11573	103.9
+Q20899643	6576	http://www.wikidata.org/entity/Q20899643	UAP Tower	metre	http://www.wikidata.org/entity/Q11573	163.0
+Q19458189	6560	http://www.wikidata.org/entity/Q19458189	Dongguan International Trade Center 1	metre	http://www.wikidata.org/entity/Q11573	426.9
+Q3533192	6529	http://www.wikidata.org/entity/Q3533192	Tour Super-Italie	metre	http://www.wikidata.org/entity/Q11573	112.0
+Q2816516	6487	http://www.wikidata.org/entity/Q2816516	3 Park Avenue	meter	http://www.wikidata.org/entity/Q3710	169.46879457699856
+Q1339307	6474	http://www.wikidata.org/entity/Q1339307	Empire Landmark Hotel	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q5210921	6471	http://www.wikidata.org/entity/Q5210921	Dalian Greenland Center	metre	http://www.wikidata.org/entity/Q11573	518.0
+Q15855239	6433	http://www.wikidata.org/entity/Q15855239	Xiamen International Centre	metre	http://www.wikidata.org/entity/Q11573	340.0
+Q1400070	6415	http://www.wikidata.org/entity/Q1400070	Federal Reserve Bank Building	metre	http://www.wikidata.org/entity/Q11573	187.0
+Q1292228	6352	http://www.wikidata.org/entity/Q1292228	Spektrum	metre	http://www.wikidata.org/entity/Q11573	128.0
+Q2636175	6351	http://www.wikidata.org/entity/Q2636175	Madou Plaza Tower	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q38242325	6193	http://www.wikidata.org/entity/Q38242325	National Trade Center	metre	http://www.wikidata.org/entity/Q11573	165.65
+Q1845802	6126	http://www.wikidata.org/entity/Q1845802	Arteveldetoren	metre	http://www.wikidata.org/entity/Q11573	118.5
+Q2195212	6101	http://www.wikidata.org/entity/Q2195212	Raffles City Shanghai	metre	http://www.wikidata.org/entity/Q11573	222.0
+Q114238074	6044	http://www.wikidata.org/entity/Q114238074	Omiya Kadomachi	metre	http://www.wikidata.org/entity/Q11573	89.61
+Q20666670	5971	http://www.wikidata.org/entity/Q20666670	Champion Motors Tower	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q15914584	5958	http://www.wikidata.org/entity/Q15914584	Shangri-La's Far Eastern Plaza Hotel Tainan	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q1224878	5929	http://www.wikidata.org/entity/Q1224878	RBC Centre	metre	http://www.wikidata.org/entity/Q11573	208.0
+Q24836810	5908	http://www.wikidata.org/entity/Q24836810	Chicony Electronics Headquarters	metre	http://www.wikidata.org/entity/Q11573	181.0
+Q53088	5822	http://www.wikidata.org/entity/Q53088	Torre AXA México	metre	http://www.wikidata.org/entity/Q11573	132.0
+Q53088	5822	http://www.wikidata.org/entity/Q53088	Torre AXA México	meter	http://www.wikidata.org/entity/Q3710	131.97839577669134
+Q4642077	5801	http://www.wikidata.org/entity/Q4642077	650 California Street	meter	http://www.wikidata.org/entity/Q3710	142.03679545482254
+Q1346081	5772	http://www.wikidata.org/entity/Q1346081	Tour de la Banque Royale	metre	http://www.wikidata.org/entity/Q11573	121.0
+Q5818062	5771	http://www.wikidata.org/entity/Q5818062	Comega Building	metre	http://www.wikidata.org/entity/Q11573	88.0
+Q5016487	5765	http://www.wikidata.org/entity/Q5016487	Cadillac Tower	metre	http://www.wikidata.org/entity/Q11573	176.2
+Q17032785	5762	http://www.wikidata.org/entity/Q17032785	Lih-Rong An Imperial Crown Building	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q18347369	5761	http://www.wikidata.org/entity/Q18347369	Nanning China Resources Tower	metre	http://www.wikidata.org/entity/Q11573	402.7
+Q1435741	5756	http://www.wikidata.org/entity/Q1435741	Sky Tower	metre	http://www.wikidata.org/entity/Q11573	292.0
+Q30591083	5732	http://www.wikidata.org/entity/Q30591083	Presidential Towers	meter	http://www.wikidata.org/entity/Q3710	140.51279550359055
+Q25389789	5691	http://www.wikidata.org/entity/Q25389789	Mirae Unha Tower	metre	http://www.wikidata.org/entity/Q11573	210.0
+Q2948552	5655	http://www.wikidata.org/entity/Q2948552	St. Paul Building	metre	http://www.wikidata.org/entity/Q11573	96.0
+Q1128296	5632	http://www.wikidata.org/entity/Q1128296	Doha Convention Center Tower	metre	http://www.wikidata.org/entity/Q11573	570.0
+Q25425156	5604	http://www.wikidata.org/entity/Q25425156	Negar Tower (Tehran)	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q21659128	5603	http://www.wikidata.org/entity/Q21659128	Jing An Kerry Centre	metre	http://www.wikidata.org/entity/Q11573	133.0
+Q1710345	5592	http://www.wikidata.org/entity/Q1710345	50 West Street	metre	http://www.wikidata.org/entity/Q11573	239.0
+Q3285980	5591	http://www.wikidata.org/entity/Q3285980	Manitoba Hydro Place	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q6825278	5584	http://www.wikidata.org/entity/Q6825278	Metropolitan Tower	metre	http://www.wikidata.org/entity/Q11573	144.78
+Q12256124	5579	http://www.wikidata.org/entity/Q12256124	Deji Plaza Phase 2	metre	http://www.wikidata.org/entity/Q11573	324.0
+Q16899335	5565	http://www.wikidata.org/entity/Q16899335	Ritz-Carlton Club and Residences	metre	http://www.wikidata.org/entity/Q11573	95.0
+Q170442	5555	http://www.wikidata.org/entity/Q170442	111 South Wacker Drive	metre	http://www.wikidata.org/entity/Q11573	207.6
+Q470245	5553	http://www.wikidata.org/entity/Q470245	Ames Building	metre	http://www.wikidata.org/entity/Q11573	57.3
+Q21490736	5539	http://www.wikidata.org/entity/Q21490736	Rezidence Eliška	metre	http://www.wikidata.org/entity/Q11573	93.6
+Q20111281	5538	http://www.wikidata.org/entity/Q20111281	Third Millennium Tower	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q5123364	5508	http://www.wikidata.org/entity/Q5123364	City Place I	metre	http://www.wikidata.org/entity/Q11573	163.63
+Q176723	5495	http://www.wikidata.org/entity/Q176723	Büro Center Nibelungenplatz	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q200780	5488	http://www.wikidata.org/entity/Q200780	181 West Madison Street	metre	http://www.wikidata.org/entity/Q11573	207.3
+Q3533084	5469	http://www.wikidata.org/entity/Q3533084	Tour Europlaza	metre	http://www.wikidata.org/entity/Q11573	135.0
+Q4121126	5464	http://www.wikidata.org/entity/Q4121126	Torre El Pedregal	metre	http://www.wikidata.org/entity/Q11573	110.3
+Q1636790	5437	http://www.wikidata.org/entity/Q1636790	One Boston Place	metre	http://www.wikidata.org/entity/Q11573	183.0
+Q3756931	5433	http://www.wikidata.org/entity/Q3756931	10 East 40th Street	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q9286270	5432	http://www.wikidata.org/entity/Q9286270	Haperowiec Skyscraper	metre	http://www.wikidata.org/entity/Q11573	80.0
+Q512913	5396	http://www.wikidata.org/entity/Q512913	Trust Bank Building	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q954129	5388	http://www.wikidata.org/entity/Q954129	Wells Fargo Center	metre	http://www.wikidata.org/entity/Q11573	128.7
+Q194871	5382	http://www.wikidata.org/entity/Q194871	IBC Tower	metre	http://www.wikidata.org/entity/Q11573	112.0
+Q25998014	5361	http://www.wikidata.org/entity/Q25998014	Pontsteiger building	metre	http://www.wikidata.org/entity/Q11573	82.0
+Q1069161	5353	http://www.wikidata.org/entity/Q1069161	Chelsea Tower	metre	http://www.wikidata.org/entity/Q11573	250.0
+Q18348250	5332	http://www.wikidata.org/entity/Q18348250	Hanking Center	metre	http://www.wikidata.org/entity/Q11573	358.9
+Q1812350	5306	http://www.wikidata.org/entity/Q1812350	Legacy Tower	metre	http://www.wikidata.org/entity/Q11573	250.0
+Q85882694	5304	http://www.wikidata.org/entity/Q85882694	55 Timeless	metre	http://www.wikidata.org/entity/Q11573	127.0
+Q60851364	5299	http://www.wikidata.org/entity/Q60851364	Casablanca Finance City Tower	metre	http://www.wikidata.org/entity/Q11573	136.0
+Q139815	5290	http://www.wikidata.org/entity/Q139815	Grand International Mansion	metre	http://www.wikidata.org/entity/Q11573	350.3
+Q24836806	5255	http://www.wikidata.org/entity/Q24836806	Hua Nan Bank World Trade Building	metre	http://www.wikidata.org/entity/Q11573	154.5
+Q780392	5203	http://www.wikidata.org/entity/Q780392	L Tower	metre	http://www.wikidata.org/entity/Q11573	205.0
+Q1621858	5180	http://www.wikidata.org/entity/Q1621858	Hochhaus Neue Donau	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q1383518	5167	http://www.wikidata.org/entity/Q1383518	Exchange Tower	metre	http://www.wikidata.org/entity/Q11573	146.0
+Q2016004	5166	http://www.wikidata.org/entity/Q2016004	Tour Aurore	metre	http://www.wikidata.org/entity/Q11573	131.0
+Q1050882	5148	http://www.wikidata.org/entity/Q1050882	Cathedral Plaza Bucharest	metre	http://www.wikidata.org/entity/Q11573	75.0
+Q879987	5058	http://www.wikidata.org/entity/Q879987	Eurotheum	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q1419501	5054	http://www.wikidata.org/entity/Q1419501	100 Federal Street	metre	http://www.wikidata.org/entity/Q11573	180.14
+Q3117510	5051	http://www.wikidata.org/entity/Q3117510	Mather Tower	metre	http://www.wikidata.org/entity/Q11573	158.8
+Q15811586	5033	http://www.wikidata.org/entity/Q15811586	Shenzhen Center	metre	http://www.wikidata.org/entity/Q11573	376.0
+Q16823864	5025	http://www.wikidata.org/entity/Q16823864	300 George Street, Brisbane	metre	http://www.wikidata.org/entity/Q11573	264.0
+Q11621188	5016	http://www.wikidata.org/entity/Q11621188	Aoi Tower	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q3090088	4928	http://www.wikidata.org/entity/Q3090088	Tour Égée	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q4654550	4897	http://www.wikidata.org/entity/Q4654550	AT&T Switching Center	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q17347241	4875	http://www.wikidata.org/entity/Q17347241	Tour UP-site - UP-sitetoren	metre	http://www.wikidata.org/entity/Q11573	142.03
+Q18415349	4865	http://www.wikidata.org/entity/Q18415349	Shum Yip Upperhills Tower 1	metre	http://www.wikidata.org/entity/Q11573	388.1
+Q28737666	4832	http://www.wikidata.org/entity/Q28737666	Hybrid Tower Mestre	metre	http://www.wikidata.org/entity/Q11573	81.38
+Q2278240	4826	http://www.wikidata.org/entity/Q2278240	Sheraton Centre Toronto Hotel	metre	http://www.wikidata.org/entity/Q11573	135.0
+Q2778012	4812	http://www.wikidata.org/entity/Q2778012	HaYovel Tower	metre	http://www.wikidata.org/entity/Q11573	158.0
+Q926767	4795	http://www.wikidata.org/entity/Q926767	Tomorrow Square	metre	http://www.wikidata.org/entity/Q11573	204.6
+Q7826994	4784	http://www.wikidata.org/entity/Q7826994	Torre del Café	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q2788570	4766	http://www.wikidata.org/entity/Q2788570	North Galaxy Towers	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q109594998	4763	http://www.wikidata.org/entity/Q109594998	Tokyo World Gate	metre	http://www.wikidata.org/entity/Q11573	180.0
+Q7696767	4760	http://www.wikidata.org/entity/Q7696767	Teleposta Towers	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q1415203	4737	http://www.wikidata.org/entity/Q1415203	The Langham	metre	http://www.wikidata.org/entity/Q11573	193.0
+Q640094	4735	http://www.wikidata.org/entity/Q640094	Tour CBX	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q24836698	4724	http://www.wikidata.org/entity/Q24836698	Neo Sky Dome	metre	http://www.wikidata.org/entity/Q11573	188.0
+Q1143174	4665	http://www.wikidata.org/entity/Q1143174	Ritz-Carlton Toronto	metre	http://www.wikidata.org/entity/Q11573	209.8
+Q1641386	4663	http://www.wikidata.org/entity/Q1641386	Sulafa Tower	metre	http://www.wikidata.org/entity/Q11573	285.0
+Q951553	4662	http://www.wikidata.org/entity/Q951553	HOTO Tower	metre	http://www.wikidata.org/entity/Q11573	64.5
+Q1344723	4645	http://www.wikidata.org/entity/Q1344723	Enterprise Plaza	metre	http://www.wikidata.org/entity/Q11573	230.0
+Q1682432	4613	http://www.wikidata.org/entity/Q1682432	Manulife Centre	metre	http://www.wikidata.org/entity/Q11573	166.0
+Q16014223	4611	http://www.wikidata.org/entity/Q16014223	Sosan Hotel	metre	http://www.wikidata.org/entity/Q11573	103.0
+Q4704024	4595	http://www.wikidata.org/entity/Q4704024	Al Hekma Tower	metre	http://www.wikidata.org/entity/Q11573	282.0
+Q7120580	4587	http://www.wikidata.org/entity/Q7120580	mTower	metre	http://www.wikidata.org/entity/Q11573	183.0
+Q21600725	4555	http://www.wikidata.org/entity/Q21600725	Point Bornova	metre	http://www.wikidata.org/entity/Q11573	193.0
+Q24836619	4551	http://www.wikidata.org/entity/Q24836619	Ruentex Nangang Station Complex	metre	http://www.wikidata.org/entity/Q11573	138.3
+Q1787863	4548	http://www.wikidata.org/entity/Q1787863	Olympia Centre	metre	http://www.wikidata.org/entity/Q11573	221.0
+Q1139123	4541	http://www.wikidata.org/entity/Q1139123	Dalian Eton Center	metre	http://www.wikidata.org/entity/Q11573	383.2
+Q110407965	4533	http://www.wikidata.org/entity/Q110407965	Tours Odyssey	metre	http://www.wikidata.org/entity/Q11573	187.0
+Q117319808	4524	http://www.wikidata.org/entity/Q117319808	Category:Seed Cube Changdong	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q623517	4494	http://www.wikidata.org/entity/Q623517	Millennium Tower	metre	http://www.wikidata.org/entity/Q11573	285.0
+Q531752	4463	http://www.wikidata.org/entity/Q531752	CenterPoint Energy Plaza	metre	http://www.wikidata.org/entity/Q11573	226.0
+Q905079	4455	http://www.wikidata.org/entity/Q905079	Chongnyon Hotel	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q1710367	4404	http://www.wikidata.org/entity/Q1710367	610 Lexington Avenue	metre	http://www.wikidata.org/entity/Q11573	217.0
+Q1128788	4403	http://www.wikidata.org/entity/Q1128788	1600 Smith Street	metre	http://www.wikidata.org/entity/Q11573	223.0
+Q2044934	4380	http://www.wikidata.org/entity/Q2044934	PZU Tower in Warsaw	metre	http://www.wikidata.org/entity/Q11573	97.0
+Q17986468	4338	http://www.wikidata.org/entity/Q17986468	Four Seasons Hotel & Private Residences, One Dalton Street	meter	http://www.wikidata.org/entity/Q3710	226.16159276282903
+Q3567194	4316	http://www.wikidata.org/entity/Q3567194	Wells Fargo Tower	metre	http://www.wikidata.org/entity/Q11573	138.38
+Q5309993	4280	http://www.wikidata.org/entity/Q5309993	DuMont Building	metre	http://www.wikidata.org/entity/Q11573	162.0
+Q10887962	4272	http://www.wikidata.org/entity/Q10887962	Hsin Ji Building	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q3572455	4267	http://www.wikidata.org/entity/Q3572455	Yokkaichi Port Building	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q5805111	4255	http://www.wikidata.org/entity/Q5805111	Diamond Tower	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q22119493	4240	http://www.wikidata.org/entity/Q22119493	TNC TV Building	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q1383020	4188	http://www.wikidata.org/entity/Q1383020	125 High Street	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q3756298	4113	http://www.wikidata.org/entity/Q3756298	China Online Centre	metre	http://www.wikidata.org/entity/Q11573	215.0
+Q870916	4090	http://www.wikidata.org/entity/Q870916	SV-Hochhaus	metre	http://www.wikidata.org/entity/Q11573	99.95
+Q8017288	4083	http://www.wikidata.org/entity/Q8017288	William R. Snodgrass Tennessee Tower	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q1639792	4060	http://www.wikidata.org/entity/Q1639792	Hyatt Center	metre	http://www.wikidata.org/entity/Q11573	207.0
+Q2936910	4042	http://www.wikidata.org/entity/Q2936910	201 Portage	metre	http://www.wikidata.org/entity/Q11573	128.0
+Q2902481	4012	http://www.wikidata.org/entity/Q2902481	Neve Tzedek Tower	metre	http://www.wikidata.org/entity/Q11573	147.0
+Q471340	4007	http://www.wikidata.org/entity/Q471340	Messe Torhaus	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q61989411	4001	http://www.wikidata.org/entity/Q61989411	Category:Widok Towers	metre	http://www.wikidata.org/entity/Q11573	95.0
+Q85885033	3997	http://www.wikidata.org/entity/Q85885033	Oman TiT	metre	http://www.wikidata.org/entity/Q11573	130.0
+Q471336	3986	http://www.wikidata.org/entity/Q471336	Garden Tower	metre	http://www.wikidata.org/entity/Q11573	127.0
+Q6353197	3966	http://www.wikidata.org/entity/Q6353197	Han-Lai New World Center	metre	http://www.wikidata.org/entity/Q11573	186.0
+Q48928809	3941	http://www.wikidata.org/entity/Q48928809	Farglory 95rich	metre	http://www.wikidata.org/entity/Q11573	184.4
+Q1633806	3902	http://www.wikidata.org/entity/Q1633806	Hudson's Bay Centre	metre	http://www.wikidata.org/entity/Q11573	135.0
+Q1426419	3869	http://www.wikidata.org/entity/Q1426419	The Met	metre	http://www.wikidata.org/entity/Q11573	228.0
+Q64352933	3865	http://www.wikidata.org/entity/Q64352933	Q64352933	metre	http://www.wikidata.org/entity/Q11573	88.0
+Q1614219	3832	http://www.wikidata.org/entity/Q1614219	Vision Tower	metre	http://www.wikidata.org/entity/Q11573	260.0
+Q5035858	3831	http://www.wikidata.org/entity/Q5035858	Capitol Center	metre	http://www.wikidata.org/entity/Q11573	106.4
+Q3431400	3800	http://www.wikidata.org/entity/Q3431400	Richardson Building	meter	http://www.wikidata.org/entity/Q3710	124.05969203008983
+Q20713758	3797	http://www.wikidata.org/entity/Q20713758	One The Elephant	metre	http://www.wikidata.org/entity/Q11573	124.0
+Q6836671	3741	http://www.wikidata.org/entity/Q6836671	Michelangelo Towers	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q2673004	3725	http://www.wikidata.org/entity/Q2673004	Dalian International Trade Center	metre	http://www.wikidata.org/entity/Q11573	370.2
+Q118640237	3709	http://www.wikidata.org/entity/Q118640237	Hiroshima JP Building	metre	http://www.wikidata.org/entity/Q11573	88.4
+Q5677890	3689	http://www.wikidata.org/entity/Q5677890	Harwood Center	metre	http://www.wikidata.org/entity/Q11573	147.2
+Q4120778	3687	http://www.wikidata.org/entity/Q4120778	Club Premier	metre	http://www.wikidata.org/entity/Q11573	102.0
+Q2882647	3631	http://www.wikidata.org/entity/Q2882647	Bank of Mauritius Tower	metre	http://www.wikidata.org/entity/Q11573	124.0
+Q21016092	3620	http://www.wikidata.org/entity/Q21016092	Park Tower at Transbay	metre	http://www.wikidata.org/entity/Q11573	184.0
+Q604289	3603	http://www.wikidata.org/entity/Q604289	Longxi International Hotel	metre	http://www.wikidata.org/entity/Q11573	328.0
+Q7030865	3597	http://www.wikidata.org/entity/Q7030865	Chapter Spitalfields	metre	http://www.wikidata.org/entity/Q11573	111.9
+Q4999689	3586	http://www.wikidata.org/entity/Q4999689	Burnett Plaza	metre	http://www.wikidata.org/entity/Q11573	172.9
+Q60763905	3583	http://www.wikidata.org/entity/Q60763905	151 North Franklin	metre	http://www.wikidata.org/entity/Q11573	173.0
+Q27975185	3571	http://www.wikidata.org/entity/Q27975185	Loews Hotel Tower	metre	http://www.wikidata.org/entity/Q11573	166.0
+Q22964788	3568	http://www.wikidata.org/entity/Q22964788	Rothschild 22 Tower	metre	http://www.wikidata.org/entity/Q11573	126.9
+Q7093005	3567	http://www.wikidata.org/entity/Q7093005	One Nashville Place	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q98596418	3558	http://www.wikidata.org/entity/Q98596418	Home Life Building	meter	http://www.wikidata.org/entity/Q3710	78.02879750307848
+Q153625	3539	http://www.wikidata.org/entity/Q153625	Simpson Tower	metre	http://www.wikidata.org/entity/Q11573	144.0
+Q5087204	3523	http://www.wikidata.org/entity/Q5087204	Chase Tower	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q83736716	3506	http://www.wikidata.org/entity/Q83736716	DC Tower 3	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q1965818	3493	http://www.wikidata.org/entity/Q1965818	Astro Tower	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q63434805	3492	http://www.wikidata.org/entity/Q63434805	Aziz Court Imperial	metre	http://www.wikidata.org/entity/Q11573	112.0
+Q63434805	3492	http://www.wikidata.org/entity/Q63434805	Aziz Court Imperial	meter	http://www.wikidata.org/entity/Q3710	111.86159642042892
+Q15031905	3491	http://www.wikidata.org/entity/Q15031905	15 William	metre	http://www.wikidata.org/entity/Q11573	161.0
+Q6559721	3445	http://www.wikidata.org/entity/Q6559721	Amot Atrium Tower	metre	http://www.wikidata.org/entity/Q11573	158.0
+Q28003830	3443	http://www.wikidata.org/entity/Q28003830	138 East 50th Street	metre	http://www.wikidata.org/entity/Q11573	245.0
+Q4653107	3426	http://www.wikidata.org/entity/Q4653107	ANZ Centre	metre	http://www.wikidata.org/entity/Q11573	151.0
+Q11327366	3393	http://www.wikidata.org/entity/Q11327366	Harmony Square	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q11878340	3391	http://www.wikidata.org/entity/Q11878340	Elm Place	metre	http://www.wikidata.org/entity/Q11573	191.4
+Q430218	3368	http://www.wikidata.org/entity/Q430218	Shanghai Wheelock Square	metre	http://www.wikidata.org/entity/Q11573	298.0
+Q30766281	3368	http://www.wikidata.org/entity/Q30766281	Xi An Glory International Financial Center	metre	http://www.wikidata.org/entity/Q11573	350.0
+Q234368	3356	http://www.wikidata.org/entity/Q234368	MiMA	metre	http://www.wikidata.org/entity/Q11573	204.0
+Q27988500	3331	http://www.wikidata.org/entity/Q27988500	Ghoghnoos Tower	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q5945254	3330	http://www.wikidata.org/entity/Q5945254	Huntington Bank Building	metre	http://www.wikidata.org/entity/Q11573	88.09
+Q1543292	3304	http://www.wikidata.org/entity/Q1543292	Granville Square	metre	http://www.wikidata.org/entity/Q11573	142.0
+Q3365418	3304	http://www.wikidata.org/entity/Q3365418	1450 Brickell	metre	http://www.wikidata.org/entity/Q11573	164.6
+Q20949067	3301	http://www.wikidata.org/entity/Q20949067	Belmont Building	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q4403620	3288	http://www.wikidata.org/entity/Q4403620	Three International Finance Center	metre	http://www.wikidata.org/entity/Q11573	284.0
+Q6395479	3263	http://www.wikidata.org/entity/Q6395479	Kettering Tower	metre	http://www.wikidata.org/entity/Q11573	123.55
+Q807955	3245	http://www.wikidata.org/entity/Q807955	Barclay Tower	metre	http://www.wikidata.org/entity/Q11573	205.0
+Q4640570	3231	http://www.wikidata.org/entity/Q4640570	555 17th Street	meter	http://www.wikidata.org/entity/Q3710	154.53359505492497
+Q6960571	3229	http://www.wikidata.org/entity/Q6960571	Nakheel Tower, Riyadh	metre	http://www.wikidata.org/entity/Q11573	200.0
+Q3486922	3226	http://www.wikidata.org/entity/Q3486922	Pacific Gas & Electric Building	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q10323861	3216	http://www.wikidata.org/entity/Q10323861	Mansão Margarida Costa Pinto	metre	http://www.wikidata.org/entity/Q11573	154.45
+Q7826946	3212	http://www.wikidata.org/entity/Q7826946	Torre Banc de Sabadell	metre	http://www.wikidata.org/entity/Q11573	83.0
+Q103964953	3211	http://www.wikidata.org/entity/Q103964953	Q103964953	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q1605680	3189	http://www.wikidata.org/entity/Q1605680	Ningbo Center	metre	http://www.wikidata.org/entity/Q11573	409.0
+Q16836601	3157	http://www.wikidata.org/entity/Q16836601	Babillon Tower	metre	http://www.wikidata.org/entity/Q11573	170.0
+Q7215732	3119	http://www.wikidata.org/entity/Q7215732	Eshkol Tower	metre	http://www.wikidata.org/entity/Q11573	102.0
+Q713832	3109	http://www.wikidata.org/entity/Q713832	Wenzhou World Trade Center	metre	http://www.wikidata.org/entity/Q11573	321.9
+Q11437225	3098	http://www.wikidata.org/entity/Q11437225	Ōarai Marine Tower	metre	http://www.wikidata.org/entity/Q11573	60.0
+Q195212	3066	http://www.wikidata.org/entity/Q195212	Park Tower	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q1762378	3038	http://www.wikidata.org/entity/Q1762378	Simcoe Place	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q20639521	3015	http://www.wikidata.org/entity/Q20639521	Inquirer Building	meter	http://www.wikidata.org/entity/Q3710	103.63199668377612
+Q6455644	3005	http://www.wikidata.org/entity/Q6455644	L'Avenue	metre	http://www.wikidata.org/entity/Q11573	184.0
+Q1076164	2988	http://www.wikidata.org/entity/Q1076164	Chongqing World Trade Center	metre	http://www.wikidata.org/entity/Q11573	283.0
+Q18413966	2974	http://www.wikidata.org/entity/Q18413966	Chongqing IFS T1	metre	http://www.wikidata.org/entity/Q11573	316.0
+Q66809937	2966	http://www.wikidata.org/entity/Q66809937	Altus House	metre	http://www.wikidata.org/entity/Q11573	114.3
+Q3567552	2917	http://www.wikidata.org/entity/Q3567552	Westpac House	metre	http://www.wikidata.org/entity/Q11573	132.0
+Q2402458	2891	http://www.wikidata.org/entity/Q2402458	Telus Tower	metre	http://www.wikidata.org/entity/Q11573	119.0
+Q376658	2879	http://www.wikidata.org/entity/Q376658	The Heritage at Millennium Park	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q7863079	2868	http://www.wikidata.org/entity/Q7863079	U.S. Bank Center	meter	http://www.wikidata.org/entity/Q3710	124.05359603028492
+Q6351258	2864	http://www.wikidata.org/entity/Q6351258	IFC One Saigon	metre	http://www.wikidata.org/entity/Q11573	195.3
+Q463759	2859	http://www.wikidata.org/entity/Q463759	American Commerce Center	metre	http://www.wikidata.org/entity/Q11573	460.0
+Q11079345	2837	http://www.wikidata.org/entity/Q11079345	Tuntex Tower	metre	http://www.wikidata.org/entity/Q11573	143.0
+Q24191576	2829	http://www.wikidata.org/entity/Q24191576	JW Marriott Edmonton Ice District & Residences	metre	http://www.wikidata.org/entity/Q11573	192.15
+Q3533139	2812	http://www.wikidata.org/entity/Q3533139	Tour Neptune	metre	http://www.wikidata.org/entity/Q11573	113.0
+Q7981662	2792	http://www.wikidata.org/entity/Q7981662	Wells Fargo Plaza	metre	http://www.wikidata.org/entity/Q11573	90.22
+Q19817566	2788	http://www.wikidata.org/entity/Q19817566	Victoria One	metre	http://www.wikidata.org/entity/Q11573	241.0
+Q19817552	2778	http://www.wikidata.org/entity/Q19817552	Delta Toronto Hotel	meter	http://www.wikidata.org/entity/Q3710	159.9986588800429
+Q3995129	2769	http://www.wikidata.org/entity/Q3995129	Q3995129	metre	http://www.wikidata.org/entity/Q11573	73.0
+Q9173980	2757	http://www.wikidata.org/entity/Q9173980	Biurowiec Wojewódzki	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q109934109	2741	http://www.wikidata.org/entity/Q109934109	Q109934109	metre	http://www.wikidata.org/entity/Q11573	61.72
+Q11715065	2716	http://www.wikidata.org/entity/Q11715065	JM Tower in Warsaw	metre	http://www.wikidata.org/entity/Q11573	92.0
+Q19817555	2704	http://www.wikidata.org/entity/Q19817555	Light House Melbourne	metre	http://www.wikidata.org/entity/Q11573	218.0
+Q19817555	2704	http://www.wikidata.org/entity/Q19817555	Light House Melbourne	meter	http://www.wikidata.org/entity/Q3710	217.93199302617623
+Q48760850	2695	http://www.wikidata.org/entity/Q48760850	Grande Maison Misonoza Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q85881509	2674	http://www.wikidata.org/entity/Q85881509	Sunland 41	metre	http://www.wikidata.org/entity/Q11573	160.8
+Q1626452	2666	http://www.wikidata.org/entity/Q1626452	Hon Kwok City Center	metre	http://www.wikidata.org/entity/Q11573	329.0
+Q7338767	2658	http://www.wikidata.org/entity/Q7338767	Riverview Plaza	metre	http://www.wikidata.org/entity/Q11573	436.0
+Q14525619	2654	http://www.wikidata.org/entity/Q14525619	Zaveltoren	metre	http://www.wikidata.org/entity/Q11573	80.0
+Q763076	2644	http://www.wikidata.org/entity/Q763076	Shaw Tower	metre	http://www.wikidata.org/entity/Q11573	149.0
+Q59382121	2642	http://www.wikidata.org/entity/Q59382121	MO82	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q1787391	2636	http://www.wikidata.org/entity/Q1787391	Three First National Plaza	metre	http://www.wikidata.org/entity/Q11573	234.0
+Q11301966	2633	http://www.wikidata.org/entity/Q11301966	Cocola Front	metre	http://www.wikidata.org/entity/Q11573	72.9
+Q30642135	2623	http://www.wikidata.org/entity/Q30642135	19 Dutch	metre	http://www.wikidata.org/entity/Q11573	231.0
+Q1663698	2609	http://www.wikidata.org/entity/Q1663698	The Palace Pier	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q1436004	2602	http://www.wikidata.org/entity/Q1436004	Khalid Al Attar Tower 2	metre	http://www.wikidata.org/entity/Q11573	294.0
+Q3192583	2597	http://www.wikidata.org/entity/Q3192583	Kanayama Minami Building	metre	http://www.wikidata.org/entity/Q11573	134.5
+Q7826967	2593	http://www.wikidata.org/entity/Q7826967	Alfredo Mahou Building	metre	http://www.wikidata.org/entity/Q11573	85.19
+Q15219553	2588	http://www.wikidata.org/entity/Q15219553	House of Press	metre	http://www.wikidata.org/entity/Q11573	76.8
+Q12043616	2580	http://www.wikidata.org/entity/Q12043616	Palác Vinohrady	metre	http://www.wikidata.org/entity/Q11573	89.0
+Q1325540	2565	http://www.wikidata.org/entity/Q1325540	Manulife Place	metre	http://www.wikidata.org/entity/Q11573	146.36
+Q1589842	2562	http://www.wikidata.org/entity/Q1589842	Mischek Tower	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q273780	2536	http://www.wikidata.org/entity/Q273780	Hydro-Québec Building	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q19842934	2518	http://www.wikidata.org/entity/Q19842934	Symbio-City	metre	http://www.wikidata.org/entity/Q11573	447.0
+Q105227265	2509	http://www.wikidata.org/entity/Q105227265	Plato Palace	metre	http://www.wikidata.org/entity/Q11573	172.0
+Q24191580	2501	http://www.wikidata.org/entity/Q24191580	Edmonton Tower	metre	http://www.wikidata.org/entity/Q11573	129.84
+Q691263	2489	http://www.wikidata.org/entity/Q691263	Square Capital Tower	metre	http://www.wikidata.org/entity/Q11573	376.0
+Q48929489	2489	http://www.wikidata.org/entity/Q48929489	Pao Huei Solitaire	metre	http://www.wikidata.org/entity/Q11573	160.98
+Q5254307	2470	http://www.wikidata.org/entity/Q5254307	Deloitte Centre	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q11287995	2457	http://www.wikidata.org/entity/Q11287995	era de	metre	http://www.wikidata.org/entity/Q11573	82.0
+Q17228544	2453	http://www.wikidata.org/entity/Q17228544	Gofukucho Tower	metre	http://www.wikidata.org/entity/Q11573	108.8
+Q11306787	2449	http://www.wikidata.org/entity/Q11306787	Q11306787	metre	http://www.wikidata.org/entity/Q11573	161.85
+Q2944883	2445	http://www.wikidata.org/entity/Q2944883	Le Centre Sheraton Montreal Hotel	metre	http://www.wikidata.org/entity/Q11573	118.0
+Q7390199	2445	http://www.wikidata.org/entity/Q7390199	SaS group Tower	metre	http://www.wikidata.org/entity/Q11573	86.0
+Q16734197	2441	http://www.wikidata.org/entity/Q16734197	Union Bank Building	metre	http://www.wikidata.org/entity/Q11573	124.0
+Q1552767	2428	http://www.wikidata.org/entity/Q1552767	Fortune Center	metre	http://www.wikidata.org/entity/Q11573	309.0
+Q6585397	2428	http://www.wikidata.org/entity/Q6585397	Gibor Sport House	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q11299774	2428	http://www.wikidata.org/entity/Q11299774	Crossland Oyabe	metre	http://www.wikidata.org/entity/Q11573	118.0
+Q2631856	2422	http://www.wikidata.org/entity/Q2631856	520 West 41st Street	meter	http://www.wikidata.org/entity/Q3710	335.27998927104034
+Q570717	2410	http://www.wikidata.org/entity/Q570717	1818 Market Street	meter	http://www.wikidata.org/entity/Q3710	152.39999512320017
+Q3753845	2390	http://www.wikidata.org/entity/Q3753845	Edificio Kronos	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q3995592	2354	http://www.wikidata.org/entity/Q3995592	Torre di Porta Romana	metre	http://www.wikidata.org/entity/Q11573	90.0
+Q16691073	2351	http://www.wikidata.org/entity/Q16691073	City Center Plaza	metre	http://www.wikidata.org/entity/Q11573	168.0
+Q18125765	2330	http://www.wikidata.org/entity/Q18125765	Huaguoyuan Tower 2	metre	http://www.wikidata.org/entity/Q11573	335.0
+Q1076139	2326	http://www.wikidata.org/entity/Q1076139	Chongqing Tall Tower	metre	http://www.wikidata.org/entity/Q11573	431.0
+Q2170980	2295	http://www.wikidata.org/entity/Q2170980	Royal Centre	metre	http://www.wikidata.org/entity/Q11573	141.0
+Q110787967	2269	http://www.wikidata.org/entity/Q110787967	emCAMPUS	metre	http://www.wikidata.org/entity/Q11573	93.55
+Q18745718	2239	http://www.wikidata.org/entity/Q18745718	Tianjin Modern City Office Tower	metre	http://www.wikidata.org/entity/Q11573	338.0
+Q1854423	2234	http://www.wikidata.org/entity/Q1854423	Marquis Residences	metre	http://www.wikidata.org/entity/Q11573	207.0
+Q7435582	2228	http://www.wikidata.org/entity/Q7435582	Scotia Centre	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q18127492	2217	http://www.wikidata.org/entity/Q18127492	Logan Century Center 1	metre	http://www.wikidata.org/entity/Q11573	390.0
+Q368017	2204	http://www.wikidata.org/entity/Q368017	Bocom Financial Towers	metre	http://www.wikidata.org/entity/Q11573	265.0
+Q2024017	2204	http://www.wikidata.org/entity/Q2024017	One Lujiazui	metre	http://www.wikidata.org/entity/Q11573	269.0
+Q2564456	2174	http://www.wikidata.org/entity/Q2564456	Westarkade	metre	http://www.wikidata.org/entity/Q11573	56.0
+Q12034791	2169	http://www.wikidata.org/entity/Q12034791	M-Palace	metre	http://www.wikidata.org/entity/Q11573	60.0
+Q109439521	2126	http://www.wikidata.org/entity/Q109439521	Q109439521	metre	http://www.wikidata.org/entity/Q11573	226.0
+Q11260116	2118	http://www.wikidata.org/entity/Q11260116	Iwaki Marine Tower	metre	http://www.wikidata.org/entity/Q11573	59.99
+Q24836571	2114	http://www.wikidata.org/entity/Q24836571	Global Strategy Center	metre	http://www.wikidata.org/entity/Q11573	169.5
+Q113000976	2109	http://www.wikidata.org/entity/Q113000976	The Sofia	metre	http://www.wikidata.org/entity/Q11573	86.87
+Q16154785	2104	http://www.wikidata.org/entity/Q16154785	222 Second Street	meter	http://www.wikidata.org/entity/Q3710	112.77599639116812
+Q16154785	2104	http://www.wikidata.org/entity/Q16154785	222 Second Street	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q2278111	2103	http://www.wikidata.org/entity/Q2278111	Chang Fu Jin Mao Tower	metre	http://www.wikidata.org/entity/Q11573	303.0
+Q2023965	2092	http://www.wikidata.org/entity/Q2023965	One Cleveland Center	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q10303489	2092	http://www.wikidata.org/entity/Q10303489	Edifício do Tribunal de Justiça de São Paulo	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q15477116	2092	http://www.wikidata.org/entity/Q15477116	HNA Building	metre	http://www.wikidata.org/entity/Q11573	138.45
+Q1708994	2088	http://www.wikidata.org/entity/Q1708994	TC Energy Tower	metre	http://www.wikidata.org/entity/Q11573	177.0
+Q2717933	2081	http://www.wikidata.org/entity/Q2717933	Zhongzhou Holdings Financial Center	metre	http://www.wikidata.org/entity/Q11573	303.0
+Q11078418	2079	http://www.wikidata.org/entity/Q11078418	Tuntex Highrise Building	metre	http://www.wikidata.org/entity/Q11573	153.0
+Q85816146	2074	http://www.wikidata.org/entity/Q85816146	Woodward's 43	metre	http://www.wikidata.org/entity/Q11573	122.3
+Q7020873	2062	http://www.wikidata.org/entity/Q7020873	Nexen Building, Calgary	metre	http://www.wikidata.org/entity/Q11573	152.0
+Q86674537	2061	http://www.wikidata.org/entity/Q86674537	8 Korfantego Street in Katowice	metre	http://www.wikidata.org/entity/Q11573	56.93
+Q744279	2052	http://www.wikidata.org/entity/Q744279	Newport Tower	metre	http://www.wikidata.org/entity/Q11573	161.9
+Q4635641	2052	http://www.wikidata.org/entity/Q4635641	360 Main	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q60848300	2047	http://www.wikidata.org/entity/Q60848300	Q60848300	metre	http://www.wikidata.org/entity/Q11573	86.0
+Q31740311	2046	http://www.wikidata.org/entity/Q31740311	Golden Acre	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q24865143	2045	http://www.wikidata.org/entity/Q24865143	Hamarikyu Intercity	metre	http://www.wikidata.org/entity/Q11573	116.15
+Q2462375	2044	http://www.wikidata.org/entity/Q2462375	Two Bloor West	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q2363313	2026	http://www.wikidata.org/entity/Q2363313	Park Tower Condominiums	metre	http://www.wikidata.org/entity/Q11573	156.0
+Q21609056	2001	http://www.wikidata.org/entity/Q21609056	One St. Petersburg	metre	http://www.wikidata.org/entity/Q11573	137.1
+Q109546404	1986	http://www.wikidata.org/entity/Q109546404	Lotte Cinema World Tower	metre	http://www.wikidata.org/entity/Q11573	555.0
+Q1033771	1982	http://www.wikidata.org/entity/Q1033771	Canterra Tower	metre	http://www.wikidata.org/entity/Q11573	177.0
+Q1104353	1965	http://www.wikidata.org/entity/Q1104353	Edmonton House	metre	http://www.wikidata.org/entity/Q11573	121.06
+Q2289545	1916	http://www.wikidata.org/entity/Q2289545	Sino-Steel Tower	metre	http://www.wikidata.org/entity/Q11573	358.0
+Q56682937	1912	http://www.wikidata.org/entity/Q56682937	Amstel Tower	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q20725953	1903	http://www.wikidata.org/entity/Q20725953	Grande Maison Ikeshita the Tower	metre	http://www.wikidata.org/entity/Q11573	152.78
+Q39082053	1898	http://www.wikidata.org/entity/Q39082053	Evolution Tower	metre	http://www.wikidata.org/entity/Q11573	217.0
+Q4866262	1893	http://www.wikidata.org/entity/Q4866262	Basarab Tower	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q104327182	1882	http://www.wikidata.org/entity/Q104327182	L'archipel	metre	http://www.wikidata.org/entity/Q11573	105.69
+Q2105997	1870	http://www.wikidata.org/entity/Q2105997	Postbank Tower	metre	http://www.wikidata.org/entity/Q11573	91.59
+Q1558596	1868	http://www.wikidata.org/entity/Q1558596	Wuxi IFS	metre	http://www.wikidata.org/entity/Q11573	339.0
+Q1805449	1862	http://www.wikidata.org/entity/Q1805449	Torre La Sagrera	metre	http://www.wikidata.org/entity/Q11573	148.0
+Q5647541	1859	http://www.wikidata.org/entity/Q5647541	Dacon Building	metre	http://www.wikidata.org/entity/Q11573	96.0
+Q1092242	1842	http://www.wikidata.org/entity/Q1092242	Yingli Tower	metre	http://www.wikidata.org/entity/Q11573	285.0
+Q2047813	1839	http://www.wikidata.org/entity/Q2047813	Albertcentrum	metre	http://www.wikidata.org/entity/Q11573	82.0
+Q2383877	1836	http://www.wikidata.org/entity/Q2383877	TD Canada Trust Tower	metre	http://www.wikidata.org/entity/Q11573	162.0
+Q100307841	1835	http://www.wikidata.org/entity/Q100307841	Tianshan Gate of the World Plots 27 and 28	metre	http://www.wikidata.org/entity/Q11573	450.0
+Q15549825	1830	http://www.wikidata.org/entity/Q15549825	VietinBank Business Center Office Tower	metre	http://www.wikidata.org/entity/Q11573	363.0
+Q16057771	1828	http://www.wikidata.org/entity/Q16057771	88 on Field	metre	http://www.wikidata.org/entity/Q11573	147.0
+Q1419300	1825	http://www.wikidata.org/entity/Q1419300	First Canadian Centre	metre	http://www.wikidata.org/entity/Q11573	167.0
+Q1623160	1820	http://www.wikidata.org/entity/Q1623160	Shell Centre	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q28833	1816	http://www.wikidata.org/entity/Q28833	900 Biscayne Bay	metre	http://www.wikidata.org/entity/Q11573	217.0
+Q119271002	1802	http://www.wikidata.org/entity/Q119271002	University Tower	metre	http://www.wikidata.org/entity/Q11573	203.0
+Q85880307	1784	http://www.wikidata.org/entity/Q85880307	Continental Engineering Corporation Tower	metre	http://www.wikidata.org/entity/Q11573	140.0
+Q3218236	1759	http://www.wikidata.org/entity/Q3218236	Las Olas River House	metre	http://www.wikidata.org/entity/Q11573	137.77
+Q11525948	1747	http://www.wikidata.org/entity/Q11525948	Tokyo Court Complex Building	metre	http://www.wikidata.org/entity/Q11573	92.0
+Q24837572	1747	http://www.wikidata.org/entity/Q24837572	Guo-Yan Building BC	metre	http://www.wikidata.org/entity/Q11573	171.0
+Q3995282	1734	http://www.wikidata.org/entity/Q3995282	Skyline Tower	metre	http://www.wikidata.org/entity/Q11573	80.0
+Q106008631	1731	http://www.wikidata.org/entity/Q106008631	Tour Skylight	metre	http://www.wikidata.org/entity/Q11573	76.77
+Q118896080	1684	http://www.wikidata.org/entity/Q118896080	Landmark Building	meter	http://www.wikidata.org/entity/Q3710	92.9639970251521
+Q4732002	1674	http://www.wikidata.org/entity/Q4732002	Allendale Square	metre	http://www.wikidata.org/entity/Q11573	132.0
+Q16340438	1674	http://www.wikidata.org/entity/Q16340438	Sonol Tower	metre	http://www.wikidata.org/entity/Q11573	98.5
+Q7570086	1669	http://www.wikidata.org/entity/Q7570086	Southern Life Centre	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q11102554	1666	http://www.wikidata.org/entity/Q11102554	Raffles City Hangzhou	metre	http://www.wikidata.org/entity/Q11573	257.6
+Q2391485	1661	http://www.wikidata.org/entity/Q2391485	Tameer Commercial Tower	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q2882599	1658	http://www.wikidata.org/entity/Q2882599	Bank Discount Tower	metre	http://www.wikidata.org/entity/Q11573	118.0
+Q115045376	1656	http://www.wikidata.org/entity/Q115045376	grattacielo L'Edera	metre	http://www.wikidata.org/entity/Q11573	90.0
+Q2884587	1648	http://www.wikidata.org/entity/Q2884587	Al Fardan Residences	metre	http://www.wikidata.org/entity/Q11573	253.3
+Q1352978	1641	http://www.wikidata.org/entity/Q1352978	Radisson Blu Hotel Tallinn	metre	http://www.wikidata.org/entity/Q11573	104.8
+Q2431130	1625	http://www.wikidata.org/entity/Q2431130	Tianjin R&F Guangdong Tower	metre	http://www.wikidata.org/entity/Q11573	468.0
+Q2595527	1624	http://www.wikidata.org/entity/Q2595527	Wuxi Maoye City - Marriott Hotel	metre	http://www.wikidata.org/entity/Q11573	304.0
+Q12033524	1621	http://www.wikidata.org/entity/Q12033524	Lighthouse Vltava Waterfront Towers	metre	http://www.wikidata.org/entity/Q11573	80.0
+Q28935347	1571	http://www.wikidata.org/entity/Q28935347	The Tower Jakarta	metre	http://www.wikidata.org/entity/Q11573	211.8
+Q19851626	1560	http://www.wikidata.org/entity/Q19851626	Financial Star Building	metre	http://www.wikidata.org/entity/Q11573	123.7
+Q198226	1548	http://www.wikidata.org/entity/Q198226	Zhujiang New City Tower	metre	http://www.wikidata.org/entity/Q11573	319.0
+Q7769217	1539	http://www.wikidata.org/entity/Q7769217	The Tides	metre	http://www.wikidata.org/entity/Q11573	49.0
+Q48916211	1520	http://www.wikidata.org/entity/Q48916211	ChungYuet World Center	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q11311245	1516	http://www.wikidata.org/entity/Q11311245	Skystage 33	metre	http://www.wikidata.org/entity/Q11573	110.6
+Q18191925	1511	http://www.wikidata.org/entity/Q18191925	Q18191925	metre	http://www.wikidata.org/entity/Q11573	118.0
+Q1662415	1497	http://www.wikidata.org/entity/Q1662415	Infinity at Brickell	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q7131626	1493	http://www.wikidata.org/entity/Q7131626	Pantages Tower	metre	http://www.wikidata.org/entity/Q11573	139.6
+Q7111974	1481	http://www.wikidata.org/entity/Q7111974	400 East Randolph	metre	http://www.wikidata.org/entity/Q11573	115.2
+Q11405802	1449	http://www.wikidata.org/entity/Q11405802	Chikusa Tower Hills	metre	http://www.wikidata.org/entity/Q11573	81.1
+Q48913575	1439	http://www.wikidata.org/entity/Q48913575	Treasure Garden	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q1516792	1425	http://www.wikidata.org/entity/Q1516792	Transport Tower	metre	http://www.wikidata.org/entity/Q11573	155.15
+Q1115315	1413	http://www.wikidata.org/entity/Q1115315	Commerce Place	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q2595525	1400	http://www.wikidata.org/entity/Q2595525	Wuxi Suning Plaza 1	metre	http://www.wikidata.org/entity/Q11573	328.0
+Q9174585	1398	http://www.wikidata.org/entity/Q9174585	Blue Point in Warsaw	metre	http://www.wikidata.org/entity/Q11573	65.0
+Q540000	1368	http://www.wikidata.org/entity/Q540000	Two Logan Square	meter	http://www.wikidata.org/entity/Q3710	132.58799575718413
+Q6137074	1365	http://www.wikidata.org/entity/Q6137074	James K. Polk State Office Building	metre	http://www.wikidata.org/entity/Q11573	119.0
+Q16916277	1361	http://www.wikidata.org/entity/Q16916277	Highpoint Hillbrow	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q6150116	1331	http://www.wikidata.org/entity/Q6150116	Torre Domus	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q11103414	1325	http://www.wikidata.org/entity/Q11103414	Glory Tower	metre	http://www.wikidata.org/entity/Q11573	128.28
+Q2342206	1313	http://www.wikidata.org/entity/Q2342206	Millennium Centre	metre	http://www.wikidata.org/entity/Q11573	186.0
+Q1972878	1285	http://www.wikidata.org/entity/Q1972878	Marinablue	metre	http://www.wikidata.org/entity/Q11573	187.5
+Q7093326	1282	http://www.wikidata.org/entity/Q7093326	One Utah Center	metre	http://www.wikidata.org/entity/Q11573	106.68
+Q85885449	1257	http://www.wikidata.org/entity/Q85885449	La Bella Vita	metre	http://www.wikidata.org/entity/Q11573	128.0
+Q85878966	1245	http://www.wikidata.org/entity/Q85878966	Taichung Condominium Tower	metre	http://www.wikidata.org/entity/Q11573	163.8
+Q19817541	1243	http://www.wikidata.org/entity/Q19817541	Yuexiu Fortune Center Tower 1	metre	http://www.wikidata.org/entity/Q11573	330.0
+Q2545996	1242	http://www.wikidata.org/entity/Q2545996	Centre Rogier	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q6591671	1236	http://www.wikidata.org/entity/Q6591671	Menora Mivtakhim Tower	metre	http://www.wikidata.org/entity/Q11573	146.0
+Q7228223	1236	http://www.wikidata.org/entity/Q7228223	Pontiac Building	meter	http://www.wikidata.org/entity/Q3710	53.09615830092293
+Q4548311	1224	http://www.wikidata.org/entity/Q4548311	123 Mission Street	metre	http://www.wikidata.org/entity/Q11573	124.0
+Q691444	1213	http://www.wikidata.org/entity/Q691444	Jamieson Place	metre	http://www.wikidata.org/entity/Q11573	172.0
+Q7095550	1199	http://www.wikidata.org/entity/Q7095550	Opal Tower	metre	http://www.wikidata.org/entity/Q11573	82.0
+Q12677599	1175	http://www.wikidata.org/entity/Q12677599	3 burės	metre	http://www.wikidata.org/entity/Q11573	68.0
+Q7431694	1170	http://www.wikidata.org/entity/Q7431694	Schlesinger Building	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q16129936	1166	http://www.wikidata.org/entity/Q16129936	Toyota Tower	metre	http://www.wikidata.org/entity/Q11573	93.0
+Q29837530	1128	http://www.wikidata.org/entity/Q29837530	Honglou Times Square	metre	http://www.wikidata.org/entity/Q11573	313.0
+Q109410548	1125	http://www.wikidata.org/entity/Q109410548	Shenzhen Energy Mansion	metre	http://www.wikidata.org/entity/Q11573	218.0
+Q4552294	1121	http://www.wikidata.org/entity/Q4552294	1700 Market	meter	http://www.wikidata.org/entity/Q3710	131.06399580595215
+Q1849384	1118	http://www.wikidata.org/entity/Q1849384	Faros del Panamá	metre	http://www.wikidata.org/entity/Q11573	346.0
+Q41811212	1115	http://www.wikidata.org/entity/Q41811212	Optima Signature	metre	http://www.wikidata.org/entity/Q11573	178.9
+Q60985600	1106	http://www.wikidata.org/entity/Q60985600	Sakae Tower Hills	metre	http://www.wikidata.org/entity/Q11573	100.8
+Q104880932	1094	http://www.wikidata.org/entity/Q104880932	Fubon Sky Tree	metre	http://www.wikidata.org/entity/Q11573	155.3
+Q7215650	1083	http://www.wikidata.org/entity/Q7215650	Alrov Tower	metre	http://www.wikidata.org/entity/Q11573	93.0
+Q85759943	1080	http://www.wikidata.org/entity/Q85759943	Evergrande International Financial Center T1	metre	http://www.wikidata.org/entity/Q11573	518.0
+Q117349444	1059	http://www.wikidata.org/entity/Q117349444	Q117349444	metre	http://www.wikidata.org/entity/Q11573	99.9
+Q1964601	1050	http://www.wikidata.org/entity/Q1964601	Nanjing World Trade Center Tower 1	metre	http://www.wikidata.org/entity/Q11573	326.0
+Q11526906	1047	http://www.wikidata.org/entity/Q11526906	Token Headquarters Marunouchi	metre	http://www.wikidata.org/entity/Q11573	78.95
+Q3517944	1037	http://www.wikidata.org/entity/Q3517944	Ten Museum Park	metre	http://www.wikidata.org/entity/Q11573	178.3
+Q5290014	1032	http://www.wikidata.org/entity/Q5290014	Dome Tower	metre	http://www.wikidata.org/entity/Q11573	141.0
+Q1076137	1031	http://www.wikidata.org/entity/Q1076137	Chongqing Poly Tower	metre	http://www.wikidata.org/entity/Q11573	287.0
+Q4548304	1013	http://www.wikidata.org/entity/Q4548304	123 Albert Street	metre	http://www.wikidata.org/entity/Q11573	127.0
+Q61125175	1010	http://www.wikidata.org/entity/Q61125175	Uptown Towers	metre	http://www.wikidata.org/entity/Q11573	162.0
+Q1567990	1007	http://www.wikidata.org/entity/Q1567990	Hafenstraße 51	metre	http://www.wikidata.org/entity/Q11573	93.0
+Q6966961	981	http://www.wikidata.org/entity/Q6966961	Nashville City Center	metre	http://www.wikidata.org/entity/Q11573	123.0
+Q101208801	924	http://www.wikidata.org/entity/Q101208801	Zona Pradera	metre	http://www.wikidata.org/entity/Q11573	84.0
+Q19952093	901	http://www.wikidata.org/entity/Q19952093	Charlevoix Building	metre	http://www.wikidata.org/entity/Q11573	42.67
+Q6410662	887	http://www.wikidata.org/entity/Q6410662	Kine Centre	metre	http://www.wikidata.org/entity/Q11573	123.0
+Q21015941	886	http://www.wikidata.org/entity/Q21015941	Cirrus	meter	http://www.wikidata.org/entity/Q3710	134.11199570841617
+Q21015941	886	http://www.wikidata.org/entity/Q21015941	Cirrus	metre	http://www.wikidata.org/entity/Q11573	130.0
+Q1231655	867	http://www.wikidata.org/entity/Q1231655	Diwang International Commerce Center	metre	http://www.wikidata.org/entity/Q11573	276.0
+Q28410457	865	http://www.wikidata.org/entity/Q28410457	Fuyu Oriental Crown	metre	http://www.wikidata.org/entity/Q11573	165.0
+Q48934594	853	http://www.wikidata.org/entity/Q48934594	The Crystal Plaza	metre	http://www.wikidata.org/entity/Q11573	160.6
+Q105100303	847	http://www.wikidata.org/entity/Q105100303	Caesar Park Hotel Banqiao	metre	http://www.wikidata.org/entity/Q11573	141.4
+Q48916725	833	http://www.wikidata.org/entity/Q48916725	ChungYuet Global Business Building	metre	http://www.wikidata.org/entity/Q11573	117.35
+Q5475194	817	http://www.wikidata.org/entity/Q5475194	Four Gateway Center	meter	http://www.wikidata.org/entity/Q3710	92.9975250240792
+Q10550988	778	http://www.wikidata.org/entity/Q10550988	Block Lusten	metre	http://www.wikidata.org/entity/Q11573	78.0
+Q912078	767	http://www.wikidata.org/entity/Q912078	Tours de Levallois	metre	http://www.wikidata.org/entity/Q11573	164.0
+Q104519240	767	http://www.wikidata.org/entity/Q104519240	Torres ECHO	metre	http://www.wikidata.org/entity/Q11573	96.0
+Q25818749	758	http://www.wikidata.org/entity/Q25818749	Enbridge Centre	metre	http://www.wikidata.org/entity/Q11573	110.6
+Q1586256	752	http://www.wikidata.org/entity/Q1586256	South Asian Gate	metre	http://www.wikidata.org/entity/Q11573	268.0
+Q1937566	750	http://www.wikidata.org/entity/Q1937566	Riverfront	metre	http://www.wikidata.org/entity/Q11573	192.0
+Q15794060	748	http://www.wikidata.org/entity/Q15794060	China Chuneng Tower	metre	http://www.wikidata.org/entity/Q11573	333.0
+Q6109202	730	http://www.wikidata.org/entity/Q6109202	Q6109202	metre	http://www.wikidata.org/entity/Q11573	233.0
+Q4553547	701	http://www.wikidata.org/entity/Q4553547	17 New Wakefield Street	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q20043916	692	http://www.wikidata.org/entity/Q20043916	Kita-Toda First Gate Tower	metre	http://www.wikidata.org/entity/Q11573	99.0
+Q1243576	690	http://www.wikidata.org/entity/Q1243576	Qatar National Bank Tower	metre	http://www.wikidata.org/entity/Q11573	510.0
+Q1881651	684	http://www.wikidata.org/entity/Q1881651	MNP Tower	metre	http://www.wikidata.org/entity/Q11573	143.0
+Q4786997	683	http://www.wikidata.org/entity/Q4786997	Architects' Building	metre	http://www.wikidata.org/entity/Q11573	63.75
+Q11837782	679	http://www.wikidata.org/entity/Q11837782	Q11837782	metre	http://www.wikidata.org/entity/Q11573	61.0
+Q2376507	678	http://www.wikidata.org/entity/Q2376507	The River South Tower	metre	http://www.wikidata.org/entity/Q11573	258.0
+Q16253183	676	http://www.wikidata.org/entity/Q16253183	Bank Misr Building	metre	http://www.wikidata.org/entity/Q11573	130.0
+Q108040856	674	http://www.wikidata.org/entity/Q108040856	Dimri Tower	metre	http://www.wikidata.org/entity/Q11573	141.52
+Q918489	650	http://www.wikidata.org/entity/Q918489	Company Business Towers	metre	http://www.wikidata.org/entity/Q11573	136.0
+Q21654527	645	http://www.wikidata.org/entity/Q21654527	Proud Tower Musashi-Urawa Garden	metre	http://www.wikidata.org/entity/Q11573	105.98
+Q85871121	641	http://www.wikidata.org/entity/Q85871121	Grand Terminal Tower Motoyawata	metre	http://www.wikidata.org/entity/Q11573	144.2
+Q4548391	637	http://www.wikidata.org/entity/Q4548391	1250 Poydras Plaza	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q7864129	595	http://www.wikidata.org/entity/Q7864129	UCS Building	metre	http://www.wikidata.org/entity/Q11573	128.0
+Q5159775	585	http://www.wikidata.org/entity/Q5159775	Confederation Building	metre	http://www.wikidata.org/entity/Q11573	41.0
+Q1338561	552	http://www.wikidata.org/entity/Q1338561	Number One Bloor	metre	http://www.wikidata.org/entity/Q11573	257.0
+Q3389848	514	http://www.wikidata.org/entity/Q3389848	Place Hauteville	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q3389848	514	http://www.wikidata.org/entity/Q3389848	Place Hauteville	meter	http://www.wikidata.org/entity/Q3710	106.98479657648652
+Q1471340	510	http://www.wikidata.org/entity/Q1471340	SP!RE	metre	http://www.wikidata.org/entity/Q11573	143.0
+Q16129964	509	http://www.wikidata.org/entity/Q16129964	Zion Tower	metre	http://www.wikidata.org/entity/Q11573	67.3
+Q30753028	502	http://www.wikidata.org/entity/Q30753028	Q30753028	metre	http://www.wikidata.org/entity/Q11573	225.0
+Q30754060	501	http://www.wikidata.org/entity/Q30754060	Skyfame Center Landmark Tower	metre	http://www.wikidata.org/entity/Q11573	345.9
+Q179473	497	http://www.wikidata.org/entity/Q179473	Sowwah Square Tower 2	metre	http://www.wikidata.org/entity/Q11573	184.0
+Q7934802	483	http://www.wikidata.org/entity/Q7934802	Viridian Tower	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q106868216	457	http://www.wikidata.org/entity/Q106868216	Résidence Campuséa	metre	http://www.wikidata.org/entity/Q11573	75.0
+Q121143471	419	http://www.wikidata.org/entity/Q121143471	One Seagrove Place	metre	http://www.wikidata.org/entity/Q11573	72.0
+Q1664761	409	http://www.wikidata.org/entity/Q1664761	NEO Tower	metre	http://www.wikidata.org/entity/Q11573	273.0
+Q12697614	404	http://www.wikidata.org/entity/Q12697614	Felda Tower	metre	http://www.wikidata.org/entity/Q11573	215.0
+Q15842559	402	http://www.wikidata.org/entity/Q15842559	Riverside Century Plaza Main Tower	metre	http://www.wikidata.org/entity/Q11573	318.0
+Q7420060	399	http://www.wikidata.org/entity/Q7420060	Santander Bank Tower	meter	http://www.wikidata.org/entity/Q3710	256.03199180697624
+Q23527286	393	http://www.wikidata.org/entity/Q23527286	Commerce Court West	metre	http://www.wikidata.org/entity/Q11573	287.0
+Q1531538	389	http://www.wikidata.org/entity/Q1531538	Jameson House	metre	http://www.wikidata.org/entity/Q11573	118.0
+Q15709552	383	http://www.wikidata.org/entity/Q15709552	Shakespeare Tower	metre	http://www.wikidata.org/entity/Q11573	123.0
+Q23058895	383	http://www.wikidata.org/entity/Q23058895	Oil and Gas Building	metre	http://www.wikidata.org/entity/Q11573	54.44
+Q20725898	366	http://www.wikidata.org/entity/Q20725898	Fairmont Kuala Lumpur Tower 1	metre	http://www.wikidata.org/entity/Q11573	370.0
+Q5888604	365	http://www.wikidata.org/entity/Q5888604	Home Oil Tower, Calgary	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q1751069	349	http://www.wikidata.org/entity/Q1751069	Al Quds Endowment Tower	metre	http://www.wikidata.org/entity/Q11573	495.0
+Q2597675	332	http://www.wikidata.org/entity/Q2597675	X Condominium	metre	http://www.wikidata.org/entity/Q11573	149.0
+Q27887650	327	http://www.wikidata.org/entity/Q27887650	Xin-Fu-Hwa	metre	http://www.wikidata.org/entity/Q11573	149.0
+Q15709545	315	http://www.wikidata.org/entity/Q15709545	Cromwell Tower	metre	http://www.wikidata.org/entity/Q11573	123.0
+Q7115473	310	http://www.wikidata.org/entity/Q7115473	Oxford Tower	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q56260245	307	http://www.wikidata.org/entity/Q56260245	Chaoyang Park Plaza Tower 1	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q60983924	293	http://www.wikidata.org/entity/Q60983924	Paul Hastings Tower	metre	http://www.wikidata.org/entity/Q11573	213.0
+Q1964773	287	http://www.wikidata.org/entity/Q1964773	Nantong Zhongnan International Plaza	metre	http://www.wikidata.org/entity/Q11573	273.0
+Q1656109	274	http://www.wikidata.org/entity/Q1656109	ÏCE Condominiums at York Centre	metre	http://www.wikidata.org/entity/Q11573	234.0
+Q105320217	258	http://www.wikidata.org/entity/Q105320217	Savoy Palace	metre	http://www.wikidata.org/entity/Q11573	157.0
+Q788064	251	http://www.wikidata.org/entity/Q788064	The Uptown Residences	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q24191410	249	http://www.wikidata.org/entity/Q24191410	Tokyo Metropolitan Government Building I	metre	http://www.wikidata.org/entity/Q11573	243.4
+Q104830683	244	http://www.wikidata.org/entity/Q104830683	Taichung Time Square CBD	metre	http://www.wikidata.org/entity/Q11573	149.0
+Q3530518	234	http://www.wikidata.org/entity/Q3530518	Tokyo City Hall Tower II	metre	http://www.wikidata.org/entity/Q11573	163.3
+Q59159622	234	http://www.wikidata.org/entity/Q59159622	South African Reserve Bank Building	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q20723479	233	http://www.wikidata.org/entity/Q20723479	Long-Bang Trade Plaza	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q105962646	228	http://www.wikidata.org/entity/Q105962646	Highwealth - City of Leadership	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q118639158	221	http://www.wikidata.org/entity/Q118639158	Bank of China Tower, Ningbo	metre	http://www.wikidata.org/entity/Q11573	246.0
+Q105628590	216	http://www.wikidata.org/entity/Q105628590	Ding Sheng BHW Taiwan Central Plaza	metre	http://www.wikidata.org/entity/Q11573	158.9
+Q16673763	215	http://www.wikidata.org/entity/Q16673763	Royal Landmark Tower	metre	http://www.wikidata.org/entity/Q11573	158.0
+Q16960749	207	http://www.wikidata.org/entity/Q16960749	Vue at Brickell	metre	http://www.wikidata.org/entity/Q11573	129.0
+Q16960749	207	http://www.wikidata.org/entity/Q16960749	Vue at Brickell	meter	http://www.wikidata.org/entity/Q3710	128.93039587422734
+Q6150017	198	http://www.wikidata.org/entity/Q6150017	Atrium Building	metre	http://www.wikidata.org/entity/Q11573	93.4
+Q16641845	192	http://www.wikidata.org/entity/Q16641845	Hilton Cincinnati Netherland Plaza	metre	http://www.wikidata.org/entity/Q11573	113.0
+Q14874782	191	http://www.wikidata.org/entity/Q14874782	Vancouver Marriott Pinnacle Downtown Hotel	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q105334125	174	http://www.wikidata.org/entity/Q105334125	Cosmos	metre	http://www.wikidata.org/entity/Q11573	149.65
+Q104902480	173	http://www.wikidata.org/entity/Q104902480	Kingtown King Park	metre	http://www.wikidata.org/entity/Q11573	154.0
+Q7863864	166	http://www.wikidata.org/entity/Q7863864	UBL Tower	metre	http://www.wikidata.org/entity/Q11573	97.0
+Q18380101	152	http://www.wikidata.org/entity/Q18380101	Penn Center Suburban Station	metre	http://www.wikidata.org/entity/Q11573	101.0
+Q18712428	152	http://www.wikidata.org/entity/Q18712428	Makkah Clock Royal Tower Hotel	metre	http://www.wikidata.org/entity/Q11573	601.0
+Q106002354	148	http://www.wikidata.org/entity/Q106002354	Huide Tower	metre	http://www.wikidata.org/entity/Q11573	258.0
+Q18192113	141	http://www.wikidata.org/entity/Q18192113	Frishman 46	metre	http://www.wikidata.org/entity/Q11573	108.0
+Q30744067	141	http://www.wikidata.org/entity/Q30744067	Harbour Plaza Residences	metre	http://www.wikidata.org/entity/Q11573	237.0
+Q101084958	123	http://www.wikidata.org/entity/Q101084958	1270 Avenue of the Americas	metre	http://www.wikidata.org/entity/Q11573	124.67
+Q12471358	117	http://www.wikidata.org/entity/Q12471358	Al Sharq Tower	metre	http://www.wikidata.org/entity/Q11573	360.0
+Q28057934	116	http://www.wikidata.org/entity/Q28057934	5 Taian Dao	metre	http://www.wikidata.org/entity/Q11573	250.8
+Q1242598	112	http://www.wikidata.org/entity/Q1242598	We've the Zenith Tower A	metre	http://www.wikidata.org/entity/Q11573	300.0
+Q106873555	108	http://www.wikidata.org/entity/Q106873555	Résidence Altana	metre	http://www.wikidata.org/entity/Q11573	45.0
+Q21619033	105	http://www.wikidata.org/entity/Q21619033	Bohai Bank Tower	metre	http://www.wikidata.org/entity/Q11573	270.0
+Q21619204	103	http://www.wikidata.org/entity/Q21619204	Ritz-Carlton/Marriott Marquis Los Angeles	metre	http://www.wikidata.org/entity/Q11573	203.3
+Q98937711	101	http://www.wikidata.org/entity/Q98937711	Three Sixty West Tower B	metre	http://www.wikidata.org/entity/Q11573	361.2
+Q106436675	100	http://www.wikidata.org/entity/Q106436675	Q106436675	metre	http://www.wikidata.org/entity/Q11573	127.0
+Q1753759	97	http://www.wikidata.org/entity/Q1753759	Tianjin Kerry Center	metre	http://www.wikidata.org/entity/Q11573	332.0
+Q109464453	92	http://www.wikidata.org/entity/Q109464453	China Merchants Prince Bay Tower	metre	http://www.wikidata.org/entity/Q11573	374.0
+Q16507527	90	http://www.wikidata.org/entity/Q16507527	Commerce Court North	metre	http://www.wikidata.org/entity/Q11573	145.0
+Q32272337	90	http://www.wikidata.org/entity/Q32272337	Sumitomo Fudosan Shinjuku Garden Tower	metre	http://www.wikidata.org/entity/Q11573	160.0
+Q10875816	84	http://www.wikidata.org/entity/Q10875816	Q10875816	metre	http://www.wikidata.org/entity/Q11573	228.0
+Q76829415	80	http://www.wikidata.org/entity/Q76829415	Zions Bank Tower	meter	http://www.wikidata.org/entity/Q3710	81.38159739578889
+Q12253090	74	http://www.wikidata.org/entity/Q12253090	Edificio Albia	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q28057941	74	http://www.wikidata.org/entity/Q28057941	Shangbang Leasing Tower	metre	http://www.wikidata.org/entity/Q11573	246.0
+Q15934653	72	http://www.wikidata.org/entity/Q15934653	Q15934653	metre	http://www.wikidata.org/entity/Q11573	165.0
+Q55727481	71	http://www.wikidata.org/entity/Q55727481	Gold-Clad Tower	metre	http://www.wikidata.org/entity/Q11573	100.0
+Q2806796	67	http://www.wikidata.org/entity/Q2806796	10 Navy	metre	http://www.wikidata.org/entity/Q11573	123.0
+Q31176701	65	http://www.wikidata.org/entity/Q31176701	Ryonghung-Dong Apartment	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q76833992	65	http://www.wikidata.org/entity/Q76833992	J. C. Penny Building	meter	http://www.wikidata.org/entity/Q3710	61.56959802977286
+Q30752681	62	http://www.wikidata.org/entity/Q30752681	Ryomyong Tower 82 floors 270 m (890 ft)	metre	http://www.wikidata.org/entity/Q11573	270.0
+Q2930980	60	http://www.wikidata.org/entity/Q2930980	CATIC Plaza	metre	http://www.wikidata.org/entity/Q11573	254.0
+Q31176762	59	http://www.wikidata.org/entity/Q31176762	Pukmang Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q31176768	55	http://www.wikidata.org/entity/Q31176768	Sosong Apartment	metre	http://www.wikidata.org/entity/Q11573	101.0
+Q9306302	52	http://www.wikidata.org/entity/Q9306302	Renaissance Center Tower 300	metre	http://www.wikidata.org/entity/Q11573	144.0
+Q54534434	52	http://www.wikidata.org/entity/Q54534434	Edificio Mapfre Vida, Madrid	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q12256565	50	http://www.wikidata.org/entity/Q12256565	Q12256565	metre	http://www.wikidata.org/entity/Q11573	72.0
+Q104712946	50	http://www.wikidata.org/entity/Q104712946	Macy's Building	meter	http://www.wikidata.org/entity/Q3710	96.6215969081089
+Q107097656	50	http://www.wikidata.org/entity/Q107097656	Q107097656	metre	http://www.wikidata.org/entity/Q11573	143.0
+Q1702528	49	http://www.wikidata.org/entity/Q1702528	U Condominiums	metre	http://www.wikidata.org/entity/Q11573	184.0
+Q6935770	48	http://www.wikidata.org/entity/Q6935770	Mundelein Center	meter	http://www.wikidata.org/entity/Q3710	52.99252630423916
+Q21619266	48	http://www.wikidata.org/entity/Q21619266	Q21619266	metre	http://www.wikidata.org/entity/Q11573	209.0
+Q15109962	47	http://www.wikidata.org/entity/Q15109962	Dynamic Funds Tower	metre	http://www.wikidata.org/entity/Q11573	129.24
+Q116028173	45	http://www.wikidata.org/entity/Q116028173	Crystal Tower	metre	http://www.wikidata.org/entity/Q11573	168.0
+Q30766256	44	http://www.wikidata.org/entity/Q30766256	The One	metre	http://www.wikidata.org/entity/Q11573	263.0
+Q2116336	43	http://www.wikidata.org/entity/Q2116336	EŌS	metre	http://www.wikidata.org/entity/Q11573	146.0
+Q30752536	39	http://www.wikidata.org/entity/Q30752536	Oceanwide Plaza I	metre	http://www.wikidata.org/entity/Q11573	206.0
+Q31177459	36	http://www.wikidata.org/entity/Q31177459	Ryongnam Tower	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q111362834	36	http://www.wikidata.org/entity/Q111362834	SAP Tower	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q56787231	35	http://www.wikidata.org/entity/Q56787231	Puerta de Europa I	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q114756024	34	http://www.wikidata.org/entity/Q114756024	Kroger Building	meter	http://www.wikidata.org/entity/Q3710	97.5359968788481
+Q31177461	33	http://www.wikidata.org/entity/Q31177461	Chonsung Tower	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q106497911	31	http://www.wikidata.org/entity/Q106497911	Ward Building	metre	http://www.wikidata.org/entity/Q11573	85.0
+Q110880059	30	http://www.wikidata.org/entity/Q110880059	Helios City	metre	http://www.wikidata.org/entity/Q11573	96.0
+Q18414186	29	http://www.wikidata.org/entity/Q18414186	Forum 66 Tower 2	metre	http://www.wikidata.org/entity/Q11573	351.0
+Q43864717	28	http://www.wikidata.org/entity/Q43864717	300 Madison Avenue	metre	http://www.wikidata.org/entity/Q11573	175.3
+Q43864717	28	http://www.wikidata.org/entity/Q43864717	300 Madison Avenue	meter	http://www.wikidata.org/entity/Q3710	175.25999439168018
+Q105271646	28	http://www.wikidata.org/entity/Q105271646	The Westin Perth	metre	http://www.wikidata.org/entity/Q11573	107.0
+Q28054341	27	http://www.wikidata.org/entity/Q28054341	PricewaterhouseCoopers Tower	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q107717743	27	http://www.wikidata.org/entity/Q107717743	Mahall Bomonti İzmir	metre	http://www.wikidata.org/entity/Q11573	240.0
+Q111366021	25	http://www.wikidata.org/entity/Q111366021	National Bank Tower	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q43871125	24	http://www.wikidata.org/entity/Q43871125	425 Lexington Avenue	metre	http://www.wikidata.org/entity/Q11573	125.0
+Q98937606	24	http://www.wikidata.org/entity/Q98937606	Three Sixty West Tower A	metre	http://www.wikidata.org/entity/Q11573	255.6
+Q118807739	24	http://www.wikidata.org/entity/Q118807739	Secretariat Housing	metre	http://www.wikidata.org/entity/Q11573	133.2
+Q23907601	23	http://www.wikidata.org/entity/Q23907601	Conrad New York Midtown	metre	http://www.wikidata.org/entity/Q11573	179.8
+Q54534958	23	http://www.wikidata.org/entity/Q54534958	Edificio Génesis, Madrid	metre	http://www.wikidata.org/entity/Q11573	72.0
+Q30752674	22	http://www.wikidata.org/entity/Q30752674	Ryomyong Tower 55 floors 210 m (690 ft)	metre	http://www.wikidata.org/entity/Q11573	210.0
+Q31177460	22	http://www.wikidata.org/entity/Q31177460	Nampo Tower	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q107862777	22	http://www.wikidata.org/entity/Q107862777	Q107862777	metre	http://www.wikidata.org/entity/Q11573	45.0
+Q6021330	21	http://www.wikidata.org/entity/Q6021330	Grand Hotel Konya	metre	http://www.wikidata.org/entity/Q11573	132.0
+Q56787345	21	http://www.wikidata.org/entity/Q56787345	Puerta de Europa II	metre	http://www.wikidata.org/entity/Q11573	114.0
+Q123333717	21	http://www.wikidata.org/entity/Q123333717	Shiroyama Trust Tower	metre	http://www.wikidata.org/entity/Q11573	158.4
+Q12261444	20	http://www.wikidata.org/entity/Q12261444	Kerry Center	metre	http://www.wikidata.org/entity/Q11573	222.0
+Q31177458	20	http://www.wikidata.org/entity/Q31177458	Yeongheung Tower	metre	http://www.wikidata.org/entity/Q11573	105.0
+Q61066458	20	http://www.wikidata.org/entity/Q61066458	1650 Tysons Boulevard	metre	http://www.wikidata.org/entity/Q11573	72.0
+Q61066458	20	http://www.wikidata.org/entity/Q61066458	1650 Tysons Boulevard	meter	http://www.wikidata.org/entity/Q3710	71.93279769815048
+Q61066521	19	http://www.wikidata.org/entity/Q61066521	1750 Tysons Boulevard	metre	http://www.wikidata.org/entity/Q11573	72.0
+Q61066521	19	http://www.wikidata.org/entity/Q61066521	1750 Tysons Boulevard	meter	http://www.wikidata.org/entity/Q3710	71.63104570780654
+Q123674140	19	http://www.wikidata.org/entity/Q123674140	Wall Street Plaza (Manhattan)	metre	http://www.wikidata.org/entity/Q11573	117.0
+Q11777538	18	http://www.wikidata.org/entity/Q11777538	Mesk Tower	metre	http://www.wikidata.org/entity/Q11573	185.0
+Q113292423	18	http://www.wikidata.org/entity/Q113292423	825 South Hill	metre	http://www.wikidata.org/entity/Q11573	171.6
+Q118824787	18	http://www.wikidata.org/entity/Q118824787	KWP Scientists Apartment	metre	http://www.wikidata.org/entity/Q11573	150.6
+Q9141733	17	http://www.wikidata.org/entity/Q9141733	Africa-Israel Tower	meter	http://www.wikidata.org/entity/Q3710	115.00103631996684
+Q10569242	17	http://www.wikidata.org/entity/Q10569242	Lonrho House	metre	http://www.wikidata.org/entity/Q11573	79.86
+Q118869495	17	http://www.wikidata.org/entity/Q118869495	Yokjon Apartment 1	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q12254614	16	http://www.wikidata.org/entity/Q12254614	Q12254614	metre	http://www.wikidata.org/entity/Q11573	98.0
+Q12256339	16	http://www.wikidata.org/entity/Q12256339	Q12256339	metre	http://www.wikidata.org/entity/Q11573	75.0
+Q105575992	16	http://www.wikidata.org/entity/Q105575992	Alton Tower (Mashhad)	metre	http://www.wikidata.org/entity/Q11573	75.0
+Q106942630	16	http://www.wikidata.org/entity/Q106942630	Gateway Tower West	meter	http://www.wikidata.org/entity/Q3710	102.10799673254412
+Q113153161	16	http://www.wikidata.org/entity/Q113153161	Brookfield Tower	metre	http://www.wikidata.org/entity/Q11573	211.7
+Q118829894	16	http://www.wikidata.org/entity/Q118829894	Mansudae Apartment 4#	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q118829894	16	http://www.wikidata.org/entity/Q118829894	Mansudae Apartment 4#	1	http://www.wikidata.org/entity/Q199	103.0
+Q113152673	15	http://www.wikidata.org/entity/Q113152673	8th & Figueroa	metre	http://www.wikidata.org/entity/Q11573	161.5
+Q118876443	15	http://www.wikidata.org/entity/Q118876443	200 Residential Apartments	metre	http://www.wikidata.org/entity/Q11573	83.9
+Q119853699	15	http://www.wikidata.org/entity/Q119853699	Inxignia tower	metre	http://www.wikidata.org/entity/Q11573	265.0
+Q29837435	14	http://www.wikidata.org/entity/Q29837435	AVIC International Plaza	metre	http://www.wikidata.org/entity/Q11573	214.0
+Q44750696	14	http://www.wikidata.org/entity/Q44750696	Dollar Bay	metre	http://www.wikidata.org/entity/Q11573	109.0
+Q118829811	14	http://www.wikidata.org/entity/Q118829811	Mansudae Apartment 1#	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q118849613	14	http://www.wikidata.org/entity/Q118849613	Green Tower 2	metre	http://www.wikidata.org/entity/Q11573	130.0
+Q118869504	14	http://www.wikidata.org/entity/Q118869504	Yokjon Apartment 2	metre	http://www.wikidata.org/entity/Q11573	115.0
+Q110071909	13	http://www.wikidata.org/entity/Q110071909	Żyleta	metre	http://www.wikidata.org/entity/Q11573	84.0
+Q113126898	13	http://www.wikidata.org/entity/Q113126898	Oceanwide Plaza II	metre	http://www.wikidata.org/entity/Q11573	162.0
+Q113126912	12	http://www.wikidata.org/entity/Q113126912	Oceanwide Plaza III	metre	http://www.wikidata.org/entity/Q11573	162.0
+Q118825030	12	http://www.wikidata.org/entity/Q118825030	Artists Housing	metre	http://www.wikidata.org/entity/Q11573	139.9
+Q118829834	12	http://www.wikidata.org/entity/Q118829834	Mansudae Apartment 3#	metre	http://www.wikidata.org/entity/Q11573	137.0
+Q118949967	12	http://www.wikidata.org/entity/Q118949967	Mirae Green Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q122332986	12	http://www.wikidata.org/entity/Q122332986	RNA Mirage	metre	http://www.wikidata.org/entity/Q11573	158.0
+Q111383047	11	http://www.wikidata.org/entity/Q111383047	Quay West	metre	http://www.wikidata.org/entity/Q11573	120.0
+Q101208597	10	http://www.wikidata.org/entity/Q101208597	Tiffany Novena	metre	http://www.wikidata.org/entity/Q11573	83.0
+Q111398075	10	http://www.wikidata.org/entity/Q111398075	Jarden House	metre	http://www.wikidata.org/entity/Q11573	71.0
+Q119836112	10	http://www.wikidata.org/entity/Q119836112	Platea Tower	metre	http://www.wikidata.org/entity/Q11573	155.0
+Q12268593	9	http://www.wikidata.org/entity/Q12268593	Unzaga Dorrea	metre	http://www.wikidata.org/entity/Q11573	77.0
+Q102772751	9	http://www.wikidata.org/entity/Q102772751	A Torre Building	metre	http://www.wikidata.org/entity/Q11573	76.0
+Q103265891	9	http://www.wikidata.org/entity/Q103265891	The CAB	metre	http://www.wikidata.org/entity/Q11573	71.0
+Q109928270	9	http://www.wikidata.org/entity/Q109928270	Higashiosaka City Hall	metre	http://www.wikidata.org/entity/Q11573	116.0
+Q111362850	9	http://www.wikidata.org/entity/Q111362850	QBE Centre	metre	http://www.wikidata.org/entity/Q11573	106.0
+Q113194350	9	http://www.wikidata.org/entity/Q113194350	Atelier	metre	http://www.wikidata.org/entity/Q11573	107.3
+Q114425982	9	http://www.wikidata.org/entity/Q114425982	6 Bociana Street in Kraków	metre	http://www.wikidata.org/entity/Q11573	60.0
+Q118830149	9	http://www.wikidata.org/entity/Q118830149	Mansudae Apartment 8#A	metre	http://www.wikidata.org/entity/Q11573	106.8
+Q6743391	8	http://www.wikidata.org/entity/Q6743391	Malibu	metre	http://www.wikidata.org/entity/Q11573	78.0288
+Q26700322	8	http://www.wikidata.org/entity/Q26700322	Hotel Omni Mont-Royal	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q26700322	8	http://www.wikidata.org/entity/Q26700322	Hotel Omni Mont-Royal	meter	http://www.wikidata.org/entity/Q3710	103.9367966740225
+Q109233772	8	http://www.wikidata.org/entity/Q109233772	The Spine, Liverpool	metre	http://www.wikidata.org/entity/Q11573	65.0
+Q110954364	8	http://www.wikidata.org/entity/Q110954364	Torre de las Mercedes	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q111366469	7	http://www.wikidata.org/entity/Q111366469	Aon Centre	metre	http://www.wikidata.org/entity/Q11573	92.0
+Q111397980	7	http://www.wikidata.org/entity/Q111397980	Crombie Lockwood Tower	metre	http://www.wikidata.org/entity/Q11573	92.0
+Q118829785	7	http://www.wikidata.org/entity/Q118829785	Mansudae Apartment 2#	metre	http://www.wikidata.org/entity/Q11573	146.3
+Q118830175	7	http://www.wikidata.org/entity/Q118830175	Mansudae Apartment 9#A	metre	http://www.wikidata.org/entity/Q11573	100.9
+Q118835356	7	http://www.wikidata.org/entity/Q118835356	Mansudae Apartment 8#B	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q118835364	7	http://www.wikidata.org/entity/Q118835364	Mansudae Apartment 9#B	metre	http://www.wikidata.org/entity/Q11573	110.0
+Q123023645	7	http://www.wikidata.org/entity/Q123023645	Nakano Sakaue Sun Bright Twin	metre	http://www.wikidata.org/entity/Q11573	134.0
+Q105077323	6	http://www.wikidata.org/entity/Q105077323	Fars Tower	metre	http://www.wikidata.org/entity/Q11573	150.0
+Q106622723	6	http://www.wikidata.org/entity/Q106622723	Atlantis Building, Guatemala City	metre	http://www.wikidata.org/entity/Q11573	70.0
+Q29837913	5	http://www.wikidata.org/entity/Q29837913	Q29837913	metre	http://www.wikidata.org/entity/Q11573	210.0
+Q118829927	5	http://www.wikidata.org/entity/Q118829927	Mansudae Apartment 5#	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q110453003	4	http://www.wikidata.org/entity/Q110453003	Pan Am Tower	meter	http://www.wikidata.org/entity/Q3710	48.92954243425464
+Q111362942	4	http://www.wikidata.org/entity/Q111362942	1 Queen Street	metre	http://www.wikidata.org/entity/Q11573	138.0
+Q111367428	4	http://www.wikidata.org/entity/Q111367428	Voco Hotel & Holiday Inn	metre	http://www.wikidata.org/entity/Q11573	135.0
+Q66048529	3	http://www.wikidata.org/entity/Q66048529	Place Sherbrooke	meter	http://www.wikidata.org/entity/Q3710	104.00080467197424
+Q66048529	3	http://www.wikidata.org/entity/Q66048529	Place Sherbrooke	metre	http://www.wikidata.org/entity/Q11573	104.0
+Q84571315	3	http://www.wikidata.org/entity/Q84571315	Concordia Corporate Tower	metre	http://www.wikidata.org/entity/Q11573	172.0
+Q111367407	3	http://www.wikidata.org/entity/Q111367407	290 Queen Street	metre	http://www.wikidata.org/entity/Q11573	60.0
+Q113187790	3	http://www.wikidata.org/entity/Q113187790	Level	metre	http://www.wikidata.org/entity/Q11573	111.3
+Q106622689	2	http://www.wikidata.org/entity/Q106622689	Tigo Tower	metre	http://www.wikidata.org/entity/Q11573	83.0
+Q55732204	1	http://www.wikidata.org/entity/Q55732204	Oesong Residences Tower 1	metre	http://www.wikidata.org/entity/Q11573	116.0

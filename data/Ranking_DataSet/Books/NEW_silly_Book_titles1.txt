@@ -1,0 +1,26 @@
+title	score
+The Cat in the Hat	5.0
+The Coldest Winter Ever	1.0
+The Quickie	1.0
+The Two Towers (The Lord of the Rings, #2)	2.0
+The Return of the King (The Lord of the Rings, #3)	3.0
+Harry, a History: The True Story of a Boy Wizard, His Fans, and Life Inside the Harry Potter Phenomenon	2.0
+Misery	1.0
+Crime and Punishment	1.0
+Horns	1.0
+Binti (Binti, #1)	1.0
+The Little Prince	2.0
+The Shack	1.0
+Harry Potter and the Deathly Hallows (Harry Potter, #7)	1.0
+The Fellowship of the Ring (The Lord of the Rings, #1)	3.0
+The Odyssey	1.0
+Pete the Cat: I Love My White Shoes	4.5
+Harry Potter: The Prequel (Harry Potter, #0.5)	1.0
+Pete the Cat and His Four Groovy Buttons	5.0
+The Wrath and the Dawn (The Wrath and the Dawn, #1)	1.0
+The Little Friend	2.0
+The Little Stranger	3.0
+The Little Paris Bookshop	2.0
+Love Hurts (Caged Love, #1)	2.0
+Shameless	2.0
+The Little Book of Hygge: The Danish Way to Live Well	3.0

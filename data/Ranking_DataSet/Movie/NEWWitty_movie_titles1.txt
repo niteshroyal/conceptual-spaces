@@ -1,0 +1,48 @@
+title	score
+Toy Story (1995)	2.5
+Waterworld (1995)	1.0
+Gladiator (2000)	1.0
+Ocean's Eleven (2001)	5.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	4.0
+Die Hard (1988)	4.0
+Groundhog Day (1993)	3.5
+Raising Arizona (1987)	5.0
+Fifth Element, The (1997)	3.0
+Shakespeare in Love (1998)	4.0
+Galaxy Quest (1999)	3.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	4.0
+Finding Nemo (2003)	4.0
+Incredibles, The (2004)	2.0
+When Harry Met Sally... (1989)	5.0
+Rushmore (1998)	5.0
+Matrix, The (1999)	1.0
+Breakfast Club, The (1985)	3.0
+Monsters, Inc. (2001)	2.0
+Birdcage, The (1996)	4.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	5.0
+Thin Man, The (1934)	5.0
+Fish Called Wanda, A (1988)	5.0
+Monty Python and the Holy Grail (1975)	4.0
+Princess Bride, The (1987)	4.0
+Seven Samurai (Shichinin no samurai) (1954)	3.0
+World Is Not Enough, The (1999)	1.0
+Perfect Storm, The (2000)	3.0
+Requiem for a Dream (2000)	4.0
+Shrek (2001)	2.5
+Ghost World (2001)	5.0
+Fiddler on the Roof (1971)	4.0
+Lantana (2001)	2.0
+Knife in the Water (Nóz w wodzie) (1962)	1.0
+Last Samurai, The (2003)	1.0
+Eternal Sunshine of the Spotless Mind (2004)	4.0
+Kill Bill: Vol. 2 (2004)	1.0
+Taxi 3 (2003)	3.0
+Cars (2006)	3.0
+Snakes on a Plane (2006)	2.0
+Across the Universe (2007)	3.0
+In Bruges (2008)	2.0
+Son of Rambow (2007)	4.0
+You Don't Mess with the Zohan (2008)	2.0
+Hancock (2008)	1.0
+Burn After Reading (2008)	5.0
+Futurama: Into the Wild Green Yonder (2009)	2.0

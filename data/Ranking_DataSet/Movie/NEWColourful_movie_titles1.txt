@@ -1,0 +1,12 @@
+title	score
+Toy Story (1995)	5.0
+Good Will Hunting (1997)	2.0
+Fight Club (1999)	2.0
+Lord of the Rings: The Two Towers, The (2002)	1.0
+Batman (1989)	3.0
+Finding Nemo (2003)	5.0
+Eternal Sunshine of the Spotless Mind (2004)	3.0
+My Neighbor Totoro (Tonari no Totoro) (1988)	5.0
+Broken Arrow (1996)	1.0
+Cinderella (1950)	4.0
+Willy Wonka & the Chocolate Factory (1971)	4.0

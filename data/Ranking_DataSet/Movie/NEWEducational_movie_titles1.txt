@@ -1,0 +1,15 @@
+title	score
+Forrest Gump (1994)	2.0
+Dave (1993)	2.0
+Schindler's List (1993)	3.0
+Good Will Hunting (1997)	1.5
+Ferris Bueller's Day Off (1986)	1.0
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	1.0
+Dead Poets Society (1989)	2.0
+Apocalypto (2006)	1.0
+Sound of Music, The (1965)	2.0
+Downfall (Untergang, Der) (2004)	4.0
+Cruel Intentions (1999)	1.0
+Born into Brothels (2004)	5.0
+March of the Penguins (Marche de l'empereur, La) (2005)	5.0
+Sin Nombre (2009)	3.0

@@ -1,0 +1,37 @@
+title	score
+The Coldest Winter Ever	3.0
+Holes (Holes, #1)	4.5
+The Quickie	1.0
+The Giver (The Giver, #1)	1.0
+The Grapes of Wrath	5.0
+Misery	4.0
+Crime and Punishment	4.0
+Horns	1.0
+Binti (Binti, #1)	1.0
+The Raven	1.0
+The Outsiders	5.0
+The Perks of Being a Wallflower	5.0
+Eclipse (Twilight, #3)	1.0
+Number the Stars	5.0
+The Hunger Games (The Hunger Games, #1)	2.0
+Breaking Dawn (Twilight, #4)	1.0
+New Moon (Twilight, #2)	1.0
+Midnight Sun (Twilight, #1.5)	1.0
+The Silmarillion	2.0
+The Scarlet Letter	5.0
+Catching Fire (The Hunger Games, #2)	2.0
+The Maze Runner (Maze Runner, #1)	1.0
+Mockingjay (The Hunger Games, #3)	2.0
+Twilight: The Graphic Novel, Vol. 1 (Twilight: The Graphic Novel, #1)	1.0
+Son (The Giver, #4)	4.0
+Four: A Divergent Story Collection (Divergent, #0.1 - 0.4)	1.0
+Ramona Blue	3.0
+Speak	5.0
+Twisted	5.0
+Chains (Seeds of America, #1)	5.0
+My Absolute Darling	5.0
+To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)	5.0
+P.S. I Still Love You (To All the Boys I've Loved Before, #2)	5.0
+Before I Die	4.0
+Before I Fall	2.0
+We Were Liars	2.0

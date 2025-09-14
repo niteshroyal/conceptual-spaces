@@ -1,0 +1,72 @@
+Entity	QRank	artist	artistLabel	numAwards
+Q34389	14231237	http://www.wikidata.org/entity/Q34389	Whitney Houston	2
+Q130311	9816662	http://www.wikidata.org/entity/Q130311	George Michael	6
+Q2808	8531156	http://www.wikidata.org/entity/Q2808	Elton John	25
+Q12003	7968359	http://www.wikidata.org/entity/Q12003	Cher	5
+Q29564107	7785952	http://www.wikidata.org/entity/Q29564107	Billie Eilish	31
+Q2599	7372938	http://www.wikidata.org/entity/Q2599	Paul McCartney	25
+Q7542	6705604	http://www.wikidata.org/entity/Q7542	Prince	9
+Q76364	4152282	http://www.wikidata.org/entity/Q76364	Hans Zimmer	13
+Q49001	3655145	http://www.wikidata.org/entity/Q49001	Whoopi Goldberg	12
+Q105460	2669165	http://www.wikidata.org/entity/Q105460	John Denver	9
+Q152505	2487048	http://www.wikidata.org/entity/Q152505	Leonard Bernstein	19
+Q23848	1839334	http://www.wikidata.org/entity/Q23848	Ennio Morricone	16
+Q189080	1722973	http://www.wikidata.org/entity/Q189080	Lou Reed	3
+Q153694	1688281	http://www.wikidata.org/entity/Q153694	Michael Bublé	5
+Q202937	1665354	http://www.wikidata.org/entity/Q202937	Stevie Ray Vaughan	1
+Q161877	1411453	http://www.wikidata.org/entity/Q161877	Ashanti	1
+Q11901	1257909	http://www.wikidata.org/entity/Q11901	Beck	2
+Q193397	1108698	http://www.wikidata.org/entity/Q193397	Steve Vai	1
+Q20029978	1089588	http://www.wikidata.org/entity/Q20029978	Finneas O'Connell	3
+Q310343	921945	http://www.wikidata.org/entity/Q310343	Dudley Moore	5
+Q44641	705644	http://www.wikidata.org/entity/Q44641	Wendy Carlos	1
+Q295777	641685	http://www.wikidata.org/entity/Q295777	Kenny G	2
+Q712914	593067	http://www.wikidata.org/entity/Q712914	Jerry Reed	1
+Q207773	545454	http://www.wikidata.org/entity/Q207773	Howard Shore	10
+Q919565	451217	http://www.wikidata.org/entity/Q919565	Marty Robbins	2
+Q213869	450146	http://www.wikidata.org/entity/Q213869	James Newton Howard	5
+Q1295870	441657	http://www.wikidata.org/entity/Q1295870	Maurice White	2
+Q256813	422522	http://www.wikidata.org/entity/Q256813	Lucinda Williams	2
+Q127548	409477	http://www.wikidata.org/entity/Q127548	Dweezil Zappa	1
+Q318374	408176	http://www.wikidata.org/entity/Q318374	Ry Cooder	2
+Q435789	386419	http://www.wikidata.org/entity/Q435789	James Ingram	1
+Q10321888	366930	http://www.wikidata.org/entity/Q10321888	Lzzy Hale	1
+Q247293	316190	http://www.wikidata.org/entity/Q247293	Lalo Schifrin	5
+Q296804	304307	http://www.wikidata.org/entity/Q296804	Bernard Herrmann	3
+Q151608	279330	http://www.wikidata.org/entity/Q151608	Claudio Abbado	19
+Q233453	272615	http://www.wikidata.org/entity/Q233453	Hiromi Uehara	4
+Q238705	255890	http://www.wikidata.org/entity/Q238705	Esperanza Spalding	4
+Q160154	248510	http://www.wikidata.org/entity/Q160154	Evgeny Kissin	5
+Q1378643	244426	http://www.wikidata.org/entity/Q1378643	Maxwell	1
+Q124890	228866	http://www.wikidata.org/entity/Q124890	Sviatoslav Richter	18
+Q156193	205566	http://www.wikidata.org/entity/Q156193	Pierre Boulez	30
+Q1225141	192664	http://www.wikidata.org/entity/Q1225141	T Bone Burnett	1
+Q1192339	188243	http://www.wikidata.org/entity/Q1192339	Ewan MacColl	1
+Q156535	178527	http://www.wikidata.org/entity/Q156535	Gerry Mulligan	2
+Q1685876	173487	http://www.wikidata.org/entity/Q1685876	John Kander	6
+Q84114	166756	http://www.wikidata.org/entity/Q84114	John Adams	11
+Q721684	159151	http://www.wikidata.org/entity/Q721684	Walter Afanasieff	1
+Q371348	156100	http://www.wikidata.org/entity/Q371348	Thom Bell	1
+Q238290	129893	http://www.wikidata.org/entity/Q238290	Mitsuko Uchida	5
+Q83717	127880	http://www.wikidata.org/entity/Q83717	Kayhan Kalhor	1
+Q353096	77954	http://www.wikidata.org/entity/Q353096	Gary Burton	2
+Q701257	68941	http://www.wikidata.org/entity/Q701257	Osvaldo Golijov	5
+Q15430653	68479	http://www.wikidata.org/entity/Q15430653	Caroline Shaw	2
+Q5571383	65178	http://www.wikidata.org/entity/Q5571383	Gloria Gaither	3
+Q439572	56903	http://www.wikidata.org/entity/Q439572	Thomas Adès	9
+Q918872	54088	http://www.wikidata.org/entity/Q918872	Chucho Valdés	6
+Q813553	48021	http://www.wikidata.org/entity/Q813553	Bebo Valdés	3
+Q324075	41162	http://www.wikidata.org/entity/Q324075	Robert Shakespeare	1
+Q435179	37306	http://www.wikidata.org/entity/Q435179	Maria Schneider	2
+Q718617	25811	http://www.wikidata.org/entity/Q718617	Billy Taylor	6
+Q6183524	24308	http://www.wikidata.org/entity/Q6183524	Jerry Duplessis	1
+Q489245	14427	http://www.wikidata.org/entity/Q489245	Frank Foster	3
+Q2316737	14117	http://www.wikidata.org/entity/Q2316737	Ken Darby	3
+Q1538017	12724	http://www.wikidata.org/entity/Q1538017	Gordon Goodwin	1
+Q16165161	10757	http://www.wikidata.org/entity/Q16165161	Mason Bates	4
+Q47501296	10544	http://www.wikidata.org/entity/Q47501296	Lucas Richman	2
+Q527489	6341	http://www.wikidata.org/entity/Q527489	Joel Dorn	1
+Q2220525	4578	http://www.wikidata.org/entity/Q2220525	Sandeep Das	2
+Q5292497	2371	http://www.wikidata.org/entity/Q5292497	Don Davis	1
+Q7609438	1598	http://www.wikidata.org/entity/Q7609438	Stephen Hartke	6
+Q1132412	257	http://www.wikidata.org/entity/Q1132412	"Isaiah ""Ikey"" Owens"	1

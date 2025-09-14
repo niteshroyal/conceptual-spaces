@@ -1,0 +1,23 @@
+title	score
+The Coldest Winter Ever	1.0
+Holes (Holes, #1)	3.0
+Jonathan Livingston Seagull	3.0
+The Quickie	1.0
+Misery	1.0
+Rich Dad, Poor Dad	1.0
+Crime and Punishment	2.0
+Horns	3.0
+Binti (Binti, #1)	1.0
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change	1.0
+Matilda	2.0
+The BFG	5.0
+One Flew Over the Cuckoo's Nest	4.0
+Charlie and the Chocolate Factory (Charlie Bucket, #1)	5.0
+War and Peace	1.0
+Fifty Shades of Grey (Fifty Shades, #1)	2.0
+William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars, #4)	3.0
+Halo (Halo, #1)	1.0
+P.S. I Still Love You (To All the Boys I've Loved Before, #2)	3.0
+Hades (Halo, #2)	1.0
+Heaven (Halo, #3)	1.0
+El Diablo (The Devil, #1)	1.0

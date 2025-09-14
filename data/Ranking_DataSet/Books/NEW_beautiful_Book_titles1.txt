@@ -1,0 +1,29 @@
+title	score
+Mindset: The New Psychology of Success	1.0
+The Ultimate Hitchhiker's Guide to the Galaxy	4.0
+The Long Walk	1.0
+The Divine Comedy	1.0
+The God of Small Things	5.0
+On the Beach	2.0
+The Coldest Winter Ever	1.0
+The Hobbit	5.0
+The Quickie	1.0
+James and the Giant Peach	1.0
+Gulliver's Travels	5.0
+Coraline	5.0
+Dracula	5.0
+Misery	2.0
+The Call of the Wild	5.0
+Crime and Punishment	2.0
+The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)	5.0
+Horns	2.0
+The Heroes (First Law World, #5)	5.0
+Keeper of the Lost Cities (Keeper of the Lost Cities, #1)	3.0
+Slammed (Slammed, #1)	2.0
+After (After, #1)	5.0
+Binti (Binti, #1)	1.0
+A Wizard of Earthsea (Earthsea Cycle, #1)	5.0
+A Confederacy of Dunces	5.0
+The Tombs of Atuan (Earthsea Cycle, #2)	5.0
+The Dispossessed	5.0
+The Color Purple	5.0

@@ -1,0 +1,54 @@
+title	score
+Forrest Gump (1994)	2.0
+Four Weddings and a Funeral (1994)	3.0
+Schindler's List (1993)	2.0
+Terminator 2: Judgment Day (1991)	5.0
+Independence Day (a.k.a. ID4) (1996)	4.0
+Star Wars: Episode V - The Empire Strikes Back (1980)	4.0
+Aliens (1986)	5.0
+Full Metal Jacket (1987)	4.0
+Terminator, The (1984)	5.0
+Little Mermaid, The (1989)	1.0
+Attack of the Killer Tomatoes! (1978)	1.0
+Fight Club (1999)	3.5
+City of God (Cidade de Deus) (2002)	4.0
+Munich (2005)	3.0
+Groundhog Day (1993)	5.0
+Pulp Fiction (1994)	3.0
+Silence of the Lambs, The (1991)	5.0
+Donnie Darko (2001)	4.0
+Raging Bull (1980)	5.0
+X-Men (2000)	3.0
+Casino Royale (2006)	3.0
+Requiem for a Dream (2000)	5.0
+Last Samurai, The (2003)	5.0
+Batman & Robin (1997)	3.0
+Hackers (1995)	2.0
+Sixth Sense, The (1999)	1.0
+Toy Story 2 (1999)	1.0
+Prestige, The (2006)	4.0
+Harry Potter and the Order of the Phoenix (2007)	1.0
+Usual Suspects, The (1995)	5.0
+Wallace & Gromit: The Wrong Trousers (1993)	1.0
+Babel (2006)	4.0
+Dark Knight, The (2008)	4.0
+Muppet Christmas Carol, The (1992)	1.0
+Hudsucker Proxy, The (1994)	2.0
+American Beauty (1999)	1.0
+X2: X-Men United (2003)	4.0
+Letters from Iwo Jima (2006)	5.0
+Bourne Supremacy, The (2004)	5.0
+Ransom (1996)	3.0
+Old Boy (2003)	5.0
+Jerk, The (1979)	1.0
+Vanilla Sky (2001)	5.0
+Pi (1998)	3.0
+Kingdom, The (2007)	3.0
+Wind That Shakes the Barley, The (2006)	5.0
+American Werewolf in Paris, An (1997)	4.0
+Thirteen (2003)	4.0
+Departures (Okuribito) (2008)	5.0
+Never Cry Wolf (1983)	2.0
+True Grit (1969)	2.0
+Heartbreakers (2001)	1.0
+School for Scoundrels (2006)	2.0

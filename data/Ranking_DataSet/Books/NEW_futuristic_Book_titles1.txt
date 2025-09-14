@@ -1,0 +1,158 @@
+title	score
+The Green Mile	1.0
+The Ultimate Hitchhiker's Guide to the Galaxy	5.0
+The Caves of Steel (Robot #1)	5.0
+1984	5.0
+Catch-22 (Catch-22, #1)	1.0
+Looking for Alaska	1.0
+A Feast for Crows (A Song of Ice and Fire, #4)	1.0
+The Last Battle (Chronicles of Narnia, #7)	1.0
+A Storm of Swords (A Song of Ice and Fire, #3)	1.0
+The Coldest Winter Ever	1.0
+Lolita	1.0
+Fahrenheit 451	5.0
+Grendel	1.0
+Watership Down (Watership Down, #1)	1.0
+Call Me by Your Name	1.0
+The End of Eternity	5.0
+The Notebook (The Notebook, #1)	1.0
+The Hobbit	1.0
+Foundation (Foundation #1)	5.0
+I, Robot (Robot #0.1)	5.0
+Legend (The Drenai Saga, #1)	1.0
+The Quickie	1.0
+American Gods (American Gods, #1)	1.0
+Tuesdays with Morrie	1.0
+The Mote in God's Eye	5.0
+Murder on the Orient Express (Hercule Poirot, #10)	1.0
+Ender's Game (Ender's Saga, #1)	5.0
+The Name of the Wind (The Kingkiller Chronicle, #1)	1.0
+The Giver (The Giver, #1)	3.0
+The Five People You Meet in Heaven	1.0
+Thinner	1.0
+The Witching Hour (Lives of the Mayfair Witches, #1)	1.0
+A Dance with Dragons (A Song of Ice and Fire, #5)	1.0
+The Titan's Curse (Percy Jackson and the Olympians, #3)	1.0
+And Then There Were None	1.0
+The Queen of the Damned (The Vampire Chronicles, #3)	1.0
+Misery	1.0
+A Clash of Kings  (A Song of Ice and Fire, #2)	1.0
+The Fountainhead	1.0
+Rich Dad, Poor Dad	1.0
+Crime and Punishment	1.0
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch	1.0
+I, Claudius (Claudius, #1)	1.0
+The Last Olympian (Percy Jackson and the Olympians, #5)	1.0
+The Memoirs of Sherlock Holmes	1.0
+Holy Bible: King James Version	5.0
+Horns	1.0
+The Complete Sherlock Holmes	1.0
+The Way of Kings (The Stormlight Archive, #1)	1.0
+Ready Player One	5.0
+The Fault in Our Stars	1.0
+Eleanor & Park	1.0
+The Goldfinch	1.0
+The Call of Cthulhu	2.0
+After (After, #1)	1.0
+Binti (Binti, #1)	1.0
+The Raven	1.0
+Welcome to Dead House (Goosebumps, #1)	1.0
+Robinson Crusoe	1.0
+Do Androids Dream of Electric Sheep?	5.0
+Interview with the Vampire (The Vampire Chronicles, #1)	1.0
+The Book Thief	1.0
+The Hunt for Red October (Jack Ryan Universe, #4)	1.0
+The Handmaid's Tale	3.0
+The Lovely Bones	1.0
+Have a Little Faith: a True Story	1.0
+Nausea	1.0
+Into the Wild (Warriors, #1)	1.0
+Pretties (Uglies, #2)	4.0
+The Girl with the Dragon Tattoo (Millennium, #1)	2.0
+John Dies at the End (John Dies at the End, #1)	1.0
+The Time Traveler's Wife	1.0
+The Little Prince	1.0
+The Communist Manifesto	2.0
+The Perks of Being a Wallflower	1.0
+Speaker for the Dead (Ender's Saga, #2)	5.0
+Outlander (Outlander, #1)	1.0
+Uglies (Uglies, #1)	3.0
+Elantris (Elantris, #1)	1.0
+Animal Farm / 1984	1.0
+For One More Day	1.0
+Ender's Shadow (Ender's Shadow, #1)	5.0
+The Adventures of Captain Underpants (Captain Underpants, #1)	1.0
+The Stranger	1.0
+The Lightning Thief (Percy Jackson and the Olympians, #1)	1.0
+Paper Towns	1.0
+The Curious Incident of the Dog in the Night-Time	1.0
+The Maze Runner (Maze Runner, #1)	4.0
+Anna and the French Kiss (Anna and the French Kiss, #1)	1.0
+The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)	5.0
+Divergent (Divergent, #1)	4.5
+Leviathan Wakes (The Expanse, #1)	5.0
+Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)	2.0
+Fifty Shades of Grey (Fifty Shades, #1)	1.0
+At the Mountains of Madness	1.0
+Hollow City (Miss Peregrine’s Peculiar Children, #2)	2.0
+This Book Is Full of Spiders (John Dies at the End, #2)	1.0
+The First Phone Call from Heaven	1.0
+Illuminae (The Illuminae Files, #1)	3.0
+Futuristic Violence and Fancy Suits	5.0
+The Nightingale	1.0
+Nevernight (The Nevernight Chronicle, #1)	1.0
+Godsgrave (The Nevernight Chronicle, #2)	1.0
+Library of Souls (Miss Peregrine's Peculiar Children, #3)	2.0
+The Ballad of Black Tom	1.0
+The Sun and Her Flowers	1.0
+Vampire Academy (Vampire Academy, #1)	1.0
+City of Bones (The Mortal Instruments, #1)	1.0
+The Vampire Lestat (The Vampire Chronicles, #2)	1.0
+Throne of Glass (Throne of Glass, #1)	1.0
+Insurgent (Divergent, #2)	4.3333333333
+Caliban's War (The Expanse, #2)	5.0
+The Wolf Gift (The Wolf Gift Chronicles, #1)	1.0
+My Brilliant Friend (The Neapolitan Novels #1)	1.0
+The Time Keeper	1.0
+Life After Life	1.0
+The Fever Code (The Maze Runner, #0.6)	3.0
+The Magic Strings of Frankie Presto	2.0
+The Reader	1.0
+The Sea of Monsters (Percy Jackson and the Olympians, #2)	1.0
+Moneyball: The Art of Winning an Unfair Game	1.0
+Voyager (Outlander, #3)	1.0
+The Fiery Cross (Outlander, #5)	1.0
+My Sister's Keeper	1.0
+A Breath of Snow and Ashes (Outlander, #6)	1.0
+The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)	1.0
+Shadow Puppets (Ender's Shadow, #3)	5.0
+The Tenth Circle	1.0
+An Echo in the Bone (Outlander, #7)	1.0
+Dragonfly in Amber (Outlander, #2)	1.0
+Drums of Autumn (Outlander, #4)	1.0
+The Pact	1.0
+Nineteen Minutes	1.0
+Will Grayson, Will Grayson	1.0
+The Girl Who Played with Fire (Millennium, #2)	1.0
+Written in My Own Heart's Blood (Outlander, #8)	1.0
+Fifty Shades Darker (Fifty Shades, #2)	1.0
+Fifty Shades Freed (Fifty Shades, #3)	1.0
+Diary Of An Oxygen Thief (The Oxygen Thief Diaries #1)	1.0
+The Host (The Host, #1)	5.0
+Sizzling Sixteen (Stephanie Plum, #16)	1.0
+Big Girl	1.0
+Matched (Matched, #1)	5.0
+Love in a Nutshell (Culhane Family #1)	1.0
+After We Collided (After, #2)	1.0
+After Ever Happy (After, #4)	1.0
+Milk and Honey	1.0
+See Me	1.0
+Desperation	1.0
+The Final Empire (Mistborn, #1)	1.0
+Midnight for Charlie Bone (The Children of the Red King, #1)	1.0
+Warbreaker (Warbreaker, #1)	1.0
+Change of Heart	1.0
+Plain Truth	1.0
+House Rules	1.0
+Keeping Faith	1.0
+Because of Miss Bridgerton (Rokesbys, #1)	1.0

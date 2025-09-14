@@ -1,0 +1,29 @@
+title	score
+Braveheart (1995)	4.0
+Schindler's List (1993)	4.0
+Life Is Beautiful (La Vita è bella) (1997)	4.0
+Green Mile, The (1999)	3.0
+Lord of the Rings: The Return of the King, The (2003)	2.0
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	3.0
+Maverick (1994)	2.0
+Monsters, Inc. (2001)	5.0
+Sin City (2005)	3.0
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	1.5
+One Flew Over the Cuckoo's Nest (1975)	3.0
+Blues Brothers, The (1980)	1.0
+Charlie Brown Christmas, A (1965)	4.0
+Mr. Holland's Opus (1995)	4.0
+Stuart Little (1999)	3.0
+Phenomenon (1996)	5.0
+Pretty Woman (1990)	5.0
+Three Colors: White (Trzy kolory: Bialy) (1994)	3.0
+Awakenings (1990)	2.0
+Santa Clause, The (1994)	2.0
+25th Hour (2002)	2.0
+What's Eating Gilbert Grape (1993)	5.0
+Roman Holiday (1953)	4.0
+Kid, The (1921)	4.0
+Horse Whisperer, The (1998)	5.0
+Father of the Bride (1991)	4.0
+Made of Honor (2008)	3.0
+Changing Lanes (2002)	2.0

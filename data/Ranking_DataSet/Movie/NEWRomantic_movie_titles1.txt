@@ -1,0 +1,47 @@
+title	score
+Beverly Hills Cop III (1994)	1.0
+Fargo (1996)	1.0
+Top Gun (1986)	2.5
+Good Will Hunting (1997)	2.0
+Titanic (1997)	5.0
+Life Is Beautiful (La Vita è bella) (1997)	4.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	2.0
+Beautiful Mind, A (2001)	3.0
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	2.0
+Lord of the Rings: The Return of the King, The (2003)	1.0
+Ratatouille (2007)	2.0
+Stardust (2007)	5.0
+Shakespeare in Love (1998)	4.5
+Blue Lagoon, The (1980)	5.0
+Mexican, The (2001)	4.0
+Princess Bride, The (1987)	5.0
+Eternal Sunshine of the Spotless Mind (2004)	4.3333333333
+Much Ado About Nothing (1993)	5.0
+Sixth Sense, The (1999)	1.0
+Garden State (2004)	3.0
+Lost in Translation (2003)	4.0
+Bridget Jones's Diary (2001)	5.0
+Fantasia (1940)	3.0
+My Best Friend's Wedding (1997)	3.0
+Notting Hill (1999)	5.0
+Pretty Woman (1990)	5.0
+Femme Nikita, La (Nikita) (1990)	2.0
+Moulin Rouge (2001)	4.0
+Edward Scissorhands (1990)	3.0
+About a Boy (2002)	4.0
+Because I Said So (2007)	5.0
+Don Juan DeMarco (1995)	5.0
+Crocodile Dundee (1986)	3.0
+Big Kahuna, The (2000)	1.0
+In the Name of the Father (1993)	2.0
+Room with a View, A (1986)	5.0
+America's Sweethearts (2001)	4.0
+Erin Brockovich (2000)	4.0
+Farscape: The Peacekeeper Wars (2004)	3.0
+You've Got Mail (1998)	5.0
+Bodyguard, The (1992)	5.0
+Wimbledon (2004)	4.0
+Wedding Planner, The (2001)	5.0
+Before Sunset (2004)	5.0
+Tie Me Up! Tie Me Down! (¡Átame!) (1990)	4.0
+Bread and Tulips (Pane e tulipani) (2000)	5.0

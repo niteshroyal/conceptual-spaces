@@ -1,0 +1,67 @@
+title	score
+Marley and Me: Life and Love With the World's Worst Dog	2.0
+Where the Sidewalk Ends	4.0
+The Ultimate Hitchhiker's Guide to the Galaxy	5.0
+The Coldest Winter Ever	1.0
+Slaughterhouse-Five	3.0
+The Quickie	1.0
+American Gods (American Gods, #1)	1.0
+Sphere	1.0
+The Grapes of Wrath	1.0
+The Glass Castle	1.0
+The Two Towers (The Lord of the Rings, #2)	2.0
+The Return of the King (The Lord of the Rings, #3)	2.0
+A Million Little Pieces	1.0
+Misery	1.0
+The Road	1.0
+Jurassic Park (Jurassic Park, #1)	1.0
+Crime and Punishment	1.0
+The Memoirs of Sherlock Holmes	1.0
+Horns	1.0
+The Call of Cthulhu	1.0
+Binti (Binti, #1)	1.0
+The Tao of Pooh	3.0
+Fight Club	5.0
+The Raven	1.0
+The Four Agreements: A Practical Guide to Personal Freedom	1.0
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate	1.0
+Interview with the Vampire (The Vampire Chronicles, #1)	1.0
+The Book Thief	5.0
+A Confederacy of Dunces	5.0
+One for the Money (Stephanie Plum, #1)	5.0
+Mort (Death, #1; Discworld, #4)	5.0
+John Dies at the End (John Dies at the End, #1)	5.0
+The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)	5.0
+Breakfast of Champions	3.0
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)	5.0
+Deception Point	2.0
+The Fellowship of the Ring (The Lord of the Rings, #1)	2.0
+Eat, Pray, Love	1.0
+Jonathan Strange & Mr Norrell	2.0
+At the Mountains of Madness	1.0
+This Book Is Full of Spiders (John Dies at the End, #2)	5.0
+Futuristic Violence and Fancy Suits	5.0
+Nevernight (The Nevernight Chronicle, #1)	5.0
+Godsgrave (The Nevernight Chronicle, #2)	5.0
+The Ballad of Black Tom	1.0
+The Hate U Give	1.0
+Origin (Robert Langdon, #5)	2.0
+Me Talk Pretty One Day	4.5
+The Lost Symbol (Robert Langdon, #3)	2.0
+Digital Fortress	2.0
+P.S. I Love You	1.0
+Confessions of a Shopaholic (Shopaholic, #1)	4.0
+Finger Lickin' Fifteen (Stephanie Plum, #15)	5.0
+Explosive Eighteen (Stephanie Plum, #18)	5.0
+Notorious Nineteen (Stephanie Plum, #19)	5.0
+Takedown Twenty (Stephanie Plum, #20)	5.0
+P.S. I Still Love You (To All the Boys I've Loved Before, #2)	1.0
+Fast Food Nation: The Dark Side of the All-American Meal	1.0
+Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto	1.0
+Seduction and Snacks (Chocolate Lovers, #1)	1.0
+Sex Love Repeat	1.0
+Sex Object	1.0
+The 100 (The 100, #1)	2.0
+I Love You, Beth Cooper	3.0
+Day 21 (The 100, #2)	2.0
+Homecoming (The 100, #3)	2.0

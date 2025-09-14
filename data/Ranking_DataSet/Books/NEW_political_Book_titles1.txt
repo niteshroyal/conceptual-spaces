@@ -1,0 +1,139 @@
+title	score
+1984	5.0
+The Divine Comedy	1.0
+Post Office	1.0
+Ham on Rye	1.0
+Go Tell It on the Mountain	3.0
+The Magician's Nephew (Chronicles of Narnia, #6)	1.0
+The Last Battle (Chronicles of Narnia, #7)	1.0
+The Coldest Winter Ever	1.0
+Lolita	1.0
+Fahrenheit 451	5.0
+A is for Alibi (Kinsey Millhone, #1)	1.0
+Grendel	1.0
+Watership Down (Watership Down, #1)	1.0
+The Silver Chair (Chronicles of Narnia, #4)	1.0
+The Hobbit	1.0
+Their Eyes Were Watching God	2.0
+The Quickie	1.0
+In Cold Blood	2.0
+B is for Burglar  (Kinsey Millhone, #2)	1.0
+Tuesdays with Morrie	1.0
+The Good Earth (House of Earth, #1)	2.0
+Gulliver's Travels	4.0
+The Name of the Wind (The Kingkiller Chronicle, #1)	1.0
+The Five People You Meet in Heaven	1.0
+Coraline	1.0
+Dracula	1.0
+The War of the Worlds	1.0
+Misery	1.0
+Veronika Decides to Die	1.0
+The Fountainhead	5.0
+Prince Caspian (Chronicles of Narnia, #2)	1.0
+The Voyage of the Dawn Treader (Chronicles of Narnia, #3)	1.0
+Crime and Punishment	1.0
+I, Claudius (Claudius, #1)	2.0
+A Farewell to Arms	3.0
+The Memoirs of Sherlock Holmes	1.0
+Horns	1.0
+The Complete Sherlock Holmes	1.0
+The Way of Kings (The Stormlight Archive, #1)	1.0
+The Heroes (First Law World, #5)	1.0
+I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban	5.0
+Binti (Binti, #1)	1.0
+World War Z: An Oral History of the Zombie War	1.0
+A Drink Before the War (Kenzie & Gennaro, #1)	1.0
+A Wizard of Earthsea (Earthsea Cycle, #1)	1.0
+The Raven	1.0
+The Godfather	2.0
+Beloved	4.0
+Gravity's Rainbow	4.0
+A Midsummer Night's Dream	1.0
+The Hunt for Red October (Jack Ryan Universe, #4)	3.0
+The Adventures of Sherlock Holmes	1.0
+Have a Little Faith: a True Story	1.0
+The Jungle	5.0
+The Tombs of Atuan (Earthsea Cycle, #2)	1.0
+To the Lighthouse	3.0
+The Prince	5.0
+Middlemarch	3.0
+Wuthering Heights	1.0
+The Republic	5.0
+The Audacity of Hope: Thoughts on Reclaiming the American Dream	4.0
+Hamlet	3.0
+The Bluest Eye	3.0
+Narrative of the Life of Frederick Douglass	1.0
+The Plague	3.0
+Oh, The Places You'll Go!	1.0
+Animal Farm	5.0
+The Red Badge of Courage	4.0
+Ulysses	4.0
+How to Win Friends and Influence People	1.0
+The Shack	1.0
+The Dispossessed	4.0
+Madame Bovary	3.0
+Team of Rivals: The Political Genius of Abraham Lincoln	4.0
+Alice in Wonderland	1.0
+The Trial	3.0
+Animal Farm / 1984	5.0
+Silas Marner	1.0
+For One More Day	1.0
+If You Give a Mouse a Cookie	1.0
+The Art of War	1.0
+Song of Solomon	2.0
+The Adventures of Captain Underpants (Captain Underpants, #1)	1.0
+Infinite Jest	3.0
+The Horse and His Boy (Chronicles of Narnia, #5)	1.0
+The Color Purple	2.5
+Flowers in the Attic (Dollanganger, #1)	1.0
+Romeo and Juliet	1.0
+The Brothers Karamazov	3.0
+Midnight Sun (Twilight, #1.5)	2.0
+Black Beauty	1.0
+David Copperfield	1.0
+Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime	4.5
+Leviathan Wakes (The Expanse, #1)	2.0
+The Shoemaker's Wife	1.0
+Steve Jobs	3.0
+The One and Only Ivan	1.0
+Counting by 7s	1.0
+The First Phone Call from Heaven	1.0
+Liar, Temptress, Soldier, Spy: Four Women Undercover in the Civil War	1.0
+The Adventures of Tom Sawyer	1.0
+Killing Patton: The Strange Death of World War II's Most Audacious General	1.0
+Dreams from My Father: A Story of Race and Inheritance	4.0
+The Yiddish Policemen's Union	2.0
+The Last Command (Star Wars: The Thrawn Trilogy, #3)	2.0
+Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)	2.0
+All the King's Men	4.0
+The World According to Garp	2.0
+Heir to the Empire (Star Wars: The Thrawn Trilogy #1)	2.0
+On Chesil Beach	1.0
+The Amazing Adventures of Kavalier & Clay	2.0
+The Cider House Rules	2.0
+Insurgent (Divergent, #2)	1.0
+Bartleby the Scrivener	1.0
+Caliban's War (The Expanse, #2)	2.0
+The Time Keeper	1.0
+The Magic Strings of Frankie Presto	1.0
+Aftermath (Star Wars: Aftermath, #1)	2.0
+What Happened	4.0
+Women	1.0
+The 48 Laws of Power	2.5
+The Day of the Jackal	5.0
+Black Like Me	5.0
+The Pilgrimage	1.0
+Dawn of the Dreadfuls (Pride and Prejudice and Zombies, #0.5)	1.0
+The Witch Of Portobello	1.0
+Adultery	1.0
+Rules of Prey (Lucas Davenport, #1)	1.0
+Buried Prey (Lucas Davenport, #21)	1.0
+Mad River (Virgil Flowers, #6)	1.0
+Silken Prey (Lucas Davenport, #23)	1.0
+Storm Front  (Virgil Flowers, #7)	1.0
+Field of Prey (Lucas Davenport, #24)	1.0
+Deadline (Virgil Flowers, #8)	1.0
+Gathering Prey (Lucas Davenport, #25)	1.0
+Influence: The Psychology of Persuasion	1.0
+The God Delusion	3.0
+Predictably Irrational: The Hidden Forces That Shape Our Decisions	1.0

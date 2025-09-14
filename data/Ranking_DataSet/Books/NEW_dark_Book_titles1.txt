@@ -1,0 +1,660 @@
+title	score
+The Green Mile	4.0
+Leaves of Grass	1.0
+Where the Sidewalk Ends	1.0
+A Separate Peace	1.0
+The Gunslinger	3.5
+Steppenwolf	3.0
+Green Eggs and Ham	1.0
+Five Point Someone	1.0
+Don Quixote	1.5
+The Ultimate Hitchhiker's Guide to the Galaxy	1.0
+The Client	1.5
+The Caves of Steel (Robot #1)	1.0
+Pet Sematary	5.0
+The Secret of the Old Clock (Nancy Drew, #1)	4.0
+1984	5.0
+Childhood's End	2.0
+The Lottery and Other Stories	5.0
+The Great Gatsby	2.3333333333
+Night (The Night Trilogy #1)	4.5
+The Cat in the Hat	1.0
+Intensity	5.0
+As I Lay Dying	5.0
+Redwall (Redwall, #1)	1.0
+Snow Crash	3.0
+The Long Walk	4.0
+The Sun Also Rises	3.0
+The Magic Mountain	1.5
+Atlas Shrugged	4.0
+The Miraculous Journey of Edward Tulane	1.0
+We Have Always Lived in the Castle	5.0
+The Master and Margarita	5.0
+Tortilla Flat	1.5
+On a Pale Horse (Incarnations of Immortality, #1)	3.0
+Ask the Dust (Arturo Bandini, #3)	2.0
+Ringworld (Ringworld, #1)	1.0
+A Lesson Before Dying	1.0
+Lord Foul's Bane (The Chronicles of Thomas Covenant the Unbeliever, #1)	2.0
+On the Beach	5.0
+Paradise Lost	1.0
+Wise Blood	4.5
+The Moon is a Harsh Mistress	1.0
+The Last Battle (Chronicles of Narnia, #7)	3.0
+Blood Meridian, or the Evening Redness in the West	5.0
+The Illustrated Man	3.0
+Birdsong	5.0
+Velocity	5.0
+Something Wicked This Way Comes (Green Town, #2)	4.0
+The Coldest Winter Ever	3.0
+Lolita	5.0
+Fahrenheit 451	4.3333333333
+Tell Me Your Dreams	3.0
+Grendel	5.0
+Watership Down (Watership Down, #1)	2.0
+Hyperion (Hyperion Cantos, #1)	3.0
+Life of Pi	2.6666666667000003
+The End of Eternity	1.0
+I Know Why the Caged Bird Sings	1.0
+Half Magic (Tales of Magic, #1)	1.0
+A Game of Thrones (A Song of Ice and Fire, #1)	1.0
+The Notebook (The Notebook, #1)	1.0
+The Hobbit	1.5
+The Great Hunt (Wheel of Time, #2)	2.0
+The Clan of the Cave Bear (Earth's Children, #1)	3.0
+Their Eyes Were Watching God	1.0
+Holes (Holes, #1)	1.3333333333000001
+Slaughterhouse-Five	5.0
+On the Road	1.0
+The Phantom Tollbooth	1.0
+Foundation (Foundation #1)	2.0
+I, Robot (Robot #0.1)	2.0
+Legend (The Drenai Saga, #1)	4.0
+The Picture of Dorian Gray	3.0
+The Quickie	1.0
+All the Pretty Horses (The Border Trilogy, #1)	5.0
+In Cold Blood	2.0
+Eleven Minutes	1.0
+American Gods (American Gods, #1)	3.0
+Tuesdays with Morrie	1.0
+The Eye of the World (Wheel of Time, #1)	2.0
+The Mote in God's Eye	1.0
+I Am Legend and Other Stories	5.0
+The Good Earth (House of Earth, #1)	1.0
+The Metamorphosis	2.0
+Alice's Adventures in Wonderland & Through the Looking-Glass	1.0
+James and the Giant Peach	2.0
+Gulliver's Travels	1.0
+Uncle Tom's Cabin	5.0
+The Name of the Wind (The Kingkiller Chronicle, #1)	2.0
+Roots: The Saga of an American Family	1.0
+The Giver (The Giver, #1)	2.6666666667000003
+Of Human Bondage	2.5
+The Five People You Meet in Heaven	1.0
+East of Eden	1.0
+Great Expectations	3.5
+Sphere	2.0
+Thinner	4.0
+Coraline	4.5
+Little House on the Prairie (Little House, #2)	1.0
+The Witching Hour (Lives of the Mayfair Witches, #1)	4.0
+The Grapes of Wrath	1.5
+The Glass Castle	1.0
+Swan Song	2.0
+Bleak House	3.0
+The Two Towers (The Lord of the Rings, #2)	3.0
+The Return of the King (The Lord of the Rings, #3)	3.0
+The Catcher in the Rye	2.0
+Death on the Nile (Hercule Poirot, #17)	2.3333333333
+And Then There Were None	4.5
+Pride and Prejudice	1.5
+A Christmas Carol	2.5
+Hunger	4.0
+A Million Little Pieces	5.0
+A Walk to Remember	1.0
+The Queen of the Damned (The Vampire Chronicles, #3)	4.0
+Harry, a History: The True Story of a Boy Wizard, His Fans, and Life Inside the Harry Potter Phenomenon	1.0
+Dracula	4.3333333333
+Eragon (The Inheritance Cycle, #1)	1.5
+Choke	5.0
+The War of the Worlds	4.0
+The Heretic's Daughter	3.0
+Dear John	1.0
+Misery	4.0
+Little Women (Little Women, #1)	1.0
+The Call of the Wild	2.0
+Bag of Bones	4.5
+One Hundred Years of Solitude	1.0
+The Kite Runner	1.0
+Tess of the D'Urbervilles	3.0
+The Fountainhead	2.0
+Flowers for Algernon	2.0
+Angels & Demons  (Robert Langdon, #1)	2.0
+The Road	4.0
+Gone with the Wind	1.5
+Girl with a Pearl Earring	1.0
+Rich Dad, Poor Dad	1.0
+Jurassic Park (Jurassic Park, #1)	2.0
+Crime and Punishment	4.0
+Dune (Dune Chronicles #1)	2.0
+The Twilight Saga: The Official Illustrated Guide (Twilight, #4.5)	2.0
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch	1.0
+I, Claudius (Claudius, #1)	3.0
+Odd Thomas (Odd Thomas, #1)	5.0
+The Martian Chronicles	2.0
+A Farewell to Arms	3.0
+The Help	2.0
+The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)	1.5
+Frankenstein	4.3333333333
+The Strain (The Strain Trilogy, #1)	5.0
+The Memoirs of Sherlock Holmes	2.0
+The Immortal Life of Henrietta Lacks	1.0
+Horns	4.0
+The Complete Sherlock Holmes	3.0
+The Way of Kings (The Stormlight Archive, #1)	2.0
+Safe Haven	2.0
+The Short Second Life of Bree Tanner (Twilight, #3.5)	1.0
+The Heroes (First Law World, #5)	3.0
+Doctor Sleep	5.0
+Slammed (Slammed, #1)	3.0
+A Wrinkle in Time: The Graphic Novel	3.0
+A Man Called Ove	2.0
+The Goldfinch	3.0
+The Call of Cthulhu	5.0
+Finding Cinderella (Hopeless, #2.5)	1.0
+The Monogram Murders	3.0
+The Paper Magician (The Paper Magician Trilogy, #1)	1.0
+Confess	2.0
+Dark Matter	1.0
+Binti (Binti, #1)	3.0
+Private (Private, #1)	2.0
+A Clockwork Orange	5.0
+The Giving Tree	1.5
+The Firm (Penguin Readers, Level 5)	3.0
+Red Mars (Mars Trilogy, #1)	2.0
+Rebecca	3.5
+The Tao of Pooh	1.0
+Anne of Avonlea (Anne of Green Gables, #2)	1.0
+Fight Club	3.3333333333
+The Witches	5.0
+A Wizard of Earthsea (Earthsea Cycle, #1)	3.0
+The Raven	4.2
+The Four Agreements: A Practical Guide to Personal Freedom	1.0
+The Count of Monte Cristo	3.0
+Welcome to Dead House (Goosebumps, #1)	4.0
+Batman: The Killing Joke	4.0
+A Living Nightmare (Cirque Du Freak, #1)	4.0
+Beloved	4.0
+The Chronicles of Narnia (Chronicles of Narnia, #1-7)	3.0
+The Mists of Avalon (Avalon, #1)	2.0
+Do Androids Dream of Electric Sheep?	4.0
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate	1.0
+A Tree Grows in Brooklyn	3.0
+The Duke and I (Bridgertons, #1)	1.0
+The Shining	4.3333333333
+Interview with the Vampire (The Vampire Chronicles, #1)	4.0
+The Book Thief	3.0
+A Wrinkle in Time (A Wrinkle in Time Quintet, #1)	1.0
+Stargirl (Stargirl, #1)	1.0
+A Confederacy of Dunces	2.0
+Charlotte's Web	2.5
+Goodnight Moon	2.0
+The Hunt for Red October (Jack Ryan Universe, #4)	1.0
+The Handmaid's Tale	3.6666666667000003
+Fables, Volume 2: Animal Farm (Fables, #2)	4.0
+The Lovely Bones	4.3333333333
+The Boy in the Striped Pajamas	4.0
+Alexander Hamilton	1.0
+White Oleander	3.0
+Have a Little Faith: a True Story	1.0
+The BFG	4.0
+A Little Princess	1.0
+The Tombs of Atuan (Earthsea Cycle, #2)	3.0
+Endless Night	3.0
+Into the Wild (Warriors, #1)	2.0
+Peter Pan	1.0
+The Bell Jar	3.5
+The Cask of Amontillado	3.6666666667000003
+The Outsiders	1.0
+Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)	4.0
+One for the Money (Stephanie Plum, #1)	1.0
+Carrie	5.0
+Wuthering Heights	4.0
+Pretties (Uglies, #2)	1.0
+City of Ashes (The Mortal Instruments, #2)	1.6666666667
+The Republic	2.0
+The Girl with the Dragon Tattoo (Millennium, #1)	3.0
+The Stand	5.0
+If Tomorrow Comes (Tracy Whitney Series, #1)	3.0
+Brokeback Mountain	1.0
+A Time to Kill	4.0
+Whiskey Sour (Jack Daniels Mystery, #1)	2.0
+John Dies at the End (John Dies at the End, #1)	5.0
+Cloud Atlas	4.0
+Macbeth	5.0
+His Dark Materials (His Dark Materials #1-3)	1.0
+Narrative of the Life of Frederick Douglass	1.0
+The Wonderful Wizard of Oz (Oz, #1)	2.0
+Pippi Longstocking	1.0
+The Prince and the Pauper	2.0
+One Flew Over the Cuckoo's Nest	4.5
+A Great and Terrible Beauty (Gemma Doyle, #1)	5.0
+Darkly Dreaming Dexter (Dexter, #1)	5.0
+Oh, The Places You'll Go!	1.0
+The Time Traveler's Wife	1.5
+Memories of My Melancholy Whores	3.0
+The Little Prince	1.0
+The Communist Manifesto	1.0
+Animal Farm	2.0
+The Graveyard Book	4.0
+The Perks of Being a Wallflower	1.5
+Any Human Heart	2.0
+Atonement	3.0
+Everything's Eventual: 14 Dark Tales	4.5
+King Lear	5.0
+Moby-Dick or, The Whale	3.0
+Outlander (Outlander, #1)	1.0
+The Bone Collector (Lincoln Rhyme, #1)	5.0
+A Connecticut Yankee in King Arthur's Court	1.0
+Eclipse (Twilight, #3)	3.0
+Number the Stars	3.0
+The Merchant of Venice	2.0
+The Dispossessed	3.0
+Lord of the Flies	5.0
+The Hunger Games (The Hunger Games, #1)	5.0
+Sense and Sensibility	1.0
+The Shock Doctrine: The Rise of Disaster Capitalism	5.0
+Candide	1.0
+Breakfast of Champions	3.0
+Uglies (Uglies, #1)	1.0
+Elantris (Elantris, #1)	4.0
+Alice in Wonderland	1.0
+A Tale of Two Cities	3.0
+Breaking Dawn (Twilight, #4)	3.0
+Harry Potter Boxset (Harry Potter, #1-7)	3.5
+Harry Potter and the Deathly Hallows (Harry Potter, #7)	1.0
+Animal Farm / 1984	4.5
+Jane Eyre	2.5
+Perfume: The Story of a Murderer	5.0
+The Da Vinci Code (Robert Langdon, #2)	1.0
+Harry Potter and the Goblet of Fire (Harry Potter, #4)	2.0
+'Salem's Lot	5.0
+Oliver Twist	3.0
+The Canterville Ghost	2.0
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)	2.0
+The Eyes of the Dragon	4.0
+In the Woods (Dublin Murder Squad, #1)	4.0
+For One More Day	1.0
+If You Give a Mouse a Cookie	1.0
+Deception Point	3.0
+The Very Hungry Caterpillar	1.0
+The Strange Case of Dr. Jekyll and Mr. Hyde	4.0
+The Secret Garden	1.0
+New Moon (Twilight, #2)	3.0
+The Fellowship of the Ring (The Lord of the Rings, #1)	2.0
+Brave New World	2.75
+The Devil and Miss Prym (On the Seventh Day, #3)	5.0
+Sula	3.0
+Les Misérables	1.0
+The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)	3.0
+The Sunday Philosophy Club (Isabel Dalhousie, #1)	1.0
+The Adventures of Captain Underpants (Captain Underpants, #1)	1.0
+The Angel's Game (The Cemetery of Forgotten Books, #2)	2.0
+A Thousand Splendid Suns	5.0
+To Kill a Mockingbird	3.0
+Love in the Time of Cholera	3.0
+The Iliad	2.5
+The Color Purple	3.0
+The Hidden Staircase (Nancy Drew #2)	4.0
+Flowers in the Attic (Dollanganger, #1)	4.8
+The Hound of the Baskervilles	4.0
+The Stranger	2.0
+The Lightning Thief (Percy Jackson and the Olympians, #1)	2.0
+Eat, Pray, Love	1.0
+The Odyssey	2.5
+The Pillars of the Earth (Kingsbridge, #1)	4.0
+Emma	1.0
+The Mysterious Affair at Styles (Hercule Poirot, #1)	1.0
+The Brothers Karamazov	4.0
+The Lord of the Rings (The Lord of the Rings, #1-3)	1.0
+The Diary of a Young Girl	5.0
+The Associate	1.0
+The Mane Event (Pride, #1)	1.0
+Dearly Devoted Dexter (Dexter, #2)	5.0
+Jonathan Strange & Mr Norrell	5.0
+Fantastic Beasts and Where to Find Them	1.0
+The Curious Incident of the Dog in the Night-Time	2.5
+Lisey's Story	3.0
+Harry Potter and the Sorcerer's Stone (Harry Potter, #1)	2.0
+David Copperfield	1.0
+The Silmarillion	2.0
+The Alchemist	3.0
+War and Peace	5.0
+The Scarlet Letter	1.0
+The Children of Húrin	1.0
+Catching Fire (The Hunger Games, #2)	4.0
+Quidditch Through the Ages	1.0
+Wolf Hall (Thomas Cromwell, #1)	3.0
+The Maze Runner (Maze Runner, #1)	3.0
+The Twilight Saga (Twilight, #1-4)	3.0
+Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen	4.0
+The Last Song	2.0
+Under the Dome	3.25
+Pride Mates (Shifters Unbound, #1)	3.0
+Pete the Cat: I Love My White Shoes	1.0
+Beast Behaving Badly (Pride, #5)	1.0
+I Too Had a Love Story	1.0
+Mockingjay (The Hunger Games, #3)	4.0
+Twilight: The Graphic Novel, Vol. 1 (Twilight: The Graphic Novel, #1)	1.6666666667
+Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back	1.0
+Divergent (Divergent, #1)	3.0
+Gone Girl	5.0
+Leviathan Wakes (The Expanse, #1)	1.0
+Harry Potter: The Prequel (Harry Potter, #0.5)	1.5
+The Night Circus	2.5
+Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)	3.3333333333
+Harry Potter and the Methods of Rationality	3.0
+Shadow and Bone (The Grisha, #1)	4.0
+Cinder (The Lunar Chronicles, #1)	4.0
+11/22/63	4.0
+Steve Jobs	1.5
+Alice in Zombieland (White Rabbit Chronicles, #1)	5.0
+The One and Only Ivan	2.0
+Bear Meets Girl (Pride, #7)	1.0
+At the Mountains of Madness	5.0
+Hollow City (Miss Peregrine’s Peculiar Children, #2)	3.3333333333
+Me Before You (Me Before You, #1)	2.0
+Tell the Wolves I'm Home	1.0
+The Prisoner of Heaven (The Cemetery of Forgotten Books, #3)	2.0
+This Book Is Full of Spiders (John Dies at the End, #2)	5.0
+Duke of Midnight (Maiden Lane, #6)	4.0
+This is the Story of a Happy Marriage	1.0
+Scarlet (The Lunar Chronicles, #2)	1.0
+The Black Count: Glory, Revolution, Betrayal, and the Real Count of Monte Cristo	1.0
+Crazy Rich Asians (Crazy Rich Asians #1)	1.5
+Breathe, Annie, Breathe	1.0
+Widdershins (Whyborne & Griffin, #1)	2.0
+The World of Ice & Fire: The Untold History of Westeros and the Game of Thrones	1.0
+Inferno (Robert Langdon, #4)	1.5
+The Longest Ride	1.0
+Five Days at Memorial: Life and Death in a Storm-Ravaged Hospital	5.0
+The First Phone Call from Heaven	1.0
+The Young Elites (The Young Elites, #1)	1.0
+Romancing the Duke (Castles Ever After, #1)	1.0
+Four: A Divergent Story Collection (Divergent, #0.1 - 0.4)	4.0
+All the Light We Cannot See	1.0
+Illuminae (The Illuminae Files, #1)	2.5
+Simon vs. the Homo Sapiens Agenda	1.0
+Futuristic Violence and Fancy Suits	5.0
+The Nightingale	2.0
+The Adventures of Tom Sawyer	2.0
+Half Girlfriend	1.0
+Nevernight (The Nevernight Chronicle, #1)	5.0
+Godsgrave (The Nevernight Chronicle, #2)	5.0
+Library of Souls (Miss Peregrine's Peculiar Children, #3)	3.3333333333
+Ramona Blue	5.0
+A Torch Against the Night (An Ember in the Ashes, #2)	1.0
+A Gentleman in Moscow	1.0
+Through the Looking-Glass, and What Alice Found There	2.0
+Duke of Sin (Maiden Lane, #10)	4.0
+The Ballad of Black Tom	5.0
+The Butterfly Garden (The Collector #1)	5.0
+Tales of the Peculiar (Miss Peregrine's Peculiar Children #0.5)	3.0
+Born to Run	2.0
+The Hate U Give	1.0
+Origin (Robert Langdon, #5)	3.5
+Beneath a Scarlet Sky	1.0
+The Namesake	2.0
+Men Are from Mars, Women Are from Venus	1.0
+Speak	4.0
+Crossroads of Twilight (Wheel of Time, #10)	2.0
+Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)	2.0
+Just Kids	1.0
+The Last Command (Star Wars: The Thrawn Trilogy, #3)	3.0
+Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)	3.0
+Fruits Basket, Vol. 1	2.0
+The Fires of Heaven (Wheel of Time, #5)	2.0
+The Dragon Reborn (Wheel of Time, #3)	2.0
+A Crown of Swords (Wheel of Time, #7)	2.0
+Winter's Heart (Wheel of Time, #9)	2.0
+Lord of Chaos (Wheel of Time, #6)	2.0
+The Absolutely True Diary of a Part-Time Indian	1.0
+The Lone Ranger and Tonto Fistfight in Heaven	1.0
+The Thirteenth Tale	4.0
+The Sword of Shannara (The Original Shannara Trilogy, #1)	2.0
+The Reptile Room (A Series of Unfortunate Events, #2)	3.5
+Fun Home: A Family Tragicomic	3.0
+In Her Shoes	1.0
+The Bad Beginning (A Series of Unfortunate Events, #1)	3.5
+The Path of Daggers (Wheel of Time, #8)	2.0
+A Princess of Mars (Barsoom, #1)	1.0
+Heir to the Empire (Star Wars: The Thrawn Trilogy #1)	3.5
+Think and Grow Rich	1.0
+Twisted	4.0
+The Elfstones of Shannara  (The Original Shannara Trilogy, #2)	2.0
+No Country for Old Men	4.0
+Chains (Seeds of America, #1)	1.0
+Twilight (Twilight, #1)	3.0
+The Vampire Lestat (The Vampire Chronicles, #2)	4.0
+Watchmen	3.0
+The Shadow Rising (Wheel of Time, #4)	2.0
+The Lost Symbol (Robert Langdon, #3)	3.0
+Throne of Glass (Throne of Glass, #1)	5.0
+I'll Walk Alone	3.0
+Insurgent (Divergent, #2)	2.5
+Caliban's War (The Expanse, #2)	1.0
+The Wolf Gift (The Wolf Gift Chronicles, #1)	2.0
+A Game of Thrones: The Graphic Novel, Vol. 1	1.0
+The Smartest Kids in the World: And How They Got That Way	1.0
+The Time Keeper	1.0
+Hopeless (Hopeless, #1)	3.0
+Daddy's Gone A Hunting	3.0
+Red Queen (Red Queen, #1)	3.0
+I've Got You Under My Skin (Under Suspicion, #1)	3.0
+The Cinderella Murder (Under Suspicion, #2)	3.0
+The Soul of an Octopus: A Surprising Exploration into the Wonder of Consciousness	1.0
+The Fever Code (The Maze Runner, #0.6)	3.0
+The Magic Strings of Frankie Presto	1.0
+The Force Awakens (Star Wars: Novelizations #7)	2.5
+Find Her (Detective D.D. Warren, #8)	2.0
+My Absolute Darling	1.0
+Skeleton Crew	4.0
+Sharp Objects	5.0
+The Complete Stories and Poems	5.0
+Digital Fortress	5.0
+The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams  Reaching Your Destiny	1.0
+The Sea of Monsters (Percy Jackson and the Olympians, #2)	2.0
+The Snowy Day	2.0
+The Mist	4.0
+The Summer Book	1.0
+It	4.0
+Crank (Crank, #1)	4.5
+The Vile Village (A Series of Unfortunate Events, #7)	2.0
+My Friend Leonard	4.0
+Civil War: A Marvel Comics Event	3.0
+The Tale of Peter Rabbit	1.5
+Chicka Chicka Boom Boom	1.0
+Rose Madder	5.0
+Prozac Nation	4.0
+The Boxcar Children (The Boxcar Children, #1)	1.0
+Soon I Will Be Invincible	3.0
+The Carnivorous Carnival (A Series of Unfortunate Events, #9)	2.0
+Batman: The Dark Knight Returns (The Dark Knight Saga, #1)	3.0
+Voyager (Outlander, #3)	1.6666666667
+The Kitchen God's Wife	3.0
+The Book of Lost Things	3.5
+The Austere Academy (A Series of Unfortunate Events, #5)	2.0
+The Ersatz Elevator (A Series of Unfortunate Events, #6)	2.0
+The Wide Window (A Series of Unfortunate Events, #3)	2.0
+The Fiery Cross (Outlander, #5)	1.3333333333000001
+The Miserable Mill (A Series of Unfortunate Events, #4)	2.0
+Artemis Fowl (Artemis Fowl, #1)	3.0
+Cat's Cradle	3.0
+My Sister's Keeper	4.0
+A Breath of Snow and Ashes (Outlander, #6)	1.6666666667
+Superman: Red Son	4.0
+Go Ask Alice	5.0
+The Slippery Slope (A Series of Unfortunate Events, #10)	2.0
+American Psycho	5.0
+Dexter in the Dark (Dexter, #3)	5.0
+The Hostile Hospital (A Series of Unfortunate Events, #8)	2.0
+The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)	3.0
+Night Shift	4.0
+Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)	2.0
+From a Buick 8	3.0
+An Echo in the Bone (Outlander, #7)	1.6666666667
+Dragonfly in Amber (Outlander, #2)	1.3333333333000001
+Shopaholic and Sister (Shopaholic, #4)	1.0
+Duma Key	5.0
+Drums of Autumn (Outlander, #4)	1.3333333333000001
+Bridget Jones's Diary (Bridget Jones, #1)	2.0
+Island of the Blue Dolphins (Island of the Blue Dolphins, #1)	1.0
+Confessions of a Shopaholic (Shopaholic, #1)	1.0
+Let It Snow: Three Holiday Romances	1.0
+The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)	1.0
+The 3 Mistakes of My Life	1.0
+The Running Man	5.0
+Gerald's Game	4.5
+Finger Lickin' Fifteen (Stephanie Plum, #15)	1.0
+Fallen (Fallen, #1)	4.0
+The Girl Who Played with Fire (Millennium, #2)	5.0
+2 States: The Story of My Marriage	1.0
+Dawn of the Dreadfuls (Pride and Prejudice and Zombies, #0.5)	2.0
+Torment (Fallen, #2)	4.0
+Room	4.0
+The Exile: An Outlander Graphic Novel	1.5
+Passion (Fallen, #3)	4.0
+Full Dark, No Stars	5.0
+The Warmth of Other Suns: The Epic Story of America's Great Migration	3.0
+The White Queen (The Plantagenet and Tudor Novels, #2)	1.0
+Rapture (Fallen, #4)	4.0
+Before I Go to Sleep	3.0
+The Devil All the Time	5.0
+Wonder (Wonder #1)	3.0
+Written in My Own Heart's Blood (Outlander, #8)	1.6666666667
+Explosive Eighteen (Stephanie Plum, #18)	1.0
+2312	2.0
+Fallen in Love (Fallen, #3.5)	4.0
+Tiny Beautiful Things: Advice on Love and Life from Dear Sugar	1.0
+Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead	1.0
+Free Four: Tobias Tells the Divergent Knife-Throwing Scene (Divergent, #1.5)	4.0
+Notorious Nineteen (Stephanie Plum, #19)	3.0
+To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)	1.0
+Fangirl	1.0
+Wedding Night	1.0
+The World of Divergent: The Path to Allegiant (Divergent, #2.5)	4.0
+Insider (Exodus End, #1)	1.0
+Takedown Twenty (Stephanie Plum, #20)	1.0
+Dorothy Must Die (Dorothy Must Die, #1)	4.0
+The Transfer (Divergent, #0.1)	4.0
+The Wicked Will Rise (Dorothy Must Die, #2)	4.0
+Yellow Brick War (Dorothy Must Die, #3)	4.0
+The Wrath and the Dawn (The Wrath and the Dawn, #1)	5.0
+Revival	5.0
+The Library at Mount Char	4.0
+The High Mountains of Portugal	1.0
+Small Great Things	3.0
+Behind Closed Doors	5.0
+Eleanor Oliphant is Completely Fine	1.0
+The Woman in Cabin 10	3.5
+Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)	5.0
+Vicious (Villains, #1)	4.5
+The Winner's Curse (The Winner's Trilogy, #1)	5.0
+Flora and Ulysses: The Illuminated Adventures	2.0
+The Girl on the Train	4.0
+It Ends with Us	3.0
+A Monster Calls	1.0
+Orphan Train	1.0
+Kids of Appetite	1.0
+Desperation	4.0
+Elsewhere	3.0
+Dark Lover (Black Dagger Brotherhood, #1)	4.0
+Lament: The Faerie Queen's Deception (Books of Faerie, #1)	3.0
+The Man Who Loved Books Too Much: The True Story of a Thief, a Detective, and a World of Literary Obsession	2.0
+The Emerald Atlas (The Books of Beginning, #1)	3.0
+Enchanted (Woodcutter Sisters #1; Books of Arilland #1)	3.0
+Days of Blood & Starlight (Daughter of Smoke & Bone, #2)	2.0
+Y: The Last Man, Vol. 1: Unmanned	4.0
+The Girl Next Door	1.0
+Crossed (Matched, #2)	2.0
+Revolution 2020: Love, Corruption, Ambition	2.0
+Impulse (Impulse, #1)	5.0
+Burned (Burned, #1)	5.0
+Anthem	3.0
+Tricks (Tricks, #1)	5.0
+What Alice Forgot	2.0
+Perfect (Impulse, #2)	5.0
+Big Little Lies	4.0
+The Couple Next Door	5.0
+The Red Pyramid (Kane Chronicles, #1)	3.0
+Asura: Tale Of The Vanquished	4.0
+The Disaster Artist: My Life Inside The Room, the Greatest Bad Movie Ever Made	2.0
+The Melancholy Death of Oyster Boy and Other Stories	4.0
+The Razor's Edge	3.0
+The Geography of Bliss: One Grump's Search for the Happiest Places in the World	1.0
+City of Glass (The Mortal Instruments, #3)	1.0
+City of Fallen Angels (The Mortal Instruments, #4)	3.0
+City of Lost Souls (The Mortal Instruments, #5)	3.0
+Prince of Thorns (The Broken Empire, #1)	5.0
+Words of Radiance (The Stormlight Archive, #2)	2.0
+The Fantastic Flying Books of Mr. Morris Lessmore	2.0
+Red Sister (Book of the Ancestor, #1)	4.5
+The Poisonwood Bible	4.0
+The Beekeeper's Apprentice (Mary Russell, #1)	2.0
+The Girl in 6E (Deanna Madden, #1)	4.0
+Ancillary Justice (Imperial Radch, #1)	3.0
+You (You, #1)	5.0
+Deadly Class, Vol. 1: Reagan Youth	5.0
+Hidden Bodies (You, #2)	5.0
+The Girl Before	4.0
+Love You Forever	1.0
+A Good Man is Hard to Find and Other Stories	5.0
+Among the Hidden (Shadow Children, #1)	4.0
+Diary	3.0
+Haunted	4.0
+Look Me in the Eye: My Life with Asperger's	1.0
+Green Angel (Green Angel, #1)	1.0
+Saga, Vol. 1 (Saga, #1)	5.0
+Nightbird	4.0
+Last Call (Cocktail, #4.5)	2.0
+Alice (The Chronicles of Alice, #1)	1.0
+Buns (Hudson Valley, #3)	2.0
+The Rules of Magic	2.0
+Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies (Pottermore Presents, #1)	2.0
+The Prisoner of Cell 25 (Michael Vey, #1)	3.0
+Attack on Titan, Vol. 1 (Attack on Titan, #1)	5.0
+The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)	3.0
+Love in the Time of Global Warming (Love in the Time of Global Warming, #1)	4.0
+Ugly Love	5.0
+This Dark Endeavor (The Apprenticeship of Victor Frankenstein, #1)	3.0
+In a Dark, Dark Wood	3.0
+Dirty Red (Love Me with Lies, #2)	1.0
+Thief (Love Me with Lies, #3)	1.0
+Mud Vein	1.0
+Heartless	5.0
+A Darker Shade of Magic (Shades of Magic, #1)	5.0
+Every Heart a Doorway (Wayward Children, #1)	4.0
+F*ck Love	1.0
+Scythe (Arc of a Scythe, #1)	5.0
+Bad Mommy	4.0
+Marrow	4.0
+Locke & Key, Vol. 1: Welcome to Lovecraft	4.0
+The Legend of Sleepy Hollow	3.0
+Dexter By Design (Dexter, #4)	5.0
+Dexter Is Delicious (Dexter, #5)	5.0
+Double Dexter (Dexter, #6)	5.0
+City of Heavenly Fire (The Mortal Instruments, #6)	3.0
+Old Man's War (Old Man's War, #1)	3.0
+Sandman Slim (Sandman Slim, #1)	5.0
+Blood Oath (Nathaniel Cade, #1)	4.0
+Clean Sweep (Innkeeper Chronicles, #1)	2.0
+Carry On	3.0
+The Dispatcher	3.0
+Ninefox Gambit (The Machineries of Empire #1)	3.0
+Point of Retreat (Slammed, #2)	1.0
+Losing Hope (Hopeless, #2)	5.0
+Maybe Someday (Maybe, #1)	1.0
+November 9	1.0
+Truman	1.0
+1776	1.0
+Washington: A Life	1.0

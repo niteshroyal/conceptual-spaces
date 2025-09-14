@@ -1,0 +1,18 @@
+title	score
+The Coldest Winter Ever	1.0
+Hyperion (Hyperion Cantos, #1)	2.0
+Foundation (Foundation #1)	2.0
+The Quickie	1.0
+A Brief History of Time	2.0
+Ender's Game (Ender's Saga, #1)	2.0
+Misery	1.0
+Crime and Punishment	1.0
+Dune (Dune Chronicles #1)	2.0
+Horns	1.0
+Binti (Binti, #1)	1.0
+Matilda	3.0
+The Republic	4.0
+Harry Potter and the Deathly Hallows (Harry Potter, #7)	3.0
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)	5.0
+The Fellowship of the Ring (The Lord of the Rings, #1)	2.0
+Starship Troopers	3.0

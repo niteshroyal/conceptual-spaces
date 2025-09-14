@@ -1,0 +1,50 @@
+item	mass
+big bowl	1.248
+small bowl	0.332
+hose splitter	0.412
+kitchen knife	0.23
+screwdriver	0.234
+google cardboard	0.156
+wooden spoon	0.132
+big stapler	0.368
+little stapler	0.099
+can opener	0.392
+mouse	0.295
+presentation remote	0.127
+plate	0.388
+lighter	0.171
+block	0.499
+toy airplane	0.358
+view master	0.261
+tv remote	0.417
+pliers	0.478
+hammer	1.038
+drill	2.664
+box of soap	0.265
+bar of soap	0.246
+chip clip	0.134
+safety razer	0.092
+tape measure	0.428
+pillow	1.579
+red lego brick	0.026
+green lego brick	0.026
+bottle brush	0.281
+hat	0.194
+airplane clock	0.367
+sun chips	0.456
+rope bundle	0.146
+twine	0.188
+dust pan	0.431
+neck pillow	0.685
+headphones	0.414
+disk drive	0.684
+keyboard	1.768
+toaster	2.374
+wooden train track	0.131
+baby shoe	0.16
+back scratcher	0.094
+hair dryer	1.321
+umbrella	1.436
+15 puzzle	0.16
+gardening shears	0.592
+swiss army knife	0.478

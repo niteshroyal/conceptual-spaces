@@ -1,0 +1,1612 @@
+INFO 09/05/2025 06:32:06 PM:  Top 100 entities for thing based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Odour/odour_dataset.txt:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                        items  familiarity  intensity  pleasantness  irritability
+0                   Almonds         5.34       4.60          5.12          2.80
+1             Aniseed Balls         5.88       5.40          3.98          3.54
+2              Apples Green         4.75       4.21          5.04          2.83
+3                     Bacon         3.15       4.35          2.90          4.46
+4                    Banana         5.40       4.76          5.32          2.94
+..                      ...          ...        ...           ...           ...
+194               Woodsmoke         4.28       5.00          2.94          4.88
+195  Ylang, Jasmine & Myrrh         4.80       4.56          4.60          3.18
+196              Aftershave         4.96       4.24          4.74          3.02
+197               Soap Suds         4.90       4.14          4.37          3.22
+198                  Rubber         4.12       5.80          2.22          5.39
+
+[199 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Ranked entities based on pleasantness:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                  items  familiarity  intensity  pleasantness  irritability
+127    Peach Schnapps         5.73       4.49          5.65          2.59
+107        Iced Lemon         5.71       4.71          5.63          2.40
+39          Cranberry         5.59       4.71          5.58          2.59
+32         Coco-mango         5.27       4.25          5.55          2.39
+146        Watermelon         5.34       4.54          5.52          2.50
+..                ...          ...        ...           ...           ...
+190  Victorian Street         2.98       5.59          1.86          5.49
+57             Cannon         2.78       6.40          1.72          5.90
+150           Methane         3.57       5.71          1.71          5.65
+66           Coal Pit         3.49       6.49          1.67          5.96
+45               Fish         4.74       5.78          1.66          5.66
+
+[141 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Top 100 entities for thing based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Odour/odour_dataset.txt:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                        items  familiarity  intensity  pleasantness  irritability
+0                   Almonds         5.34       4.60          5.12          2.80
+1             Aniseed Balls         5.88       5.40          3.98          3.54
+2              Apples Green         4.75       4.21          5.04          2.83
+3                     Bacon         3.15       4.35          2.90          4.46
+4                    Banana         5.40       4.76          5.32          2.94
+..                      ...          ...        ...           ...           ...
+194               Woodsmoke         4.28       5.00          2.94          4.88
+195  Ylang, Jasmine & Myrrh         4.80       4.56          4.60          3.18
+196              Aftershave         4.96       4.24          4.74          3.02
+197               Soap Suds         4.90       4.14          4.37          3.22
+198                  Rubber         4.12       5.80          2.22          5.39
+
+[199 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Ranked entities based on intensity:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:            items  familiarity  intensity  pleasantness  irritability
+121       Onion         4.66       6.58          2.00          6.02
+99       Garlic         5.10       6.51          2.06          5.51
+66     Coal Pit         3.49       6.49          1.67          5.96
+57       Cannon         2.78       6.40          1.72          5.90
+169  Racing Car         3.38       6.32          1.88          5.42
+..          ...          ...        ...           ...           ...
+149     Menthol         3.30       3.30          3.68          3.74
+164        Peat         3.31       3.27          3.94          3.63
+33      Coconut         4.87       3.23          4.83          2.85
+106   Ice Cream         3.13       3.04          3.71          3.71
+173  Sandalwood         2.73       2.96          3.73          3.69
+
+[126 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Top 100 entities for thing based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Odour/odour_dataset.txt:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                        items  familiarity  intensity  pleasantness  irritability
+0                   Almonds         5.34       4.60          5.12          2.80
+1             Aniseed Balls         5.88       5.40          3.98          3.54
+2              Apples Green         4.75       4.21          5.04          2.83
+3                     Bacon         3.15       4.35          2.90          4.46
+4                    Banana         5.40       4.76          5.32          2.94
+..                      ...          ...        ...           ...           ...
+194               Woodsmoke         4.28       5.00          2.94          4.88
+195  Ylang, Jasmine & Myrrh         4.80       4.56          4.60          3.18
+196              Aftershave         4.96       4.24          4.74          3.02
+197               Soap Suds         4.90       4.14          4.37          3.22
+198                  Rubber         4.12       5.80          2.22          5.39
+
+[199 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Ranked entities based on irritability:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:             items  familiarity  intensity  pleasantness  irritability
+121        Onion         4.66       6.58          2.00          6.02
+66      Coal Pit         3.49       6.49          1.67          5.96
+57        Cannon         2.78       6.40          1.72          5.90
+98    Man-o'-War         3.14       6.10          1.86          5.73
+182       Tarmac         3.10       6.19          1.96          5.67
+..           ...          ...        ...           ...           ...
+50   Baby powder         5.48       4.25          5.46          2.48
+141   Strawberry         5.37       4.24          5.37          2.45
+107   Iced Lemon         5.71       4.71          5.63          2.40
+32    Coco-mango         5.27       4.25          5.55          2.39
+48   Garden Mint         5.84       5.08          5.30          2.32
+
+[140 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Top 100 entities for thing based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Odour/odour_dataset.txt:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                        items  familiarity  intensity  pleasantness  irritability
+0                   Almonds         5.34       4.60          5.12          2.80
+1             Aniseed Balls         5.88       5.40          3.98          3.54
+2              Apples Green         4.75       4.21          5.04          2.83
+3                     Bacon         3.15       4.35          2.90          4.46
+4                    Banana         5.40       4.76          5.32          2.94
+..                      ...          ...        ...           ...           ...
+194               Woodsmoke         4.28       5.00          2.94          4.88
+195  Ylang, Jasmine & Myrrh         4.80       4.56          4.60          3.18
+196              Aftershave         4.96       4.24          4.74          3.02
+197               Soap Suds         4.90       4.14          4.37          3.22
+198                  Rubber         4.12       5.80          2.22          5.39
+
+[199 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Ranked entities based on familiarity:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                  items  familiarity  intensity  pleasantness  irritability
+117          Marzipan         6.12       5.27          4.96          3.00
+140         Spearmint         5.90       4.96          5.08          2.60
+72         Eucalyptus         5.88       5.42          4.73          3.13
+24        Chewing Gum         5.85       5.02          5.11          3.04
+48        Garden Mint         5.84       5.08          5.30          2.32
+..                ...          ...        ...           ...           ...
+176         Sea Shore         2.96       5.20          2.20          5.10
+193         Wood Chip         2.94       3.96          3.80          3.98
+57             Cannon         2.78       6.40          1.72          5.90
+173        Sandalwood         2.73       2.96          3.73          3.69
+15   Buttered Popcorn         2.72       4.58          3.02          4.42
+
+[145 rows x 5 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Ranked entities based on wond:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                                artist - title       wond       tran       tend       nost       peac       joya       ener      sadn       tens
+285                Gorillaz - Feel good Inc.  37.205128  15.211538  15.515385  10.961538  17.738462  27.929487  14.219231  0.000000   4.430769
+293            Jamiroquai - Virtual Insanity  36.820513   6.416667  11.300000  18.509615  14.950000  29.326923  22.846154  0.615385   0.000000
+254                     Boy - Little Numbers  34.736111  18.701389  15.954167  11.826389  19.304167  32.868056   8.400000  2.333333   0.000000
+297               Jose Gonzales - Heartbeats  30.055556  12.298611  33.077778  27.531250  34.465278   0.000000   5.804167  6.222222   0.000000
+234  Arctic Monkeys - Fluorescent Adolescent  28.372024   5.458333   5.357143  11.705357  12.314286  38.616071  14.537500  2.214286   1.196429
+..                                       ...        ...        ...        ...        ...        ...        ...        ...       ...        ...
+84                  NAS - N.Y. State of Mind   1.433333   6.008333   0.000000   0.906250   4.142500  14.070833  17.420000  2.400000  19.738333
+20        Chance The Rapper - Summer Friends   1.317901   4.037037   5.327778   4.143519  11.385185  15.165123   2.966667  0.000000  11.172840
+28                        D-12 - Fight Music   1.148649   4.756757   0.000000   4.527027   2.979730  20.504504  27.724550  0.000000  15.285135
+45             Figub Brazlevic - Silent Lava   0.913043   3.532609   1.539130   0.842391  17.826812   8.213768   0.417391  0.000000  15.319565
+108                   Suff Daddy - K C Vodka   0.000000   3.250000   2.000000   0.922619   8.869841  11.396825   6.428571  2.285714  15.083333
+
+[362 rows x 10 columns]
+INFO 09/05/2025 06:32:06 PM:  
+
+
+INFO 09/05/2025 06:32:06 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:06 PM:  ==================================
+INFO 09/05/2025 06:32:06 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on tran:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                            artist - title       wond       tran       tend       nost       peac       joya       ener       sadn       tens
+146   Chopin - 3. Klaviersonate, 4. Satz  17.881410  26.421474   5.367308  16.243590  11.944872  23.490385  15.092308   5.301282  15.715385
+188         Mozart - Requiem (Lacrimosa)  19.986386  24.115099  10.900990  18.250825  11.132838  11.947195  17.714851   7.783828  13.634653
+14   Black Eyed Peas - Where Is The Love  23.568182  24.063131   4.236364  18.324495   5.869697  22.349747  18.010606  10.212121   4.682828
+212           Tschaikowski - Schwanensee  21.490705  23.081090  18.845833  18.594551   8.309615  18.865385  16.662179   8.333333   5.976923
+294            Jeff Buckley - Hallelujah  27.064189  22.502252  28.030180  37.059685  32.879505   4.450450   2.027027  20.975225   0.502703
+..                                   ...        ...        ...        ...        ...        ...        ...        ...        ...        ...
+71            Killer Mike - A.D.I.D.A.S.  10.755208   0.929688   1.350000   3.984375  10.012500  24.290885   5.441667   1.375000   8.172917
+311                Lily Allen - Fuck You  14.255208   0.783854   1.781250  12.382812  16.054688  34.201823  23.275260   0.000000   7.634375
+260              Carlos Santana - Smooth  12.386905   0.770833   8.630357   6.459821   5.580357  33.427083  18.057143   0.000000   4.673214
+32           Dexter - Everyday Like This   6.968468   0.599099   5.259459   1.165541   5.617568  17.461712   5.643243   0.702703  11.192342
+334                      OutKast - Roses   9.532609   0.000000   3.682609   5.054348  12.123913  27.211957  11.660870   0.000000   7.104348
+
+[361 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on tend:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                       artist - title       wond       tran       tend  ...       joya       ener      sadn       tens
+227                Alicia Keys - If I Ain't Got You  15.713333  12.516667  34.974444  ...  10.741667   8.701111  6.350000   6.108333
+297                      Jose Gonzales - Heartbeats  30.055556  12.298611  33.077778  ...   0.000000   5.804167  6.222222   0.000000
+177  Mendelssohn - Song Without Words, op. 19, No 1  16.705247  14.515432  29.912037  ...  10.574074   2.422222  3.395062   0.733333
+321                    Marvin Gaye - Lets Get It On  13.428295   1.492248  29.814729  ...  23.071705   4.027907  0.000000   1.034884
+162                    Fauré - Romance sans Paroles  12.653274  15.017857  29.317560  ...   7.931548   1.478571  4.562500   1.114286
+..                                              ...        ...        ...        ...  ...        ...        ...       ...        ...
+54           Immortal Technique - Freedom Of Speech   4.713333   3.616667   0.408000  ...  13.600000  10.518333  1.173333  15.092000
+42                 Eminem ft.Nate Dogg - Shake That   5.286667   1.943333   0.360000  ...  23.497333   9.082000  0.000000   6.760000
+33                          Die Orsons - Ventilator   5.373457   3.262346   0.333333  ...  14.846914   3.251852  0.493827  12.037037
+90                                 OutKast - B.O.B.   6.125000   9.100000   0.160000  ...  31.783889  22.062500  0.444444  17.609722
+307                           Lady Gaga - Pokerface  13.897059   8.100490   0.000000  ...  44.809804  26.870833  0.000000   1.923529
+
+[340 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on nost:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                          artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+160                   Dvorák - 9. Sinfonie (II. Largo)  20.492424  21.140152  29.180303  ...   6.522727   4.309091  20.060606   3.504545
+281                             Gary Jules - Mad World  15.375000   9.075758   9.224242  ...   2.156566   0.981818  29.944444   4.095455
+237                        Avril Lavigne - Complicated  10.046154  12.758974   7.028846  ...  28.323718  18.560897   7.413462   3.651282
+277                     Eric Clapton - Tears In Heaven  20.577957  17.924731  23.744086  ...   3.857527   2.941935  19.838710   1.258065
+244                            The Beatles - Let It Be  19.887097  15.580645  23.229570  ...  13.478495   6.620968   5.868280   0.987097
+..                                                 ...        ...        ...        ...  ...        ...        ...        ...        ...
+45                       Figub Brazlevic - Silent Lava   0.913043   3.532609   1.539130  ...   8.213768   0.417391   0.000000  15.319565
+31                                   Desiigner - Panda  24.694444   4.687500   9.300000  ...  28.256944  22.729167   1.055556   9.333333
+115                       Why SL Know Plug - Rite Back   7.367284   4.774691   0.000000  ...  20.870370  10.879630   0.543210   9.317901
+29                                     DECAP - Panther   7.594203   9.099638   1.384783  ...  14.708333   8.915942   0.000000  31.399275
+269  Der Junge mit der Gitarre - Hallo Worum Gehts ...  11.198276   8.106322   0.000000  ...  27.520115  15.018391   1.333333   8.741379
+
+[354 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on peac:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                          artist - title       wond       tran       tend  ...       joya       ener      sadn       tens
+147  Chopin - Concerto for Piano n°1 in e Minor. Se...  10.451389  14.138889  23.897222  ...   9.930556   4.050000  5.666667   0.000000
+62                 Joey Pecoraro - Your Favorite Place  16.922043  21.689516  26.697581  ...  13.537634   5.545161  1.569892   6.095699
+154                          Debussy - Arabesque No. 1  15.647523  21.120496  28.938739  ...   7.990991   1.086486  3.351351   1.264865
+173       Liszt - Bénédiction de Dieu Dans la Solitude  13.988095  17.965774  24.848810  ...   6.229167   3.457143  0.000000   4.496429
+149                           Chopin - Impromptu No. 2  16.911111  14.868056  24.592222  ...  14.177778   4.300000  5.955556   1.820000
+..                                                 ...        ...        ...        ...  ...        ...        ...       ...        ...
+115                       Why SL Know Plug - Rite Back   7.367284   4.774691   0.000000  ...  20.870370  10.879630  0.543210   9.317901
+85                           N.E.R.D & Rihanna - Lemon   5.517361   1.944444   1.975000  ...  18.625000  15.431944  0.000000  12.768750
+118                          Xatar - Meine Große Liebe   6.462121  15.856061   9.272727  ...  13.856061  15.977273  0.000000   3.786364
+80                             Missy Elliott - Work It   7.684783   5.467391   1.536957  ...  24.610870  12.280435  0.000000  11.663768
+189              Mussorgsky - Bilder einer Ausstellung  19.804054  16.889640   0.000000  ...  24.733108  33.409685  0.000000  27.980631
+
+[359 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on joya:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                          artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+361      Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+350                              Spice Girls - Wannabe  13.522727   1.100379   3.490909  ...  47.858333  24.135227   0.000000   5.611364
+320                          Mark Ronson - Uptown Funk  19.696237   5.930108   1.683871  ...  47.743817  32.134677   0.000000   6.572043
+249                  Black Eyed Peas - I Gotta Feeling  22.652174   5.865942   2.465217  ...  46.347101  27.745652   0.000000   7.391304
+272                             Elle King - Ex's &Oh's  18.823718  10.048077   4.992308  ...  46.070192  36.100962   0.000000   5.792308
+..                                                 ...        ...        ...        ...  ...        ...        ...        ...        ...
+281                             Gary Jules - Mad World  15.375000   9.075758   9.224242  ...   2.156566   0.981818  29.944444   4.095455
+87                          No Spirit - Glowing Lights   3.716216   9.326577  12.412162  ...   1.844595   2.756757   3.855856   3.324324
+137  Brahms - Klavierquartett Nr. 3 in C-Moll, 3. Satz  15.384409   6.930108  21.364247  ...   1.561828   0.000000  11.913978  10.737097
+207                 Strauss, R. - Rosenkavalier, Act 1  14.400538  13.948925  13.883871  ...   1.166667   2.496774   9.091398   9.305376
+297                         Jose Gonzales - Heartbeats  30.055556  12.298611  33.077778  ...   0.000000   5.804167   6.222222   0.000000
+
+[361 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on ener:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                               artist - title       wond       tran       tend       nost       peac       joya       ener       sadn       tens
+144  Carl Orff - O Fortuna (Carmina Burana)  15.478495  20.471774   4.464516  10.491935   5.651613  26.809140  47.340323   0.000000   7.886022
+143         Bruckner - 8. Sinfonie (Finale)  15.270833  20.198718   1.015385   0.000000   0.000000  17.394231  41.953526   1.692308  12.555769
+43                 Eminem - Till I Collapse  11.900000  15.555556   1.000000   4.895833   0.000000  26.194444  39.196389   0.000000  10.101111
+35               DMX - X Gon' Give It To Ya  17.272727   7.053030   8.600000   9.886364   9.518182  37.265152  37.768182   0.727273   0.000000
+272                  Elle King - Ex's &Oh's  18.823718  10.048077   4.992308  14.000000   8.292308  46.070192  36.100962   0.000000   5.792308
+..                                      ...        ...        ...        ...        ...        ...        ...        ...        ...        ...
+78                   Max Herre - 1Ste Liebe   4.512255   3.433824   7.963235   8.709559  12.266176  12.992647   0.597059   0.000000  11.039706
+288   Hey Judeschka! - ImmerwiederSommertag  11.503472   6.684028  16.910764  12.640625  31.355208   8.833333   0.500000   8.545139   0.875000
+45            Figub Brazlevic - Silent Lava   0.913043   3.532609   1.539130   0.842391  17.826812   8.213768   0.417391   0.000000  15.319565
+298           Justin Bieber - Love Yourself   9.966667   7.583333  27.970000  17.929167  27.644722  18.102778   0.200000   5.622222   1.880000
+347                 Sam Smith - Lay Me Down  16.423333  16.073333  26.746333  25.548333  26.854667   2.586667   0.000000  25.790000   0.000000
+
+[354 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on sadn:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          artist - title       wond       tran       tend       nost       peac       joya       ener       sadn       tens
+281             Gary Jules - Mad World  15.375000   9.075758   9.224242  40.330808  16.793939   2.156566   0.981818  29.944444   4.095455
+40                Eminem - Mockingbird  14.645833   5.562500   9.600000  22.602679   7.930952   7.607143   5.828571  26.580357  10.421429
+347            Sam Smith - Lay Me Down  16.423333  16.073333  26.746333  25.548333  26.854667   2.586667   0.000000  25.790000   0.000000
+296                 Johnny Cash - Hurt  11.728395   7.990741   9.543827  25.200617  16.440741   4.175926   5.066667  25.290123   3.800000
+127       Beethoven - Mondscheinsonate  22.836111  20.406944  13.145000  26.944444  30.574167  10.538889   4.280000  21.588889   7.173889
+..                                 ...        ...        ...        ...        ...        ...        ...        ...        ...        ...
+313          Lola Marsh - Wishing Girl   9.064815   9.913580   8.353704   6.111111  15.369753  13.878086   4.133333   0.345679   5.421605
+168  Holst - The Planets, op. 32. Mars  20.225490  18.955882   3.141176   5.886029   4.530882  16.335784  15.958333   0.294118  33.156618
+241       Bag Raiders - Shooting Stars  19.069892   5.803763   6.941935  15.172043  17.658871  32.651344   9.076613   0.215054   7.269355
+110         tomppabeats - one two step  17.647661   3.950292  10.745906   5.568713  16.859211  29.248246   8.371053   0.116959   3.702632
+363           Zara Larsson - Lush Life  17.470833   2.566667   0.450000  12.437500   7.650000  33.954167  12.670000   0.000000   3.570000
+
+[242 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for music based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Music/music_perception.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                      artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+0                            2Pac - All Eyez On Me   8.437500   6.011905   9.266071  ...  15.620238  12.914286   0.809524  12.547619
+1                           2Pac - Keep Ya Head Up   4.895833   6.024306   4.900000  ...  13.659722   5.891667   3.125000   3.600000
+2                  50 Cent ft. Olivia - Candy Shop   7.225694   1.944444  15.266667  ...  33.565972  20.874306   0.000000   3.150000
+3                             50 Cent - In Da Club   9.263566   4.178295   3.306977  ...  35.348837  16.788372   0.000000   7.593023
+4                     Action Bronson - Actin Crazy   6.140000   5.436667   1.056000  ...  15.140000  12.434000   0.960000  17.161333
+..                                             ...        ...        ...        ...  ...        ...        ...        ...        ...
+359             Vanessa Carlton - A Thousand Miles  26.491379   4.304598  13.864943  ...  32.852011   5.917241   2.928161   4.321839
+360                           The Weeknd - Starboy  21.355556  11.141667  12.893333  ...  24.647778  10.273333   4.355556  10.234444
+361  Whitney Houston - I Wanna Dance With Somebody  23.947222   7.150000  10.108333  ...  51.042500  28.606389   2.377778   0.940000
+362                           Wrabel - The Village  19.166667  13.778986  18.160870  ...  11.778986   5.800000  16.855072   3.626087
+363                       Zara Larsson - Lush Life  17.470833   2.566667   0.450000  ...  33.954167  12.670000   0.000000   3.570000
+
+[364 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on tens:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                          artist - title       wond       tran       tend  ...       joya       ener       sadn       tens
+134                             Berg - Quartett, op. 3   8.833333  10.583333   3.581818  ...   7.737374   3.400000   1.103535  34.791162
+202  Shostakovich - Symphony n°11 in g Minor op. 10...   9.851449  11.594203   0.000000  ...   8.590580  18.305797   0.000000  34.654710
+168                  Holst - The Planets, op. 32. Mars  20.225490  18.955882   3.141176  ...  16.335784  15.958333   0.294118  33.156618
+5                                      AedFX - Warning   6.591667   9.133333   1.200000  ...  22.586111  13.435000   2.244444  31.730278
+29                                     DECAP - Panther   7.594203   9.099638   1.384783  ...  14.708333   8.915942   0.000000  31.399275
+..                                                 ...        ...        ...        ...  ...        ...        ...        ...        ...
+287          The Head And The Heart - Rivers And Roads  16.122024   7.592262  20.454762  ...   7.294643   1.435714  18.883929   0.707143
+148                        Chopin - Etüde Op. 25 No. 1  16.158951  17.790123  22.346914  ...  12.030864   6.333333   3.333333   0.666667
+294                          Jeff Buckley - Hallelujah  27.064189  22.502252  28.030180  ...   4.450450   2.027027  20.975225   0.502703
+266                            Daniel Powter - Bad Day  15.433333   4.841667  22.886111  ...  24.225000   7.780000   5.441667   0.480000
+347                            Sam Smith - Lay Me Down  16.423333  16.073333  26.746333  ...   2.586667   0.000000  25.790000   0.000000
+
+[352 rows x 10 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for food item based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Food_taste/food_Taste.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+0                    dried almond        0.50     -        0.70     -       0.00     -         0.00     -        0.00     -      0.70     -
+1                canned anchovies        0.30   0.3        5.30   0.1       0.90   0.5         1.25  0.65        1.40   0.9      2.60   1.5
+2                 fried anchovies        0.05  0.05        2.70   0.1       0.05  0.05         0.80   0.3        0.45  0.25      3.70   0.1
+3               andouille sausage        1.00     -        2.90     -       0.50     -         0.70     -        1.10     -      2.60     -
+4            andouillette sausage        1.03   0.2        4.04  0.35       0.47   0.1         0.73  0.25        2.04  0.61      4.21  0.78
+..                            ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+585         plain yogurt with jam        3.30  0.15        0.05  0.02       2.47  0.13         0.27  0.07        0.17  0.04      1.95  0.12
+586                  plain yogurt        0.00     0        0.03  0.03       4.13  0.15         0.46  0.17        0.21  0.09      1.37  0.24
+587  flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  0.32         0.50   0.3        0.03  0.02      1.98  0.29
+588                        zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+589                      zucchini        0.98  0.21        2.70  0.18       0.98  0.18         0.91  0.13        0.96  0.19      1.39  0.21
+
+[590 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on Sweet_Mean:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                              foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+484                    strawberry jam        7.40     -        0.40     -       1.80     -         0.80     -        0.00     -      1.90     -
+105                    chestnut purée        7.30     -        0.00     -       0.00     -         0.00     -        0.00     -      5.40     -
+485                  strawberry juice        6.20     -        0.50     -       1.80     -         0.30     -        0.00     -      0.90     -
+407                     raspberry jam        6.00     -        0.90     -       3.00     -         0.80     -        0.00     -      1.60     -
+416                       rhubarb jam        5.80     -        0.00     -       1.60     -         0.00     -        0.00     -      3.00     -
+..                                ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+307                  mont d'or cheese        0.09  0.06        2.93  0.17       1.69  0.19         1.78  0.15        1.69  0.23      3.68  0.28
+471  sparkling water with lemon juice        0.08  0.08        0.65  0.27       3.70  0.65         1.00  0.25        0.00     0      0.00     0
+254                       Kiri cheese        0.07  0.05        2.94  0.24       2.44   0.2         1.14  0.26        1.26  0.29      2.77   0.3
+571                whiting with sauce        0.05  0.05        2.20   0.1       0.80   0.3         0.60   0.2        1.25  0.45      1.65  0.45
+588                            zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+
+[268 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for food item based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Food_taste/food_Taste.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+0                    dried almond        0.50     -        0.70     -       0.00     -         0.00     -        0.00     -      0.70     -
+1                canned anchovies        0.30   0.3        5.30   0.1       0.90   0.5         1.25  0.65        1.40   0.9      2.60   1.5
+2                 fried anchovies        0.05  0.05        2.70   0.1       0.05  0.05         0.80   0.3        0.45  0.25      3.70   0.1
+3               andouille sausage        1.00     -        2.90     -       0.50     -         0.70     -        1.10     -      2.60     -
+4            andouillette sausage        1.03   0.2        4.04  0.35       0.47   0.1         0.73  0.25        2.04  0.61      4.21  0.78
+..                            ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+585         plain yogurt with jam        3.30  0.15        0.05  0.02       2.47  0.13         0.27  0.07        0.17  0.04      1.95  0.12
+586                  plain yogurt        0.00     0        0.03  0.03       4.13  0.15         0.46  0.17        0.21  0.09      1.37  0.24
+587  flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  0.32         0.50   0.3        0.03  0.02      1.98  0.29
+588                        zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+589                      zucchini        0.98  0.21        2.70  0.18       0.98  0.18         0.91  0.13        0.96  0.19      1.39  0.21
+
+[590 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on Salty_Mean:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                 foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean  ... Bitter_Mean  STD.3 Umami_Mean  STD.4 Fat_Mean  STD.5
+260                       langres cheese        0.50     -        5.70     -       1.20  ...        2.80      -       1.40      -     5.20      -
+338                      parmesan cheese        0.17  0.17        5.37  0.13       0.43  ...        0.13   0.13       0.57   0.03     5.93   0.09
+1                       canned anchovies        0.30   0.3        5.30   0.1       0.90  ...        1.25   0.65       1.40    0.9     2.60    1.5
+25                      stir-fried bacon        0.81  0.12        4.99  0.14       0.87  ...        1.10   0.14       2.96   0.38     5.79   0.27
+413                           red mullet        0.80     -        4.90     -       0.80  ...        1.90      -       4.30      -     1.70      -
+..                                   ...         ...   ...         ...   ...        ...  ...         ...    ...        ...    ...      ...    ...
+507                       sauterne wines        4.00  0.43        0.04  0.04       2.61  ...        0.33   0.23       0.01   0.01     0.01   0.01
+587         flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  ...        0.50    0.3       0.03   0.02     1.98   0.29
+486                         strong lager        0.32  0.07        0.02  0.02       4.08  ...        3.88    0.4       0.04   0.04     0.28   0.08
+517                      tea with sugar         2.66  0.36        0.01  0.01       0.01  ...        1.20   0.18       0.01   0.01     0.07   0.06
+565  white sandwich bread with dairy fat        1.80     -        0.00     -       0.00  ...        0.00      -       0.00      -     2.80      -
+
+[244 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for food item based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Food_taste/food_Taste.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+0                    dried almond        0.50     -        0.70     -       0.00     -         0.00     -        0.00     -      0.70     -
+1                canned anchovies        0.30   0.3        5.30   0.1       0.90   0.5         1.25  0.65        1.40   0.9      2.60   1.5
+2                 fried anchovies        0.05  0.05        2.70   0.1       0.05  0.05         0.80   0.3        0.45  0.25      3.70   0.1
+3               andouille sausage        1.00     -        2.90     -       0.50     -         0.70     -        1.10     -      2.60     -
+4            andouillette sausage        1.03   0.2        4.04  0.35       0.47   0.1         0.73  0.25        2.04  0.61      4.21  0.78
+..                            ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+585         plain yogurt with jam        3.30  0.15        0.05  0.02       2.47  0.13         0.27  0.07        0.17  0.04      1.95  0.12
+586                  plain yogurt        0.00     0        0.03  0.03       4.13  0.15         0.46  0.17        0.21  0.09      1.37  0.24
+587  flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  0.32         0.50   0.3        0.03  0.02      1.98  0.29
+588                        zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+589                      zucchini        0.98  0.21        2.70  0.18       0.98  0.18         0.91  0.13        0.96  0.19      1.39  0.21
+
+[590 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on Sour_Mean:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                 foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean  ... Bitter_Mean  STD.3 Umami_Mean  STD.4 Fat_Mean  STD.5
+466                     sour fruit candy        5.40   0.1        0.00     0       9.25  ...        1.80    0.3       0.00      0     0.40    0.4
+266                                lemon        0.40     -        0.30     -       8.90  ...        4.10      -       0.30      -     0.50      -
+194   frankfurter and knack with mustard        0.00     -        3.00     -       6.40  ...        0.00      -       0.40      -     2.80      -
+339                        passion fruit        1.93   0.4        0.02  0.02       6.20  ...        0.22    0.2       0.08   0.07     0.20   0.18
+414                           redcurrant        1.00     0        0.05  0.05       5.80  ...        0.55   0.55       0.45   0.45     0.15   0.15
+..                                   ...         ...   ...         ...   ...        ...  ...         ...    ...        ...    ...      ...    ...
+2                        fried anchovies        0.05  0.05        2.70   0.1       0.05  ...        0.80    0.3       0.45   0.25     3.70    0.1
+257                    kouign-amann cake        4.47  1.13        0.60  0.46       0.03  ...        0.00      0       0.00      0     8.37   0.79
+345      pasta with olive oil and cheese        0.40  0.14        2.97  0.19       0.02  ...        0.05   0.03       0.15   0.15     2.83   0.37
+517                      tea with sugar         2.66  0.36        0.01  0.01       0.01  ...        1.20   0.18       0.01   0.01     0.07   0.06
+565  white sandwich bread with dairy fat        1.80     -        0.00     -       0.00  ...        0.00      -       0.00      -     2.80      -
+
+[237 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for food item based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Food_taste/food_Taste.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+0                    dried almond        0.50     -        0.70     -       0.00     -         0.00     -        0.00     -      0.70     -
+1                canned anchovies        0.30   0.3        5.30   0.1       0.90   0.5         1.25  0.65        1.40   0.9      2.60   1.5
+2                 fried anchovies        0.05  0.05        2.70   0.1       0.05  0.05         0.80   0.3        0.45  0.25      3.70   0.1
+3               andouille sausage        1.00     -        2.90     -       0.50     -         0.70     -        1.10     -      2.60     -
+4            andouillette sausage        1.03   0.2        4.04  0.35       0.47   0.1         0.73  0.25        2.04  0.61      4.21  0.78
+..                            ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+585         plain yogurt with jam        3.30  0.15        0.05  0.02       2.47  0.13         0.27  0.07        0.17  0.04      1.95  0.12
+586                  plain yogurt        0.00     0        0.03  0.03       4.13  0.15         0.46  0.17        0.21  0.09      1.37  0.24
+587  flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  0.32         0.50   0.3        0.03  0.02      1.98  0.29
+588                        zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+589                      zucchini        0.98  0.21        2.70  0.18       0.98  0.18         0.91  0.13        0.96  0.19      1.39  0.21
+
+[590 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on Bitter_Mean:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                         foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  ...  STD.3 Umami_Mean  STD.4 Fat_Mean  STD.5
+34                            alcohol-free beer         0.30     -        0.10     -  ...      -       0.10      -     0.10      -
+269                                  light lager        1.72  0.33        0.04  0.03  ...    0.3       0.12   0.08     0.07   0.05
+220                             grapefruit juice        3.33  0.51        0.15   0.1  ...   0.38       0.03   0.03     0.03   0.03
+266                                        lemon        0.40     -        0.30     -  ...      -       0.30      -     0.50      -
+181                              expresso coffee        0.00     0        0.20     0  ...    0.9       0.05   0.05     0.05   0.05
+..                                           ...         ...   ...         ...   ...  ...    ...        ...    ...      ...    ...
+213                                      gnocchi        0.67  0.23        2.73  0.39  ...   0.08       0.67   0.24     2.29   0.39
+345              pasta with olive oil and cheese        0.40  0.14        2.97  0.19  ...   0.03       0.15   0.15     2.83   0.37
+125                        cocktail with alcohol        3.66   0.5        0.17  0.17  ...   0.04       0.00      0     0.39   0.25
+161                                        donut        4.47  0.68        0.20  0.14  ...   0.02       0.17   0.11     4.67   0.63
+566  white sandwich bread with jam and dairy fat        4.20   0.5        0.85  0.85  ...      0       0.00      0     4.05   2.35
+
+[175 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for food item based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Food_taste/food_Taste.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+0                    dried almond        0.50     -        0.70     -       0.00     -         0.00     -        0.00     -      0.70     -
+1                canned anchovies        0.30   0.3        5.30   0.1       0.90   0.5         1.25  0.65        1.40   0.9      2.60   1.5
+2                 fried anchovies        0.05  0.05        2.70   0.1       0.05  0.05         0.80   0.3        0.45  0.25      3.70   0.1
+3               andouille sausage        1.00     -        2.90     -       0.50     -         0.70     -        1.10     -      2.60     -
+4            andouillette sausage        1.03   0.2        4.04  0.35       0.47   0.1         0.73  0.25        2.04  0.61      4.21  0.78
+..                            ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+585         plain yogurt with jam        3.30  0.15        0.05  0.02       2.47  0.13         0.27  0.07        0.17  0.04      1.95  0.12
+586                  plain yogurt        0.00     0        0.03  0.03       4.13  0.15         0.46  0.17        0.21  0.09      1.37  0.24
+587  flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  0.32         0.50   0.3        0.03  0.02      1.98  0.29
+588                        zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+589                      zucchini        0.98  0.21        2.70  0.18       0.98  0.18         0.91  0.13        0.96  0.19      1.39  0.21
+
+[590 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on Umami_Mean:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                                            foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  ...  STD.3 Umami_Mean  STD.4 Fat_Mean  STD.5
+232                                   grilled hake         0.00     -        3.70     -  ...      -       4.50      -     2.00      -
+233                   grilled hake with lemon juice        0.27  0.27        3.87  0.18  ...   0.33       4.47    0.3     2.57    0.2
+53                                      breaded cod        0.00     -        3.60     -  ...      -       4.40      -     3.90      -
+413                                      red mullet        0.80     -        4.90     -  ...      -       4.30      -     1.70      -
+469                      soy sprouts with soy sauce        0.97   0.5        3.67  0.27  ...   0.27       3.97   0.67     0.00      0
+..                                              ...         ...   ...         ...   ...  ...    ...        ...    ...      ...    ...
+486                                    strong lager        0.32  0.07        0.02  0.02  ...    0.4       0.04   0.04     0.28   0.08
+587                    flavoured light yogurt drink        3.82  0.31        0.03  0.02  ...    0.3       0.03   0.02     1.98   0.29
+518                                        tiramisu        3.47  0.51        0.17  0.06  ...   0.23       0.02   0.02     4.80   0.46
+517                                 tea with sugar         2.66  0.36        0.01  0.01  ...   0.18       0.01   0.01     0.07   0.06
+578  whole wheat sandwich bread with Nutella spread        5.60     -        1.10     -  ...      -       0.00      -     5.90      -
+
+[195 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for food item based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Food_taste/food_Taste.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                          foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+0                    dried almond        0.50     -        0.70     -       0.00     -         0.00     -        0.00     -      0.70     -
+1                canned anchovies        0.30   0.3        5.30   0.1       0.90   0.5         1.25  0.65        1.40   0.9      2.60   1.5
+2                 fried anchovies        0.05  0.05        2.70   0.1       0.05  0.05         0.80   0.3        0.45  0.25      3.70   0.1
+3               andouille sausage        1.00     -        2.90     -       0.50     -         0.70     -        1.10     -      2.60     -
+4            andouillette sausage        1.03   0.2        4.04  0.35       0.47   0.1         0.73  0.25        2.04  0.61      4.21  0.78
+..                            ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+585         plain yogurt with jam        3.30  0.15        0.05  0.02       2.47  0.13         0.27  0.07        0.17  0.04      1.95  0.12
+586                  plain yogurt        0.00     0        0.03  0.03       4.13  0.15         0.46  0.17        0.21  0.09      1.37  0.24
+587  flavoured light yogurt drink        3.82  0.31        0.03  0.02       1.65  0.32         0.50   0.3        0.03  0.02      1.98  0.29
+588                        zander        0.00     -        2.50     -       0.50     -         0.10     -        0.90     -      1.80     -
+589                      zucchini        0.98  0.21        2.70  0.18       0.98  0.18         0.91  0.13        0.96  0.19      1.39  0.21
+
+[590 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on Fat_Mean:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:                             foodLabel  Sweet_Mean   STD  Salty_Mean STD.1  Sour_Mean STD.2  Bitter_Mean STD.3  Umami_Mean STD.4  Fat_Mean STD.5
+257                kouign-amann cake        4.47  1.13        0.60  0.46       0.03  0.03         0.00     0        0.00     0      8.37  0.79
+143  country-style bread with butter        0.70     -        3.70     -       1.60     -         0.80     -        0.60     -      7.80     -
+23                 avocado with tuna        2.70     -        3.30     -       1.70     -         1.10     -        1.80     -      7.30     -
+280                mascarpone cheese        0.40     -        1.30     -       0.80     -         0.60     -        0.20     -      6.80     -
+338                  parmesan cheese        0.17  0.17        5.37  0.13       0.43  0.43         0.13  0.13        0.57  0.03      5.93  0.09
+..                               ...         ...   ...         ...   ...        ...   ...          ...   ...         ...   ...       ...   ...
+122                            cider        1.99  0.37        0.10  0.05       1.88  0.24         0.80  0.26        0.06  0.03      0.04  0.02
+480                      strawberry         2.12  0.15        0.04  0.02       1.41  0.26         0.13  0.07        0.03  0.02      0.03  0.02
+218                       grapefruit        1.39  0.17        0.03  0.02       2.58  0.44         2.49  0.44        0.39  0.21      0.02  0.01
+507                   sauterne wines        4.00  0.43        0.04  0.04       2.61  0.37         0.33  0.23        0.01  0.01      0.01  0.01
+521                   toast with jam        3.40     -        1.80     -       0.00     -         0.00     -        0.00     -      0.00     -
+
+[296 rows x 13 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on lightness:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on grainSize:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on roughness:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+
+[29 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on shine:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on organization:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+
+[28 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Ranked entities based on variability:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:        rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+6     Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+23     Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+21      Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+4       Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+7    Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+12       Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+15    Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+2       Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+10  Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+18       Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+9      Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+0      Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+27    Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+3        Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+22        Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+16     Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17    Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+14       Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+26  Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+28    Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+5      Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+29        Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+24     Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+13     Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+25      Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+11   Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+1        Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+19        Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+8        Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+
+[29 rows x 19 columns]
+INFO 09/05/2025 06:32:07 PM:  
+
+
+INFO 09/05/2025 06:32:07 PM:  Top 100 entities for rock based on score in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/Rock/rock_data.txt:
+INFO 09/05/2025 06:32:07 PM:  ==================================
+INFO 09/05/2025 06:32:07 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability      7  ...    11    12    13    14    15    16    17  density
+0          Andesite       5.37       5.64       5.14   2.53          4.80         4.17   9.96  ...  0.17  1.05  4.24  4.34  4.99  5.71  1.47      2.8
+1            Basalt       3.63       3.52       4.53   2.08          5.07         2.15   9.00  ...  1.50  0.44  2.57  4.92  4.99  4.20  1.29      2.9
+2           Diorite       5.70       5.91       5.31   3.55          5.34         4.90  10.00  ...  0.04  0.79  3.74  4.62  4.99  6.74  1.71      2.9
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75   9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+4           Granite       5.99       6.39       5.84   3.77          4.68         6.00  10.00  ...  0.17  1.11  4.89  4.38  4.96  6.45  3.35      2.6
+5          Obsidian       1.34       1.68       1.69   8.41          5.44         3.32   5.17  ...  1.98  2.07  3.73  5.17  5.48  2.12  1.19      2.9
+6         Pegmatite       5.28       7.00       6.85   4.73          2.57         7.21  10.00  ...  0.88  2.89  6.82  3.67  4.95  5.93  2.87      2.7
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64   9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87   9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+9          Rhyolite       5.64       4.77       4.61   2.59          5.74         4.30   9.58  ...  0.75  0.80  3.33  4.73  4.58  5.55  3.26      2.5
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67   9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21   6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+12           Gneiss       5.41       4.85       4.38   2.98          6.96         5.41   9.63  ...  0.73  1.13  3.41  4.84  3.94  5.78  2.39      2.8
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63   8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+14           Marble       7.77       4.22       4.90   5.01          5.26         3.50   9.42  ...  0.26  1.11  3.13  4.93  4.80  7.46  1.68      2.7
+15        Migmatite       4.92       4.75       4.55   2.85          5.60         4.92   9.54  ...  0.79  1.12  3.43  4.76  5.90  5.45  1.48      2.6
+16         Phyllite       4.95       3.72       4.15   4.58          5.53         3.61   8.79  ...  3.41  1.06  3.00  5.05  4.40  5.62  2.02      2.7
+17        Quartzite       6.36       4.26       4.21   3.39          5.57         3.58   9.54  ...  1.58  0.83  3.23  4.71  4.38  6.43  2.65      2.7
+18           Schist       4.60       5.42       5.90   4.63          4.06         4.35   9.75  ...  1.28  1.90  4.03  5.23  4.85  5.01  2.03      2.7
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03   7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25   7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+21          Breccia       5.08       7.75       6.54   3.65          2.60         6.63   9.92  ...  0.61  2.86  7.85  2.97  4.98  4.96  3.71      2.3
+22            Chert       6.50       2.33       2.75   4.88          4.67         3.67   7.17  ...  1.58  1.88  3.20  5.12  5.12  6.26  3.21      2.6
+23         Conglom.       4.99       7.48       7.15   2.74          2.78         6.66   9.88  ...  0.57  2.90  7.01  5.86  5.02  5.56  4.04      2.5
+24         Dolomite       6.68       3.47       3.98   2.77          5.08         2.65   8.67  ...  2.16  0.57  2.82  4.90  4.98  6.48  2.49      2.5
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25   8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41   8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+27        Rock Salt       6.75       5.00       5.95   6.56          3.81         4.09   8.63  ...  1.72  1.73  4.53  4.20  4.84  6.27  2.51      2.5
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35   9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85   8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+
+[30 rows x 19 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on density:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:            rockLabel  lightness  grainSize  roughness  shine  organization  variability     7  ...    11    12    13    14    15    16    17  density
+7        Peridotite       4.63       5.89       6.05   3.95          4.12         5.64  9.96  ...  0.30  1.86  4.55  5.11  5.00  5.29  2.82      3.3
+3            Gabbro       3.79       5.56       5.94   3.32          4.50         3.75  9.92  ...  0.39  1.19  3.95  4.69  4.98  3.91  1.34      3.0
+10      Amphibolite       2.91       5.31       5.32   4.00          4.85         4.67  9.75  ...  0.35  1.50  3.69  4.76  4.97  3.22  1.36      2.9
+13         Hornfels       3.30       3.24       4.31   2.88          5.08         2.63  8.87  ...  1.49  0.77  2.73  4.83  4.97  3.65  1.55      2.8
+19            Slate       4.90       2.76       3.46   2.80          5.67         2.03  7.96  ...  7.24  0.08  2.32  4.70  4.61  5.19  2.32      2.7
+25          Micrite       6.49       3.49       4.63   2.83          4.76         2.25  8.54  ...  2.20  1.58  2.87  4.76  5.08  6.74  2.03      2.6
+28        Sandstone       6.44       3.56       3.87   2.10          7.08         3.35  9.29  ...  1.31  0.66  2.07  5.11  3.17  6.40  4.23      2.5
+26      Rock Gypsum       7.57       3.50       4.47   5.66          4.72         3.41  8.04  ...  2.12  1.63  3.40  4.53  4.39  7.21  1.01      2.4
+29            Shale       4.08       3.16       3.88   3.06          5.43         2.85  8.50  ...  5.99  0.38  2.64  4.97  4.60  4.23  3.10      2.3
+11       Anthracite       1.52       2.27       3.55   7.87          5.00         2.21  6.13  ...  4.23  0.79  3.38  4.64  4.65  2.45  0.60      1.3
+20  Bituminous Coal       1.78       2.97       4.38   6.31          4.73         2.25  7.46  ...  3.90  0.34  3.01  4.89  4.76  2.60  0.77      1.2
+8            Pumice       7.62       5.25       6.30   1.91          4.67         1.87  9.00  ...  0.00  0.08  3.67  5.25  4.95  7.64  1.74      0.3
+
+[12 rows x 19 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for river based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/matched_outputRiver_WikiPageRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:       Entity    QRank                                   river       riverLabel  length  unitLabel                                    unit
+0     Q1653  5050595    http://www.wikidata.org/entity/Q1653           Danube  2850.0  kilometre  http://www.wikidata.org/entity/Q828224
+1     Q3392  3856556    http://www.wikidata.org/entity/Q3392             Nile  6650.0  kilometre  http://www.wikidata.org/entity/Q828224
+2     Q3783  2660542    http://www.wikidata.org/entity/Q3783           Amazon  6400.0  kilometre  http://www.wikidata.org/entity/Q828224
+3      Q584  2637028     http://www.wikidata.org/entity/Q584            Rhine  1232.7  kilometre  http://www.wikidata.org/entity/Q828224
+4     Q5089  2478700    http://www.wikidata.org/entity/Q5089           Ganges  2525.0  kilometre  http://www.wikidata.org/entity/Q828224
+..      ...      ...                                     ...              ...     ...        ...                                     ...
+95  Q118771   225549  http://www.wikidata.org/entity/Q118771        Rio Negro  2250.0  kilometre  http://www.wikidata.org/entity/Q828224
+96  Q191829   224905  http://www.wikidata.org/entity/Q191829  Magdalena River  1528.0  kilometre  http://www.wikidata.org/entity/Q828224
+97  Q319590   224762  http://www.wikidata.org/entity/Q319590       Beas River   470.0  kilometre  http://www.wikidata.org/entity/Q828224
+98   Q79082   224143   http://www.wikidata.org/entity/Q79082             Kama  1805.0  kilometre  http://www.wikidata.org/entity/Q828224
+99   Q14305   219543   http://www.wikidata.org/entity/Q14305         Guadiana   778.0  kilometre  http://www.wikidata.org/entity/Q828224
+
+[100 rows x 7 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on length:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:       Entity    QRank                                   river     riverLabel   length  unitLabel                                    unit
+1     Q3392  3856556    http://www.wikidata.org/entity/Q3392           Nile  6650.00  kilometre  http://www.wikidata.org/entity/Q828224
+2     Q3783  2660542    http://www.wikidata.org/entity/Q3783         Amazon  6400.00  kilometre  http://www.wikidata.org/entity/Q828224
+11    Q5413  1155867    http://www.wikidata.org/entity/Q5413        Yangtze  6300.00  kilometre  http://www.wikidata.org/entity/Q828224
+17    Q7355   988946    http://www.wikidata.org/entity/Q7355   Yellow River  5464.00  kilometre  http://www.wikidata.org/entity/Q828224
+47  Q127892   477726  http://www.wikidata.org/entity/Q127892   Paraná River  4880.00  kilometre  http://www.wikidata.org/entity/Q828224
+..      ...      ...                                     ...            ...      ...        ...                                     ...
+65  Q166966   341445  http://www.wikidata.org/entity/Q166966  Shatt al-Arab   200.00  kilometre  http://www.wikidata.org/entity/Q828224
+58     Q645   378033     http://www.wikidata.org/entity/Q645           Neva    74.00  kilometre  http://www.wikidata.org/entity/Q828224
+59  Q200239   371631  http://www.wikidata.org/entity/Q200239      Lake Biwa    63.49  kilometre  http://www.wikidata.org/entity/Q828224
+63  Q191087   356701  http://www.wikidata.org/entity/Q191087        Acheron    58.00  kilometre  http://www.wikidata.org/entity/Q828224
+19  Q172572   974235  http://www.wikidata.org/entity/Q172572        Rubicon    35.00  kilometre  http://www.wikidata.org/entity/Q828224
+
+[97 rows x 7 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for city based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/matched_query_cityRankedPopulation_WikiRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:       Entity     QRank                                    city    cityLabel  maxPopulation
+0      Q334  16215873     http://www.wikidata.org/entity/Q334    Singapore      5866139.0
+1     Q1218  15245843    http://www.wikidata.org/entity/Q1218    Jerusalem       936425.0
+2       Q84  10975992      http://www.wikidata.org/entity/Q84       London      8799728.0
+3     Q8646  10437504    http://www.wikidata.org/entity/Q8646    Hong Kong      7413070.0
+4       Q65   8635174      http://www.wikidata.org/entity/Q65  Los Angeles      3898747.0
+..      ...       ...                                     ...          ...            ...
+95    Q2028   1612337    http://www.wikidata.org/entity/Q2028       Verona       255588.0
+96    Q3838   1579153    http://www.wikidata.org/entity/Q3838     Kinshasa     11855000.0
+97    Q3183   1556859    http://www.wikidata.org/entity/Q3183        Perth      2141834.0
+98   Q18808   1555503   http://www.wikidata.org/entity/Q18808    Pyongyang      2863000.0
+99  Q158119   1553763  http://www.wikidata.org/entity/Q158119     Ramallah        38998.0
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on maxPopulation:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:       Entity    QRank                                    city  cityLabel  maxPopulation
+56   Q11725  2307983   http://www.wikidata.org/entity/Q11725  Chongqing     32054159.0
+23     Q956  3986006     http://www.wikidata.org/entity/Q956    Beijing     21893095.0
+79   Q15174  1828548   http://www.wikidata.org/entity/Q15174   Shenzhen     17494398.0
+84    Q1354  1777247    http://www.wikidata.org/entity/Q1354      Dhaka     16800000.0
+13    Q1156  5078974    http://www.wikidata.org/entity/Q1156     Mumbai     15414288.0
+..      ...      ...                                     ...        ...            ...
+83    Q1722  1784361    http://www.wikidata.org/entity/Q1722  Dubrovnik        41562.0
+99  Q158119  1553763  http://www.wikidata.org/entity/Q158119   Ramallah        38998.0
+41    Q5776  2840275    http://www.wikidata.org/entity/Q5776  Bethlehem        36000.0
+8     Q1410  6067896    http://www.wikidata.org/entity/Q1410  Gibraltar        34003.0
+64    Q5687  2168929    http://www.wikidata.org/entity/Q5687    Jericho        23220.0
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for person based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/matched_query_PersonBorn_London_WikiRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:         Entity     QRank                                    person        personLabel     dob
+0      Q10520  22231937     http://www.wikidata.org/entity/Q10520      David Beckham  1975.0
+1      Q25191  12786726     http://www.wikidata.org/entity/Q25191  Christopher Nolan  1970.0
+2     Q212873   7209695    http://www.wikidata.org/entity/Q212873        Jane Birkin  1946.0
+3     Q235132   6651449    http://www.wikidata.org/entity/Q235132      Emilia Clarke  1986.0
+4   Q15123969   5555591  http://www.wikidata.org/entity/Q15123969          Sam Smith  1992.0
+..        ...       ...                                       ...                ...     ...
+95  Q42416276   1160732  http://www.wikidata.org/entity/Q42416276       Lauren James  2001.0
+96    Q230939   1158175    http://www.wikidata.org/entity/Q230939     Catherine Bell  1968.0
+97    Q523140   1149348    http://www.wikidata.org/entity/Q523140     Margaret Tudor  1489.0
+98   Q1852090   1142381   http://www.wikidata.org/entity/Q1852090     Tobias Menzies  1974.0
+99    Q264969   1141187    http://www.wikidata.org/entity/Q264969    Georgia Tennant  1984.0
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on dob:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:         Entity    QRank                                    person            personLabel     dob
+32  Q20426763  2452055  http://www.wikidata.org/entity/Q20426763          Romeo Beckham  2002.0
+95  Q42416276  1160732  http://www.wikidata.org/entity/Q42416276           Lauren James  2001.0
+18  Q17410449  3500255  http://www.wikidata.org/entity/Q17410449       Brooklyn Beckham  1999.0
+48  Q73889193  1995573  http://www.wikidata.org/entity/Q73889193      Daisy Edgar-Jones  1998.0
+35   Q1335213  2325104   http://www.wikidata.org/entity/Q1335213    Hero Fiennes Tiffin  1997.0
+..        ...      ...                                       ...                    ...     ...
+29    Q126188  2655673    http://www.wikidata.org/entity/Q126188    James II of England  1633.0
+15    Q122553  3849164    http://www.wikidata.org/entity/Q122553  Charles II of England  1630.0
+36     Q37388  2316637     http://www.wikidata.org/entity/Q37388          Francis Bacon  1561.0
+97    Q523140  1149348    http://www.wikidata.org/entity/Q523140         Margaret Tudor  1489.0
+56     Q42544  1738326     http://www.wikidata.org/entity/Q42544            Thomas More  1478.0
+
+[63 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for building based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/matched_query_Rank_BuildingHeight_WikiRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:         Entity    QRank                                      item  ... unitLabel                                   unit   maxHeight
+0      Q12495  7732971     http://www.wikidata.org/entity/Q12495  ...     metre  http://www.wikidata.org/entity/Q11573  828.000000
+1       Q9188  3172244      http://www.wikidata.org/entity/Q9188  ...     meter   http://www.wikidata.org/entity/Q3710  457.199985
+2      Q11245  2538057     http://www.wikidata.org/entity/Q11245  ...     metre  http://www.wikidata.org/entity/Q11573  541.300000
+3      Q83063  1540033     http://www.wikidata.org/entity/Q83063  ...     metre  http://www.wikidata.org/entity/Q11573  451.900000
+4      Q83101  1532054     http://www.wikidata.org/entity/Q83101  ...     metre  http://www.wikidata.org/entity/Q11573  508.000000
+..        ...      ...                                       ...  ...       ...                                    ...         ...
+95   Q1372014   107635   http://www.wikidata.org/entity/Q1372014  ...     metre  http://www.wikidata.org/entity/Q11573  178.700000
+96  Q16724433   105180  http://www.wikidata.org/entity/Q16724433  ...     metre  http://www.wikidata.org/entity/Q11573  255.500000
+97  Q14530911   104844  http://www.wikidata.org/entity/Q14530911  ...     metre  http://www.wikidata.org/entity/Q11573  187.000000
+98   Q1676687   104352   http://www.wikidata.org/entity/Q1676687  ...     metre  http://www.wikidata.org/entity/Q11573  215.000000
+99  Q19817578   103476  http://www.wikidata.org/entity/Q19817578  ...     metre  http://www.wikidata.org/entity/Q11573  362.900000
+
+[100 rows x 7 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on maxHeight:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:         Entity    QRank                                      item  ... unitLabel                                   unit  maxHeight
+74    Q119942   126456    http://www.wikidata.org/entity/Q119942  ...     metre  http://www.wikidata.org/entity/Q11573  4000.0000
+0      Q12495  7732971     http://www.wikidata.org/entity/Q12495  ...     metre  http://www.wikidata.org/entity/Q11573   828.0000
+7    Q7969454  1221715   http://www.wikidata.org/entity/Q7969454  ...     metre  http://www.wikidata.org/entity/Q11573   678.9000
+11     Q18547   697467     http://www.wikidata.org/entity/Q18547  ...     metre  http://www.wikidata.org/entity/Q11573   632.0000
+18    Q189476   477417    http://www.wikidata.org/entity/Q189476  ...     metre  http://www.wikidata.org/entity/Q11573   601.0000
+..        ...      ...                                       ...  ...       ...                                    ...        ...
+78  Q30920691   121554  http://www.wikidata.org/entity/Q30920691  ...     metre  http://www.wikidata.org/entity/Q11573    93.2000
+19   Q1066676   476968   http://www.wikidata.org/entity/Q1066676  ...     metre  http://www.wikidata.org/entity/Q11573    76.0000
+79    Q271695   121507    http://www.wikidata.org/entity/Q271695  ...     metre  http://www.wikidata.org/entity/Q11573    69.8000
+87   Q5711011   113199   http://www.wikidata.org/entity/Q5711011  ...     metre  http://www.wikidata.org/entity/Q11573    42.0000
+75   Q2582539   124603   http://www.wikidata.org/entity/Q2582539  ...     meter   http://www.wikidata.org/entity/Q3710     0.6096
+
+[89 rows x 7 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for island based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/matched_query_Rank_Island_Area_WikiRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:        Entity    QRank                                   island            islandLabel  No_islandArea     unitLabel
+0       Q398  5493227      http://www.wikidata.org/entity/Q398                Bahrain   7.850800e+08  square metre
+1     Q22890  4346597    http://www.wikidata.org/entity/Q22890                Ireland   8.442100e+10  square metre
+2     Q14452  3495734    http://www.wikidata.org/entity/Q14452          Easter Island   1.640000e+08  square metre
+3     Q34374  3472640    http://www.wikidata.org/entity/Q34374                  Crete   8.335880e+09  square metre
+4   Q1260331  3472444  http://www.wikidata.org/entity/Q1260331  North Sentinel Island   5.967000e+07  square metre
+..       ...      ...                                      ...                    ...            ...           ...
+95    Q49149   582885    http://www.wikidata.org/entity/Q49149              Nantucket   1.238014e+08  square metre
+96   Q156882   582869   http://www.wikidata.org/entity/Q156882                  Samos   4.760000e+08  square metre
+97   Q239743   578741   http://www.wikidata.org/entity/Q239743                Niʻihau   1.799000e+08  square metre
+98     Q3237   570751     http://www.wikidata.org/entity/Q3237                  Rügen   9.260000e+08  square metre
+99  Q1137202   569667  http://www.wikidata.org/entity/Q1137202          South Georgia   3.756000e+09  square metre
+
+[100 rows x 6 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on No_islandArea:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:        Entity    QRank                                   island              islandLabel  No_islandArea     unitLabel
+71   Q169966   778887   http://www.wikidata.org/entity/Q169966           Deccan Plateau   1.000000e+12  square metre
+21    Q40285  1707189    http://www.wikidata.org/entity/Q40285               New Guinea   7.857530e+11  square metre
+15    Q36117  2174723    http://www.wikidata.org/entity/Q36117                   Borneo   7.481680e+11  square metre
+36     Q3492  1282152     http://www.wikidata.org/entity/Q3492                  Sumatra   4.734810e+11  square metre
+28     Q7343  1371520     http://www.wikidata.org/entity/Q7343       Great Barrier Reef   3.489340e+11  square metre
+..       ...      ...                                      ...                      ...            ...           ...
+70   Q202175   790584   http://www.wikidata.org/entity/Q202175             Ellis Island   1.112886e+05  square metre
+16   Q131354  2126032   http://www.wikidata.org/entity/Q131354          Alcatraz Island   8.500000e+04  square metre
+59   Q285468   874245   http://www.wikidata.org/entity/Q285468           Hashima Island   6.300000e+04  square metre
+11    Q13706  2619124    http://www.wikidata.org/entity/Q13706  Principality of Sealand   4.000000e+03  square metre
+50  Q1044668   991736  http://www.wikidata.org/entity/Q1044668  Republic of Rose Island   4.000000e+02  square metre
+
+[99 rows x 6 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for museum based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/matched_RankMusueumsLattitude_Italy_WikiRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:        Entity    QRank                                   museum             museumLabel   Rank_lat
+0     Q10285  6549386    http://www.wikidata.org/entity/Q10285               Colosseum  41.890278
+1     Q99309  4238072    http://www.wikidata.org/entity/Q99309                Pantheon  41.898561
+2    Q191739  1663253   http://www.wikidata.org/entity/Q191739      Florence Cathedral  43.773056
+3    Q486382  1183843   http://www.wikidata.org/entity/Q486382      Castel Sant'Angelo  41.903044
+4    Q506234   889957   http://www.wikidata.org/entity/Q506234     Altare della Patria  41.894722
+..       ...      ...                                      ...                     ...        ...
+95  Q3909152    68405  http://www.wikidata.org/entity/Q3909152            Porto Flavia  39.299206
+96  Q1135392    68366  http://www.wikidata.org/entity/Q1135392  Museo Nazionale Romano  41.903426
+97   Q533156    64786   http://www.wikidata.org/entity/Q533156          Villa Carlotta  45.986186
+98   Q256790    64142   http://www.wikidata.org/entity/Q256790        Fenestrelle Fort  45.032413
+99  Q1579923    63443  http://www.wikidata.org/entity/Q1579923         Palace of Monza  45.593611
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on Rank_lat:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:        Entity   QRank                                   museum                  museumLabel   Rank_lat
+97   Q533156   64786   http://www.wikidata.org/entity/Q533156               Villa Carlotta  45.986186
+40  Q1759446  187479  http://www.wikidata.org/entity/Q1759446        Villa del Balbianello  45.965056
+26   Q165069  280498   http://www.wikidata.org/entity/Q165069              Miramare Castle  45.702454
+46  Q1547160  169654  http://www.wikidata.org/entity/Q1547160    Vittoriale degli italiani  45.622770
+76   Q426164   90723   http://www.wikidata.org/entity/Q426164         Risiera di San Sabba  45.620833
+..       ...     ...                                      ...                          ...        ...
+39   Q692847  189165   http://www.wikidata.org/entity/Q692847                      Segesta  37.915905
+51   Q747484  142404   http://www.wikidata.org/entity/Q747484  Ancient theatre of Taormina  37.852200
+35   Q952173  213478   http://www.wikidata.org/entity/Q952173                    Selinunte  37.583611
+36   Q505617  205275   http://www.wikidata.org/entity/Q505617      Villa Romana del Casale  37.364723
+23   Q636774  293188   http://www.wikidata.org/entity/Q636774             Valle dei Templi  37.289722
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for company based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/unique_matched_InceptionCompanyWikiPageRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:         Entity      QRank                                   company                           companyLabel  minInception
+0        Q866  115612580       http://www.wikidata.org/entity/Q866                                YouTube          2005
+1       Q5281   30233902      http://www.wikidata.org/entity/Q5281                                 Yandex          2000
+2       Q9448   27005077      http://www.wikidata.org/entity/Q9448                         Premier League          1992
+3         Q95   26584224        http://www.wikidata.org/entity/Q95                                 Google          1998
+4   Q36597284   26004491  http://www.wikidata.org/entity/Q36597284                           Wagner Group          2014
+..        ...        ...                                       ...                                    ...           ...
+95    Q159846    2680336    http://www.wikidata.org/entity/Q159846                     Paramount Pictures          1912
+96     Q36018    2677817     http://www.wikidata.org/entity/Q36018                 MG Car Company Limited          1924
+97    Q177054    2669910    http://www.wikidata.org/entity/Q177054                            Burger King          1954
+98     Q41506    2656481     http://www.wikidata.org/entity/Q41506                    Stanford University          1885
+99     Q49108    2652662     http://www.wikidata.org/entity/Q49108  Massachusetts Institute of Technology          1861
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on minInception:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:         Entity     QRank                                   company                           companyLabel  minInception
+36  Q97439162   5343084  http://www.wikidata.org/entity/Q97439162                             Stellantis          2021
+16  Q61707579  10062133  http://www.wikidata.org/entity/Q61707579                               OnlyFans          2016
+71  Q20800404   3430134  http://www.wikidata.org/entity/Q20800404                          Alphabet Inc.          2015
+26  Q18643737   6649642  http://www.wikidata.org/entity/Q18643737                        YouTube Premium          2014
+10  Q15616276  11029290  http://www.wikidata.org/entity/Q15616276                               Telegram          2013
+..        ...       ...                                       ...                                    ...           ...
+98     Q41506   2656481     http://www.wikidata.org/entity/Q41506                    Stanford University          1885
+87    Q160746   2904223    http://www.wikidata.org/entity/Q160746                                 Nestlé          1866
+99     Q49108   2652662     http://www.wikidata.org/entity/Q49108  Massachusetts Institute of Technology          1861
+83    Q191485   2977055    http://www.wikidata.org/entity/Q191485                          Louis Vuitton          1854
+82     Q83164   2983215     http://www.wikidata.org/entity/Q83164                     East India Company          1600
+
+[70 rows x 5 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Top 100 entities for mountain based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/unique_matched_MountainHeightWikiPageRank.txt:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:       Entity    QRank                                mountain      mountainLabel  elevation unitLabel                                   unit
+0      Q513  8506630     http://www.wikidata.org/entity/Q513      Mount Everest    8848.86     metre  http://www.wikidata.org/entity/Q11573
+1   Q358755  7569037  http://www.wikidata.org/entity/Q358755       Mount Takahe    3460.00     metre  http://www.wikidata.org/entity/Q11573
+2    Q43512  3232213   http://www.wikidata.org/entity/Q43512                 K2    8611.00     metre  http://www.wikidata.org/entity/Q11573
+3     Q7296  3032528    http://www.wikidata.org/entity/Q7296  Mount Kilimanjaro    5895.00     metre  http://www.wikidata.org/entity/Q11573
+4    Q39231  2858112   http://www.wikidata.org/entity/Q39231         Mount Fuji    3777.24     metre  http://www.wikidata.org/entity/Q11573
+..      ...      ...                                     ...                ...        ...       ...                                    ...
+95  Q170070   295313  http://www.wikidata.org/entity/Q170070            Manaslu    8163.00     metre  http://www.wikidata.org/entity/Q11573
+96  Q105261   292690  http://www.wikidata.org/entity/Q105261    Mount Parnassus    2455.00     metre  http://www.wikidata.org/entity/Q11573
+97  Q165440   288505  http://www.wikidata.org/entity/Q165440         Dhaulagiri    8167.00     metre  http://www.wikidata.org/entity/Q11573
+98  Q500275   286562  http://www.wikidata.org/entity/Q500275   Yushan Main Peak    3952.00     metre  http://www.wikidata.org/entity/Q11573
+99   Q81213   285765   http://www.wikidata.org/entity/Q81213  Gerlachovský štít    2654.40     metre  http://www.wikidata.org/entity/Q11573
+
+[100 rows x 7 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:08 PM:  Ranked entities based on elevation:
+INFO 09/05/2025 06:32:08 PM:  ==================================
+INFO 09/05/2025 06:32:08 PM:        Entity    QRank                                 mountain  ... elevation  unitLabel                                   unit
+25      Q520  1028131      http://www.wikidata.org/entity/Q520  ...  21229.00      metre  http://www.wikidata.org/entity/Q11573
+0       Q513  8506630      http://www.wikidata.org/entity/Q513  ...   8848.86      metre  http://www.wikidata.org/entity/Q11573
+2     Q43512  3232213    http://www.wikidata.org/entity/Q43512  ...   8611.00      metre  http://www.wikidata.org/entity/Q11573
+24    Q82019  1047849    http://www.wikidata.org/entity/Q82019  ...   8586.00      metre  http://www.wikidata.org/entity/Q11573
+52   Q168702   489258   http://www.wikidata.org/entity/Q168702  ...   8516.00      metre  http://www.wikidata.org/entity/Q11573
+..       ...      ...                                      ...  ...       ...        ...                                    ...
+64   Q216894   395841   http://www.wikidata.org/entity/Q216894  ...    454.00      metre  http://www.wikidata.org/entity/Q11573
+83   Q210722   316777   http://www.wikidata.org/entity/Q210722  ...    395.00      metre  http://www.wikidata.org/entity/Q11573
+68      Q791   373688      http://www.wikidata.org/entity/Q791  ...    305.00      metre  http://www.wikidata.org/entity/Q11573
+93  Q1122701   298453  http://www.wikidata.org/entity/Q1122701  ...    177.72      metre  http://www.wikidata.org/entity/Q11573
+45     Q4168   549463     http://www.wikidata.org/entity/Q4168  ...    109.00      metre  http://www.wikidata.org/entity/Q11573
+
+[99 rows x 7 columns]
+INFO 09/05/2025 06:32:08 PM:  
+
+
+INFO 09/05/2025 06:32:09 PM:  Top 100 entities for person based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/unique_matched_Person_SOcialMedia_WikiPageRank.txt:
+INFO 09/05/2025 06:32:09 PM:  ==================================
+INFO 09/05/2025 06:32:09 PM:         Entity     QRank                                    person         personLabel  maxSocialMediaFollower
+0        Q615  67525311       http://www.wikidata.org/entity/Q615        Lionel Messi             475409940.0
+1      Q11571  59850712     http://www.wikidata.org/entity/Q11571   Cristiano Ronaldo             609427184.0
+2   Q21621995  36913097  http://www.wikidata.org/entity/Q21621995       Kylian Mbappé             109350769.0
+3     Q317521  31920713    http://www.wikidata.org/entity/Q317521           Elon Musk             149482571.0
+4      Q26876  30300865     http://www.wikidata.org/entity/Q26876        Taylor Swift              92346584.0
+..        ...       ...                                       ...                 ...                     ...
+95     Q43723   9358006     http://www.wikidata.org/entity/Q43723  Benjamin Netanyahu               2214104.0
+96    Q132952   9348642    http://www.wikidata.org/entity/Q132952        Adam Sandler               3196598.0
+97    Q193517   9340955    http://www.wikidata.org/entity/Q193517         Emily Blunt                 21222.0
+98    Q151892   9306925    http://www.wikidata.org/entity/Q151892       Ariana Grande             375767079.0
+99  Q20882479   9296458  http://www.wikidata.org/entity/Q20882479     Anya Taylor-Joy                318151.0
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:09 PM:  
+
+
+INFO 09/05/2025 06:32:09 PM:  Ranked entities based on maxSocialMediaFollower:
+INFO 09/05/2025 06:32:09 PM:  ==================================
+INFO 09/05/2025 06:32:09 PM:       Entity     QRank                                  person        personLabel  maxSocialMediaFollower
+1    Q11571  59850712   http://www.wikidata.org/entity/Q11571  Cristiano Ronaldo             609427184.0
+0      Q615  67525311     http://www.wikidata.org/entity/Q615       Lionel Messi             475409940.0
+98  Q151892   9306925  http://www.wikidata.org/entity/Q151892      Ariana Grande             375767079.0
+3   Q317521  31920713  http://www.wikidata.org/entity/Q317521          Elon Musk             149482571.0
+50      Q76  11653767      http://www.wikidata.org/entity/Q76       Barack Obama             133309684.0
+..      ...       ...                                     ...                ...                     ...
+97  Q193517   9340955  http://www.wikidata.org/entity/Q193517        Emily Blunt                 21222.0
+34    Q4616  13716234    http://www.wikidata.org/entity/Q4616     Marilyn Monroe                 14662.0
+69  Q295498  10251952  http://www.wikidata.org/entity/Q295498       Henry Cavill                 11636.0
+21   Q37079  19454830   http://www.wikidata.org/entity/Q37079         Tom Cruise                  9640.0
+90   Q17714   9453153   http://www.wikidata.org/entity/Q17714    Stephen Hawking                  8750.0
+
+[100 rows x 5 columns]
+INFO 09/05/2025 06:32:09 PM:  
+
+
+INFO 09/05/2025 06:32:09 PM:  Top 100 entities for species based on QRank in /home/nitesh/research/conceptual-spaces/data/Ranking_DataSet/WikiDataMainProperties/unique_matched_speciesMass_WikiPageRank.txt:
+INFO 09/05/2025 06:32:09 PM:  ==================================
+INFO 09/05/2025 06:32:09 PM:       Entity    QRank                                 species  ...                                   unit unitLabel   maxMass
+0      Q140  8593998     http://www.wikidata.org/entity/Q140  ...  http://www.wikidata.org/entity/Q11570      gram  188000.0
+1   Q131538  7173928  http://www.wikidata.org/entity/Q131538  ...  http://www.wikidata.org/entity/Q11570      gram   48900.0
+2    Q19939  6120012   http://www.wikidata.org/entity/Q19939  ...  http://www.wikidata.org/entity/Q11570      gram    1190.0
+3    Q33602  5077601   http://www.wikidata.org/entity/Q33602  ...  http://www.wikidata.org/entity/Q11570      gram  117500.0
+4     Q4504  4810203    http://www.wikidata.org/entity/Q4504  ...  http://www.wikidata.org/entity/Q11570      gram   70000.0
+..      ...      ...                                     ...  ...                                    ...       ...       ...
+95  Q242851   632968  http://www.wikidata.org/entity/Q242851  ...  http://www.wikidata.org/entity/Q11570      gram    3000.0
+96   Q25402   629832   http://www.wikidata.org/entity/Q25402  ...  http://www.wikidata.org/entity/Q11570      gram   11800.0
+97  Q204814   619600  http://www.wikidata.org/entity/Q204814  ...  http://www.wikidata.org/entity/Q41803      gram      74.0
+98  Q188657   616382  http://www.wikidata.org/entity/Q188657  ...  http://www.wikidata.org/entity/Q11570      gram   40000.0
+99   Q25376   608084   http://www.wikidata.org/entity/Q25376  ...  http://www.wikidata.org/entity/Q41803      gram     835.0
+
+[100 rows x 7 columns]
+INFO 09/05/2025 06:32:09 PM:  
+
+
+INFO 09/05/2025 06:32:09 PM:  Ranked entities based on maxMass:
+INFO 09/05/2025 06:32:09 PM:  ==================================
+INFO 09/05/2025 06:32:09 PM:         Entity    QRank                                   species  ...                                   unit unitLabel    maxMass
+49     Q71516  1057744     http://www.wikidata.org/entity/Q71516  ...  http://www.wikidata.org/entity/Q11570      gram  500000.00
+11     Q33609  2423637     http://www.wikidata.org/entity/Q33609  ...  http://www.wikidata.org/entity/Q11570      gram  450000.00
+32     Q82037  1400326     http://www.wikidata.org/entity/Q82037  ...  http://www.wikidata.org/entity/Q11570      gram  250000.00
+0        Q140  8593998       http://www.wikidata.org/entity/Q140  ...  http://www.wikidata.org/entity/Q11570      gram  188000.00
+3      Q33602  5077601     http://www.wikidata.org/entity/Q33602  ...  http://www.wikidata.org/entity/Q11570      gram  117500.00
+..        ...      ...                                       ...  ...                                    ...       ...        ...
+20     Q25334  1681442     http://www.wikidata.org/entity/Q25334  ...  http://www.wikidata.org/entity/Q41803      gram       2.40
+86  Q27075785   696409  http://www.wikidata.org/entity/Q27075785  ...  http://www.wikidata.org/entity/Q41803      gram       2.17
+22    Q121221  1658366    http://www.wikidata.org/entity/Q121221  ...  http://www.wikidata.org/entity/Q41803      gram       2.15
+38     Q25418  1301074     http://www.wikidata.org/entity/Q25418  ...  http://www.wikidata.org/entity/Q41803      gram       1.53
+27     Q25311  1533797     http://www.wikidata.org/entity/Q25311  ...  http://www.wikidata.org/entity/Q41803      gram       1.40
+
+[94 rows x 7 columns]
+INFO 09/05/2025 06:32:09 PM:  
+
+

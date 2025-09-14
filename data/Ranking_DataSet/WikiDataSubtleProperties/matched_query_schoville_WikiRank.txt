@@ -1,0 +1,44 @@
+Entity	QRank	foodName	Rank_scovilleGrade	food
+Q15427475	1695565	Carolina Reaper	156930000000000000000000000	http://www.wikidata.org/entity/Q15427475
+Q504133	1186619	jalapeño	20000	http://www.wikidata.org/entity/Q504133
+Q6598	886342	cayenne pepper	50000	http://www.wikidata.org/entity/Q6598
+Q41081289	792854	Pepper X	3180000	http://www.wikidata.org/entity/Q41081289
+Q764375	725556	habanero	577000	http://www.wikidata.org/entity/Q764375
+Q426850	716673	bhut jolokia	1125000	http://www.wikidata.org/entity/Q426850
+Q512580	414741	piri piri	112500	http://www.wikidata.org/entity/Q512580
+Q432426	377347	bird's eye chili	100000	http://www.wikidata.org/entity/Q432426
+Q466854	332147	Scotch bonnet	400000	http://www.wikidata.org/entity/Q466854
+Q617583	259522	Serrano pepper	23000	http://www.wikidata.org/entity/Q617583
+Q30316757	239162	Dragon's Breath (chili pepper)	2480000	http://www.wikidata.org/entity/Q30316757
+Q897746	227749	poblano	2000	http://www.wikidata.org/entity/Q897746
+Q5613350	222762	mirasol chili	5000	http://www.wikidata.org/entity/Q5613350
+Q2634059	210316	Trinidad Scorpion Butch T	1463700	http://www.wikidata.org/entity/Q2634059
+Q5098689	171280	Chile de árbol	65000	http://www.wikidata.org/entity/Q5098689
+Q281405	154886	Tabasco pepper	50000	http://www.wikidata.org/entity/Q281405
+Q1538429	148388	Espelette pepper	4000	http://www.wikidata.org/entity/Q1538429
+Q642692	129616	Naga Viper pepper	1382118	http://www.wikidata.org/entity/Q642692
+Q3640302	109909	pequin pepper	120000	http://www.wikidata.org/entity/Q3640302
+Q6958285	102007	Naga Morich	1598227	http://www.wikidata.org/entity/Q6958285
+Q13534120	94206	siling labuyo	90000	http://www.wikidata.org/entity/Q13534120
+Q5503208	77691	Fresno pepper	5250	http://www.wikidata.org/entity/Q5503208
+Q1495546	69468	Red Savina	500000	http://www.wikidata.org/entity/Q1495546
+Q13586627	60836	Capsicum chinense ʽMadame Jeanette’	225000	http://www.wikidata.org/entity/Q13586627
+Q5192137	52865	Cubanelle	500	http://www.wikidata.org/entity/Q5192137
+Q1817079	50178	lemon drop	40000	http://www.wikidata.org/entity/Q1817079
+Q5943035	43443	Hungarian wax pepper	15000	http://www.wikidata.org/entity/Q5943035
+Q16860990	40741	Datil pepper	300000	http://www.wikidata.org/entity/Q16860990
+Q16860983	33303	Capsicum baccatum ‘Ají Panca’	100	http://www.wikidata.org/entity/Q16860983
+Q7515082	30995	siling haba	50000	http://www.wikidata.org/entity/Q7515082
+Q7419527	21926	Santa Fe Grande pepper	750	http://www.wikidata.org/entity/Q7419527
+Q4683182	19055	Adjuma	500000	http://www.wikidata.org/entity/Q4683182
+Q4917411	18963	Bishop's Crown	17500	http://www.wikidata.org/entity/Q4917411
+Q7235712	15300	Dorset Naga	1001304	http://www.wikidata.org/entity/Q7235712
+Q39057393	12809	fish pepper	17500	http://www.wikidata.org/entity/Q39057393
+Q16540939	8324	chilhuacle negro	2000	http://www.wikidata.org/entity/Q16540939
+Q33150947	5855	Chimayó pepper	5000	http://www.wikidata.org/entity/Q33150947
+Q3939837	1856	Rocoto red	40000	http://www.wikidata.org/entity/Q3939837
+Q7067706	1587	NuMex 'Twilight'	50000	http://www.wikidata.org/entity/Q7067706
+Q16860935	1005	Jamaican hot red	150000	http://www.wikidata.org/entity/Q16860935
+Q20179070	932	Dedo de Moca	10000	http://www.wikidata.org/entity/Q20179070
+Q2003973	728	NuMex ʽBig Jim’	3000	http://www.wikidata.org/entity/Q2003973
+Q109378984	15	Capsicum annuum ‘Española Improved’	4000	http://www.wikidata.org/entity/Q109378984

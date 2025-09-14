@@ -1,0 +1,81 @@
+title	score
+Five Point Someone	4.0
+Don Quixote	1.0
+1984	3.0
+The Magic Mountain	1.0
+The Divine Comedy	4.0
+Paradise Lost	1.0
+Wise Blood	1.0
+The Coldest Winter Ever	1.0
+Lolita	3.0
+Fahrenheit 451	3.0
+Grendel	3.0
+Watership Down (Watership Down, #1)	1.0
+The Hobbit	1.0
+The Quickie	1.0
+Tuesdays with Morrie	4.0
+The Name of the Wind (The Kingkiller Chronicle, #1)	1.0
+Of Human Bondage	1.0
+The Five People You Meet in Heaven	1.0
+Bleak House	1.0
+The Catcher in the Rye	1.0
+And Then There Were None	4.0
+Hunger	1.0
+Harry, a History: The True Story of a Boy Wizard, His Fans, and Life Inside the Harry Potter Phenomenon	4.5
+Dracula	2.0
+Eragon (The Inheritance Cycle, #1)	1.0
+Misery	2.0
+Tess of the D'Urbervilles	1.0
+The Fountainhead	5.0
+Rich Dad, Poor Dad	5.0
+Crime and Punishment	3.5
+I, Claudius (Claudius, #1)	1.0
+A Farewell to Arms	3.0
+The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)	2.0
+The Memoirs of Sherlock Holmes	1.0
+Horns	2.0
+The Complete Sherlock Holmes	1.0
+The Way of Kings (The Stormlight Archive, #1)	1.0
+Binti (Binti, #1)	1.0
+The Raven	3.0
+The Count of Monte Cristo	2.0
+Gravity's Rainbow	4.0
+The Hunt for Red October (Jack Ryan Universe, #4)	1.0
+The Adventures of Sherlock Holmes	1.0
+Have a Little Faith: a True Story	1.0
+To the Lighthouse	5.0
+The Prince	3.0
+Middlemarch	3.0
+The Republic	5.0
+The Plague	5.0
+The Little Prince	4.0
+Ulysses	5.0
+How to Win Friends and Influence People	1.0
+The Merchant of Venice	2.0
+Madame Bovary	3.0
+Alice in Wonderland	1.0
+The Trial	5.0
+For One More Day	1.0
+The Fellowship of the Ring (The Lord of the Rings, #1)	2.0
+Infinite Jest	5.0
+The Brothers Karamazov	5.0
+Harry Potter and the Sorcerer's Stone (Harry Potter, #1)	1.0
+The Alchemist	4.6666666667
+I Too Had a Love Story	4.0
+Gone Girl	4.0
+Leviathan Wakes (The Expanse, #1)	1.0
+Steve Jobs	2.0
+The First Phone Call from Heaven	1.0
+Half Girlfriend	5.0
+Think and Grow Rich	4.0
+Caliban's War (The Expanse, #2)	1.0
+The Time Keeper	3.0
+The Magic Strings of Frankie Presto	1.0
+The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams  Reaching Your Destiny	4.0
+The 48 Laws of Power	2.0
+The 3 Mistakes of My Life	4.0
+2 States: The Story of My Marriage	4.0
+Influence: The Psychology of Persuasion	1.0
+The Girl Next Door	4.0
+The God Delusion	4.0
+Predictably Irrational: The Hidden Forces That Shape Our Decisions	1.0

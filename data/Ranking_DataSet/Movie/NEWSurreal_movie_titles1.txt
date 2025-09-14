@@ -1,0 +1,242 @@
+title	score
+Crimson Tide (1995)	2.0
+Star Wars: Episode IV - A New Hope (1977)	2.0
+Ace Ventura: Pet Detective (1994)	1.0
+Four Weddings and a Funeral (1994)	1.0
+Beverly Hills Cop III (1994)	2.0
+Terminator 2: Judgment Day (1991)	2.0
+Dances with Wolves (1990)	1.5
+Lawnmower Man, The (1992)	4.0
+Monty Python's Life of Brian (1979)	3.5
+Aliens (1986)	1.0
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	1.0
+Apocalypse Now (1979)	3.75
+Duck Soup (1933)	2.0
+Deer Hunter, The (1978)	1.0
+Pink Floyd: The Wall (1982)	4.0
+Men in Black (a.k.a. MIB) (1997)	3.0
+Little Mermaid, The (1989)	1.0
+Three Kings (1999)	1.0
+Fight Club (1999)	3.625
+Jacob's Ladder (1990)	5.0
+Blazing Saddles (1974)	1.0
+Memento (2000)	3.0
+Altered States (1980)	5.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	2.0
+Beautiful Mind, A (2001)	1.0
+Minority Report (2002)	3.0
+Frida (2002)	1.0
+Matrix Revolutions, The (2003)	5.0
+Hero (Ying xiong) (2002)	3.0
+Lord of the Rings: The Return of the King, The (2003)	5.0
+Team America: World Police (2004)	1.0
+Love Me If You Dare (Jeux d'enfants) (2003)	5.0
+Batman Begins (2005)	1.0
+Stranger than Fiction (2006)	5.0
+Pan's Labyrinth (Laberinto del fauno, El) (2006)	4.4
+Children of Men (2006)	3.5
+Clerks (1994)	1.0
+Blade Runner (1982)	4.0
+2001: A Space Odyssey (1968)	3.6666666667000003
+Groundhog Day (1993)	4.0
+Star Trek III: The Search for Spock (1984)	2.0
+Raising Arizona (1987)	3.5
+Game, The (1997)	3.0
+Big Lebowski, The (1998)	3.7142857143
+Plan 9 from Outer Space (1959)	1.0
+Dune (1984)	3.0
+Star Wars: Episode I - The Phantom Menace (1999)	3.0
+Ghostbusters (a.k.a. Ghost Busters) (1984)	3.0
+Little Shop of Horrors (1986)	3.0
+Spaceballs (1987)	2.0
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	1.5
+Waking Life (2001)	3.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	3.3636363636
+Finding Nemo (2003)	1.0
+THX 1138 (1971)	4.0
+Mean Girls (2004)	2.0
+Incredibles, The (2004)	4.0
+WALL·E (2008)	4.0
+Pulp Fiction (1994)	3.6666666667000003
+Welcome to the Dollhouse (1995)	5.0
+Wizard of Oz, The (1939)	3.5
+Citizen Kane (1941)	1.0
+Annie Hall (1977)	1.0
+Rushmore (1998)	1.0
+Office Space (1999)	1.0
+Matrix, The (1999)	4.5
+Austin Powers: The Spy Who Shagged Me (1999)	1.0
+Donnie Darko (2001)	4.3333333333
+Brazil (1985)	4.0
+Graduate, The (1967)	1.0
+Ferris Bueller's Day Off (1986)	1.0
+RoboCop (1987)	2.5
+Predator (1987)	2.0
+O Brother, Where Art Thou? (2000)	5.0
+Monsters, Inc. (2001)	2.0
+Terminator 3: Rise of the Machines (2003)	1.0
+House of Flying Daggers (Shi mian mai fu) (2004)	5.0
+Casino Royale (2006)	3.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	2.5
+Fish Called Wanda, A (1988)	3.0
+Monty Python and the Holy Grail (1975)	3.0
+Seven Samurai (Shichinin no samurai) (1954)	2.0
+Eternal Sunshine of the Spotless Mind (2004)	4.1428571429
+Kill Bill: Vol. 2 (2004)	2.0
+In Bruges (2008)	1.0
+Son of Rambow (2007)	4.0
+Burn After Reading (2008)	3.0
+Snatch (2000)	3.0
+Butch Cassidy and the Sundance Kid (1969)	3.0
+Sixth Sense, The (1999)	2.5
+Thelma & Louise (1991)	2.0
+Garden State (2004)	1.0
+Prestige, The (2006)	1.0
+Paprika (Papurika) (2006)	5.0
+Blues Brothers, The (1980)	4.0
+Cape Fear (1991)	1.0
+Fear and Loathing in Las Vegas (1998)	5.0
+Open Your Eyes (Abre los ojos) (1997)	5.0
+Easy Rider (1969)	1.0
+Lost in Translation (2003)	2.0
+Natural Born Killers (1994)	3.0
+Aladdin (1992)	4.0
+Chicken Run (2000)	3.0
+How the Grinch Stole Christmas (a.k.a. The Grinch) (2000)	2.0
+My Neighbor Totoro (Tonari no Totoro) (1988)	3.0
+Pirates of the Caribbean: Dead Man's Chest (2006)	1.0
+Bee Movie (2007)	3.0
+Lost World: Jurassic Park, The (1997)	1.0
+Toys (1992)	3.0
+American Psycho (2000)	4.5
+Meet the Parents (2000)	1.0
+Apocalypto (2006)	2.0
+Usual Suspects, The (1995)	1.0
+Broken Arrow (1996)	2.0
+Nightmare Before Christmas, The (1993)	4.0
+Cinderella (1950)	4.0
+Willy Wonka & the Chocolate Factory (1971)	3.7
+Tron (1982)	1.0
+Run Lola Run (Lola rennt) (1998)	3.75
+Being John Malkovich (1999)	4.6666666667
+Virgin Suicides, The (1999)	2.0
+Cats & Dogs (2001)	5.0
+Spirited Away (Sen to Chihiro no kamikakushi) (2001)	4.3333333333
+Legally Blonde 2: Red, White & Blonde (2003)	1.0
+Triplets of Belleville, The (Les triplettes de Belleville) (2003)	4.0
+Beauty and the Beast (La belle et la bête) (1946)	5.0
+Phantom Tollbooth, The (1970)	5.0
+Howl's Moving Castle (Hauru no ugoku shiro) (2004)	5.0
+FLCL (2000)	5.0
+Coraline (2009)	4.0
+Monty Python's The Meaning of Life (1983)	3.0
+Dumb & Dumber (Dumb and Dumber) (1994)	1.0
+Ghost in the Shell (Kôkaku kidôtai) (1995)	5.0
+Sister Act (1992)	3.0
+Almost Famous (2000)	3.0
+Hidden Fortress, The (Kakushi-toride no san-akunin) (1958)	3.0
+Conspiracy Theory (1997)	2.0
+Clockwork Orange, A (1971)	4.5
+Blue Velvet (1986)	4.3333333333
+American Beauty (1999)	2.3333333333
+Dogma (1999)	3.0
+Best in Show (2000)	1.0
+One Hour Photo (2002)	2.0
+Kiss Kiss Bang Bang (2005)	4.0
+Blades of Glory (2007)	1.0
+Twilight (2008)	4.0
+Indiana Jones and the Last Crusade (1989)	3.0
+American Werewolf in London, An (1981)	3.0
+Face/Off (1997)	2.0
+Empire of the Sun (1987)	3.0
+Black Hawk Down (2001)	1.0
+Spider-Man 2 (2004)	2.0
+Trainspotting (1996)	3.0
+Lost Highway (1997)	4.0
+Boys Don't Cry (1999)	1.0
+Dogville (2003)	4.0
+Slumdog Millionaire (2008)	4.0
+Spawn (1997)	2.0
+Amores Perros (Love's a Bitch) (2000)	2.0
+Moulin Rouge (2001)	5.0
+Sea Inside, The (Mar adentro) (2004)	1.0
+Bourne Supremacy, The (2004)	2.0
+The Devil's Advocate (1997)	3.0
+Crocodile Dundee II (1988)	2.0
+eXistenZ (1999)	3.0
+Princess Mononoke (Mononoke-hime) (1997)	4.0
+I Am Legend (2007)	3.0
+So I Married an Axe Murderer (1993)	1.0
+Home Alone (1990)	1.0
+Lost in Space (1998)	3.0
+Beetlejuice (1988)	5.0
+Edward Scissorhands (1990)	4.0
+Karate Kid, The (1984)	1.0
+Miss Congeniality (2000)	3.0
+I Heart Huckabees (2004)	5.0
+Finding Neverland (2004)	5.0
+Science of Sleep, The (La science des rêves) (2006)	5.0
+Sicko (2007)	1.0
+Vertigo (1958)	3.0
+Rosencrantz and Guildenstern Are Dead (1990)	4.0
+Eyes Wide Shut (1999)	2.5
+Fistful of Dollars, A (Per un pugno di dollari) (1964)	2.0
+Whole Nine Yards, The (2000)	2.0
+Holes (2003)	5.0
+Old Boy (2003)	5.0
+Blood Diamond (2006)	1.0
+Pirates of the Caribbean: At World's End (2007)	3.0
+Hunchback of Notre Dame, The (1996)	2.0
+Big Fish (2003)	4.25
+Adaptation (2002)	4.0
+Timecop (1994)	1.0
+1408 (2007)	1.0
+Vanilla Sky (2001)	4.25
+Jaws (1975)	1.0
+Scream (1996)	1.0
+Cell, The (2000)	5.0
+Heavenly Creatures (1994)	3.0
+Once Upon a Time in the West (C'era una volta il West) (1968)	2.0
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950)	2.0
+Animal Crackers (1930)	4.0
+Hitcher, The (1986)	2.0
+In the Name of the Father (1993)	1.0
+Dead Man (1995)	4.0
+Life Aquatic with Steve Zissou, The (2004)	3.5
+Cube (1997)	4.0
+Paris, I Love You (Paris, je t'aime) (2006)	3.0
+People vs. Larry Flynt, The (1996)	3.0
+All That Jazz (1979)	3.0
+Fall, The (2006)	5.0
+Rashomon (Rashômon) (1950)	4.5
+Kung Fu Hustle (Gong fu) (2004)	3.0
+Karate Kid, Part II, The (1986)	1.0
+Philadelphia (1993)	1.0
+Wristcutters: A Love Story (2006)	4.0
+Cashback (2006)	5.0
+Closer (2004)	1.0
+MirrorMask (2005)	5.0
+American in Paris, An (1951)	1.0
+Dancer in the Dark (2000)	4.0
+Michael Clayton (2007)	5.0
+Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)	4.0
+Tampopo (1985)	3.0
+Desperado (1995)	3.0
+Horse Feathers (1932)	1.5
+Spirit of the Beehive, The (Espíritu de la colmena, El) (1973)	3.0
+Before Sunset (2004)	2.0
+Grudge, The (2004)	3.0
+Nixon (1995)	4.0
+Showgirls (1995)	1.0
+Underneath (1995)	4.0
+Fear (1996)	2.0
+Exit Wounds (2001)	2.0
+Missionary, The (1982)	1.0
+Man on the Train (Homme du train, L') (2002)	1.0
+Sonatine (Sonachine) (1993)	2.0
+Control (Kontroll) (2003)	4.0
+After You (Après vous...) (2003)	1.0
+Three Burials of Melquiades Estrada, The (2006)	2.0
+Away from Her (2006)	3.0
+Tell No One (Ne le dis à personne) (2006)	3.0
+Up the Yangtze (2007)	1.0

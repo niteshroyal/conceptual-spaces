@@ -1,0 +1,69 @@
+title	score
+Toy Story (1995)	3.0
+Terminator, The (1984)	2.0
+Heathers (1989)	3.0
+Rocky II (1979)	2.0
+South Park: Bigger, Longer and Uncut (1999)	3.0
+Airplane! (1980)	3.0
+Memento (2000)	5.0
+Ocean's Eleven (2001)	4.0
+Equilibrium (2002)	4.0
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	5.0
+Batman Begins (2005)	3.0
+Wallace & Gromit in The Curse of the Were-Rabbit (2005)	5.0
+V for Vendetta (2006)	3.0
+Children of Men (2006)	3.3333333333
+Ratatouille (2007)	4.0
+Alien³ (a.k.a. Alien 3) (1992)	5.0
+Gattaca (1997)	5.0
+Shakespeare in Love (1998)	3.0
+Star Wars: Episode I - The Phantom Menace (1999)	1.0
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	5.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	2.5
+Incredibles, The (2004)	4.0
+Dark Star (1974)	4.0
+WALL·E (2008)	4.0
+Star Trek (2009)	3.0
+Office Space (1999)	3.0
+Breakfast Club, The (1985)	3.0
+O Brother, Where Art Thou? (2000)	3.0
+Monsters, Inc. (2001)	1.0
+I, Robot (2004)	2.0
+Shrek (2001)	2.0
+Eternal Sunshine of the Spotless Mind (2004)	5.0
+Grosse Pointe Blank (1997)	3.0
+Dr. Horrible's Sing-Along Blog (2008)	4.0
+Full Monty, The (1997)	2.0
+Toy Story 2 (1999)	5.0
+North by Northwest (1959)	3.0
+Ice Age (2002)	2.0
+Nightmare Before Christmas, The (1993)	4.0
+Wallace & Gromit: A Close Shave (1995)	3.0
+This Is Spinal Tap (1984)	5.0
+Monty Python's And Now for Something Completely Different (1971)	5.0
+Identity (2003)	4.0
+Seven (a.k.a. Se7en) (1995)	4.0
+American Beauty (1999)	4.0
+Henry V (1989)	1.0
+Lock, Stock & Two Smoking Barrels (1998)	3.0
+Bourne Supremacy, The (2004)	2.0
+Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001)	5.0
+Flushed Away (2006)	4.0
+Escape from L.A. (1996)	2.0
+Scream 2 (1997)	1.0
+Adaptation (2002)	3.0
+28 Days Later (2002)	4.0
+Shallow Grave (1994)	4.0
+Scream (1996)	4.0
+Dr. No (1962)	3.0
+Secretary (2002)	3.0
+Calendar Girls (2003)	4.0
+Secret of Roan Inish, The (1994)	2.0
+Airheads (1994)	3.0
+Black Hole, The (1979)	2.0
+Cube (1997)	5.0
+Problem Child 2 (1991)	1.0
+Crocodile Dundee in Los Angeles (2001)	3.0
+Aviator, The (2004)	1.0
+Tristram Shandy: A Cock and Bull Story (2005)	3.0
+Paris, I Love You (Paris, je t'aime) (2006)	2.0

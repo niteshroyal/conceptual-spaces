@@ -1,0 +1,118 @@
+title	score
+Braveheart (1995)	2.5
+Star Wars: Episode IV - A New Hope (1977)	4.0
+Black Beauty (1994)	3.0
+Casablanca (1942)	4.0
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	1.0
+Life Is Beautiful (La Vita è bella) (1997)	1.0
+American History X (1998)	1.0
+League of Their Own, A (1992)	2.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	4.0
+Pianist, The (2002)	1.0
+Babette's Feast (Babettes gæstebud) (1987)	2.0
+Lord of the Rings: The Return of the King, The (2003)	3.0
+V for Vendetta (2006)	2.0
+Pan's Labyrinth (Laberinto del fauno, El) (2006)	4.5
+Ratatouille (2007)	3.0
+Clerks (1994)	1.0
+Amadeus (1984)	4.0
+High Noon (1952)	1.0
+Shakespeare in Love (1998)	5.0
+Mission to Mars (2000)	2.0
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	5.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	5.0
+WALL·E (2008)	5.0
+Young Frankenstein (1974)	1.0
+Matrix, The (1999)	1.0
+Donnie Darko (2001)	1.0
+Raging Bull (1980)	1.0
+Shrek (2001)	2.5
+Eternal Sunshine of the Spotless Mind (2004)	3.0
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994)	3.0
+Snatch (2000)	1.0
+Catch Me If You Can (2002)	1.0
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	2.0
+Garden State (2004)	2.0
+Prestige, The (2006)	3.0
+Up (2009)	5.0
+Midnight Run (1988)	1.0
+Lost in Translation (2003)	5.0
+Motorcycle Diaries, The (Diarios de motocicleta) (2004)	4.0
+Lion King, The (1994)	4.0
+Beauty and the Beast (1991)	3.0
+American Pie 2 (2001)	1.0
+Porco Rosso (Crimson Pig) (Kurenai no buta) (1992)	2.0
+Gone with the Wind (1939)	4.0
+Lost World: Jurassic Park, The (1997)	3.0
+Yojimbo (1961)	4.0
+Grave of the Fireflies (Hotaru no haka) (1988)	3.5
+Corpse Bride (2005)	3.0
+Usual Suspects, The (1995)	3.0
+Being John Malkovich (1999)	1.0
+Spirited Away (Sen to Chihiro no kamikakushi) (2001)	5.0
+Winged Migration (Peuple migrateur, Le) (2001)	4.0
+Laputa: Castle in the Sky (Tenkû no shiro Rapyuta) (1986)	3.0
+Brokeback Mountain (2005)	4.0
+Dark Crystal, The (1982)	2.0
+Seventh Seal, The (Sjunde inseglet, Det) (1957)	1.0
+Taxi Driver (1976)	1.0
+American Beauty (1999)	3.0
+Muppets Take Manhattan, The (1984)	2.0
+Jay and Silent Bob Strike Back (2001)	1.0
+Hedwig and the Angry Inch (2000)	2.0
+Mostly Martha (Bella Martha) (2001)	2.0
+Look Who's Talking Now (1993)	1.0
+Go (1999)	2.0
+Phantom of the Opera, The (2004)	3.0
+Straight Story, The (1999)	2.0
+Bourne Identity, The (1988)	1.0
+Princess Mononoke (Mononoke-hime) (1997)	4.0
+Reign of Fire (2002)	1.0
+City of Lost Children, The (Cité des enfants perdus, La) (1995)	4.0
+Rumble in the Bronx (Hont faan kui) (1995)	1.0
+Manhattan (1979)	3.0
+Edward Scissorhands (1990)	3.0
+Trading Places (1983)	1.0
+Piano, The (1993)	5.0
+Live Free or Die Hard (2007)	1.0
+Kiki's Delivery Service (Majo no takkyûbin) (1989)	3.0
+Chocolat (2000)	4.0
+Boogie Nights (1997)	3.0
+Chocolat (1988)	5.0
+Road to Perdition (2002)	2.0
+Don Juan DeMarco (1995)	2.0
+Tears of the Sun (2003)	4.0
+Constant Gardener, The (2005)	2.5
+Pride & Prejudice (2005)	3.0
+Yellow Submarine (1968)	1.0
+Unforgiven (1992)	1.0
+Wings of Desire (Himmel über Berlin, Der) (1987)	3.0
+Calendar Girls (2003)	1.0
+Room with a View, A (1986)	2.0
+Flightplan (2005)	1.0
+Red Dawn (1984)	1.0
+Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983)	3.0
+Dolores Claiborne (1995)	2.0
+Red Violin, The (Violon rouge, Le) (1998)	3.0
+March of the Penguins (Marche de l'empereur, La) (2005)	3.0
+Catch and Release (2006)	1.0
+Miracle (2004)	1.0
+Before Sunrise (1995)	1.0
+Let the Right One In (Låt den rätte komma in) (2008)	5.0
+Secondhand Lions (2003)	1.0
+Eragon (2006)	1.0
+BASEketball (1998)	1.0
+Spy Game (2001)	1.0
+Samouraï, Le (Godson, The) (1967)	4.0
+Apartment, The (Appartement, L') (1996)	2.0
+Cyrano de Bergerac (1990)	4.0
+Badlands (1973)	3.0
+Malice (1993)	1.0
+Rudy (1993)	4.0
+Big Blue, The (Grand bleu, Le) (1988)	4.0
+Trouble with Harry, The (1955)	1.0
+My Mother's Castle (Château de ma mère, Le) (1990)	3.0
+Secret Policeman's Other Ball, The (1982)	1.0
+Saint Ralph (2004)	4.0
+Aqua Teen Hunger Force Colon Movie Film for Theaters (2007)	1.0
+Arn: The Knight Templar (Arn - Tempelriddaren) (2007)	1.0

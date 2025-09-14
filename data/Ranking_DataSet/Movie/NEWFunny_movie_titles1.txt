@@ -1,0 +1,218 @@
+title	score
+Toy Story (1995)	3.5
+Ace Ventura: When Nature Calls (1995)	5.0
+Star Wars: Episode IV - A New Hope (1977)	3.0
+Ace Ventura: Pet Detective (1994)	5.0
+Forrest Gump (1994)	2.5
+Four Weddings and a Funeral (1994)	3.0
+Hot Shots! Part Deux (1993)	5.0
+Terminator 2: Judgment Day (1991)	2.0
+Fargo (1996)	1.0
+Godfather, The (1972)	2.0
+Monty Python's Life of Brian (1979)	4.5
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	3.0
+Army of Darkness (1993)	5.0
+Terminator, The (1984)	1.0
+Heathers (1989)	4.0
+Romy and Michele's High School Reunion (1997)	3.0
+Men in Black (a.k.a. MIB) (1997)	1.0
+Hunt for Red October, The (1990)	3.0
+Titanic (1997)	1.0
+South Park: Bigger, Longer and Uncut (1999)	5.0
+Three Kings (1999)	4.0
+Auntie Mame (1958)	5.0
+Mission: Impossible II (2000)	1.0
+Shanghai Noon (2000)	4.0
+Blazing Saddles (1974)	5.0
+Legally Blonde (2001)	4.0
+Ocean's Eleven (2001)	3.5
+Ring, The (2002)	1.0
+Pirates of the Caribbean: The Curse of the Black Pearl (2003)	3.3333333333
+Batman Begins (2005)	2.0
+Serenity (2005)	3.0
+Lucky Number Slevin (2006)	1.0
+United 93 (2006)	1.0
+Idiocracy (2006)	2.0
+Clerks (1994)	5.0
+Jurassic Park (1993)	1.0
+Die Hard (1988)	4.0
+Grand Day Out with Wallace and Gromit, A (1989)	5.0
+Mars Attacks! (1996)	4.0
+Fifth Element, The (1997)	2.0
+Contact (1997)	2.0
+Thing, The (1982)	1.0
+Ghostbusters (a.k.a. Ghost Busters) (1984)	4.0
+Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)	2.0
+What Women Want (2000)	3.0
+Innerspace (1987)	3.0
+A.I. Artificial Intelligence (2001)	1.0
+Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002)	4.0
+Finding Nemo (2003)	4.5
+Lemony Snicket's A Series of Unfortunate Events (2004)	4.0
+Hitchhiker's Guide to the Galaxy, The (2005)	5.0
+Illusionist, The (2006)	1.0
+Bourne Ultimatum, The (2007)	1.0
+Kung Fu Panda (2008)	5.0
+Young Frankenstein (1974)	5.0
+When Harry Met Sally... (1989)	5.0
+Matrix, The (1999)	1.0
+Demolition Man (1993)	3.0
+Robin Hood: Prince of Thieves (1991)	2.0
+Back to the Future (1985)	4.0
+Back to the Future Part III (1990)	1.0
+Ferris Bueller's Day Off (1986)	5.0
+Animal House (1978)	5.0
+O Brother, Where Art Thou? (2000)	4.6666666667
+House of Flying Daggers (Shi mian mai fu) (2004)	1.0
+War of the Worlds (2005)	1.0
+Fish Called Wanda, A (1988)	4.0
+Monty Python and the Holy Grail (1975)	5.0
+Princess Bride, The (1987)	4.5
+Shrek (2001)	4.0
+Last Samurai, The (2003)	1.0
+Kill Bill: Vol. 2 (2004)	2.0
+Cars (2006)	1.0
+In Bruges (2008)	3.0
+Son of Rambow (2007)	3.0
+You Don't Mess with the Zohan (2008)	3.0
+Reservoir Dogs (1992)	3.0
+Goodfellas (1990)	3.0
+Diamonds Are Forever (1971)	1.0
+Kill Bill: Vol. 1 (2003)	2.5
+Sin City (2005)	1.0
+Catch Me If You Can (2002)	4.0
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	2.6666666667000003
+Butch Cassidy and the Sundance Kid (1969)	3.0
+Full Monty, The (1997)	5.0
+Big (1988)	4.0
+Toy Story 2 (1999)	5.0
+Blues Brothers, The (1980)	5.0
+The Butterfly Effect (2004)	2.0
+Little Miss Sunshine (2006)	5.0
+Lion King, The (1994)	3.0
+North by Northwest (1959)	1.0
+Mulan (1998)	2.0
+Bug's Life, A (1998)	1.0
+American Pie 2 (2001)	5.0
+Ice Age (2002)	5.0
+Shrek 2 (2004)	5.0
+Ice Age 2: The Meltdown (2006)	5.0
+Bank Job, The (2008)	1.5
+Young Guns (1988)	2.0
+Amistad (1997)	1.0
+There's Something About Mary (1998)	4.0
+American Psycho (2000)	5.0
+Elf (2003)	1.0
+Jumanji (1995)	3.0
+Usual Suspects, The (1995)	1.0
+Mary Poppins (1964)	4.0
+This Is Spinal Tap (1984)	5.0
+Dr. Dolittle (1998)	4.0
+Run Lola Run (Lola rennt) (1998)	4.0
+Who Framed Roger Rabbit? (1988)	1.0
+Being John Malkovich (1999)	3.5
+What Lies Beneath (2000)	1.0
+Evan Almighty (2007)	4.0
+Monty Python's The Meaning of Life (1983)	5.0
+Sister Act (1992)	4.0
+Fox and the Hound, The (1981)	2.0
+Rush Hour 2 (2001)	3.5
+Taxi Driver (1976)	1.0
+Robin Hood: Men in Tights (1993)	4.0
+Wag the Dog (1997)	3.0
+Jay and Silent Bob Strike Back (2001)	5.0
+Simpsons Movie, The (2007)	2.0
+Indiana Jones and the Last Crusade (1989)	2.5
+True Lies (1994)	2.0
+Some Like It Hot (1959)	3.0
+Face/Off (1997)	1.0
+American Pie (1999)	3.0
+Majestic, The (2001)	1.0
+I Am Sam (2001)	1.0
+X2: X-Men United (2003)	2.0
+Napoleon Dynamite (2004)	3.0
+Spider-Man 2 (2004)	2.0
+Night of the Living Dead (1968)	3.0
+Treasure of the Sierra Madre, The (1948)	2.0
+Lost Highway (1997)	1.0
+Battleship Potemkin (1925)	3.0
+Austin Powers in Goldmember (2002)	5.0
+Lock, Stock & Two Smoking Barrels (1998)	3.0
+Logan's Run (1976)	1.0
+Princess Mononoke (Mononoke-hime) (1997)	1.0
+Running Man, The (1987)	2.0
+Home Alone (1990)	5.0
+Kingpin (1996)	3.0
+Nutty Professor, The (1996)	4.0
+Evil Dead II (Dead by Dawn) (1987)	4.0
+Opposite of Sex, The (1998)	3.0
+Honey, I Shrunk the Kids (1989)	3.0
+My Cousin Vinny (1992)	4.0
+Karate Kid, The (1984)	3.0
+Mystery Men (1999)	5.0
+Trading Places (1983)	5.0
+Man on the Moon (1999)	4.0
+Wayne's World (1992)	5.0
+Miss Congeniality (2000)	3.0
+K-PAX (2001)	2.0
+Slap Shot (1977)	5.0
+About a Boy (2002)	3.0
+School of Rock (2003)	3.0
+Starsky & Hutch (2004)	5.0
+Meet the Fockers (2004)	4.5
+Happy Gilmore (1996)	2.0
+Blade (1998)	1.0
+Shaolin Soccer (Siu lam juk kau) (2001)	5.0
+Jackass Number Two (2006)	2.0
+Muppet Movie, The (1979)	2.0
+Mallrats (1995)	5.0
+Chasing Amy (1997)	4.5
+Sky High (2005)	4.0
+Forgetting Sarah Marshall (2008)	4.0
+Bull Durham (1988)	3.0
+Tenacious D in The Pick of Destiny (2006)	1.0
+Pineapple Express (2008)	5.0
+Arsenic and Old Lace (1944)	5.0
+Rush Hour (1998)	5.0
+High Fidelity (2000)	4.0
+From Dusk Till Dawn (1996)	3.0
+Billy Madison (1995)	4.0
+Ref, The (1994)	5.0
+His Girl Friday (1940)	5.0
+Victor/Victoria (1982)	4.0
+Christmas Carol, A (1938)	1.0
+Wings of Desire (Himmel über Berlin, Der) (1987)	1.0
+Evita (1996)	1.0
+Air Force One (1997)	1.0
+My Life in Pink (Ma vie en rose) (1997)	2.0
+Spanish Prisoner, The (1997)	1.0
+Newsies (1992)	3.0
+Happiness (1998)	3.0
+Son of Dracula (1943)	1.0
+Ghost Dog: The Way of the Samurai (1999)	1.0
+Double Indemnity (1944)	2.0
+Honeymoon in Vegas (1992)	4.0
+Original Kings of Comedy, The (2000)	2.0
+License to Drive (1988)	5.0
+Penn & Teller Get Killed (1989)	5.0
+Ali (2001)	2.0
+Ferngully: The Last Rainforest (1992)	1.0
+Charter Trip, The (a.k.a. Package Tour, The) (Sällskapsresan) (1980)	5.0
+High Crimes (2002)	1.0
+Cadillac Man (1990)	1.0
+Bend It Like Beckham (2002)	5.0
+Bad Boys II (2003)	1.0
+House of Wax (1953)	1.0
+The Great Train Robbery (1978)	3.0
+Kindergarten Cop (1990)	3.0
+Dreamers, The (2003)	2.0
+Agent Cody Banks 2: Destination London (2004)	2.0
+Jersey Girl (2004)	3.0
+Pretty Baby (1978)	2.0
+Fire in the Sky (1993)	1.0
+Jesus Camp (2006)	3.0
+2 Days in Paris (2007)	3.0
+Meet the Spartans (2008)	2.0
+Step Up 2 the Streets (2008)	1.0
+Observe and Report (2009)	4.0
+Land of the Lost (2009)	4.0

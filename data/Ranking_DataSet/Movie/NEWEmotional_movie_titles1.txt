@@ -1,0 +1,35 @@
+title	score
+Schindler's List (1993)	5.0
+E.T. the Extra-Terrestrial (1982)	3.0
+American History X (1998)	1.0
+Three Kings (1999)	1.0
+Fight Club (1999)	2.0
+Equilibrium (2002)	2.0
+Ratatouille (2007)	4.0
+Iron Man (2008)	2.0
+Ghostbusters (a.k.a. Ghost Busters) (1984)	1.0
+WALL·E (2008)	4.0
+Wizard of Oz, The (1939)	3.0
+Young Frankenstein (1974)	1.0
+Cast Away (2000)	3.0
+Truman Show, The (1998)	3.0
+Last Samurai, The (2003)	4.0
+Eternal Sunshine of the Spotless Mind (2004)	3.6666666667000003
+Hotel Rwanda (2004)	5.0
+Beauty and the Beast (1991)	5.0
+Usual Suspects, The (1995)	1.0
+Departed, The (2006)	2.0
+Dark Knight, The (2008)	4.0
+American Beauty (1999)	3.0
+King Kong (2005)	4.0
+Leaving Las Vegas (1995)	5.0
+Beetlejuice (1988)	2.0
+Big Fish (2003)	4.0
+Crow, The (1994)	2.0
+Perfume: The Story of a Murderer (2006)	3.0
+Resident Evil: Apocalypse (2004)	2.0
+Secrets & Lies (1996)	4.0
+Pecker (1998)	2.0
+Rent (2005)	4.0
+Hairspray (2007)	1.0
+Pink Panther Strikes Again, The (1976)	1.0

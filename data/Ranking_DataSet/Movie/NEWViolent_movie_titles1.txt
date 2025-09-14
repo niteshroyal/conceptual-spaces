@@ -1,0 +1,133 @@
+title	score
+Braveheart (1995)	3.6666666667000003
+Schindler's List (1993)	4.0
+Terminator 2: Judgment Day (1991)	4.5
+Fargo (1996)	3.0
+Aliens (1986)	4.0
+Apocalypse Now (1979)	3.6666666667000003
+Star Wars: Episode VI - Return of the Jedi (1983)	2.5
+Hunt for Red October, The (1990)	3.0
+Saving Private Ryan (1998)	4.0
+American History X (1998)	5.0
+Fight Club (1999)	4.0
+Marathon Man (1976)	5.0
+Gladiator (2000)	3.0
+Beautiful Mind, A (2001)	1.0
+Star Wars: Episode II - Attack of the Clones (2002)	3.0
+Minority Report (2002)	4.0
+Lord of the Rings: The Two Towers, The (2002)	4.0
+Gangs of New York (2002)	3.6666666667000003
+Warriors, The (1979)	3.0
+Batman Begins (2005)	3.0
+Avatar (2009)	3.0
+Die Hard (1988)	3.0
+Alien (1979)	4.5
+Day the Earth Stood Still, The (1951)	3.0
+Groundhog Day (1993)	5.0
+Starship Troopers (1997)	4.0
+Fisher King, The (1991)	1.0
+My Big Fat Greek Wedding (2002)	1.0
+Finding Nemo (2003)	1.0
+Hitchhiker's Guide to the Galaxy, The (2005)	2.0
+Thank You for Smoking (2006)	2.0
+Pulp Fiction (1994)	5.0
+Silence of the Lambs, The (1991)	4.3333333333
+Shining, The (1980)	5.0
+Matrix, The (1999)	3.5
+Cast Away (2000)	1.0
+Watchmen (2009)	5.0
+Back to the Future (1985)	1.0
+Casino Royale (2006)	4.0
+Birdcage, The (1996)	1.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	3.0
+Monty Python and the Holy Grail (1975)	1.0
+Princess Bride, The (1987)	1.0
+Requiem for a Dream (2000)	5.0
+Kill Bill: Vol. 2 (2004)	5.0
+In Bruges (2008)	2.0
+Goodfellas (1990)	5.0
+Grosse Pointe Blank (1997)	5.0
+Snatch (2000)	4.0
+Kill Bill: Vol. 1 (2003)	4.3333333333
+Sin City (2005)	4.3333333333
+Shawshank Redemption, The (1994)	2.5
+Reality Bites (1994)	1.0
+Fugitive, The (1993)	3.0
+Jackie Brown (1997)	3.0
+Man in the Iron Mask, The (1998)	2.0
+Indiana Jones and the Temple of Doom (1984)	3.0
+Hotel Rwanda (2004)	3.6666666667000003
+Conan the Barbarian (1982)	5.0
+Bug's Life, A (1998)	1.0
+Inside Man (2006)	2.0
+Over the Hedge (2006)	3.0
+No Country for Old Men (2007)	5.0
+Godfather: Part II, The (1974)	3.0
+Mr. Holland's Opus (1995)	1.0
+Broken Arrow (1996)	3.0
+Bedknobs and Broomsticks (1971)	1.0
+This Is Spinal Tap (1984)	1.0
+Fantasia 2000 (1999)	1.0
+Babel (2006)	2.0
+Departed, The (2006)	4.3333333333
+Inglourious Basterds (2009)	4.0
+Mask, The (1994)	2.0
+Ghost in the Shell (Kôkaku kidôtai) (1995)	2.0
+Deliverance (1972)	3.5
+Robin Hood: Men in Tights (1993)	2.0
+American Beauty (1999)	2.0
+History of Violence, A (2005)	4.0
+Twilight (2008)	1.0
+Saw (2004)	5.0
+Lives of Others, The (Das leben der Anderen) (2006)	3.0
+Heat (1995)	4.0
+Black Hawk Down (2001)	4.5
+X2: X-Men United (2003)	3.0
+Black Book (Zwartboek) (2006)	4.0
+Dead Man Walking (1995)	5.0
+Trainspotting (1996)	1.0
+Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005)	5.0
+Lock, Stock & Two Smoking Barrels (1998)	4.0
+Amores Perros (Love's a Bitch) (2000)	3.0
+Bourne Supremacy, The (2004)	5.0
+Journey to the Center of the Earth (2008)	2.0
+Lord of War (2005)	3.0
+3:10 to Yuma (2007)	4.0
+Edward Scissorhands (1990)	1.0
+Golden Child, The (1986)	2.0
+Beverly Hills Cop (1984)	3.0
+Tuxedo, The (2002)	1.0
+Punch-Drunk Love (2002)	2.0
+Exorcist, The (1973)	5.0
+Wild Wild West (1999)	3.0
+Dawn of the Dead (2004)	5.0
+Old Boy (2003)	5.0
+Blood Diamond (2006)	5.0
+Quantum of Solace (2008)	4.0
+Chocolat (2000)	1.0
+Chocolat (1988)	5.0
+Elephant (2003)	4.0
+Dirty Harry (1971)	5.0
+Road to Perdition (2002)	4.0
+Million Dollar Baby (2004)	2.0
+Gran Torino (2008)	4.0
+Highlander (1986)	2.0
+Ruthless People (1986)	1.0
+Street Fighter (1994)	4.0
+MirrorMask (2005)	2.0
+Gorky Park (1983)	4.0
+Desperado (1995)	5.0
+Nothing But Trouble (1991)	3.0
+Run Silent Run Deep (1958)	3.0
+Mansfield Park (1999)	1.0
+Kid, The (1921)	2.0
+Shaft (2000)	4.0
+Let It Ride (1989)	2.0
+Meet the Feebles (1989)	3.0
+Lord of the Flies (1990)	3.0
+Ringu (Ring) (1998)	3.0
+Open Range (2003)	2.0
+Suspect Zero (2004)	3.0
+Sword of Doom, The (Dai-bosatsu tôge) (1966)	5.0
+Let the Right One In (Låt den rätte komma in) (2008)	3.0
+Drag Me to Hell (2009)	3.0

@@ -1,0 +1,91 @@
+title	score
+Braveheart (1995)	4.0
+Star Wars: Episode IV - A New Hope (1977)	1.0
+Forrest Gump (1994)	4.3333333333
+E.T. the Extra-Terrestrial (1982)	1.0
+Star Wars: Episode V - The Empire Strikes Back (1980)	2.0
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	2.0
+Good Will Hunting (1997)	4.5
+Fight Club (1999)	1.0
+Gladiator (2000)	3.0
+Shanghai Noon (2000)	1.0
+Ocean's Eleven (2001)	2.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	2.0
+Beautiful Mind, A (2001)	3.5
+City of God (Cidade de Deus) (2002)	4.0
+Seabiscuit (2003)	5.0
+Cinderella Man (2005)	4.0
+V for Vendetta (2006)	5.0
+Pan's Labyrinth (Laberinto del fauno, El) (2006)	2.0
+Children of Men (2006)	2.0
+Ratatouille (2007)	3.0
+Blade Runner (1982)	4.0
+Field of Dreams (1989)	1.0
+Contact (1997)	2.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	5.0
+Incredibles, The (2004)	3.0
+WALL·E (2008)	5.0
+Pulp Fiction (1994)	1.0
+Silence of the Lambs, The (1991)	2.0
+It's a Wonderful Life (1946)	5.0
+Matrix, The (1999)	4.0
+Addams Family, The (1991)	1.0
+Ferris Bueller's Day Off (1986)	2.0
+Shrek (2001)	2.0
+Léon: The Professional (a.k.a. The Professional) (Léon) (1994)	5.0
+Kill Bill: Vol. 1 (2003)	3.0
+Shawshank Redemption, The (1994)	4.75
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	1.0
+Dead Poets Society (1989)	1.0
+Rain Man (1988)	1.0
+Hook (1991)	2.0
+King and I, The (1956)	1.0
+Vitelloni, I (a.k.a. The Young and the Passionate) (1953)	2.0
+Lion King, The (1994)	3.0
+African Queen, The (1951)	3.0
+Mulan (1998)	5.0
+Iron Giant, The (1999)	5.0
+Mr. Holland's Opus (1995)	5.0
+Sleeping Beauty (1959)	1.0
+Persepolis (2007)	4.0
+No Man's Land (2001)	2.0
+Indiana Jones and the Last Crusade (1989)	2.0
+Bridge on the River Kwai, The (1957)	2.0
+Gallipoli (1981)	4.0
+Sweeney Todd: The Demon Barber of Fleet Street (2007)	1.0
+Milk (2008)	5.0
+Mr. Deeds (2002)	4.0
+Others, The (2001)	1.0
+Jerry Maguire (1996)	3.0
+Wayne's World (1992)	2.0
+M*A*S*H (a.k.a. MASH) (1970)	1.0
+National Lampoon's Van Wilder (2002)	1.0
+Starsky & Hutch (2004)	1.0
+Finding Neverland (2004)	2.5
+Crash (2004)	1.0
+Robin Hood (1973)	2.0
+Professional, The (Le professionnel) (1981)	3.0
+Ninja Scroll (Jûbei ninpûchô) (1995)	5.0
+Blood Diamond (2006)	4.0
+Remember the Titans (2000)	4.0
+World's Fastest Indian, The (2005)	5.0
+The Great Train Robbery (1978)	1.0
+Scent of a Woman (1992)	2.5
+On the Waterfront (1954)	1.0
+Billy Elliot (2000)	3.0
+Pursuit of Happyness, The (2006)	4.0
+Akeelah and the Bee (2006)	5.0
+Roman Holiday (1953)	5.0
+Wimbledon (2004)	2.0
+Searching for Bobby Fischer (1993)	5.0
+Modern Times (1936)	2.0
+Dangerous Minds (1995)	5.0
+Murderball (2005)	3.0
+Pollock (2000)	3.0
+Pride and Prejudice (1940)	1.0
+Goofy Movie, A (1995)	4.0
+If.... (1968)	2.0
+Radio (2003)	3.0
+Birdman of Alcatraz (1962)	2.0
+The Alamo (2004)	3.0
+Synecdoche, New York (2008)	5.0

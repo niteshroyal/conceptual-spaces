@@ -1,0 +1,47 @@
+title	score
+The Long Walk	2.0
+On the Beach	3.0
+The Coldest Winter Ever	1.0
+The Hobbit	1.0
+The Quickie	1.0
+James and the Giant Peach	3.0
+The Grapes of Wrath	1.0
+And Then There Were None	1.0
+Pride and Prejudice	1.0
+Misery	1.0
+Crime and Punishment	3.0
+The Memoirs of Sherlock Holmes	1.0
+Holy Bible: King James Version	1.0
+Horns	2.0
+The Complete Sherlock Holmes	1.0
+The Call of Cthulhu	3.0
+Binti (Binti, #1)	2.0
+The Raven	1.0
+The Godfather	1.0
+The Chronicles of Narnia (Chronicles of Narnia, #1-7)	1.0
+The Outsiders	1.0
+John Dies at the End (John Dies at the End, #1)	5.0
+Atonement	1.0
+Anna Karenina	1.0
+Persuasion	1.0
+The Shack	1.0
+Number the Stars	1.0
+The Secret Garden	2.0
+The Odyssey	4.0
+Emma	1.0
+Twilight: The Graphic Novel, Vol. 1 (Twilight: The Graphic Novel, #1)	1.0
+At the Mountains of Madness	3.0
+This Book Is Full of Spiders (John Dies at the End, #2)	5.0
+Futuristic Violence and Fancy Suits	5.0
+Nevernight (The Nevernight Chronicle, #1)	1.0
+Godsgrave (The Nevernight Chronicle, #2)	1.0
+The Ballad of Black Tom	1.0
+Speak	1.0
+Twisted	1.0
+Chains (Seeds of America, #1)	1.0
+My Absolute Darling	1.0
+It	5.0
+Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)	5.0
+Disgrace	1.0
+The Turn of the Screw	2.0
+The Human Stain (The American Trilogy, #3)	1.0

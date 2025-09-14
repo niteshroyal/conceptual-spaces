@@ -1,0 +1,18 @@
+title	score
+Steppenwolf	1.0
+The Coldest Winter Ever	1.0
+The Quickie	1.0
+The Metamorphosis	2.0
+Alice's Adventures in Wonderland & Through the Looking-Glass	1.0
+The Catcher in the Rye	1.0
+Misery	2.0
+One Hundred Years of Solitude	1.0
+Rich Dad, Poor Dad	4.0
+Crime and Punishment	4.0
+Horns	1.0
+Binti (Binti, #1)	1.0
+The Death of Ivan Ilych	1.0
+One Flew Over the Cuckoo's Nest	2.0
+Harry Potter and the Deathly Hallows (Harry Potter, #7)	1.0
+The Stranger	2.0
+Man's Search for Meaning	1.0

@@ -1,0 +1,21 @@
+title	score
+Star Wars: Episode IV - A New Hope (1977)	1.0
+Monty Python's Life of Brian (1979)	5.0
+Apocalypse Now (1979)	2.0
+Fight Club (1999)	4.0
+Fifth Element, The (1997)	3.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	3.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	5.0
+Princess Bride, The (1987)	4.0
+Being John Malkovich (1999)	5.0
+I Am Legend (2007)	1.0
+City of Lost Children, The (Cité des enfants perdus, La) (1995)	2.0
+Edward Scissorhands (1990)	1.0
+Sicko (2007)	4.0
+28 Days Later (2002)	2.0
+Suicide Kings (1997)	4.0
+Gamer (2009)	1.0
+Medicine Man (1992)	2.0
+Big One, The (1997)	4.0
+Importance of Being Earnest, The (2002)	4.0
+In the Loop (2009)	4.0

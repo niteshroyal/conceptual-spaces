@@ -1,0 +1,33 @@
+title	score
+Fargo (1996)	3.0
+Independence Day (a.k.a. ID4) (1996)	1.0
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	1.0
+Memento (2000)	5.0
+Wallace & Gromit in The Curse of the Were-Rabbit (2005)	1.0
+Sleeper (1973)	2.0
+Kill Bill: Vol. 2 (2004)	4.0
+One Flew Over the Cuckoo's Nest (1975)	4.0
+Bone Collector, The (1999)	1.0
+Being John Malkovich (1999)	4.0
+Identity (2003)	5.0
+Lives of Others, The (Das leben der Anderen) (2006)	2.0
+Dogville (2003)	5.0
+Amores Perros (Love's a Bitch) (2000)	2.0
+Manhattan (1979)	5.0
+Dangerous Liaisons (1988)	5.0
+Edward Scissorhands (1990)	2.0
+Fountain, The (2006)	4.0
+Man from Earth, The (2007)	5.0
+Rosencrantz and Guildenstern Are Dead (1990)	5.0
+Vanilla Sky (2001)	4.0
+Pi (1998)	4.0
+Believer, The (2001)	3.0
+Religulous (2008)	5.0
+Howards End (1992)	4.0
+Dreamers, The (2003)	1.0
+2 Days in Paris (2007)	2.0
+Wanted (2008)	2.0
+Zelig (1983)	5.0
+Hours, The (2002)	3.0
+Dolce Vita, La (1960)	3.0
+Two Lovers (2008)	1.0

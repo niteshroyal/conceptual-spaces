@@ -1,0 +1,20 @@
+title	score
+Aliens (1986)	4.0
+Green Mile, The (1999)	3.0
+Mission: Impossible II (2000)	3.0
+Memento (2000)	1.0
+City of God (Cidade de Deus) (2002)	1.0
+Apollo 13 (1995)	4.0
+Alien (1979)	5.0
+Game, The (1997)	4.0
+Requiem for a Dream (2000)	4.0
+One Flew Over the Cuckoo's Nest (1975)	1.0
+Little Miss Sunshine (2006)	3.0
+12 Angry Men (1957)	4.0
+End of Days (1999)	3.0
+Das Experiment (Experiment, The) (2001)	5.0
+Evil Dead, The (1981)	4.0
+Sliding Doors (1998)	1.0
+Ben-Hur (1959)	2.0
+Cube (1997)	5.0
+Holiday Inn (1942)	1.0

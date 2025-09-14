@@ -1,0 +1,57 @@
+Entity	QRank	foodGrp	foodGrpLabel	unitLabel	unit	WaterFootPrint
+Q11575	3646623	http://www.wikidata.org/entity/Q11575	maize	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1314.0
+Q15645384	2626160	http://www.wikidata.org/entity/Q15645384	wheat	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1827.0
+Q177378	2030131	http://www.wikidata.org/entity/Q177378	tofu	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2523.0
+Q28165	1931227	http://www.wikidata.org/entity/Q28165	cinnamon	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	15526.0
+Q165199	1677954	http://www.wikidata.org/entity/Q165199	chili pepper	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	7365.0
+Q83165	1578075	http://www.wikidata.org/entity/Q83165	nutmeg	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	34319.0
+Q34172	1383227	http://www.wikidata.org/entity/Q34172	butter	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	5553.0
+Q231458	1342936	http://www.wikidata.org/entity/Q231458	palm oil	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	4971.0
+Q208021	1132722	http://www.wikidata.org/entity/Q208021	walnut	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	9280.0
+Q192628	1075961	http://www.wikidata.org/entity/Q192628	beef	litre per kilogram	http://www.wikidata.org/entity/Q57175557	16726.0
+Q192628	1075961	http://www.wikidata.org/entity/Q192628	beef	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	15415.0
+Q12372598	1072838	http://www.wikidata.org/entity/Q12372598	plum	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2180.0
+Q578307	1037019	http://www.wikidata.org/entity/Q578307	hazelnut	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	10515.0
+Q13179	814128	http://www.wikidata.org/entity/Q13179	raspberry	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	413.0
+Q3393961	799679	http://www.wikidata.org/entity/Q3393961	corn starch	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1671.0
+Q818405	701066	http://www.wikidata.org/entity/Q818405	linseed oil	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	9415.0
+Q94787	537335	http://www.wikidata.org/entity/Q94787	sunflower oil	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	6792.0
+Q3214940	530050	http://www.wikidata.org/entity/Q3214940	hops	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	4065.0
+Q2249305	520569	http://www.wikidata.org/entity/Q2249305	wheat flour	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1849.0
+Q17638951	509345	http://www.wikidata.org/entity/Q17638951	gooseberry	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	526.0
+Q184357	507081	http://www.wikidata.org/entity/Q184357	almond	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	16095.0
+Q1076906	407399	http://www.wikidata.org/entity/Q1076906	sunflower seed	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	3366.0
+Q15622897	381504	http://www.wikidata.org/entity/Q15622897	clove	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	61205.0
+Q1937700	372346	http://www.wikidata.org/entity/Q1937700	mustard seed	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2809.0
+Q975953	371989	http://www.wikidata.org/entity/Q975953	almond milk	litre per kilogram	http://www.wikidata.org/entity/Q57175557	371.46
+Q1062396	365322	http://www.wikidata.org/entity/Q1062396	cocoa powder	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	15636.0
+Q2746643	354784	http://www.wikidata.org/entity/Q2746643	fig	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	3350.0
+Q841156	331131	http://www.wikidata.org/entity/Q841156	nectarine	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	910.0
+Q20972637	329587	http://www.wikidata.org/entity/Q20972637	oat milk	litre per kilogram	http://www.wikidata.org/entity/Q57175557	48.24
+Q20638126	290425	http://www.wikidata.org/entity/Q20638126	tomato	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	4276.0
+Q10988133	202382	http://www.wikidata.org/entity/Q10988133	cow's milk	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1020.0
+Q10988133	202382	http://www.wikidata.org/entity/Q10988133	cow's milk	litre per kilogram	http://www.wikidata.org/entity/Q57175557	628.2
+Q3143131	201550	http://www.wikidata.org/entity/Q3143131	peppercorn	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	7611.0
+Q3342808	197803	http://www.wikidata.org/entity/Q3342808	coconut	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2687.0
+Q1269205	189546	http://www.wikidata.org/entity/Q1269205	rice flour	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2628.0
+Q16587531	169688	http://www.wikidata.org/entity/Q16587531	potato	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	287.0
+Q1499073	158867	http://www.wikidata.org/entity/Q1499073	tomato paste	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	855.0
+Q110184114	131380	http://www.wikidata.org/entity/Q110184114	maize flour	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1253.0
+Q787325	93474	http://www.wikidata.org/entity/Q787325	tomato juice	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1069.0
+Q3621199	73008	http://www.wikidata.org/entity/Q3621199	peanut	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	3974.0
+Q5812410	66404	http://www.wikidata.org/entity/Q5812410	blueberry	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	845.0
+Q1760637	58275	http://www.wikidata.org/entity/Q1760637	star anise	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	8280.0
+Q10716334	46681	http://www.wikidata.org/entity/Q10716334	garlic powder	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2265.0
+Q10658708	28843	http://www.wikidata.org/entity/Q10658708	rye flour	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1930.0
+Q12000036	22770	http://www.wikidata.org/entity/Q12000036	sesame seed	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	9371.0
+Q2735883	20475	http://www.wikidata.org/entity/Q2735883	cucumber	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	353.0
+Q12533094	6966	http://www.wikidata.org/entity/Q12533094	eggplant	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	362.0
+Q10261845	3587	http://www.wikidata.org/entity/Q10261845	cassava flour	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1878.0
+Q20856764	2584	http://www.wikidata.org/entity/Q20856764	coriander seed	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	8280.0
+Q12008959	1696	http://www.wikidata.org/entity/Q12008959	vanilla bean	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	126505.0
+Q33873455	1441	http://www.wikidata.org/entity/Q33873455	anise seed	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	8280.0
+Q104030000	864	http://www.wikidata.org/entity/Q104030000	mangosteen	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1800.0
+Q29472543	449	http://www.wikidata.org/entity/Q29472543	pea	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	595.0
+Q57656115	380	http://www.wikidata.org/entity/Q57656115	soy flour	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	2523.0
+Q61665121	213	http://www.wikidata.org/entity/Q61665121	barley	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	1423.0
+Q21546387	32	http://www.wikidata.org/entity/Q21546387	cranberry	cubic metre per ton	http://www.wikidata.org/entity/Q57899268	276.0

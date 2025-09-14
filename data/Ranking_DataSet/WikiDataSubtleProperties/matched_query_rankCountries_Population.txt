@@ -1,0 +1,197 @@
+Entity	QRank	country	countryLabel	maxPopulation
+Q30	51188631	http://www.wikidata.org/entity/Q30	United States of America	331449281
+Q801	43280468	http://www.wikidata.org/entity/Q801	Israel	9797120
+Q159	34617436	http://www.wikidata.org/entity/Q159	Russia	146804372
+Q668	27831379	http://www.wikidata.org/entity/Q668	India	1326093247
+Q183	24149872	http://www.wikidata.org/entity/Q183	Germany	83149300
+Q17	24033250	http://www.wikidata.org/entity/Q17	Japan	125440000
+Q145	23920781	http://www.wikidata.org/entity/Q145	United Kingdom	67326569
+Q43	23487107	http://www.wikidata.org/entity/Q43	Turkey	85279553
+Q142	22626513	http://www.wikidata.org/entity/Q142	France	67749632
+Q148	21517614	http://www.wikidata.org/entity/Q148	People's Republic of China	1443497378
+Q1028	21465255	http://www.wikidata.org/entity/Q1028	Morocco	37076584
+Q414	19235022	http://www.wikidata.org/entity/Q414	Argentina	47327407
+Q16	18709977	http://www.wikidata.org/entity/Q16	Canada	36991981
+Q408	18055092	http://www.wikidata.org/entity/Q408	Australia	26473055
+Q38	17502374	http://www.wikidata.org/entity/Q38	Italy	58850717
+Q29	17027944	http://www.wikidata.org/entity/Q29	Spain	47415750
+Q155	16645218	http://www.wikidata.org/entity/Q155	Brazil	203062512
+Q794	16263863	http://www.wikidata.org/entity/Q794	Iran	86758304
+Q334	16215873	http://www.wikidata.org/entity/Q334	Singapore	5866139
+Q55	15746088	http://www.wikidata.org/entity/Q55	Netherlands	17590672
+Q39	15672726	http://www.wikidata.org/entity/Q39	Switzerland	8902308
+Q851	14674925	http://www.wikidata.org/entity/Q851	Saudi Arabia	33000000
+Q36	14366274	http://www.wikidata.org/entity/Q36	Poland	38382576
+Q252	14313372	http://www.wikidata.org/entity/Q252	Indonesia	275439000
+Q224	13776932	http://www.wikidata.org/entity/Q224	Croatia	3871833
+Q843	13697856	http://www.wikidata.org/entity/Q843	Pakistan	223773700
+Q79	13660785	http://www.wikidata.org/entity/Q79	Egypt	94798827
+Q884	13620000	http://www.wikidata.org/entity/Q884	South Korea	51466201
+Q865	13400519	http://www.wikidata.org/entity/Q865	Taiwan	23593794
+Q423	12462130	http://www.wikidata.org/entity/Q423	North Korea	25490965
+Q258	12380349	http://www.wikidata.org/entity/Q258	South Africa	62027503
+Q878	12093771	http://www.wikidata.org/entity/Q878	United Arab Emirates	9890400
+Q45	12084635	http://www.wikidata.org/entity/Q45	Portugal	10347892
+Q96	11736071	http://www.wikidata.org/entity/Q96	Mexico	124777324
+Q232	11672983	http://www.wikidata.org/entity/Q232	Kazakhstan	19002586
+Q227	11672733	http://www.wikidata.org/entity/Q227	Azerbaijan	10145212
+Q881	11615073	http://www.wikidata.org/entity/Q881	Vietnam	96208984
+Q889	11542387	http://www.wikidata.org/entity/Q889	Afghanistan	37466414
+Q34	11533437	http://www.wikidata.org/entity/Q34	Sweden	10548336
+Q664	11530223	http://www.wikidata.org/entity/Q664	New Zealand	5118700
+Q902	11490969	http://www.wikidata.org/entity/Q902	Bangladesh	169356251
+Q222	11411971	http://www.wikidata.org/entity/Q222	Albania	2793592
+Q928	11272031	http://www.wikidata.org/entity/Q928	Philippines	109035343
+Q869	11262686	http://www.wikidata.org/entity/Q869	Thailand	66188503
+Q846	11209852	http://www.wikidata.org/entity/Q846	Qatar	2639211
+Q229	11083074	http://www.wikidata.org/entity/Q229	Cyprus	1141166
+Q21	11010027	http://www.wikidata.org/entity/Q21	England	53012456
+Q31	10897063	http://www.wikidata.org/entity/Q31	Belgium	11584008
+Q41	10683717	http://www.wikidata.org/entity/Q41	Greece	10482487
+Q20	10622700	http://www.wikidata.org/entity/Q20	Norway	5504329
+Q33	10416601	http://www.wikidata.org/entity/Q33	Finland	5563970
+Q213	10412923	http://www.wikidata.org/entity/Q213	Czech Republic	10827529
+Q218	10386202	http://www.wikidata.org/entity/Q218	Romania	19053815
+Q40	10325211	http://www.wikidata.org/entity/Q40	Austria	8979894
+Q833	10273217	http://www.wikidata.org/entity/Q833	Malaysia	32447385
+Q233	10229808	http://www.wikidata.org/entity/Q233	Malta	465292
+Q399	10039308	http://www.wikidata.org/entity/Q399	Armenia	2930450
+Q822	10022717	http://www.wikidata.org/entity/Q822	Lebanon	6100075
+Q1246	9855056	http://www.wikidata.org/entity/Q1246	Kosovo	1883018
+Q189	9698870	http://www.wikidata.org/entity/Q189	Iceland	364260
+Q28	9355585	http://www.wikidata.org/entity/Q28	Hungary	9603634
+Q35	9071516	http://www.wikidata.org/entity/Q35	Denmark	5827463
+Q1033	9050866	http://www.wikidata.org/entity/Q1033	Nigeria	211400708
+Q810	8996490	http://www.wikidata.org/entity/Q810	Jordan	10428241
+Q184	8979566	http://www.wikidata.org/entity/Q184	Belarus	9200617
+Q836	8794767	http://www.wikidata.org/entity/Q836	Myanmar	53370609
+Q858	8697664	http://www.wikidata.org/entity/Q858	Syria	18499181
+Q27	8663810	http://www.wikidata.org/entity/Q27	Republic of Ireland	5123536
+Q739	8427903	http://www.wikidata.org/entity/Q739	Colombia	49065615
+Q854	8389659	http://www.wikidata.org/entity/Q854	Sri Lanka	21444000
+Q236	8374289	http://www.wikidata.org/entity/Q236	Montenegro	622359
+Q796	8350844	http://www.wikidata.org/entity/Q796	Iraq	38274618
+Q262	8106631	http://www.wikidata.org/entity/Q262	Algeria	43900000
+Q265	7837983	http://www.wikidata.org/entity/Q265	Uzbekistan	34915100
+Q1049	7783042	http://www.wikidata.org/entity/Q1049	Sudan	40533330
+Q241	7658309	http://www.wikidata.org/entity/Q241	Cuba	11181595
+Q826	7638786	http://www.wikidata.org/entity/Q826	Maldives	436330
+Q219	7612009	http://www.wikidata.org/entity/Q219	Bulgaria	7000039
+Q711	7462945	http://www.wikidata.org/entity/Q711	Mongolia	3409939
+Q37	7396670	http://www.wikidata.org/entity/Q37	Lithuania	2860002
+Q1032	7382982	http://www.wikidata.org/entity/Q1032	Niger	21477348
+Q22	7289240	http://www.wikidata.org/entity/Q22	Scotland	5404700
+Q717	7283773	http://www.wikidata.org/entity/Q717	Venezuela	28515829
+Q837	7272663	http://www.wikidata.org/entity/Q837	Nepal	29164578
+Q215	7101340	http://www.wikidata.org/entity/Q215	Slovenia	2066880
+Q1027	7077466	http://www.wikidata.org/entity/Q1027	Mauritius	1264613
+Q974	6963015	http://www.wikidata.org/entity/Q974	Democratic Republic of the Congo	86790567
+Q115	6874583	http://www.wikidata.org/entity/Q115	Ethiopia	104957438
+Q424	6827741	http://www.wikidata.org/entity/Q424	Cambodia	16005373
+Q214	6821354	http://www.wikidata.org/entity/Q214	Slovakia	5449270
+Q347	6820761	http://www.wikidata.org/entity/Q347	Liechtenstein	37922
+Q298	6785935	http://www.wikidata.org/entity/Q298	Chile	19458000
+Q805	6726468	http://www.wikidata.org/entity/Q805	Yemen	28250420
+Q191	6613592	http://www.wikidata.org/entity/Q191	Estonia	1373101
+Q228	6528179	http://www.wikidata.org/entity/Q228	Andorra	81588
+Q419	6520936	http://www.wikidata.org/entity/Q419	Peru	29381884
+Q813	6439197	http://www.wikidata.org/entity/Q813	Kyrgyzstan	6694200
+Q1016	6434060	http://www.wikidata.org/entity/Q1016	Libya	6678567
+Q786	6428675	http://www.wikidata.org/entity/Q786	Dominican Republic	10403761
+Q1011	6421399	http://www.wikidata.org/entity/Q1011	Cape Verde	555988
+Q221	6356229	http://www.wikidata.org/entity/Q221	North Macedonia	1836713
+Q842	6200468	http://www.wikidata.org/entity/Q842	Oman	4829480
+Q211	6175599	http://www.wikidata.org/entity/Q211	Latvia	1883008
+Q948	6080412	http://www.wikidata.org/entity/Q948	Tunisia	11565204
+Q1019	5946993	http://www.wikidata.org/entity/Q1019	Madagascar	25570895
+Q874	5565273	http://www.wikidata.org/entity/Q874	Turkmenistan	6117933
+Q398	5493227	http://www.wikidata.org/entity/Q398	Bahrain	1492584
+Q986	5456511	http://www.wikidata.org/entity/Q986	Eritrea	3497000
+Q819	5313059	http://www.wikidata.org/entity/Q819	Laos	6858160
+Q924	5309083	http://www.wikidata.org/entity/Q924	Tanzania	57310019
+Q1009	5260904	http://www.wikidata.org/entity/Q1009	Cameroon	24053727
+Q77	5213524	http://www.wikidata.org/entity/Q77	Uruguay	3456750
+Q917	5096438	http://www.wikidata.org/entity/Q917	Bhutan	807610
+Q25	5065030	http://www.wikidata.org/entity/Q25	Wales	3113000
+Q921	5037638	http://www.wikidata.org/entity/Q921	Brunei	428697
+Q734	5034187	http://www.wikidata.org/entity/Q734	Guyana	777859
+Q736	5010772	http://www.wikidata.org/entity/Q736	Ecuador	16938986
+Q1041	4964740	http://www.wikidata.org/entity/Q1041	Senegal	16876720
+Q750	4962049	http://www.wikidata.org/entity/Q750	Bolivia	11051600
+Q792	4927287	http://www.wikidata.org/entity/Q792	El Salvador	5744113
+Q800	4860281	http://www.wikidata.org/entity/Q800	Costa Rica	5044197
+Q958	4854699	http://www.wikidata.org/entity/Q958	South Sudan	12575714
+Q114	4813506	http://www.wikidata.org/entity/Q114	Kenya	48468138
+Q790	4804700	http://www.wikidata.org/entity/Q790	Haiti	10981229
+Q907112	4795137	http://www.wikidata.org/entity/Q907112	Transnistria	469000
+Q1030	4781603	http://www.wikidata.org/entity/Q1030	Namibia	2533794
+Q863	4772304	http://www.wikidata.org/entity/Q863	Tajikistan	8921343
+Q965	4731029	http://www.wikidata.org/entity/Q965	Burkina Faso	20488000
+Q1045	4720377	http://www.wikidata.org/entity/Q1045	Somalia	11031386
+Q117	4639702	http://www.wikidata.org/entity/Q117	Ghana	32833031
+Q766	4613692	http://www.wikidata.org/entity/Q766	Jamaica	2697983
+Q712	4571750	http://www.wikidata.org/entity/Q712	Fiji	905502
+Q1042	4454271	http://www.wikidata.org/entity/Q1042	Seychelles	95843
+Q912	4434692	http://www.wikidata.org/entity/Q912	Mali	20250833
+Q691	4415142	http://www.wikidata.org/entity/Q691	Papua New Guinea	8935000
+Q1036	4314578	http://www.wikidata.org/entity/Q1036	Uganda	47123531
+Q1008	4292717	http://www.wikidata.org/entity/Q1008	Ivory Coast	24294750
+Q916	4282515	http://www.wikidata.org/entity/Q916	Angola	32866270
+Q26	4251014	http://www.wikidata.org/entity/Q26	Northern Ireland	1852168
+Q954	4236560	http://www.wikidata.org/entity/Q954	Zimbabwe	15178979
+Q1025	4149724	http://www.wikidata.org/entity/Q1025	Mauritania	4614974
+Q774	4129237	http://www.wikidata.org/entity/Q774	Guatemala	17263239
+Q1037	4118445	http://www.wikidata.org/entity/Q1037	Rwanda	13246394
+Q244165	3903463	http://www.wikidata.org/entity/Q244165	Republic of Artsakh	146600
+Q811	3885356	http://www.wikidata.org/entity/Q811	Nicaragua	5142098
+Q778	3858912	http://www.wikidata.org/entity/Q778	The Bahamas	395361
+Q1000	3752544	http://www.wikidata.org/entity/Q1000	Gabon	2025137
+Q657	3727172	http://www.wikidata.org/entity/Q657	Chad	15477751
+Q1050	3635862	http://www.wikidata.org/entity/Q1050	Eswatini	1093238
+Q1014	3621084	http://www.wikidata.org/entity/Q1014	Liberia	5214030
+Q733	3584615	http://www.wikidata.org/entity/Q733	Paraguay	6811297
+Q783	3506466	http://www.wikidata.org/entity/Q783	Honduras	10062994
+Q574	3417647	http://www.wikidata.org/entity/Q574	East Timor	1296311
+Q962	3377255	http://www.wikidata.org/entity/Q962	Benin	11175692
+Q1029	3366606	http://www.wikidata.org/entity/Q1029	Mozambique	29668834
+Q21203	3333991	http://www.wikidata.org/entity/Q21203	Aruba	106739
+Q1013	3314742	http://www.wikidata.org/entity/Q1013	Lesotho	2007201
+Q5705	3267479	http://www.wikidata.org/entity/Q5705	Catalonia	7747709
+Q754	3190675	http://www.wikidata.org/entity/Q754	Trinidad and Tobago	1369125
+Q967	3177119	http://www.wikidata.org/entity/Q967	Burundi	11530580
+Q971	3168936	http://www.wikidata.org/entity/Q971	Republic of the Congo	5260750
+Q977	3074036	http://www.wikidata.org/entity/Q977	Djibouti	956985
+Q1044	2994570	http://www.wikidata.org/entity/Q1044	Sierra Leone	7557212
+Q963	2916579	http://www.wikidata.org/entity/Q963	Botswana	2291661
+Q29999	2916169	http://www.wikidata.org/entity/Q29999	Kingdom of the Netherlands	17100715
+Q697	2856879	http://www.wikidata.org/entity/Q697	Nauru	13650
+Q929	2810970	http://www.wikidata.org/entity/Q929	Central African Republic	4659080
+Q683	2810639	http://www.wikidata.org/entity/Q683	Samoa	198410
+Q953	2786264	http://www.wikidata.org/entity/Q953	Zambia	17094130
+Q1005	2709465	http://www.wikidata.org/entity/Q1005	The Gambia	2639916
+Q695	2686845	http://www.wikidata.org/entity/Q695	Palau	21729
+Q710	2560525	http://www.wikidata.org/entity/Q710	Kiribati	119438
+Q686	2542155	http://www.wikidata.org/entity/Q686	Vanuatu	300019
+Q672	2494194	http://www.wikidata.org/entity/Q672	Tuvalu	11792
+Q945	2479077	http://www.wikidata.org/entity/Q945	Togo	7797694
+Q763	2463274	http://www.wikidata.org/entity/Q763	Saint Kitts and Nevis	55345
+Q970	2433242	http://www.wikidata.org/entity/Q970	Comoros	902348
+Q769	2419767	http://www.wikidata.org/entity/Q769	Grenada	114299
+Q760	2247828	http://www.wikidata.org/entity/Q760	Saint Lucia	167591
+Q784	2212323	http://www.wikidata.org/entity/Q784	Dominica	74656
+Q1020	2129770	http://www.wikidata.org/entity/Q1020	Malawi	18622104
+Q1007	2073566	http://www.wikidata.org/entity/Q1007	Guinea-Bissau	1861283
+Q709	2038407	http://www.wikidata.org/entity/Q709	Marshall Islands	53127
+Q3908	2020455	http://www.wikidata.org/entity/Q3908	Galicia	2703290
+Q685	1987085	http://www.wikidata.org/entity/Q685	Solomon Islands	611343
+Q1039	1893764	http://www.wikidata.org/entity/Q1039	São Tomé and Príncipe	204327
+Q781	1703871	http://www.wikidata.org/entity/Q781	Antigua and Barbuda	101489
+Q702	1571415	http://www.wikidata.org/entity/Q702	Federated States of Micronesia	105544
+Q26988	1552031	http://www.wikidata.org/entity/Q26988	Cook Islands	17434
+Q34020	1415707	http://www.wikidata.org/entity/Q34020	Niue	1612
+Q757	1359656	http://www.wikidata.org/entity/Q757	Saint Vincent and the Grenadines	109897
+Q756617	1261015	http://www.wikidata.org/entity/Q756617	Kingdom of Denmark	5930987
+Q16644	1214848	http://www.wikidata.org/entity/Q16644	Northern Mariana Islands	47329
+Q26273	1105380	http://www.wikidata.org/entity/Q26273	Sint Maarten	43847
+Q1147441	109288	http://www.wikidata.org/entity/Q1147441	British North Borneo	285000
+Q1006	93222	http://www.wikidata.org/entity/Q1006	Guinea	12717176

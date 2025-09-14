@@ -1,0 +1,24 @@
+title	score
+The Ultimate Hitchhiker's Guide to the Galaxy	4.0
+The Divine Comedy	3.0
+The Coldest Winter Ever	1.0
+The Hobbit	1.0
+The Quickie	1.0
+The Titan's Curse (Percy Jackson and the Olympians, #3)	5.0
+Misery	5.0
+Crime and Punishment	1.0
+The Last Olympian (Percy Jackson and the Olympians, #5)	5.0
+Horns	3.0
+Slammed (Slammed, #1)	5.0
+Binti (Binti, #1)	1.0
+The Chronicles of Narnia (Chronicles of Narnia, #1-7)	2.0
+The Secret Garden	3.0
+The Lightning Thief (Percy Jackson and the Olympians, #1)	5.0
+The Mark of Athena (The Heroes of Olympus, #3)	5.0
+The Sea of Monsters (Percy Jackson and the Olympians, #2)	5.0
+The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)	5.0
+The Son of Sobek (Percy Jackson & Kane Chronicles Crossover, #1)	5.0
+The Son of Neptune (The Heroes of Olympus, #2)	5.0
+The Blood of Olympus (The Heroes of Olympus, #5)	5.0
+The House of Hades (The Heroes of Olympus, #4)	5.0
+Naamah's Kiss (Naamah Trilogy, #1)	4.0

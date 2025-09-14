@@ -1,0 +1,92 @@
+title	score
+Braveheart (1995)	1.5
+Star Wars: Episode V - The Empire Strikes Back (1980)	3.0
+Full Metal Jacket (1987)	2.0
+Pink Floyd: The Wall (1982)	5.0
+Titanic (1997)	1.0
+Memento (2000)	4.0
+Star Wars: Episode II - Attack of the Clones (2002)	3.0
+Lord of the Rings: The Return of the King, The (2003)	5.0
+To Be or Not to Be (1983)	2.0
+Beat That My Heart Skipped, The (battre mon coeur s'est arrêté, De) (2005)	4.0
+300 (2007)	3.5
+Vicky Cristina Barcelona (2008)	3.0
+Avatar (2009)	4.0
+Blade Runner (1982)	5.0
+Amadeus (1984)	4.0
+Fifth Element, The (1997)	3.0
+History of the World: Part I (1981)	4.0
+Waking Life (2001)	5.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	4.3333333333
+Incredibles, The (2004)	1.5
+WALL·E (2008)	4.0
+Pulp Fiction (1994)	4.0
+Office Space (1999)	2.0
+Watchmen (2009)	2.0
+Monsters, Inc. (2001)	1.0
+Requiem for a Dream (2000)	3.0
+Shrek (2001)	2.0
+Snatch (2000)	2.0
+Kill Bill: Vol. 1 (2003)	5.0
+Sin City (2005)	3.8571428571
+Man in the Iron Mask, The (1998)	2.0
+Rain Man (1988)	2.0
+Garden State (2004)	3.0
+Natural Born Killers (1994)	4.0
+Mulan (1998)	5.0
+Bambi (1942)	2.0
+Chicken Run (2000)	3.0
+Scary Movie (2000)	1.0
+Ice Age (2002)	1.0
+My Neighbor Totoro (Tonari no Totoro) (1988)	5.0
+Porco Rosso (Crimson Pig) (Kurenai no buta) (1992)	2.0
+Inside Man (2006)	1.0
+Snow White and the Seven Dwarfs (1937)	3.0
+Rebel Without a Cause (1955)	4.0
+Fantasia (1940)	4.3333333333
+American Beauty (1999)	1.0
+Lives of Others, The (Das leben der Anderen) (2006)	2.0
+Bridge on the River Kwai, The (1957)	3.0
+Hulk (2003)	1.0
+Harry Potter and the Prisoner of Azkaban (2004)	4.0
+Three Colors: Blue (Trois couleurs: Bleu) (1993)	4.0
+Godzilla (1998)	1.0
+Alice in Wonderland (1951)	3.0
+Man on Wire (2008)	4.0
+Edward Scissorhands (1990)	5.0
+Fly, The (1986)	2.0
+Finding Neverland (2004)	4.0
+Robots (2005)	2.0
+Wedding Crashers (2005)	2.0
+Fountain, The (2006)	2.0
+Juno (2007)	2.0
+Limey, The (1999)	1.0
+Blood Diamond (2006)	1.0
+Mallrats (1995)	1.0
+Road to Perdition (2002)	2.0
+Ghost (1990)	2.0
+Yellow Submarine (1968)	3.6666666667000003
+Dreamers, The (2003)	3.0
+That Obscure Object of Desire (Cet obscur objet du désir) (1977)	3.0
+Ginger Snaps Back: The Beginning (2004)	2.0
+Next (2007)	1.0
+101 Dalmatians (1996)	3.0
+Rashomon (Rashômon) (1950)	4.0
+Resident Evil: Extinction (2007)	1.0
+Deep Impact (1998)	1.0
+Zelig (1983)	2.0
+Rob Roy (1995)	1.0
+MirrorMask (2005)	5.0
+Transporter 3 (2008)	2.0
+Snow Cake (2006)	2.0
+Buena Vista Social Club (1999)	4.0
+Touching the Void (2003)	2.0
+Pirate Radio (2009)	3.0
+Girl with a Pearl Earring (2003)	4.0
+Kafka (1991)	2.0
+Angels and Insects (1995)	5.0
+Sgt. Bilko (1996)	1.0
+Girl on the Bridge, The (Fille sur le pont, La) (1999)	1.0
+Agony and the Ecstasy, The (1965)	5.0
+Valet, The (La doublure) (2006)	1.0
+It Might Get Loud (2008)	2.0

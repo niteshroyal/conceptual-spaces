@@ -1,0 +1,68 @@
+username = "nitesh"
+
+
+# General configuration
+# =====================
+logging_folder = f"/home/{username}/research/conceptual-spaces/logs"
+data_folder = f"/home/{username}/research/conceptual-spaces/data"
+ranking_dataset_path = f"/home/{username}/research/conceptual-spaces/data/Ranking_DataSet"
+learned_models = "/scratch/c.scmnk4/research/conceptual-spaces/learned_models"
+
+# Configuration for model.conceptual-space.py
+# ===========================================
+
+# base_model_id = "meta-llama/Llama-2-7b-hf"
+# base_model_id = "facebook/opt-350m"
+base_model_id = "facebook/bart-base"
+# base_model_id = "mistralai/Mistral-7B-v0.1"
+# base_model_id = "meta-llama/Llama-2-13b-hf"
+# base_model_id = "meta-llama/Meta-Llama-3-8B"
+# base_model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
+# base_model_id = "lmsys/vicuna-7b-v1.5"
+# base_model_id = "microsoft/phi-2"
+# base_model_id = "codellama/CodeLlama-13b-hf"
+# base_model_id = "NA"
+# base_model_id = "meta-llama/Llama-2-13b-chat"
+# base_model_id = "google-bert/bert-large-uncased"
+# base_model_id = "meta-llama/Llama-2-7b-chat-hf"
+# base_model_id = "meta-llama/Llama-2-13b-chat-hf"
+# base_model_id = "mistralai/Mistral-7B-Instruct-v0.2"
+# base_model_id = "microsoft/Phi-3-mini-4k-instruct"
+# base_model_id = "microsoft/phi-2"
+
+# base_model_id = "Qwen/Qwen3-8B"
+# base_model_id = "Qwen/Qwen3-14B"
+# base_model_id = "mistralai/Mistral-Nemo-Base-2407"
+# base_model_id = "mistralai/Mistral-Small-24B-Base-2501"
+# base_model_id = "microsoft/phi-4"
+# base_model_id = "allenai/OLMo-2-1124-7B"
+# base_model_id = "allenai/OLMo-2-1124-13B"
+# base_model_id = "google/gemma-3-4b-it"
+# base_model_id = "google/gemma-3-12b-it"
+# base_model_id = "google/gemma-3-27b-it"
+
+
+load_in_kbit = 4
+lora_r = 32
+lora_alpha = 64
+tokenizer_max_length = 62
+max_steps = 250
+save_steps = max_steps
+eval_steps = int(max_steps / 5)
+batch_size = 4
+run_id = 1
+
+
+# Configuration for evaluation/llm_ranking.py
+# ===========================================
+
+training_dataset_ranking = f'/home/{username}/research/conceptual-spaces/data/easy_train_movies+books+music+odours+wikidata1+wikidata2+physical+rocks_500.jsonl'
+# training_dataset_ranking = ('/scratch/c.scmnk4/research/concept_embeddings/resources/Ranking_DataSet/'
+#                             'training_books_movies_wikidata_rocks.jsonl')
+
+validation_dataset = f'/home/{username}/research/conceptual-spaces/data/easy_test_tastes_2040.jsonl'
+# validation_dataset = ('/scratch/c.scmnk4/research/concept_embeddings/resources/Ranking_DataSet/'
+#                       'validation_rocks.jsonl')
+
+training_dataset_classification = f'/home/{username}/research/conceptual-spaces/data/list_of_entities_and_negatives.jsonl'
+

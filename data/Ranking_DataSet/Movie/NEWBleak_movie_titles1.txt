@@ -1,0 +1,24 @@
+title	score
+Ace Ventura: When Nature Calls (1995)	1.0
+Terminator, The (1984)	4.0
+Titanic (1997)	3.0
+Minority Report (2002)	2.0
+Children of Men (2006)	4.0
+Clerks (1994)	1.0
+Jurassic Park (1993)	2.0
+Batman (1989)	3.0
+Alien (1979)	3.0
+Patriot Games (1992)	1.0
+Thank You for Smoking (2006)	5.0
+Matrix, The (1999)	5.0
+Requiem for a Dream (2000)	5.0
+Eternal Sunshine of the Spotless Mind (2004)	3.0
+Sin City (2005)	5.0
+Rear Window (1954)	1.0
+Prestige, The (2006)	4.0
+Taxi Driver (1976)	5.0
+Red Eye (2005)	2.0
+Maltese Falcon, The (1941)	3.0
+Primal Fear (1996)	1.0
+Charlie's Angels: Full Throttle (2003)	1.0
+We Own the Night (2007)	2.0

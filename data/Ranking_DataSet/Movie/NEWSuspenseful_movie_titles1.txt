@@ -1,0 +1,20 @@
+title	score
+2001: A Space Odyssey (1968)	5.0
+Few Good Men, A (1992)	2.0
+Perfect Storm, The (2000)	2.0
+Shrek (2001)	1.0
+Negotiator, The (1998)	5.0
+Rear Window (1954)	3.0
+Sixth Sense, The (1999)	4.0
+Deliverance (1972)	5.0
+Black Hawk Down (2001)	4.0
+Go (1999)	3.0
+Bourne Supremacy, The (2004)	5.0
+Romancing the Stone (1984)	2.0
+Exorcist, The (1973)	4.0
+Speed (1994)	4.0
+Arachnophobia (1990)	5.0
+Koyaanisqatsi (a.k.a. Koyaanisqatsi: Life Out of Balance) (1983)	2.0
+In the Line of Fire (1993)	5.0
+Seventh Sign, The (1988)	3.0
+Thoroughly Modern Millie (1967)	2.0

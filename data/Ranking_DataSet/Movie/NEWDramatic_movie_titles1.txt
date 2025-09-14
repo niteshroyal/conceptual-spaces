@@ -1,0 +1,25 @@
+title	score
+Good Will Hunting (1997)	5.0
+Munich (2005)	3.0
+Amadeus (1984)	5.0
+Gattaca (1997)	4.0
+Spaceballs (1987)	1.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)	3.0
+Reservoir Dogs (1992)	3.0
+Bug's Life, A (1998)	1.0
+Amistad (1997)	5.0
+Mission, The (1986)	3.0
+Enemy at the Gates (2001)	5.0
+Rebel Without a Cause (1955)	4.0
+Turner & Hooch (1989)	1.0
+Trainspotting (1996)	5.0
+Jacket, The (2005)	3.0
+Wrestler, The (2008)	4.0
+Jerk, The (1979)	1.0
+Unforgiven (1992)	5.0
+On the Waterfront (1954)	5.0
+Hours, The (2002)	5.0
+Lions For Lambs (2007)	2.0
+Cradle Will Rock (1999)	4.0
+Gremlins 2: The New Batch (1990)	1.0
+Boy with Green Hair, The (1948)	4.0

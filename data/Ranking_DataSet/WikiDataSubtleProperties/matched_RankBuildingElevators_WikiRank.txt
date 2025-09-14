@@ -1,0 +1,152 @@
+Entity	QRank	building	buildingLabel	no_elevator
+Q9188	3172244	http://www.wikidata.org/entity/Q9188	Empire State Building	73
+Q11245	2538057	http://www.wikidata.org/entity/Q11245	One World Trade Center	73
+Q29294	1259962	http://www.wikidata.org/entity/Q29294	Willis Tower	104
+Q18536	941890	http://www.wikidata.org/entity/Q18536	The Shard	36
+Q323767	443715	http://www.wikidata.org/entity/Q323767	Montparnasse Tower	25
+Q18398409	343942	http://www.wikidata.org/entity/Q18398409	One Vanderbilt	42
+Q217727	273734	http://www.wikidata.org/entity/Q217727	875 North Michigan Avenue	50
+Q216865	220178	http://www.wikidata.org/entity/Q216865	Transamerica Pyramid	18
+Q14684154	219801	http://www.wikidata.org/entity/Q14684154	Salesforce Tower	36
+Q1351208	151801	http://www.wikidata.org/entity/Q1351208	4 World Trade Center	35
+Q192680	145972	http://www.wikidata.org/entity/Q192680	New York Times Building	32
+Q151765	138276	http://www.wikidata.org/entity/Q151765	Commerzbank Tower	25
+Q947870	132909	http://www.wikidata.org/entity/Q947870	Torre Latinoamericana	7
+Q391243	128466	http://www.wikidata.org/entity/Q391243	Citigroup Center	38
+Q284013	127957	http://www.wikidata.org/entity/Q284013	1 Wall Street Court	4
+Q271695	121507	http://www.wikidata.org/entity/Q271695	Aon Center	50
+Q675964	121055	http://www.wikidata.org/entity/Q675964	DC Towers	29
+Q1156274	109866	http://www.wikidata.org/entity/Q1156274	Torre Velasca	8
+Q1372014	107635	http://www.wikidata.org/entity/Q1372014	HSBC Building	28
+Q1469988	89612	http://www.wikidata.org/entity/Q1469988	Royal Liver Building	12
+Q228242	86636	http://www.wikidata.org/entity/Q228242	383 Madison Avenue	30
+Q572887	85093	http://www.wikidata.org/entity/Q572887	8 Canada Square	36
+Q321040	61700	http://www.wikidata.org/entity/Q321040	Seat of the European Central Bank	18
+Q6063129	61502	http://www.wikidata.org/entity/Q6063129	Turkish House	3
+Q60751260	60918	http://www.wikidata.org/entity/Q60751260	MOL Campus	21
+Q2712478	59138	http://www.wikidata.org/entity/Q2712478	World Trade Center Mexico City	35
+Q1603308	57471	http://www.wikidata.org/entity/Q1603308	Helmsley Building	25
+Q116002	49304	http://www.wikidata.org/entity/Q116002	200 West Street	53
+Q244391	48951	http://www.wikidata.org/entity/Q244391	General Electric Building	11
+Q3433389	42598	http://www.wikidata.org/entity/Q3433389	Torre Reforma	27
+Q1101096	39925	http://www.wikidata.org/entity/Q1101096	Sanno Park Tower	59
+Q5270	39194	http://www.wikidata.org/entity/Q5270	Tour Part-Dieu	20
+Q454114	37230	http://www.wikidata.org/entity/Q454114	The Squaire	96
+Q167195	35511	http://www.wikidata.org/entity/Q167195	Post Tower	19
+Q198046	31791	http://www.wikidata.org/entity/Q198046	Eurotower	16
+Q4652374	28054	http://www.wikidata.org/entity/Q4652374	ALICO Building	3
+Q708060	26568	http://www.wikidata.org/entity/Q708060	Tower 185	10
+Q948178	26555	http://www.wikidata.org/entity/Q948178	Torre Ejecutiva Pemex	27
+Q884122	24474	http://www.wikidata.org/entity/Q884122	Langer Eugen	13
+Q247531	24033	http://www.wikidata.org/entity/Q247531	Silberturm	16
+Q3533030	23459	http://www.wikidata.org/entity/Q3533030	Tour Bretagne	8
+Q268559	22162	http://www.wikidata.org/entity/Q268559	77 West Wacker Drive	25
+Q373143	20551	http://www.wikidata.org/entity/Q373143	Édifice Price	2
+Q3538182	20367	http://www.wikidata.org/entity/Q3538182	388 Greenwich Street	24
+Q3355290	19601	http://www.wikidata.org/entity/Q3355290	Penobscot Building	25
+Q153116	19212	http://www.wikidata.org/entity/Q153116	Fuller Building	10
+Q781961	19114	http://www.wikidata.org/entity/Q781961	One Court Square	27
+Q735913	18927	http://www.wikidata.org/entity/Q735913	Tour Areva	24
+Q960951	17607	http://www.wikidata.org/entity/Q960951	Nauru House	20
+Q3049341	16972	http://www.wikidata.org/entity/Q3049341	RSA Battle House Tower	22
+Q3146488	16273	http://www.wikidata.org/entity/Q3146488	IAC Building	4
+Q4569871	15025	http://www.wikidata.org/entity/Q4569871	195 Broadway	30
+Q278518	14968	http://www.wikidata.org/entity/Q278518	Tour T1	18
+Q686644	14685	http://www.wikidata.org/entity/Q686644	OpernTurm	16
+Q2738281	14433	http://www.wikidata.org/entity/Q2738281	Isozaki Atea	6
+Q4838596	14229	http://www.wikidata.org/entity/Q4838596	Bacardi Building (Havana)	2
+Q8530	13725	http://www.wikidata.org/entity/Q8530	Tour Oxygène	7
+Q1109699	13541	http://www.wikidata.org/entity/Q1109699	Collini-Center	5
+Q2743574	12772	http://www.wikidata.org/entity/Q2743574	Comerica Bank Tower	32
+Q2041005	12290	http://www.wikidata.org/entity/Q2041005	Tour Carpe Diem	12
+Q4391995	12220	http://www.wikidata.org/entity/Q4391995	Wells Fargo Center	19
+Q2946170	12201	http://www.wikidata.org/entity/Q2946170	Centro de Comercio Internacional	17
+Q54490	11630	http://www.wikidata.org/entity/Q54490	Chifley Tower	29
+Q3090076	11468	http://www.wikidata.org/entity/Q3090076	Tour Ariane	19
+Q3995301	11048	http://www.wikidata.org/entity/Q3995301	Telecom Italia Tower	8
+Q3533359	10309	http://www.wikidata.org/entity/Q3533359	Tour de Lille	4
+Q666483	10277	http://www.wikidata.org/entity/Q666483	Tour Granite	17
+Q12524649	9179	http://www.wikidata.org/entity/Q12524649	Wisma Nusantara	7
+Q80201655	8692	http://www.wikidata.org/entity/Q80201655	70 St Mary Axe	14
+Q7801872	8486	http://www.wikidata.org/entity/Q7801872	Tikal Futura	10
+Q2412928	8477	http://www.wikidata.org/entity/Q2412928	Tour Sequoia	22
+Q6353162	8412	http://www.wikidata.org/entity/Q6353162	Saigon Trade Center	12
+Q11660826	8251	http://www.wikidata.org/entity/Q11660826	Kajō Central	14
+Q881790	7183	http://www.wikidata.org/entity/Q881790	Stadttor	11
+Q3533093	7125	http://www.wikidata.org/entity/Q3533093	Tour Franklin	18
+Q14935205	7071	http://www.wikidata.org/entity/Q14935205	Manchester Unity Building	3
+Q28231697	7057	http://www.wikidata.org/entity/Q28231697	ELJ Communications Center	6
+Q12050823	7049	http://www.wikidata.org/entity/Q12050823	Safeco Plaza	18
+Q446265	6964	http://www.wikidata.org/entity/Q446265	Altus Skyscraper	18
+Q7886360	6714	http://www.wikidata.org/entity/Q7886360	Union Trust Building	10
+Q2519336	6679	http://www.wikidata.org/entity/Q2519336	administrative building of Nord/LB	18
+Q282931	5797	http://www.wikidata.org/entity/Q282931	1 Broadway	6
+Q7826958	5683	http://www.wikidata.org/entity/Q7826958	Torre Cuscatlán	3
+Q170442	5555	http://www.wikidata.org/entity/Q170442	111 South Wacker Drive	8
+Q6150152	5482	http://www.wikidata.org/entity/Q6150152	IBM Tower	6
+Q954129	5388	http://www.wikidata.org/entity/Q954129	Wells Fargo Center	13
+Q194871	5382	http://www.wikidata.org/entity/Q194871	IBC Tower	22
+Q175182	5302	http://www.wikidata.org/entity/Q175182	Frick Building	11
+Q2813508	4987	http://www.wikidata.org/entity/Q2813508	1 Cabot Square	36
+Q7988917	4972	http://www.wikidata.org/entity/Q7988917	Westin Building	8
+Q3090088	4928	http://www.wikidata.org/entity/Q3090088	Tour Égée	24
+Q24872995	4724	http://www.wikidata.org/entity/Q24872995	Shin Kokusai Building	12
+Q2462416	4710	http://www.wikidata.org/entity/Q2462416	Two International Place	38
+Q105038099	4667	http://www.wikidata.org/entity/Q105038099	Marathon House	4
+Q17065905	4527	http://www.wikidata.org/entity/Q17065905	Phelan Building	9
+Q3533015	4417	http://www.wikidata.org/entity/Q3533015	Tour Atlantique	9
+Q9523	4377	http://www.wikidata.org/entity/Q9523	Tour Swiss Life	6
+Q456302	4234	http://www.wikidata.org/entity/Q456302	Vero Centre	12
+Q1639792	4060	http://www.wikidata.org/entity/Q1639792	Hyatt Center	34
+Q2613795	3995	http://www.wikidata.org/entity/Q2613795	44 Montgomery	18
+Q109378599	3871	http://www.wikidata.org/entity/Q109378599	Budapest Police Headquarters Building	16
+Q11103059	3812	http://www.wikidata.org/entity/Q11103059	26 Nathan Road	4
+Q4645063	3555	http://www.wikidata.org/entity/Q4645063	88 Wood Street	12
+Q3533149	3514	http://www.wikidata.org/entity/Q3533149	Tour Pacific	13
+Q5453003	3481	http://www.wikidata.org/entity/Q5453003	First Federal Plaza	6
+Q3533125	3342	http://www.wikidata.org/entity/Q3533125	Tour Manhattan	20
+Q3533115	3280	http://www.wikidata.org/entity/Q3533115	Tour Lilleurope	9
+Q2688624	3168	http://www.wikidata.org/entity/Q2688624	Wells Fargo Center	24
+Q3533217	3126	http://www.wikidata.org/entity/Q3533217	Tour W	15
+Q811088	3054	http://www.wikidata.org/entity/Q811088	Zeiss Bau 59	5
+Q18413966	2974	http://www.wikidata.org/entity/Q18413966	Chongqing IFS T1	31
+Q6351258	2864	http://www.wikidata.org/entity/Q6351258	IFC One Saigon	12
+Q3533139	2812	http://www.wikidata.org/entity/Q3533139	Tour Neptune	15
+Q3533147	2776	http://www.wikidata.org/entity/Q3533147	Opus 12 Tower	16
+Q2704466	2598	http://www.wikidata.org/entity/Q2704466	Latitude	15
+Q5360064	2508	http://www.wikidata.org/entity/Q5360064	Elgin Tower Building	2
+Q1175298	2494	http://www.wikidata.org/entity/Q1175298	Média Center Campona	7
+Q3533079	2401	http://www.wikidata.org/entity/Q3533079	Tour Exaltis	10
+Q7013709	2266	http://www.wikidata.org/entity/Q7013709	New York Life Building	5
+Q1776870	2107	http://www.wikidata.org/entity/Q1776870	Strabag office building	8
+Q2107000	2006	http://www.wikidata.org/entity/Q2107000	Power Tower	6
+Q17003995	2005	http://www.wikidata.org/entity/Q17003995	The Oregonian Building	2
+Q3533212	1903	http://www.wikidata.org/entity/Q3533212	Tour Voltaire	17
+Q5265931	1789	http://www.wikidata.org/entity/Q5265931	Detroit Free Press Building	8
+Q5366428	1682	http://www.wikidata.org/entity/Q5366428	Elmbank Gardens	3
+Q11102554	1666	http://www.wikidata.org/entity/Q11102554	Raffles City Hangzhou	30
+Q4552053	1573	http://www.wikidata.org/entity/Q4552053	16 East Broad Street	3
+Q1740348	1512	http://www.wikidata.org/entity/Q1740348	Keystone Building	16
+Q4631222	1406	http://www.wikidata.org/entity/Q4631222	222 Main	10
+Q3533054	1360	http://www.wikidata.org/entity/Q3533054	Tour Emblem	7
+Q1808972	1194	http://www.wikidata.org/entity/Q1808972	Bastion Tower	9
+Q4744161	1167	http://www.wikidata.org/entity/Q4744161	American Insurance Company Building	9
+Q4552294	1121	http://www.wikidata.org/entity/Q4552294	1700 Market	18
+Q5164588	1004	http://www.wikidata.org/entity/Q5164588	Consultancy House	2
+Q16893839	976	http://www.wikidata.org/entity/Q16893839	La Laurentienne Building	16
+Q4632384	964	http://www.wikidata.org/entity/Q4632384	26 Journal Square	3
+Q5818193	941	http://www.wikidata.org/entity/Q5818193	Q5818193	4
+Q4547785	932	http://www.wikidata.org/entity/Q4547785	11 Westferry Circus	4
+Q36784853	910	http://www.wikidata.org/entity/Q36784853	Spectrum	5
+Q17029407	876	http://www.wikidata.org/entity/Q17029407	Valley National Bank Building	2
+Q38252040	788	http://www.wikidata.org/entity/Q38252040	Pacific Building	5
+Q14680637	763	http://www.wikidata.org/entity/Q14680637	Orpheum Lofts	3
+Q1306479	725	http://www.wikidata.org/entity/Q1306479	Haus der Werbung	3
+Q22024776	645	http://www.wikidata.org/entity/Q22024776	Phenix Building	5
+Q23926640	549	http://www.wikidata.org/entity/Q23926640	200 Market	6
+Q23074306	385	http://www.wikidata.org/entity/Q23074306	SunTrust Plaza	12
+Q233752	110	http://www.wikidata.org/entity/Q233752	42 Broadway	12
+Q110534849	46	http://www.wikidata.org/entity/Q110534849	Chusanren New Building	2
+Q123523616	30	http://www.wikidata.org/entity/Q123523616	Ebisu Subaru Building	8
+Q123333717	21	http://www.wikidata.org/entity/Q123333717	Shiroyama Trust Tower	18
+Q114403395	13	http://www.wikidata.org/entity/Q114403395	Nissay Hirokoji Building	2

@@ -1,0 +1,34 @@
+title	score
+Braveheart (1995)	4.5
+Schindler's List (1993)	4.0
+Fargo (1996)	4.0
+Saving Private Ryan (1998)	4.0
+American History X (1998)	2.0
+300 (2007)	4.0
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)	2.0
+Blade Runner (1982)	4.0
+Silence of the Lambs, The (1991)	3.0
+Shining, The (1980)	3.0
+In Bruges (2008)	3.0
+Kill Bill: Vol. 1 (2003)	4.0
+Sin City (2005)	4.5
+Layer Cake (2004)	5.0
+Das Experiment (Experiment, The) (2001)	3.0
+Blue Streak (1999)	1.0
+Fly, The (1986)	2.0
+Miss Congeniality (2000)	1.0
+Evil Dead, The (1981)	5.0
+Waterboy, The (1998)	1.0
+28 Days Later (2002)	4.0
+Mist, The (2007)	2.0
+Gran Torino (2008)	1.0
+From Dusk Till Dawn (1996)	4.0
+Cube (1997)	4.0
+Futurama: Bender's Game (2008)	1.0
+Let the Right One In (Låt den rätte komma in) (2008)	4.0
+Laramie Project, The (2002)	2.0
+Texas Chainsaw Massacre, The (1974)	5.0
+Deep Red (Profondo rosso) (1975)	3.0
+Salesman (1969)	1.0
+Twilight Samurai, The (Tasogare Seibei) (2002)	1.0
+Save the Green Planet! (Jigureul jikyeora!) (2003)	1.0

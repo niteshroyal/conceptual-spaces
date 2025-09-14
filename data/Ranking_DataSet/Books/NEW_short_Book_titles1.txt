@@ -1,0 +1,31 @@
+title	score
+Don Quixote	1.0
+The Magic Mountain	1.0
+Paradise Lost	1.0
+Wise Blood	1.0
+The Coldest Winter Ever	3.0
+The Quickie	3.0
+Of Human Bondage	1.0
+Bleak House	1.0
+The Catcher in the Rye	5.0
+Hunger	1.0
+Misery	1.0
+Tess of the D'Urbervilles	1.0
+Rich Dad, Poor Dad	1.0
+Crime and Punishment	1.0
+Horns	1.0
+The Call of Cthulhu	5.0
+Binti (Binti, #1)	5.0
+The Raven	3.6666666667000003
+The Republic	1.0
+The Perks of Being a Wallflower	1.0
+Harry Potter: The Prequel (Harry Potter, #0.5)	1.0
+Steve Jobs	1.5
+At the Mountains of Madness	5.0
+Nevernight (The Nevernight Chronicle, #1)	1.0
+Godsgrave (The Nevernight Chronicle, #2)	1.0
+The Ballad of Black Tom	5.0
+Find Her (Detective D.D. Warren, #8)	1.0
+Skeleton Crew	2.0
+Insider (Exodus End, #1)	1.0
+The Girl with All the Gifts	2.0

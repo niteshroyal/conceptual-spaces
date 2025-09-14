@@ -1,0 +1,19 @@
+title	score
+Aliens (1986)	4.0
+Ring, The (2002)	4.0
+Lord of the Rings: The Two Towers, The (2002)	2.0
+Mission: Impossible III (2006)	2.0
+Silence of the Lambs, The (1991)	4.0
+Shining, The (1980)	4.0
+Monsters, Inc. (2001)	1.0
+Dark Knight, The (2008)	3.0
+Dark Crystal, The (1982)	2.0
+Carrie (1976)	3.0
+Who's Afraid of Virginia Woolf? (1966)	2.0
+Rosemary's Baby (1968)	3.0
+Aristocats, The (1970)	1.0
+Lost in Space (1998)	3.0
+Mummy, The (1999)	3.0
+Steamboat Bill, Jr. (1928)	2.0
+Pink Panther Strikes Again, The (1976)	1.0
+Center Stage (2000)	1.0

@@ -1,0 +1,19 @@
+title	score
+Clear and Present Danger (1994)	1.0
+Romy and Michele's High School Reunion (1997)	2.0
+Ronin (1998)	1.0
+Magnolia (1999)	4.0
+Memento (2000)	5.0
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)	1.0
+2001: A Space Odyssey (1968)	5.0
+Contact (1997)	3.0
+Shakespeare in Love (1998)	5.0
+Close Encounters of the Third Kind (1977)	2.0
+Pirates of the Caribbean: Dead Man's Chest (2006)	1.0
+Elf (2003)	1.0
+Usual Suspects, The (1995)	2.5
+Old Yeller (1957)	1.0
+Scanner Darkly, A (2006)	5.0
+Harry Potter and the Prisoner of Azkaban (2004)	3.0
+Grifters, The (1990)	4.0
+Duets (2000)	1.0

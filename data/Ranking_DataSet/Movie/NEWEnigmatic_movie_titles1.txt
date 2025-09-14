@@ -1,0 +1,37 @@
+title	score
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	5.0
+Star Wars: Episode VI - Return of the Jedi (1983)	4.0
+Full Metal Jacket (1987)	5.0
+Gladiator (2000)	1.0
+Tropic Thunder (2008)	1.0
+Groundhog Day (1993)	3.0
+Dark City (1998)	4.0
+Rushmore (1998)	4.0
+Donnie Darko (2001)	3.5
+Jackie Brown (1997)	3.0
+Broken Flowers (2005)	3.0
+No Country for Old Men (2007)	5.0
+Planes, Trains & Automobiles (1987)	3.0
+Taxi Driver (1976)	5.0
+Battle Royale (Batoru rowaiaru) (2000)	2.0
+Following (1998)	1.0
+End of the Affair, The (1999)	4.0
+Devil Wears Prada, The (2006)	2.0
+Alice in Wonderland (1951)	5.0
+Adventures of Priscilla, Queen of the Desert, The (1994)	4.0
+Eyes Wide Shut (1999)	4.0
+Professional, The (Le professionnel) (1981)	4.0
+After the Thin Man (1936)	4.0
+There Will Be Blood (2007)	4.0
+Heavenly Creatures (1994)	4.0
+Dead Man (1995)	5.0
+Quills (2000)	1.0
+Perfume: The Story of a Murderer (2006)	3.0
+Dancer in the Dark (2000)	1.0
+In the Mood For Love (Fa yeung nin wa) (2000)	5.0
+Burnt by the Sun (Utomlyonnye solntsem) (1994)	1.0
+Down Periscope (1996)	2.0
+Veronica Guerin (2003)	1.0
+Crash (1996)	3.0
+Look at Me (Comme une image) (2004)	1.0
+Inkheart (2008)	1.0

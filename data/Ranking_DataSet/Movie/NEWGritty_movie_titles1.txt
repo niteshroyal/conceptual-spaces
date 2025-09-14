@@ -1,0 +1,35 @@
+title	score
+Schindler's List (1993)	2.5
+Full Metal Jacket (1987)	3.0
+Boot, Das (Boat, The) (1981)	5.0
+Terminator, The (1984)	3.0
+Hunt for Red October, The (1990)	2.0
+American History X (1998)	3.0
+Gladiator (2000)	3.0
+Minority Report (2002)	4.0
+Batman Begins (2005)	2.0
+Pan's Labyrinth (Laberinto del fauno, El) (2006)	3.0
+Transformers (2007)	3.0
+Iron Man (2008)	3.0
+Blade Runner (1982)	5.0
+Batman (1989)	2.0
+Sin City (2005)	3.0
+Jackie Brown (1997)	3.0
+Ice Age (2002)	2.0
+Infernal Affairs (Mou gaan dou) (2002)	4.0
+Sound of Music, The (1965)	1.0
+Hustler, The (1961)	1.0
+Harry Potter and the Prisoner of Azkaban (2004)	4.0
+Bourne Supremacy, The (2004)	4.0
+28 Weeks Later (2007)	3.0
+Fistful of Dollars, A (Per un pugno di dollari) (1964)	5.0
+Solaris (2002)	1.0
+Last Picture Show, The (1971)	3.0
+The Queen (2006)	1.0
+Changing Lanes (2002)	3.0
+Boyz N the Hood (1991)	4.0
+Forbidden Games (Jeux interdits) (1952)	1.0
+Friday (1995)	1.0
+Children of Paradise (Les enfants du paradis) (1945)	1.0
+Nine Queens (Nueve reinas) (2000)	3.0
+Scarecrow (1973)	1.0

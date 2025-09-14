@@ -1,0 +1,212 @@
+{
+  "file": "data/augmented_list_of_entities_and_negatives.jsonl",
+  "summary": {
+    "total_lines": 5670,
+    "ok": 5645,
+    "failed": 25,
+    "json_parse_errors": 0
+  },
+  "issues": [
+    {
+      "line": 2202,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['flying fox']"
+      ],
+      "raw": "{\"entity type\": \"mammal\", \"property\": \"flying\", \"examples\": [\"Bat\", \"Flying Fox\", \"Flying Squirrel\", \"Sugar Glider\", \"Colugo\", \"Flying Lemur\", \"Flying Fox\"], \"negatives\": [\"land mammal\", \"aquatic mammal\", \"domesticated mammal\", \"spicy fruit\"]}"
+    },
+    {
+      "line": 2288,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['mount kailash']"
+      ],
+      "raw": "{\"entity type\": \"mountain\", \"property\": \"sacred\", \"examples\": [\"Mount Kailash\", \"Mount Sinai\", \"Mount Olympus\", \"Mount Fuji\", \"Adam's Peak\", \"Mount Ararat\", \"Mount Kailash\"], \"negatives\": [\"tourist mountain\", \"volcanic mountain\", \"small mountain\", \"predatory fish\"]}"
+    },
+    {
+      "line": 2628,
+      "error_count": 2,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['ultrasound']",
+        "negatives contains duplicates (case-insensitive): ['invasive procedure']"
+      ],
+      "raw": "{\"entity type\": \"medical imaging\", \"property\": \"non-invasive\", \"examples\": [\"MRI\", \"Ultrasound\", \"CT Scan\", \"X-ray\", \"PET Scan\", \"Echocardiography\", \"Ultrasound\"], \"negatives\": [\"invasive procedure\", \"surgical technique\", \"invasive procedure\", \"flightless bird\"]}"
+    },
+    {
+      "line": 2672,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['passive house']"
+      ],
+      "raw": "{\"entity type\": \"architecture\", \"property\": \"sustainable\", \"examples\": [\"Passive House\", \"Green Roof\", \"Earthship\", \"Eco-dome\", \"Living Roof\", \"Cob House\", \"Passive House\"], \"negatives\": [\"industrial architecture\", \"historical architecture\", \"commercial architecture\", \"venomous reptile\"]}"
+    },
+    {
+      "line": 2782,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['roman denarius']"
+      ],
+      "raw": "{\"entity type\": \"currency\", \"property\": \"historical\", \"examples\": [\"Roman Denarius\", \"Spanish Real\", \"Greek Drachma\", \"Ottoman Akçe\", \"Chinese Cash\", \"Roman Denarius\", \"Florin\"], \"negatives\": [\"modern currency\", \"cryptocurrency\", \"digital currency\", \"poisonous flower\"]}"
+    },
+    {
+      "line": 3349,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['nightingale']"
+      ],
+      "raw": "{\"entity type\": \"bird\", \"property\": \"songbird\", \"examples\": [\"Nightingale\", \"Robin\", \"Thrush\", \"Canary\", \"Nightingale\", \"Mockingbird\", \"Warbler\"], \"negatives\": [\"flightless bird\", \"aquatic bird\", \"raptor bird\", \"magnetic mineral\"]}"
+    },
+    {
+      "line": 3764,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['nylon']"
+      ],
+      "raw": "{\"entity type\": \"fabric\", \"property\": \"synthetic\", \"examples\": [\"Polyester\", \"Nylon\", \"Spandex\", \"Acrylic\", \"Rayon\", \"Kevlar\", \"Nylon\"], \"negatives\": [\"natural fabric\", \"organic fabric\", \"animal fiber\", \"ancient weapon\"]}"
+    },
+    {
+      "line": 3950,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['self-awareness']"
+      ],
+      "raw": "{\"entity type\": \"psychological concept\", \"property\": \"emotional intelligence\", \"examples\": [\"Empathy\", \"Self-awareness\", \"Self-regulation\", \"Social Skills\", \"Emotional Regulation\", \"Motivation\", \"Self-awareness\"], \"negatives\": [\"cognitive ability\", \"intellectual quotient\", \"personality trait\", \"historic ship\"]}"
+    },
+    {
+      "line": 4082,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['kyoto protocol']"
+      ],
+      "raw": "{\"entity type\": \"legislation type\", \"property\": \"environmental\", \"examples\": [\"Clean Air Act\", \"Kyoto Protocol\", \"Paris Agreement\", \"Endangered Species Act\", \"Clean Water Act\", \"Montreal Protocol\", \"Kyoto Protocol\"], \"negatives\": [\"economic law\", \"criminal law\", \"tax legislation\", \"deep-sea organism\"]}"
+    },
+    {
+      "line": 4159,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['alliteration']"
+      ],
+      "raw": "{\"entity type\": \"literary device\", \"property\": \"sound-based\", \"examples\": [\"Alliteration\", \"Assonance\", \"Onomatopoeia\", \"Rhyme\", \"Consonance\", \"Sibilance\", \"Alliteration\"], \"negatives\": [\"visual technique\", \"narrative device\", \"symbolism\", \"aquatic mammal\"]}"
+    },
+    {
+      "line": 4380,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['relay']"
+      ],
+      "raw": "{\"entity type\": \"electronic component\", \"property\": \"electromechanical\", \"examples\": [\"Relay\", \"Switch\", \"Potentiometer\", \"Rotary encoder\", \"Relay\", \"Electromechanical buzzer\", \"Solenoid\"], \"negatives\": [\"diode\", \"transistor\", \"resistor\", \"pineapple\"]}"
+    },
+    {
+      "line": 4431,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['marginal utility']"
+      ],
+      "raw": "{\"entity type\": \"economic indicator\", \"property\": \"microeconomic\", \"examples\": [\"Price Elasticity\", \"Marginal Cost\", \"Marginal Utility\", \"Average Revenue\", \"Opportunity Cost\", \"Consumer Surplus\", \"Marginal Utility\"], \"negatives\": [\"GDP\", \"inflation rate\", \"unemployment rate\", \"animal-related phobia\"]}"
+    },
+    {
+      "line": 4453,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['glider']"
+      ],
+      "raw": "{\"entity type\": \"aviation term\", \"property\": \"fixed-wing\", \"examples\": [\"Airplane\", \"Glider\", \"Jet\", \"Propeller Plane\", \"Biplane\", \"Monoplane\", \"Glider\"], \"negatives\": [\"rotary-wing aircraft\", \"drone\", \"balloon\", \"domesticated animal\"]}"
+    },
+    {
+      "line": 4530,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['déjà vu']"
+      ],
+      "raw": "{\"entity type\": \"psychological effect\", \"property\": \"memory-related\", \"examples\": [\"Déjà Vu\", \"Tip of the Tongue\", \"Flashbulb Memory\", \"Déjà Vu\", \"Déjà Rêvé\", \"Cryptomnesia\", \"Déjà Entendu\"], \"negatives\": [\"cognitive bias\", \"emotional reaction\", \"personality trait\", \"aromatic plant\"]}"
+    },
+    {
+      "line": 4552,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['am radio']"
+      ],
+      "raw": "{\"entity type\": \"broadcasting technology\", \"property\": \"analog\", \"examples\": [\"AM Radio\", \"FM Radio\", \"Analog Television\", \"Shortwave Radio\", \"VHF\", \"UHF\", \"AM Radio\"], \"negatives\": [\"digital broadcasting\", \"satellite communication\", \"streaming service\", \"deep-sea organism\"]}"
+    },
+    {
+      "line": 4662,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['abstract factory']"
+      ],
+      "raw": "{\"entity type\": \"design pattern\", \"property\": \"creational\", \"examples\": [\"Singleton\", \"Builder\", \"Factory Method\", \"Prototype\", \"Abstract Factory\", \"Prototype Pattern\", \"Abstract Factory\"], \"negatives\": [\"structural pattern\", \"behavioral pattern\", \"architectural pattern\", \"wireless communication\"]}"
+    },
+    {
+      "line": 4783,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['samba']"
+      ],
+      "raw": "{\"entity type\": \"musical rhythm\", \"property\": \"Latin\", \"examples\": [\"Samba\", \"Bossa Nova\", \"Salsa\", \"Merengue\", \"Mambo\", \"Samba\", \"Cha-cha-cha\"], \"negatives\": [\"classical rhythm\", \"electronic beat\", \"jazz rhythm\", \"environmental legislation\"]}"
+    },
+    {
+      "line": 4859,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['parsec']"
+      ],
+      "raw": "{\"entity type\": \"astronomical measurement\", \"property\": \"distance\", \"examples\": [\"Light-year\", \"Astronomical Unit\", \"Parsec\", \"Kiloparsec\", \"Megaparsec\", \"Parsec\", \"Parallax Second\"], \"negatives\": [\"time measurement\", \"mass measurement\", \"luminosity\", \"deep oceanic zone\"]}"
+    },
+    {
+      "line": 4936,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['budding']"
+      ],
+      "raw": "{\"entity type\": \"biological process\", \"property\": \"asexual reproduction\", \"examples\": [\"Budding\", \"Binary Fission\", \"Fragmentation\", \"Parthenogenesis\", \"Vegetative Propagation\", \"Spores\", \"Budding\"], \"negatives\": [\"sexual reproduction\", \"fertilization\", \"pollination\", \"wireless network\"]}"
+    },
+    {
+      "line": 4958,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['venus flytrap']"
+      ],
+      "raw": "{\"entity type\": \"plant adaptation\", \"property\": \"carnivorous\", \"examples\": [\"Venus Flytrap\", \"Pitcher Plant\", \"Sundew\", \"Venus Flytrap\", \"Bladderwort\", \"Cobra Lily\", \"Butterwort\"], \"negatives\": [\"photosynthetic plant\", \"flowering plant\", \"deciduous plant\", \"historic artifact\"]}"
+    },
+    {
+      "line": 5126,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['nuckelavee']"
+      ],
+      "raw": "{\"entity type\": \"mythological creature\", \"property\": \"water\", \"examples\": [\"Kraken\", \"Kelpie\", \"Nuckelavee\", \"Naiad\", \"Mermaid\", \"Nuckelavee\", \"Jiangshi\"], \"negatives\": [\"Phoenix\", \"Minotaur\", \"Draugr\", \"internal combustion engine\"]}"
+    },
+    {
+      "line": 5484,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['confirmation bias']"
+      ],
+      "raw": "{\"entity type\": \"neuroscience concept\", \"property\": \"cognitive bias\", \"examples\": [\"Confirmation Bias\", \"Hindsight Bias\", \"Anchoring\", \"Confirmation Bias\", \"Survivorship Bias\", \"Availability Heuristic\", \"Framing Effect\"], \"negatives\": [\"neurological disorder\", \"motor skill\", \"emotional intelligence\", \"load-bearing architecture\"]}"
+    },
+    {
+      "line": 5506,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['chickpeas']"
+      ],
+      "raw": "{\"entity type\": \"protein source\", \"property\": \"plant-based\", \"examples\": [\"Soybeans\", \"Lentils\", \"Chickpeas\", \"Black Beans\", \"Quinoa\", \"Tofu\", \"Chickpeas\"], \"negatives\": [\"animal protein\", \"dairy product\", \"seafood\", \"coral reef\"]}"
+    },
+    {
+      "line": 5517,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['limited liability partnership']"
+      ],
+      "raw": "{\"entity type\": \"business structure\", \"property\": \"partnership\", \"examples\": [\"General Partnership\", \"Limited Partnership\", \"Limited Liability Partnership\", \"Joint Venture\", \"Limited Liability Partnership\", \"Professional Partnership\", \"Strategic Alliance\"], \"negatives\": [\"sole proprietorship\", \"corporation\", \"nonprofit\", \"binary encoding scheme\"]}"
+    },
+    {
+      "line": 5670,
+      "error_count": 1,
+      "errors": [
+        "examples contains duplicates (case-insensitive): ['assimilation']"
+      ],
+      "raw": "{\"entity type\": \"linguistic phenomenon\", \"property\": \"phonological\", \"examples\": [\"Assimilation\", \"Elision\", \"Lenition\", \"Vowel Harmony\", \"Consonant Mutation\", \"Metathesis\", \"Assimilation\"], \"negatives\": [\"syntactic phenomenon\", \"semantic phenomenon\", \"morphological feature\", \"freshwater ecosystem\"]}"
+    }
+  ]
+}

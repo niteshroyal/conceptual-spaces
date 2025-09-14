@@ -1,0 +1,9 @@
+title	score
+Manhattan Murder Mystery (1993)	3.0
+Batman Begins (2005)	1.0
+Batman (1989)	2.0
+Three Colors: White (Trzy kolory: Bialy) (1994)	3.0
+Edward Scissorhands (1990)	5.0
+Prairie Home Companion, A (2006)	3.0
+Princess Diaries, The (2001)	1.0
+Gomorrah (Gomorra) (2008)	3.0

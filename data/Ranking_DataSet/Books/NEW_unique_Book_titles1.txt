@@ -1,0 +1,32 @@
+title	score
+1984	5.0
+The Great Gatsby	3.0
+The Coldest Winter Ever	1.0
+Lolita	4.0
+Jonathan Livingston Seagull	4.0
+The Quickie	1.0
+Pride and Prejudice	2.0
+Blindness	4.0
+Misery	3.0
+Flowers for Algernon	5.0
+Rich Dad, Poor Dad	3.0
+Crime and Punishment	4.0
+The Twilight Saga: The Official Illustrated Guide (Twilight, #4.5)	5.0
+Horns	2.0
+Binti (Binti, #1)	1.0
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change	3.0
+Matilda	3.0
+Hamlet	4.0
+The Hunger Games (The Hunger Games, #1)	2.0
+Les Misérables	4.0
+Flowers in the Attic (Dollanganger, #1)	5.0
+War and Peace	5.0
+Fifty Shades of Grey (Fifty Shades, #1)	4.0
+Twilight / Life and Death (Twilight, #1, 1.75)	5.0
+Fifty Shades Darker (Fifty Shades, #2)	5.0
+Fifty Shades Freed (Fifty Shades, #3)	5.0
+Fifty Shades Trilogy (Fifty Shades, #1-3)	5.0
+Wicked (A Wicked Saga, #1)	5.0
+Grey (Fifty Shades, #4)	5.0
+Milk and Honey	3.0
+If on a Winter's Night a Traveler	5.0

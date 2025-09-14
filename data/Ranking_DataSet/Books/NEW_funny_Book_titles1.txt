@@ -1,0 +1,332 @@
+title	score
+Where the Red Fern Grows	1.0
+Marley and Me: Life and Love With the World's Worst Dog	3.0
+Of Mice and Men	1.0
+Green Eggs and Ham	5.0
+Five Point Someone	4.0
+The Ultimate Hitchhiker's Guide to the Galaxy	5.0
+The Caves of Steel (Robot #1)	1.0
+Pet Sematary	1.0
+The Midwife's Apprentice	5.0
+The Pearl	1.0
+The Great Gatsby	1.0
+The Cat in the Hat	5.0
+Intensity	1.0
+The Long Walk	1.0
+A Walk in the Woods	1.5
+The A.B.C. Murders (Hercule Poirot, #13)	2.0
+The Miraculous Journey of Edward Tulane	1.0
+Things Fall Apart (The African Trilogy, #1)	1.0
+The Twits	3.0
+Looking for Alaska	1.0
+On the Beach	1.0
+The Magician's Nephew (Chronicles of Narnia, #6)	2.0
+The Last Battle (Chronicles of Narnia, #7)	1.5
+Velocity	1.0
+The Coldest Winter Ever	1.5
+Lolita	1.0
+The End of Eternity	1.0
+The Silver Chair (Chronicles of Narnia, #4)	2.0
+The Notebook (The Notebook, #1)	1.0
+Timeline	1.0
+The Hobbit	1.0
+Holes (Holes, #1)	4.0
+Slaughterhouse-Five	4.0
+Foundation (Foundation #1)	1.0
+Legend (The Drenai Saga, #1)	1.0
+The Quickie	1.0
+The Joy Luck Club	3.0
+American Gods (American Gods, #1)	2.5
+The Mote in God's Eye	1.0
+A Brief History of Time	1.0
+The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible	1.0
+Peony in Love	1.0
+James and the Giant Peach	3.0
+Gulliver's Travels	2.0
+A Moveable Feast	1.0
+The Giver (The Giver, #1)	2.0
+Sphere	1.0
+Coraline	1.5
+Little House on the Prairie (Little House, #2)	1.0
+The Witching Hour (Lives of the Mayfair Witches, #1)	1.0
+The Grapes of Wrath	1.0
+The Glass Castle	1.0
+The Catcher in the Rye	1.0
+The Lucky One	1.0
+A Million Little Pieces	1.0
+The Queen of the Damned (The Vampire Chronicles, #3)	1.0
+Harry, a History: The True Story of a Boy Wizard, His Fans, and Life Inside the Harry Potter Phenomenon	1.0
+Dracula	1.0
+Dear John	1.0
+Misery	1.0
+Into the Wild	1.0
+Angels & Demons  (Robert Langdon, #1)	1.0
+Prince Caspian (Chronicles of Narnia, #2)	2.0
+The Voyage of the Dawn Treader (Chronicles of Narnia, #3)	2.0
+Gone with the Wind	1.0
+Rich Dad, Poor Dad	1.0
+Jurassic Park (Jurassic Park, #1)	1.0
+Crime and Punishment	1.0
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch	4.0
+Odd Thomas (Odd Thomas, #1)	1.0
+A Farewell to Arms	1.0
+The Help	1.0
+The Memoirs of Sherlock Holmes	1.0
+Holy Bible: King James Version	1.0
+Open	2.0
+Horns	2.0
+The Short Second Life of Bree Tanner (Twilight, #3.5)	1.0
+The Heroes (First Law World, #5)	1.0
+Ready Player One	3.0
+Eleanor & Park	3.0
+Where We Belong	1.0
+Let's Pretend This Never Happened: A Mostly True Memoir	4.0
+This Is How You Lose Her	1.0
+The Call of Cthulhu	1.0
+Confess	1.0
+Go Set a Watchman	1.0
+Binti (Binti, #1)	3.0
+World War Z: An Oral History of the Zombie War	2.0
+The Giving Tree	3.0
+The Firm (Penguin Readers, Level 5)	1.0
+The Tao of Pooh	4.0
+Fight Club	5.0
+The Witches	1.0
+A Wizard of Earthsea (Earthsea Cycle, #1)	1.0
+The Raven	1.0
+The Godfather	1.0
+The Four Agreements: A Practical Guide to Personal Freedom	1.0
+The Pelican Brief	1.0
+Beloved	1.5
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate	1.0
+The Shining	1.0
+Interview with the Vampire (The Vampire Chronicles, #1)	1.0
+The Book Thief	1.0
+A Midsummer Night's Dream	2.3333333333
+A Confederacy of Dunces	4.0
+Charlotte's Web	1.0
+Matilda	3.0
+The Street Lawyer	1.0
+Goodnight Moon	2.5
+The Lovely Bones	1.0
+Hatchet (Brian's Saga, #1)	1.0
+The BFG	4.0
+The Chamber	1.0
+The Tombs of Atuan (Earthsea Cycle, #2)	1.0
+Peter Pan	3.0
+The Outsiders	1.5
+The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #17)	1.0
+One for the Money (Stephanie Plum, #1)	4.0
+Never Let Me Go	1.0
+Wuthering Heights	1.0
+City of Ashes (The Mortal Instruments, #2)	1.0
+The Girl with the Dragon Tattoo (Millennium, #1)	1.0
+Brokeback Mountain	1.0
+A Time to Kill	1.0
+Mort (Death, #1; Discworld, #4)	5.0
+John Dies at the End (John Dies at the End, #1)	5.0
+The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)	5.0
+Macbeth	2.0
+The Bluest Eye	2.0
+Narrative of the Life of Frederick Douglass	1.0
+The Wonderful Wizard of Oz (Oz, #1)	4.0
+Pippi Longstocking	4.0
+Oh, The Places You'll Go!	1.0
+The Total Money Makeover: A Proven Plan for Financial Fitness	4.0
+Eclipse (Twilight, #3)	1.0
+Number the Stars	1.0
+The Dispossessed	1.0
+Charlie and the Chocolate Factory (Charlie Bucket, #1)	2.0
+Breakfast of Champions	3.0
+Uglies (Uglies, #1)	2.0
+Alice in Wonderland	2.0
+Breaking Dawn (Twilight, #4)	1.0
+Harry Potter Boxset (Harry Potter, #1-7)	2.0
+Animal Farm / 1984	1.0
+The Da Vinci Code (Robert Langdon, #2)	1.0
+Silas Marner	1.0
+The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)	5.0
+In the Woods (Dublin Murder Squad, #1)	1.0
+If You Give a Mouse a Cookie	3.0
+Deception Point	1.6666666667
+The Very Hungry Caterpillar	3.5
+The Widow of the South	1.0
+New Moon (Twilight, #2)	1.0
+Sula	2.0
+Song of Solomon	1.0
+The Adventures of Captain Underpants (Captain Underpants, #1)	4.0
+The Horse and His Boy (Chronicles of Narnia, #5)	2.0
+The Color Purple	1.0
+Flowers in the Attic (Dollanganger, #1)	1.5
+Romeo and Juliet	1.0
+Eat, Pray, Love	1.0
+Emma	1.0
+Paper Towns	2.0
+The Associate	1.0
+Jonathan Strange & Mr Norrell	4.0
+Lisey's Story	1.0
+War and Peace	1.0
+The Scarlet Letter	1.0
+First Family (Sean King & Michelle Maxwell, #4)	1.0
+Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)	1.0
+The Maze Runner (Maze Runner, #1)	1.0
+The Last Song	1.0
+Under the Dome	1.0
+Pete the Cat: I Love My White Shoes	4.0
+Anna and the French Kiss (Anna and the French Kiss, #1)	4.0
+Twilight: The Graphic Novel, Vol. 1 (Twilight: The Graphic Novel, #1)	1.0
+The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)	1.0
+Gone Girl	1.0
+Harry Potter: The Prequel (Harry Potter, #0.5)	3.0
+Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)	1.0
+Harry Potter and the Methods of Rationality	3.0
+Is Everyone Hanging Out Without Me?	1.0
+Allegiant (Divergent, #3)	2.0
+Steve Jobs	1.0
+Cabin Fever (Diary of a Wimpy Kid, #6)	3.0
+The Bungalow	1.0
+At the Mountains of Madness	1.0
+Hollow City (Miss Peregrine’s Peculiar Children, #2)	1.0
+Tell the Wolves I'm Home	1.0
+This Book Is Full of Spiders (John Dies at the End, #2)	5.0
+Son (The Giver, #4)	1.0
+Scarlet (The Lunar Chronicles, #2)	1.0
+The Black Count: Glory, Revolution, Betrayal, and the Real Count of Monte Cristo	1.0
+Breathe, Annie, Breathe	1.0
+The Martian	1.0
+The Longest Ride	2.0
+Four: A Divergent Story Collection (Divergent, #0.1 - 0.4)	1.0
+Illuminae (The Illuminae Files, #1)	1.0
+Simon vs. the Homo Sapiens Agenda	1.0
+Futuristic Violence and Fancy Suits	5.0
+Nevernight (The Nevernight Chronicle, #1)	5.0
+Godsgrave (The Nevernight Chronicle, #2)	5.0
+Library of Souls (Miss Peregrine's Peculiar Children, #3)	1.0
+Ramona Blue	2.0
+The Ballad of Black Tom	1.0
+The Hate U Give	1.0
+Origin (Robert Langdon, #5)	3.0
+The Namesake	1.0
+Men Are from Mars, Women Are from Venus	1.0
+Speak	1.0
+Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)	1.0
+Just Kids	1.0
+Vampire Academy (Vampire Academy, #1)	2.0
+The Last Command (Star Wars: The Thrawn Trilogy, #3)	1.0
+Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)	1.0
+Fruits Basket, Vol. 1	1.0
+The Absolutely True Diary of a Part-Time Indian	1.0
+The Lone Ranger and Tonto Fistfight in Heaven	1.0
+The Thirteenth Tale	1.0
+The Sword of Shannara (The Original Shannara Trilogy, #1)	1.0
+The Reptile Room (A Series of Unfortunate Events, #2)	2.0
+All the King's Men	1.0
+Fun Home: A Family Tragicomic	1.0
+In Her Shoes	1.0
+The World According to Garp	3.0
+Me Talk Pretty One Day	4.5
+The Bad Beginning (A Series of Unfortunate Events, #1)	2.0
+On Chesil Beach	1.0
+Twisted	1.0
+The Elfstones of Shannara  (The Original Shannara Trilogy, #2)	1.0
+City of Bones (The Mortal Instruments, #1)	2.0
+Chains (Seeds of America, #1)	1.0
+Twilight (Twilight, #1)	1.0
+The Cider House Rules	2.0
+Watchmen	1.0
+The Lost Symbol (Robert Langdon, #3)	3.0
+Throne of Glass (Throne of Glass, #1)	2.0
+Insurgent (Divergent, #2)	1.0
+Bartleby the Scrivener	1.0
+The Smartest Kids in the World: And How They Got That Way	1.0
+My Brilliant Friend (The Neapolitan Novels #1)	2.0
+Ali's Pretty Little Lies (Pretty Little Liars, #0.5)	1.0
+Hopeless (Hopeless, #1)	1.0
+Life After Life	1.0
+Yes Please	5.0
+The Force Awakens (Star Wars: Novelizations #7)	1.0
+Find Her (Detective D.D. Warren, #8)	1.0
+My Absolute Darling	1.0
+Digital Fortress	3.0
+The Snowy Day	3.0
+The Summer Book	4.0
+One Night at the Call Center	2.0
+It	2.0
+The Summons	1.0
+The Tale of Peter Rabbit	3.0
+Chicka Chicka Boom Boom	4.0
+Dinosaurs Before Dark (Magic Tree House, #1)	3.0
+Bad Luck and Trouble (Jack Reacher, #11)	2.0
+Skipping Christmas	1.0
+Metro Girl (Alex Barnaby, #1)	3.0
+Thirteen Reasons Why	1.0
+Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)	4.75
+P.S. I Love You	1.0
+Rodrick Rules (Diary of a Wimpy Kid, #2)	5.0
+Confessions of a Shopaholic (Shopaholic, #1)	5.0
+The Last Straw (Diary of a Wimpy Kid, #3)	5.0
+The Pact	3.0
+The 3 Mistakes of My Life	3.0
+Finger Lickin' Fifteen (Stephanie Plum, #15)	5.0
+Tales from a Not-So-Fabulous Life (Dork Diaries, #1)	2.0
+2 States: The Story of My Marriage	5.0
+The Confession	1.0
+Wonder (Wonder #1)	2.0
+Explosive Eighteen (Stephanie Plum, #18)	5.0
+11th Hour (Women's Murder Club, #11)	2.0
+Skinny	1.0
+The Racketeer	1.0
+Notorious Nineteen (Stephanie Plum, #19)	5.0
+To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)	5.0
+Cross My Heart (Alex Cross, #21)	1.0
+Sycamore Row	1.0
+Insider (Exodus End, #1)	1.0
+Takedown Twenty (Stephanie Plum, #20)	5.0
+All the Bright Places	2.0
+The Wrath and the Dawn (The Wrath and the Dawn, #1)	1.0
+P.S. I Still Love You (To All the Boys I've Loved Before, #2)	3.0
+The Long Haul (Diary of a Wimpy Kid, #9)	3.0
+The Last Mile (Amos Decker, #2)	1.0
+Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)	2.0
+Camino Island	2.0
+Before I Die	1.0
+Before I Fall	1.0
+Sizzling Sixteen (Stephanie Plum, #16)	1.0
+Big Girl	3.0
+The Winner's Curse (The Winner's Trilogy, #1)	1.0
+Flora and Ulysses: The Illuminated Adventures	4.0
+The Girl on the Train	1.0
+The Magnolia Story	4.0
+Rules of Prey (Lucas Davenport, #1)	1.0
+Buried Prey (Lucas Davenport, #21)	1.0
+Field of Prey (Lucas Davenport, #24)	1.0
+Gathering Prey (Lucas Davenport, #25)	1.0
+Clockwork Prince (The Infernal Devices, #2)	4.0
+Prince of Wolves (The Grey Wolves, #1)	4.0
+Just One Drop (The Grey Wolves, #3)	4.0
+Out of the Dark (The Grey Wolves, #4)	4.0
+You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life	1.0
+The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results	1.0
+The Melancholy Death of Oyster Boy and Other Stories	2.0
+Fast Food Nation: The Dark Side of the All-American Meal	1.0
+Mockingbird	1.0
+Maximum Ride Forever (Maximum Ride, #9)	1.0
+Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto	2.0
+Still Life with Woodpecker	3.0
+Jitterbug Perfume	3.0
+Dewey: The Small-Town Library Cat Who Touched the World	2.0
+The Likeness (Dublin Murder Squad, #2)	1.0
+Dog Days (Diary of a Wimpy Kid, #4)	5.0
+Faithful Place (Dublin Murder Squad, #3)	1.0
+Broken Harbour (Dublin Murder Squad, #4)	1.0
+Seduction and Snacks (Chocolate Lovers, #1)	1.0
+Sex Love Repeat	1.0
+Sex Object	1.0
+My Horizontal Life: A Collection of One-Night Stands	5.0
+Are You There, Vodka? It's Me, Chelsea	5.0
+Chelsea Chelsea Bang Bang	5.0
+Lies That Chelsea Handler Told Me	5.0
+Uganda Be Kidding Me	5.0
+Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls, and Everything in Between	5.0
+Tuck Everlasting	1.0
+The Polar Express	4.0

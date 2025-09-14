@@ -1,0 +1,28 @@
+title	score
+Braveheart (1995)	5.0
+Patriot, The (2000)	5.0
+Traffic (2000)	2.0
+Road Home, The (Wo de fu qin mu qin) (1999)	1.0
+Hot Fuzz (2007)	2.0
+Pulp Fiction (1994)	4.0
+Nurse Betty (2000)	1.0
+Enchanted (2007)	1.0
+Kill Bill: Vol. 2 (2004)	4.6666666667
+Goodfellas (1990)	3.0
+Miller's Crossing (1990)	4.0
+Grosse Pointe Blank (1997)	3.0
+Sin City (2005)	4.0
+Birds, The (1963)	4.0
+My Neighbor Totoro (Tonari no Totoro) (1988)	1.0
+This Is Spinal Tap (1984)	1.0
+Monty Python's The Meaning of Life (1983)	1.0
+Seven (a.k.a. Se7en) (1995)	3.0
+Muppets Take Manhattan, The (1984)	1.0
+Letters from Iwo Jima (2006)	5.0
+Bourne Supremacy, The (2004)	4.0
+Wild Bunch, The (1969)	5.0
+Blackadder Back & Forth (1999)	3.0
+Michael Collins (1996)	4.0
+Saboteur (1942)	1.0
+Seven Beauties (Pasqualino Settebellezze) (1976)	1.0
+Gods and Monsters (1998)	1.0

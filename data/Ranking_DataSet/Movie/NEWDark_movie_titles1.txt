@@ -1,0 +1,140 @@
+title	score
+Fargo (1996)	4.0
+Godfather, The (1972)	5.0
+Monty Python's Life of Brian (1979)	3.0
+E.T. the Extra-Terrestrial (1982)	1.0
+Star Wars: Episode V - The Empire Strikes Back (1980)	3.5
+Psycho (1960)	4.0
+Glory (1989)	1.0
+Star Trek II: The Wrath of Khan (1982)	4.0
+Batman Returns (1992)	4.0
+Hunt for Red October, The (1990)	2.0
+Good Will Hunting (1997)	1.5
+Airplane! (1980)	1.0
+Fight Club (1999)	3.0
+League of Their Own, A (1992)	1.0
+Jacob's Ladder (1990)	5.0
+Marathon Man (1976)	2.0
+Road Warrior, The (Mad Max 2) (1981)	2.0
+Memento (2000)	4.0
+Lord of the Rings: The Fellowship of the Ring, The (2001)	4.0
+Beautiful Mind, A (2001)	3.0
+Minority Report (2002)	2.0
+City of God (Cidade de Deus) (2002)	4.0
+Star Wars: Episode III - Revenge of the Sith (2005)	4.0
+Batman Begins (2005)	5.0
+V for Vendetta (2006)	4.0
+Ratatouille (2007)	2.0
+Interview with the Vampire: The Vampire Chronicles (1994)	4.0
+Blade Runner (1982)	4.5
+Batman (1989)	4.0
+Alien (1979)	5.0
+Chinatown (1974)	2.5
+Forbidden Planet (1956)	1.0
+Field of Dreams (1989)	1.0
+Mars Attacks! (1996)	2.0
+A.I. Artificial Intelligence (2001)	3.0
+Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)	2.0
+Transporter 2 (2005)	2.0
+WALL·E (2008)	3.0
+Silence of the Lambs, The (1991)	4.0
+Sling Blade (1996)	3.0
+Rushmore (1998)	4.0
+Matrix, The (1999)	3.5
+Donnie Darko (2001)	4.0
+Watchmen (2009)	5.0
+Brazil (1985)	4.0
+Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)	3.0
+Kill Bill: Vol. 2 (2004)	2.0
+In Bruges (2008)	3.0
+Burn After Reading (2008)	2.0
+Harry Potter and the Goblet of Fire (2005)	2.5
+Catch Me If You Can (2002)	2.0
+Cinema Paradiso (Nuovo cinema Paradiso) (1989)	1.0
+Jackie Brown (1997)	3.0
+Sixth Sense, The (1999)	3.0
+Big (1988)	1.0
+Mystic River (2003)	4.0
+Prestige, The (2006)	3.0
+One Flew Over the Cuckoo's Nest (1975)	3.5
+Midnight Run (1988)	3.0
+Little Miss Sunshine (2006)	3.0
+Harry Potter and the Order of the Phoenix (2007)	4.0
+No Country for Old Men (2007)	4.0
+American Psycho (2000)	5.0
+Corpse Bride (2005)	4.3333333333
+Willy Wonka & the Chocolate Factory (1971)	1.0
+Fantasia (1940)	2.0
+Howl's Moving Castle (Hauru no ugoku shiro) (2004)	5.0
+Departed, The (2006)	4.0
+Dark Knight, The (2008)	3.3333333333
+Dark Crystal, The (1982)	4.0
+Inglourious Basterds (2009)	2.5
+Cable Guy, The (1996)	3.0
+Collateral (2004)	1.0
+Clockwork Orange, A (1971)	4.25
+Blue Velvet (1986)	5.0
+One Hour Photo (2002)	4.0
+Charlie Wilson's War (2007)	3.0
+Sunshine (2007)	5.0
+X2: X-Men United (2003)	2.0
+Harry Potter and the Prisoner of Azkaban (2004)	3.0
+Little Voice (1998)	1.0
+Sweeney Todd: The Demon Barber of Fleet Street (2007)	5.0
+Lock, Stock & Two Smoking Barrels (1998)	3.5
+Moulin Rouge (2001)	3.0
+National Treasure (2004)	1.0
+Charlie and the Chocolate Factory (2005)	2.0
+Delicatessen (1991)	2.0
+Unbreakable (2000)	4.0
+Chicago (2002)	2.5
+Beetlejuice (1988)	1.0
+Edward Scissorhands (1990)	3.25
+Fly, The (1986)	5.0
+Mummy, The (1999)	3.0
+Finding Neverland (2004)	1.0
+Science of Sleep, The (La science des rêves) (2006)	3.0
+Last King of Scotland, The (2006)	4.0
+Dreamgirls (2006)	1.0
+Batman Forever (1995)	3.0
+Vertigo (1958)	3.0
+Blade (1998)	3.5
+Don't Look Now (1973)	4.0
+Maltese Falcon, The (1941)	4.0
+Cape Fear (1962)	4.0
+Boogie Nights (1997)	2.0
+Stigmata (1999)	3.0
+Animal Crackers (1930)	1.0
+S.W.A.T. (2003)	1.0
+From Dusk Till Dawn (1996)	5.0
+Witches, The (1990)	4.0
+Cube (1997)	2.0
+Crocodile Dundee in Los Angeles (2001)	1.0
+Spy Who Loved Me, The (1977)	2.0
+Scent of a Woman (1992)	2.0
+Rules of the Game, The (La règle du jeu) (1939)	3.0
+Sullivan's Travels (1941)	3.0
+Dolores Claiborne (1995)	3.0
+Insomnia (2002)	4.0
+My Fair Lady (1964)	1.0
+Salem's Lot (1979)	4.0
+Ladykillers, The (1955)	2.0
+Mask (1985)	1.0
+Revenge of the Pink Panther (1978)	1.0
+30 Days of Night (2007)	5.0
+Meet the Feebles (1989)	3.0
+Cypher (2002)	1.0
+Waiting for Guffman (1996)	1.0
+Mr. Bean's Holiday (2007)	1.0
+Duplicity (2009)	2.0
+My Life as a Dog (Mitt liv som hund) (1985)	1.0
+To Die For (1995)	4.0
+Spy Game (2001)	2.0
+Grudge, The (2004)	5.0
+Control (Kontroll) (2003)	4.0
+Badlands (1973)	4.0
+Frankenstein (1931)	5.0
+Minus Man, The (1999)	4.0
+Regarding Henry (1991)	1.0
+Strada, La (1954)	3.0
+Trust the Man (2005)	1.0

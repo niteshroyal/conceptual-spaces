@@ -1,0 +1,196 @@
+title	score
+Where the Red Fern Grows	5.0
+The Game: Penetrating the Secret Society of Pickup Artists	4.0
+Steppenwolf	4.0
+Don Quixote	2.0
+The Client	1.0
+The Secret of the Old Clock (Nancy Drew, #1)	5.0
+The Midwife's Apprentice	3.0
+Intensity	5.0
+The Long Walk	1.0
+A Walk in the Woods	2.0
+The Magic Mountain	4.0
+The Divine Comedy	3.0
+The Miraculous Journey of Edward Tulane	2.0
+A Lesson Before Dying	5.0
+On the Beach	2.0
+The Magician's Nephew (Chronicles of Narnia, #6)	3.0
+The Last Battle (Chronicles of Narnia, #7)	3.0
+Birdsong	1.0
+Velocity	2.0
+The Coldest Winter Ever	3.0
+Lolita	1.0
+I Know Why the Caged Bird Sings	5.0
+The Silver Chair (Chronicles of Narnia, #4)	3.0
+The Hobbit	5.0
+The Great Hunt (Wheel of Time, #2)	5.0
+Their Eyes Were Watching God	5.0
+The Quickie	1.0
+The Joy Luck Club	1.0
+Tuesdays with Morrie	4.0
+The Eye of the World (Wheel of Time, #1)	5.0
+A Brief History of Time	2.0
+Peony in Love	1.0
+James and the Giant Peach	2.0
+Gulliver's Travels	1.0
+Roots: The Saga of an American Family	5.0
+The Five People You Meet in Heaven	4.0
+Coraline	1.0
+Bleak House	1.0
+Harry, a History: The True Story of a Boy Wizard, His Fans, and Life Inside the Harry Potter Phenomenon	5.0
+Dracula	1.0
+Eragon (The Inheritance Cycle, #1)	1.0
+Misery	1.0
+Tess of the D'Urbervilles	1.0
+Angels & Demons  (Robert Langdon, #1)	3.0
+Prince Caspian (Chronicles of Narnia, #2)	3.0
+Girl with a Pearl Earring	5.0
+Rich Dad, Poor Dad	4.5
+Crime and Punishment	2.0
+Dune (Dune Chronicles #1)	5.0
+Odd Thomas (Odd Thomas, #1)	3.0
+The Help	4.0
+The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)	1.0
+The Memoirs of Sherlock Holmes	5.0
+Holy Bible: King James Version	5.0
+Open	3.0
+The Immortal Life of Henrietta Lacks	5.0
+Horns	1.0
+The Complete Sherlock Holmes	5.0
+The Heroes (First Law World, #5)	5.0
+Where We Belong	1.0
+The Monogram Murders	1.0
+Go Set a Watchman	1.0
+Binti (Binti, #1)	1.0
+The Firm (Penguin Readers, Level 5)	1.0
+A Wizard of Earthsea (Earthsea Cycle, #1)	5.0
+The Raven	4.0
+The Godfather	1.0
+The Count of Monte Cristo	1.0
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate	1.0
+A Confederacy of Dunces	1.0
+Goodnight Moon	1.0
+The Hunt for Red October (Jack Ryan Universe, #4)	1.0
+The Adventures of Sherlock Holmes	5.0
+Have a Little Faith: a True Story	4.0
+The Tombs of Atuan (Earthsea Cycle, #2)	5.0
+The Prince	4.0
+The Tempest	3.0
+Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)	1.0
+Never Let Me Go	5.0
+Wuthering Heights	1.0
+Pretties (Uglies, #2)	1.0
+The Republic	5.0
+The Girl with the Dragon Tattoo (Millennium, #1)	3.0
+The Audacity of Hope: Thoughts on Reclaiming the American Dream	1.0
+A Time to Kill	1.0
+The Adventures of Huckleberry Finn	4.0
+Cloud Atlas	3.0
+The Little Prince	3.5
+Any Human Heart	3.0
+Atonement	2.0
+How to Win Friends and Influence People	4.5
+The Total Money Makeover: A Proven Plan for Financial Fitness	4.0
+Outlander (Outlander, #1)	2.0
+Eclipse (Twilight, #3)	2.0
+Number the Stars	5.0
+The Merchant of Venice	1.0
+The Dispossessed	5.0
+Uglies (Uglies, #1)	1.0
+Alice in Wonderland	1.0
+For One More Day	4.0
+New Moon (Twilight, #2)	2.0
+The Time Machine	5.0
+The Horse and His Boy (Chronicles of Narnia, #5)	3.0
+The Color Purple	5.0
+The Hidden Staircase (Nancy Drew #2)	5.0
+Flowers in the Attic (Dollanganger, #1)	1.0
+The Diary of a Young Girl	1.0
+Midnight Sun (Twilight, #1.5)	2.0
+Harry Potter and the Sorcerer's Stone (Harry Potter, #1)	1.0
+The Silmarillion	5.0
+The Alchemist	5.0
+Wolf Hall (Thomas Cromwell, #1)	1.0
+The Twilight Saga (Twilight, #1-4)	2.0
+Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime	1.0
+Pete the Cat: I Love My White Shoes	1.0
+Twilight: The Graphic Novel, Vol. 1 (Twilight: The Graphic Novel, #1)	1.0
+The Immortals of Meluha (Shiva Trilogy, #1)	4.0
+Leviathan Wakes (The Expanse, #1)	1.0
+Harry Potter: The Prequel (Harry Potter, #0.5)	1.0
+Harry Potter and the Methods of Rationality	5.0
+Life is What You Make It: A Story of Love, Hope and How Determination Can Overcome Even Destiny	3.0
+Steve Jobs	4.5
+The Secret of the Nagas (Shiva Trilogy #2)	4.0
+The First Phone Call from Heaven	4.0
+Four: A Divergent Story Collection (Divergent, #0.1 - 0.4)	1.0
+Half Girlfriend	5.0
+Ramona Blue	5.0
+Men Are from Mars, Women Are from Venus	2.0
+Dreams from My Father: A Story of Race and Inheritance	1.0
+The Yiddish Policemen's Union	1.0
+Speak	5.0
+Crossroads of Twilight (Wheel of Time, #10)	5.0
+Dragons of Autumn Twilight  (Dragonlance: Chronicles, #1)	1.0
+The Last Command (Star Wars: The Thrawn Trilogy, #3)	1.0
+Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)	1.0
+Fruits Basket, Vol. 1	1.0
+The Fires of Heaven (Wheel of Time, #5)	5.0
+The Dragon Reborn (Wheel of Time, #3)	5.0
+A Crown of Swords (Wheel of Time, #7)	5.0
+Winter's Heart (Wheel of Time, #9)	5.0
+Lord of Chaos (Wheel of Time, #6)	5.0
+The Thirteenth Tale	1.0
+The Sword of Shannara (The Original Shannara Trilogy, #1)	1.0
+The Path of Daggers (Wheel of Time, #8)	5.0
+Heir to the Empire (Star Wars: The Thrawn Trilogy #1)	1.0
+Think and Grow Rich	5.0
+Heidi	4.0
+Twisted	1.0
+The Last of the Mohicans (The Leatherstocking Tales #2)	4.0
+The Elfstones of Shannara  (The Original Shannara Trilogy, #2)	1.0
+The Amazing Adventures of Kavalier & Clay	1.0
+Chains (Seeds of America, #1)	5.0
+Twilight (Twilight, #1)	2.0
+The Shadow Rising (Wheel of Time, #4)	5.0
+Caliban's War (The Expanse, #2)	1.0
+The Time Keeper	4.0
+Ali's Pretty Little Lies (Pretty Little Liars, #0.5)	1.0
+Red Queen (Red Queen, #1)	2.0
+Yes Please	4.0
+Glass Sword (Red Queen, #2)	2.0
+King's Cage (Red Queen, #3)	2.0
+The Magic Strings of Frankie Presto	4.0
+Aftermath (Star Wars: Aftermath, #1)	1.0
+The Force Awakens (Star Wars: Novelizations #7)	1.0
+Find Her (Detective D.D. Warren, #8)	1.0
+Cruel Crown (Red Queen, #0.1-#0.2)	2.0
+My Absolute Darling	1.0
+What Happened	1.0
+The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams  Reaching Your Destiny	4.0
+Voyager (Outlander, #3)	2.0
+The Fiery Cross (Outlander, #5)	2.0
+The 48 Laws of Power	4.0
+A Breath of Snow and Ashes (Outlander, #6)	2.0
+An Echo in the Bone (Outlander, #7)	2.0
+Dragonfly in Amber (Outlander, #2)	2.0
+Drums of Autumn (Outlander, #4)	2.0
+Fallen (Fallen, #1)	1.0
+Torment (Fallen, #2)	1.0
+Passion (Fallen, #3)	1.0
+Rapture (Fallen, #4)	1.0
+Written in My Own Heart's Blood (Outlander, #8)	2.0
+Fallen in Love (Fallen, #3.5)	1.0
+Tiny Beautiful Things: Advice on Love and Life from Dear Sugar	3.0
+Insider (Exodus End, #1)	1.0
+The Wrath and the Dawn (The Wrath and the Dawn, #1)	1.0
+Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)	3.0
+The Winner's Curse (The Winner's Trilogy, #1)	5.0
+The Magnolia Story	5.0
+Orphan Train	5.0
+Gregor the Overlander (Underland Chronicles, #1)	2.0
+We Were Liars	4.0
+Influence: The Psychology of Persuasion	5.0
+The Book of Mormon: Another Testament of Jesus Christ	5.0
+The God Delusion	5.0
+Predictably Irrational: The Hidden Forces That Shape Our Decisions	4.0

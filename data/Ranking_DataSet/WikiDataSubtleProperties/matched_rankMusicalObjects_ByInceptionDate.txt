@@ -1,0 +1,560 @@
+Entity	QRank	instrument	instrumentLabel	inceptDate
+Q390306	515317	http://www.wikidata.org/entity/Q390306	Liberty Bell	1753.0
+Q191823	273789	http://www.wikidata.org/entity/Q191823	clavichord	1200.0
+Q147875	262302	http://www.wikidata.org/entity/Q147875	Tsar Bell	1733.0
+Q110960686	248854	http://www.wikidata.org/entity/Q110960686	15.ai	2020.0
+Q1057445	233076	http://www.wikidata.org/entity/Q1057445	Logic Pro	1993.0
+Q247670	216339	http://www.wikidata.org/entity/Q247670	Pro Tools	1989.0
+Q2268940	146393	http://www.wikidata.org/entity/Q2268940	Sea organ	2005.0
+Q775605	127012	http://www.wikidata.org/entity/Q775605	Fender Jaguar	1962.0
+Q37733713	126611	http://www.wikidata.org/entity/Q37733713	Big Ben	1858.0
+Q16899451	91791	http://www.wikidata.org/entity/Q16899451	Trigger	1969.0
+Q3359049	86162	http://www.wikidata.org/entity/Q3359049	Oxford Electric Bell	1840.0
+Q2411621	82980	http://www.wikidata.org/entity/Q2411621	Utau	2008.0
+Q246105	80420	http://www.wikidata.org/entity/Q246105	Zytglogge	1220.0
+Q450953	79185	http://www.wikidata.org/entity/Q450953	Petersglocke	1923.0
+Q1777287	78856	http://www.wikidata.org/entity/Q1777287	Divje Babe flute	-50000.0
+Q201809	77162	http://www.wikidata.org/entity/Q201809	LMMS	2004.0
+Q1320874	69487	http://www.wikidata.org/entity/Q1320874	Tipu's Tiger	1790.0
+Q218547	61960	http://www.wikidata.org/entity/Q218547	Sigismund Bell	1520.0
+Q7239284	60507	http://www.wikidata.org/entity/Q7239284	PreSonus Studio One	2009.0
+Q2030166	50146	http://www.wikidata.org/entity/Q2030166	Wanamaker Organ	1904.0
+Q1761195	47123	http://www.wikidata.org/entity/Q1761195	Ibanez Tube Screamer	1979.0
+Q557254	46936	http://www.wikidata.org/entity/Q557254	Megpoid	2009.0
+Q640004	46657	http://www.wikidata.org/entity/Q640004	Ardour	2005.0
+Q557226	46631	http://www.wikidata.org/entity/Q557226	Ankeruhr	1911.0
+Q399729	44634	http://www.wikidata.org/entity/Q399729	Kaito	2006.0
+Q1333703	42913	http://www.wikidata.org/entity/Q1333703	Reason	1994.0
+Q3125071	37767	http://www.wikidata.org/entity/Q3125071	Messiah Stradivarius	1716.0
+Q18418876	36765	http://www.wikidata.org/entity/Q18418876	CeVIO Creative Studio	2013.0
+Q5559412	34723	http://www.wikidata.org/entity/Q5559412	Gibson Stradivarius	1713.0
+Q549649	34407	http://www.wikidata.org/entity/Q549649	Il Cannone Guarnerius	1743.0
+Q5598751	33828	http://www.wikidata.org/entity/Q5598751	Great Bell of Dhammazedi	1484.0
+Q4483933	33816	http://www.wikidata.org/entity/Q4483933	Filimonovo toys	1600.0
+Q859092	33388	http://www.wikidata.org/entity/Q859092	Big Muff	1969.0
+Q1780541	33305	http://www.wikidata.org/entity/Q1780541	Soil	1714.0
+Q6469990	32855	http://www.wikidata.org/entity/Q6469990	Lady Blunt Stradivarius	1721.0
+Q1136329	30803	http://www.wikidata.org/entity/Q1136329	Mingun Bell	1810.0
+Q7734699	29080	http://www.wikidata.org/entity/Q7734699	The Fool	1964.0
+Q6432221	28467	http://www.wikidata.org/entity/Q6432221	Korg Kronos	2011.0
+Q4834807	27577	http://www.wikidata.org/entity/Q4834807	BBC Domesday Project	1984.0
+Q3437141	26049	http://www.wikidata.org/entity/Q3437141	Fender Telecaster Thinline	1968.0
+Q4850035	25082	http://www.wikidata.org/entity/Q4850035	Balangiga bells	1800.0
+Q3549924	24796	http://www.wikidata.org/entity/Q3549924	Uni-Vibe	1968.0
+Q7373645	23376	http://www.wikidata.org/entity/Q7373645	Royal Albert Hall Organ	1871.0
+Q2086794	21636	http://www.wikidata.org/entity/Q2086794	Digitech Whammy	1989.0
+Q3172485	20750	http://www.wikidata.org/entity/Q3172485	Fuzz Face	1966.0
+Q10504794	20303	http://www.wikidata.org/entity/Q10504794	Gibson ES-345	1959.0
+Q107122122	19590	http://www.wikidata.org/entity/Q107122122	Boss HM-2	1983.0
+Q259347	16913	http://www.wikidata.org/entity/Q259347	Csound	1986.0
+Q1500106	16413	http://www.wikidata.org/entity/Q1500106	Rosegarden	1993.0
+Q2067390	16086	http://www.wikidata.org/entity/Q2067390	Japanese Peace Bell	1952.0
+Q1808761	14740	http://www.wikidata.org/entity/Q1808761	Panharmonicon	1804.0
+Q2901761	14105	http://www.wikidata.org/entity/Q2901761	Netherlands Carillon	1954.0
+Q720614	13863	http://www.wikidata.org/entity/Q720614	Brownie	1956.0
+Q5559394	13109	http://www.wikidata.org/entity/Q5559394	Gibson SG Special	1961.0
+Q313897	12645	http://www.wikidata.org/entity/Q313897	Freedom Bell	1950.0
+Q5289657	12372	http://www.wikidata.org/entity/Q5289657	Dolphin Stradivarius	1714.0
+Q17124574	11716	http://www.wikidata.org/entity/Q17124574	Octavia	1967.0
+Q4228248	11670	http://www.wikidata.org/entity/Q4228248	Bell of Good Luck	2000.0
+Q2309202	11535	http://www.wikidata.org/entity/Q2309202	Moscow Kremlin	1906.0
+Q1860793	10651	http://www.wikidata.org/entity/Q1860793	Scream Tracker	1990.0
+Q5018088	9867	http://www.wikidata.org/entity/Q5018088	Cakewalk	1987.0
+Q896244	9608	http://www.wikidata.org/entity/Q896244	Carillon in Berlin-Tiergarten	1987.0
+Q3574205	9498	http://www.wikidata.org/entity/Q3574205	string tambourine	15.0
+Q9369297	9181	http://www.wikidata.org/entity/Q9369297	MilkyTracker	2005.0
+Q6556459	9159	http://www.wikidata.org/entity/Q6556459	Lipinski Stradivarius	1715.0
+Q6720285	8864	http://www.wikidata.org/entity/Q6720285	MXR Phase 90	1972.0
+Q7975291	8767	http://www.wikidata.org/entity/Q7975291	Wave Organ	1986.0
+Q2592009	8096	http://www.wikidata.org/entity/Q2592009	Bridge of Nations Bell	1458.0
+Q7817895	8028	http://www.wikidata.org/entity/Q7817895	Tom Tyler Stradivarius	1732.0
+Q10861611	8017	http://www.wikidata.org/entity/Q10861611	Q10861611	1549.0
+Q2030117	7236	http://www.wikidata.org/entity/Q2030117	Q2030117	1931.0
+Q4745886	7223	http://www.wikidata.org/entity/Q4745886	Ames Stradivarius	1734.0
+Q6896255	7195	http://www.wikidata.org/entity/Q6896255	Molitor Stradivarius	1697.0
+Q878694	6663	http://www.wikidata.org/entity/Q878694	Schnitger organ of St. Jacobi Hamburg	1693.0
+Q3605859	6639	http://www.wikidata.org/entity/Q3605859	Adungu	1850.0
+Q316302	6539	http://www.wikidata.org/entity/Q316302	Organ of the Basilica of St. Martin	1750.0
+Q7580302	6069	http://www.wikidata.org/entity/Q7580302	Spreckels Organ Pavilion	1914.0
+Q3560514	5777	http://www.wikidata.org/entity/Q3560514	Viotti Stradivarius	1709.0
+Q7333328	5711	http://www.wikidata.org/entity/Q7333328	Riga Cathedral pipe organ	1883.0
+Q12950484	5626	http://www.wikidata.org/entity/Q12950484	Hellier Stradivarius	1679.0
+Q4708367	5559	http://www.wikidata.org/entity/Q4708367	Alard–Baron Knoop Stradivarius	1715.0
+Q4088429	5472	http://www.wikidata.org/entity/Q4088429	Blackpool High Tide Organ	2002.0
+Q6679199	5459	http://www.wikidata.org/entity/Q6679199	Lord Dunn–Raven Stradivarius	1710.0
+Q693885	4432	http://www.wikidata.org/entity/Q693885	Pipe organ of Basilique Notre-Dame de Valère	1435.0
+Q1877184	4274	http://www.wikidata.org/entity/Q1877184	Lullusglocke	1038.0
+Q5443265	3755	http://www.wikidata.org/entity/Q5443265	Fender Reverb Unit	1961.0
+Q52161922	3738	http://www.wikidata.org/entity/Q52161922	Q52161922	1740.0
+Q6963981	3699	http://www.wikidata.org/entity/Q6963981	Nano guitar	1997.0
+Q1877645	3667	http://www.wikidata.org/entity/Q1877645	The Brudevælte Lurs	-749.0
+Q4898662	3629	http://www.wikidata.org/entity/Q4898662	Betts Stradivarius	1704.0
+Q3199759	3531	http://www.wikidata.org/entity/Q3199759	KRISTAL Audio Engine	2004.0
+Q1124130	3433	http://www.wikidata.org/entity/Q1124130	Concordia 2000	2003.0
+Q13537119	3418	http://www.wikidata.org/entity/Q13537119	Great organ of Nancy Cathedral	1756.0
+Q72569198	3159	http://www.wikidata.org/entity/Q72569198	Le Brun Stradivarius	1712.0
+Q15853233	3093	http://www.wikidata.org/entity/Q15853233	Vox Maris	2012.0
+Q20745551	3075	http://www.wikidata.org/entity/Q20745551	Hammer Stradivarius	1707.0
+Q30644776	2984	http://www.wikidata.org/entity/Q30644776	Audio-Technica AT-LP120	2009.0
+Q2030289	2894	http://www.wikidata.org/entity/Q2030289	Great organ of St.-Marien-Kirche	1659.0
+Q6482207	2877	http://www.wikidata.org/entity/Q6482207	Lamont Harp	1500.0
+Q6436635	2824	http://www.wikidata.org/entity/Q6436635	Kreisler Bergonzi	1735.0
+Q2030305	2788	http://www.wikidata.org/entity/Q2030305	Q2030305	1862.0
+Q118218490	2740	http://www.wikidata.org/entity/Q118218490	Bell #9801	2022.0
+Q3962016	2731	http://www.wikidata.org/entity/Q3962016	Air raid siren of Teramo	1937.0
+Q6432219	2465	http://www.wikidata.org/entity/Q6432219	Electribe R	1999.0
+Q6773955	2421	http://www.wikidata.org/entity/Q6773955	Marsick Stradivarius	1715.0
+Q4468408	2356	http://www.wikidata.org/entity/Q4468408	main organ Laurenskerk Rotterdam	1973.0
+Q3209896	2328	http://www.wikidata.org/entity/Q3209896	The tympanum player	1784.0
+Q2030298	2294	http://www.wikidata.org/entity/Q2030298	Pipe organ of St. Kilian's Cathedral	1969.0
+Q19881125	2142	http://www.wikidata.org/entity/Q19881125	Justice Bell	1915.0
+Q2030148	2108	http://www.wikidata.org/entity/Q2030148	Pipe organ of Stadtkirche Waltershausen	1724.0
+Q2030091	2090	http://www.wikidata.org/entity/Q2030091	Organ of Alte Kirche St. Salvator	1711.0
+Q4943890	1976	http://www.wikidata.org/entity/Q4943890	Booth Stradivarius	1716.0
+Q1022536	1956	http://www.wikidata.org/entity/Q1022536	pipe organ in St Jakobi church (Stralsund)	1741.0
+Q2030170	1911	http://www.wikidata.org/entity/Q2030170	Schnitger organ in St. Cosmae	1673.0
+Q6680037	1895	http://www.wikidata.org/entity/Q6680037	Lord Wilton	1742.0
+Q2030132	1877	http://www.wikidata.org/entity/Q2030132	Amalienorgel	1755.0
+Q118966767	1876	http://www.wikidata.org/entity/Q118966767	Korg Nautilus	2021.0
+Q113579615	1858	http://www.wikidata.org/entity/Q113579615	Gänsegeierflöte vom Hohlefels	-33000.0
+Q111382378	1750	http://www.wikidata.org/entity/Q111382378	Olympic Bell	1935.0
+Q4905904	1746	http://www.wikidata.org/entity/Q4905904	Big Joe	1895.0
+Q1798888	1729	http://www.wikidata.org/entity/Q1798888	La Leona	1856.0
+Q111836422	1711	http://www.wikidata.org/entity/Q111836422	Da Vinci, ex-Seidel Stradivarius	1714.0
+Q80331	1687	http://www.wikidata.org/entity/Q80331	Organ saint-John's Cathedral	1618.0
+Q14551935	1686	http://www.wikidata.org/entity/Q14551935	Organs of St. Paul's Cathedral (Münster)	1956.0
+Q6405648	1684	http://www.wikidata.org/entity/Q6405648	Kiesewetter Stradivarius	1723.0
+Q6470573	1647	http://www.wikidata.org/entity/Q6470573	Lady Tennant Stradivarius	1709.0
+Q6464644	1574	http://www.wikidata.org/entity/Q6464644	La Pucelle	1709.0
+Q20826846	1510	http://www.wikidata.org/entity/Q20826846	Q20826846	1913.0
+Q25092689	1507	http://www.wikidata.org/entity/Q25092689	Q25092689	1978.0
+Q6314647	1487	http://www.wikidata.org/entity/Q6314647	Jupiter Stradivarius	1700.0
+Q25103830	1447	http://www.wikidata.org/entity/Q25103830	Vocaloid Keyboard	2015.0
+Q16634910	1338	http://www.wikidata.org/entity/Q16634910	Vyrkovo toys	2000.0
+Q8035249	1293	http://www.wikidata.org/entity/Q8035249	World's Largest Tuned Musical Windchime	2004.0
+Q3356232	1286	http://www.wikidata.org/entity/Q3356232	Gaumont Palace organ	1931.0
+Q1545969	1277	http://www.wikidata.org/entity/Q1545969	Q1545969	1561.0
+Q116908315	1240	http://www.wikidata.org/entity/Q116908315	Bell of the Sun	1966.0
+Q43376787	1235	http://www.wikidata.org/entity/Q43376787	Rafter finial in the shape of a dragon’s head and wind chime	950.0
+Q2030153	1233	http://www.wikidata.org/entity/Q2030153	Q2030153	1877.0
+Q2799501	1218	http://www.wikidata.org/entity/Q2799501	Saufang (bell)	700.0
+Q2363704	1211	http://www.wikidata.org/entity/Q2363704	De Arabier	1925.0
+Q1486846	1194	http://www.wikidata.org/entity/Q1486846	Yamaha GS1	1980.0
+Q111773533	1181	http://www.wikidata.org/entity/Q111773533	Duke of Alcantara Stradivarius	1732.0
+Q2030180	1170	http://www.wikidata.org/entity/Q2030180	Arp Schnitger organ in St. Pankratius church in Hamburg-Neuenfelde	1688.0
+Q2687075	1158	http://www.wikidata.org/entity/Q2687075	Organ of Grote of Jacobijnerkerk	1727.0
+Q13469683	1102	http://www.wikidata.org/entity/Q13469683	The Great Organ	1781.0
+Q1456745	1057	http://www.wikidata.org/entity/Q1456745	Friedensglocke	1952.0
+Q6305839	1007	http://www.wikidata.org/entity/Q6305839	Jules Falk Stradivarius	1723.0
+Q2684324	972	http://www.wikidata.org/entity/Q2684324	Q2684324	1891.0
+Q2540919	955	http://www.wikidata.org/entity/Q2540919	Walbecker Glocke	1100.0
+Q6134447	955	http://www.wikidata.org/entity/Q6134447	Sarasate	1724.0
+Q1414925	947	http://www.wikidata.org/entity/Q1414925	Bell of Love	2006.0
+Q20857963	944	http://www.wikidata.org/entity/Q20857963	Greffuhle Stradivarius	1709.0
+Q1585092	910	http://www.wikidata.org/entity/Q1585092	Harder-Völkmann-Orgel	2006.0
+Q56292856	898	http://www.wikidata.org/entity/Q56292856	Organ in St. Jacobikirche Lüdingworth	1683.0
+Q31842662	875	http://www.wikidata.org/entity/Q31842662	Q31842662	1734.0
+Q16855451	872	http://www.wikidata.org/entity/Q16855451	Pipe organ of Klosterkirche Mariä Himmelfahrt	1736.0
+Q2030146	862	http://www.wikidata.org/entity/Q2030146	Q2030146	1841.0
+Q2030128	854	http://www.wikidata.org/entity/Q2030128	Q2030128	1925.0
+Q104177080	816	http://www.wikidata.org/entity/Q104177080	Q104177080	1915.0
+Q15794023	787	http://www.wikidata.org/entity/Q15794023	Q15794023	1964.0
+Q3908289	781	http://www.wikidata.org/entity/Q3908289	"pontifical organ ""Dom Bedos-Roubo - Benedict XVI"""	2009.0
+Q18202733	756	http://www.wikidata.org/entity/Q18202733	pipe organ in Santissima Annunziata church in Siena	1518.0
+Q2030139	748	http://www.wikidata.org/entity/Q2030139	Herbst-Orgel, Lahm/Itzgrund 1732	1732.0
+Q21234636	731	http://www.wikidata.org/entity/Q21234636	Pipe organ	1877.0
+Q2316165	722	http://www.wikidata.org/entity/Q2316165	Sint-Josephkerk	1901.0
+Q15837705	703	http://www.wikidata.org/entity/Q15837705	Organ in the Jacobikerk at Uithuizen	1701.0
+Q6937012	698	http://www.wikidata.org/entity/Q6937012	Muntz Stradivarius	1736.0
+Q4801397	697	http://www.wikidata.org/entity/Q4801397	Artot–Alard Stradivarius	1728.0
+Q6314556	695	http://www.wikidata.org/entity/Q6314556	Jupiter, ex-Goding Stradivarius	1722.0
+Q6502053	689	http://www.wikidata.org/entity/Q6502053	Lauterbach Stradivarius	1719.0
+Q15790997	678	http://www.wikidata.org/entity/Q15790997	Kaunas Carillon	1937.0
+Q42329674	662	http://www.wikidata.org/entity/Q42329674	Q42329674	1937.0
+Q1355624	661	http://www.wikidata.org/entity/Q1355624	Organ in St. Cyprian-and Cornelius church	1699.0
+Q22249014	625	http://www.wikidata.org/entity/Q22249014	Q22249014	1714.0
+Q11977796	615	http://www.wikidata.org/entity/Q11977796	Q11977796	1651.0
+Q3499955	611	http://www.wikidata.org/entity/Q3499955	Jean-Marie Leclair Stradivarius	1721.0
+Q16798813	601	http://www.wikidata.org/entity/Q16798813	Markees Stradivarius	1701.0
+Q64847413	594	http://www.wikidata.org/entity/Q64847413	ipe organ of Candé castle	1929.0
+Q4862553	579	http://www.wikidata.org/entity/Q4862553	Baron Knoop Stradivarius	1698.0
+Q117319168	576	http://www.wikidata.org/entity/Q117319168	Gustav Mahler	1672.0
+Q43264967	551	http://www.wikidata.org/entity/Q43264967	olifant of the Chartreuse de Portes	1100.0
+Q17537351	533	http://www.wikidata.org/entity/Q17537351	Church of St George	1450.0
+Q56290379	532	http://www.wikidata.org/entity/Q56290379	Oberheim Prommer	1983.0
+Q29122822	531	http://www.wikidata.org/entity/Q29122822	Organ Clicquot of the Priory church in Souvigny	1782.0
+Q28974462	507	http://www.wikidata.org/entity/Q28974462	Peter Gerritsz-orgel	1479.0
+Q5202318	502	http://www.wikidata.org/entity/Q5202318	Cádiz Stradivarius	1722.0
+Q2483632	497	http://www.wikidata.org/entity/Q2483632	organ Grote Kerk Nijkerk	1756.0
+Q3885710	484	http://www.wikidata.org/entity/Q3885710	Q3885710	1565.0
+Q2383533	483	http://www.wikidata.org/entity/Q2383533	Vrijheidscarillon	1952.0
+Q7564766	466	http://www.wikidata.org/entity/Q7564766	Sound of Harmony	2008.0
+Q18271080	453	http://www.wikidata.org/entity/Q18271080	Q18271080	1583.0
+Q7558540	437	http://www.wikidata.org/entity/Q7558540	Solomon, ex-Lambert Stradivarius	1729.0
+Q22570045	437	http://www.wikidata.org/entity/Q22570045	Picture clock with Alster panorama	1830.0
+Q109311276	419	http://www.wikidata.org/entity/Q109311276	Renaissance pipe organs from Garrovillas	1578.0
+Q23978726	418	http://www.wikidata.org/entity/Q23978726	Q23978726	1936.0
+Q6049877	415	http://www.wikidata.org/entity/Q6049877	Olifante of Saint-Arnoul de Metz	1200.0
+Q3356209	410	http://www.wikidata.org/entity/Q3356209	Pipe organ of Cathédrale Saint-Pons de Saint-Pons-de-Thomières	1772.0
+Q110978667	405	http://www.wikidata.org/entity/Q110978667	Izturitze Flute	-35000.0
+Q42532434	404	http://www.wikidata.org/entity/Q42532434	Q42532434	1939.0
+Q1579753	403	http://www.wikidata.org/entity/Q1579753	Organ of Marienkirche Barth	1821.0
+Q15837708	400	http://www.wikidata.org/entity/Q15837708	Schnitger organ in St. Pankratius	1708.0
+Q16177101	398	http://www.wikidata.org/entity/Q16177101	Yonboksa Bell	1346.0
+Q19297672	398	http://www.wikidata.org/entity/Q19297672	Q19297672	1716.0
+Q16585145	391	http://www.wikidata.org/entity/Q16585145	Q16585145	1725.0
+Q94251286	390	http://www.wikidata.org/entity/Q94251286	Bumerin	1723.0
+Q3356212	372	http://www.wikidata.org/entity/Q3356212	pipe organ of Notre-Dame-de-l'Assomption church in Lambesc	1789.0
+Q29385577	362	http://www.wikidata.org/entity/Q29385577	Rectangular Octave Virginal	1600.0
+Q10659430	358	http://www.wikidata.org/entity/Q10659430	Sankt Petri kyrkas orgel by Hans Brebus	1571.0
+Q3356214	355	http://www.wikidata.org/entity/Q3356214	pipe organ in St Jean collegiate church in Pézenas	1759.0
+Q2030094	352	http://www.wikidata.org/entity/Q2030094	Q2030094	1950.0
+Q73178883	348	http://www.wikidata.org/entity/Q73178883	La Cathedrale (Stradivarius violin)	1707.0
+Q1419077	345	http://www.wikidata.org/entity/Q1419077	Q1419077	1908.0
+Q25223134	337	http://www.wikidata.org/entity/Q25223134	Casavant Frères Ltée. Opus 1841	1911.0
+Q2408013	330	http://www.wikidata.org/entity/Q2408013	Pipe organ of collegiate church Saint-Jean-Baptiste in Roquemaure	1690.0
+Q105955165	321	http://www.wikidata.org/entity/Q105955165	Boss DS-2	1987.0
+Q3885633	312	http://www.wikidata.org/entity/Q3885633	Roskilde Cathedral organ	1554.0
+Q1014762	309	http://www.wikidata.org/entity/Q1014762	Burgahnl	1568.0
+Q2030116	307	http://www.wikidata.org/entity/Q2030116	Pipe organs in Worfelden	1624.0
+Q2030150	307	http://www.wikidata.org/entity/Q2030150	Pipe organ of Westerhuser Kirche	1642.0
+Q16585142	307	http://www.wikidata.org/entity/Q16585142	Q16585142	1660.0
+Q19947560	303	http://www.wikidata.org/entity/Q19947560	Harpsichord	1670.0
+Q28668591	303	http://www.wikidata.org/entity/Q28668591	Q28668591	2007.0
+Q19297675	302	http://www.wikidata.org/entity/Q19297675	Q19297675	1701.0
+Q5379730	297	http://www.wikidata.org/entity/Q5379730	Q5379730	2003.0
+Q2030172	292	http://www.wikidata.org/entity/Q2030172	Pipe organ of St. Kiliani	1710.0
+Q29293778	291	http://www.wikidata.org/entity/Q29293778	Argoules Valloires abbey	1756.0
+Q436599	284	http://www.wikidata.org/entity/Q436599	Q436599	1991.0
+Q2030110	283	http://www.wikidata.org/entity/Q2030110	Organ of Evangelische Kirche	1790.0
+Q3885709	282	http://www.wikidata.org/entity/Q3885709	Q3885709	1825.0
+Q4862550	279	http://www.wikidata.org/entity/Q4862550	Baron Knoop, ex-Bevan Stradivarius	1715.0
+Q9149057	278	http://www.wikidata.org/entity/Q9149057	Søndre Langåra tåkeklokke	1896.0
+Q105955797	268	http://www.wikidata.org/entity/Q105955797	Boss OD-1	1977.0
+Q6497717	258	http://www.wikidata.org/entity/Q6497717	Laub–Petschnikoff Stradivarius	1722.0
+Q123741866	257	http://www.wikidata.org/entity/Q123741866	pipe organ in the Licheń Basilica	2007.0
+Q13574179	252	http://www.wikidata.org/entity/Q13574179	Draaiorgel de Cello	1926.0
+Q15837707	252	http://www.wikidata.org/entity/Q15837707	Q15837707	1698.0
+Q18696962	246	http://www.wikidata.org/entity/Q18696962	Tympan de Cabestany	1200.0
+Q12590190	235	http://www.wikidata.org/entity/Q12590190	Bell of Naesosa Temple, Buan	1222.0
+Q111843897	232	http://www.wikidata.org/entity/Q111843897	Electro-Harmonix Memory Man	1976.0
+Q5125907	230	http://www.wikidata.org/entity/Q5125907	Q5125907	1846.0
+Q3113683	228	http://www.wikidata.org/entity/Q3113683	Pipe organ of Église Sainte-Marie-des-Batignolles	1923.0
+Q7478005	225	http://www.wikidata.org/entity/Q7478005	Martenskerk, Scharnegoutum	1861.0
+Q65212591	223	http://www.wikidata.org/entity/Q65212591	Òrgan gòtic de la Catedral de Palma de Mallorca	1790.0
+Q3356207	221	http://www.wikidata.org/entity/Q3356207	Pipe organ of Collégiale Sainte-Marthe, Tarascon	1604.0
+Q17590733	221	http://www.wikidata.org/entity/Q17590733	Schnitger organ in Martinikerk	1711.0
+Q2030175	220	http://www.wikidata.org/entity/Q2030175	Q2030175	1847.0
+Q117319274	218	http://www.wikidata.org/entity/Q117319274	Gibson	1734.0
+Q48753561	212	http://www.wikidata.org/entity/Q48753561	EKI 1	1954.0
+Q17590735	204	http://www.wikidata.org/entity/Q17590735	Schnitger organ in the Pelstergasthuiskerk (Groningen)	1693.0
+Q56408767	203	http://www.wikidata.org/entity/Q56408767	Q56408767	1810.0
+Q3356213	201	http://www.wikidata.org/entity/Q3356213	Pipe organ of Saint-Sauveur cathedral in Vabres-l'Abbaye	1761.0
+Q15837704	201	http://www.wikidata.org/entity/Q15837704	Pipe organ of Dorfkirche Blankenhagen	1687.0
+Q105978037	198	http://www.wikidata.org/entity/Q105978037	Boss MT-2	1991.0
+Q4531363	196	http://www.wikidata.org/entity/Q4531363	Q4531363	2001.0
+Q17637724	195	http://www.wikidata.org/entity/Q17637724	organ in the Our Savior church in Copenhagen	1698.0
+Q2443027	194	http://www.wikidata.org/entity/Q2443027	Q2443027	1971.0
+Q29293771	188	http://www.wikidata.org/entity/Q29293771	Saint-Riquier abbey church	1700.0
+Q2030127	183	http://www.wikidata.org/entity/Q2030127	Q2030127	1792.0
+Q117309823	178	http://www.wikidata.org/entity/Q117309823	Francesca	1694.0
+Q17354147	177	http://www.wikidata.org/entity/Q17354147	Pipe organ in Simultankirche Bechtolsheim	1756.0
+Q24934265	169	http://www.wikidata.org/entity/Q24934265	Q24934265	1678.0
+Q22924160	168	http://www.wikidata.org/entity/Q22924160	Aeolian organ	1923.0
+Q4461436	165	http://www.wikidata.org/entity/Q4461436	Kerk, Hichtum	1200.0
+Q113535717	161	http://www.wikidata.org/entity/Q113535717	The Angel	1720.0
+Q86676064	155	http://www.wikidata.org/entity/Q86676064	Q86676064	1970.0
+Q9249049	154	http://www.wikidata.org/entity/Q9249049	Q9249049	1420.0
+Q110515879	151	http://www.wikidata.org/entity/Q110515879	Q110515879	1800.0
+Q16668295	149	http://www.wikidata.org/entity/Q16668295	Q16668295	1688.0
+Q105956231	149	http://www.wikidata.org/entity/Q105956231	Boss SD-1	1981.0
+Q18397201	143	http://www.wikidata.org/entity/Q18397201	Pipe organ of St. Trinitatis (Warlitz)	1770.0
+Q110637312	143	http://www.wikidata.org/entity/Q110637312	"Olifant so-called ""horn of Roland"""	1050.0
+Q123353273	138	http://www.wikidata.org/entity/Q123353273	Renaissance organ of the Cathedral of Évora	1562.0
+Q117307521	131	http://www.wikidata.org/entity/Q117307521	Tua	1708.0
+Q18026553	130	http://www.wikidata.org/entity/Q18026553	Eenum Church - Schnitger pipe organ	1704.0
+Q18026555	126	http://www.wikidata.org/entity/Q18026555	Organ in Pancratiuskerk	1704.0
+Q2014660	124	http://www.wikidata.org/entity/Q2014660	Q2014660	1842.0
+Q3356228	123	http://www.wikidata.org/entity/Q3356228	Orgue de l'église Saint-Symphorien de Tours	1885.0
+Q11113224	123	http://www.wikidata.org/entity/Q11113224	Q11113224	1911.0
+Q117204411	120	http://www.wikidata.org/entity/Q117204411	pipe organ of St.Mary church in Berlin	1722.0
+Q10861613	119	http://www.wikidata.org/entity/Q10861613	1322 bell in Dolní zvonice	1322.0
+Q89408861	118	http://www.wikidata.org/entity/Q89408861	Q89408861	1490.0
+Q18026558	117	http://www.wikidata.org/entity/Q18026558	Organ in Michaelkerk	1699.0
+Q29374014	114	http://www.wikidata.org/entity/Q29374014	pipe organ (Tours St Gatien cathedral)	1620.0
+Q105966752	113	http://www.wikidata.org/entity/Q105966752	BOSS BD-2 Blues driver	1995.0
+Q2030098	111	http://www.wikidata.org/entity/Q2030098	Pipe Organ of Protestant Church	1732.0
+Q17605963	110	http://www.wikidata.org/entity/Q17605963	Nederlands Hervormde Kerk	1969.0
+Q20515889	108	http://www.wikidata.org/entity/Q20515889	Q20515889	1905.0
+Q117321679	104	http://www.wikidata.org/entity/Q117321679	Kux	1720.0
+Q2030104	103	http://www.wikidata.org/entity/Q2030104	Q2030104	1796.0
+Q25402677	103	http://www.wikidata.org/entity/Q25402677	Q25402677	1697.0
+Q28840501	100	http://www.wikidata.org/entity/Q28840501	Q28840501	1768.0
+Q121007665	98	http://www.wikidata.org/entity/Q121007665	Bell of the Joy	1965.0
+Q123461187	95	http://www.wikidata.org/entity/Q123461187	Q123461187	1509.0
+Q2030115	94	http://www.wikidata.org/entity/Q2030115	Q2030115	1809.0
+Q29225391	90	http://www.wikidata.org/entity/Q29225391	pipe organ in Carcassona	1637.0
+Q45342716	87	http://www.wikidata.org/entity/Q45342716	Silbermann pipe organ of Église Saint-Thomas	1740.0
+Q113536937	87	http://www.wikidata.org/entity/Q113536937	Strauss	1708.0
+Q112961994	85	http://www.wikidata.org/entity/Q112961994	nave organ of the Cologne Cathedral (Klais 1998)	1998.0
+Q1922551	84	http://www.wikidata.org/entity/Q1922551	Q1922551	1910.0
+Q29339035	82	http://www.wikidata.org/entity/Q29339035	Q29339035	1800.0
+Q112976141	80	http://www.wikidata.org/entity/Q112976141	Q112976141	2019.0
+Q112996146	79	http://www.wikidata.org/entity/Q112996146	Zacharias Hildebrandt organ (Naumburg)	1746.0
+Q54733243	78	http://www.wikidata.org/entity/Q54733243	Clappers-E 13920	-4000.0
+Q29239215	77	http://www.wikidata.org/entity/Q29239215	Perpignan cathedral pipe organ	1858.0
+Q29640019	76	http://www.wikidata.org/entity/Q29640019	Q29640019	1936.0
+Q18286458	74	http://www.wikidata.org/entity/Q18286458	Q18286458	1526.0
+Q113088038	73	http://www.wikidata.org/entity/Q113088038	Saint Michael organ of Freiburg Minster	2008.0
+Q65209846	72	http://www.wikidata.org/entity/Q65209846	Orgue de la Basílica de la Mercè	2018.0
+Q107612740	72	http://www.wikidata.org/entity/Q107612740	Oliphant (MIK K 3106)	1100.0
+Q112978877	71	http://www.wikidata.org/entity/Q112978877	Q112978877	1965.0
+Q25403224	70	http://www.wikidata.org/entity/Q25403224	Q25403224	1730.0
+Q29128693	69	http://www.wikidata.org/entity/Q29128693	Great organ of Cathédrale Notre-Dame de Bayeux	1597.0
+Q29174752	68	http://www.wikidata.org/entity/Q29174752	pipe organ (Lorris)	1501.0
+Q117293989	68	http://www.wikidata.org/entity/Q117293989	Tangermünde pipe organ	1624.0
+Q6021230	67	http://www.wikidata.org/entity/Q6021230	Monasterio	1716.0
+Q9336300	67	http://www.wikidata.org/entity/Q9336300	Side Man	1959.0
+Q29377108	67	http://www.wikidata.org/entity/Q29377108	Pipe organ (Le Mans cathedral, Sarthe, France)	1528.0
+Q117298617	66	http://www.wikidata.org/entity/Q117298617	Hans Scherer organ (Lübeck, Schleswig-Holstein, Germany)	1625.0
+Q29273366	65	http://www.wikidata.org/entity/Q29273366	Q29273366	1721.0
+Q113335178	65	http://www.wikidata.org/entity/Q113335178	Q113335178	1965.0
+Q112976430	61	http://www.wikidata.org/entity/Q112976430	organ of church St. Leodegar, Lucerne	1640.0
+Q123527231	61	http://www.wikidata.org/entity/Q123527231	Bell Maria, 1553, Church of Our Lady before Týn	1553.0
+Q25400053	58	http://www.wikidata.org/entity/Q25400053	ARP Piano 16	1979.0
+Q109923488	58	http://www.wikidata.org/entity/Q109923488	Olifant de Clermont-Ferrand	1200.0
+Q29210655	57	http://www.wikidata.org/entity/Q29210655	Pipe organ in Saint-Séverin church (Paris)	1745.0
+Q116785701	56	http://www.wikidata.org/entity/Q116785701	Organ of Saint Olaf's church, Tallinn	1842.0
+Q29376725	55	http://www.wikidata.org/entity/Q29376725	pipe organ in Rodez cathedral	1629.0
+Q29325717	52	http://www.wikidata.org/entity/Q29325717	Isnard pipe organ in Saint-Maximin-la-Sainte-Baume	1772.0
+Q29375002	52	http://www.wikidata.org/entity/Q29375002	pipe organ (Rouen)	1520.0
+Q43898061	52	http://www.wikidata.org/entity/Q43898061	Double Aulos, 14411 - 14412	-500.0
+Q122698674	50	http://www.wikidata.org/entity/Q122698674	Old Bells from the Parish Church, Łubowice	2000.0
+Q87893688	49	http://www.wikidata.org/entity/Q87893688	Aeolian harp	2011.0
+Q97480161	49	http://www.wikidata.org/entity/Q97480161	main organ of Nantes Cathedral	1619.0
+Q118214651	49	http://www.wikidata.org/entity/Q118214651	pipe organ of Juva Church	2003.0
+Q28812137	48	http://www.wikidata.org/entity/Q28812137	Maya_sculpture-71.1893.4.2	800.0
+Q29134150	48	http://www.wikidata.org/entity/Q29134150	pipe organ in Dijon (Côte-d'Or, Bourgogne, France)	1745.0
+Q29372665	48	http://www.wikidata.org/entity/Q29372665	pipe organ in Caen (Calvados, Normandy, France)	1745.0
+Q29266318	47	http://www.wikidata.org/entity/Q29266318	Q29266318	1713.0
+Q28792724	45	http://www.wikidata.org/entity/Q28792724	Maya_sculpture-71.1887.101.21	800.0
+Q116739685	45	http://www.wikidata.org/entity/Q116739685	Cathedral of Saint Mary organ	1878.0
+Q117206153	45	http://www.wikidata.org/entity/Q117206153	Wagner organ in the Brandenburg an der Havel cathedral	1725.0
+Q29132605	44	http://www.wikidata.org/entity/Q29132605	pipe organ (Sées, Orne, Normandy, France)	1743.0
+Q29230307	44	http://www.wikidata.org/entity/Q29230307	Nîmes cathedral	1643.0
+Q107045419	43	http://www.wikidata.org/entity/Q107045419	Q107045419	1255.0
+Q28865062	42	http://www.wikidata.org/entity/Q28865062	horn-71.1993.6.4D	1600.0
+Q29141922	42	http://www.wikidata.org/entity/Q29141922	pipe organ (Sens, Yonne, Bourgogne, France)	1738.0
+Q29338451	42	http://www.wikidata.org/entity/Q29338451	pipe organ by Nicolas-Antoine Lété	1843.0
+Q87898066	42	http://www.wikidata.org/entity/Q87898066	Aeolian harp	2002.0
+Q113673451	42	http://www.wikidata.org/entity/Q113673451	Cloche de l'église de Boisredon	1673.0
+Q18380359	41	http://www.wikidata.org/entity/Q18380359	Q18380359	1701.0
+Q29375634	41	http://www.wikidata.org/entity/Q29375634	pipe organ in Narbonne (Aude, Occitanie, France)	1741.0
+Q56712165	41	http://www.wikidata.org/entity/Q56712165	Alto saxophone-E 1685	1900.0
+Q106448053	41	http://www.wikidata.org/entity/Q106448053	Boss FZ-5	2007.0
+Q115868204	41	http://www.wikidata.org/entity/Q115868204	Residence organ Damlund	2020.0
+Q29215161	40	http://www.wikidata.org/entity/Q29215161	grandstand organ of the collegiate church Notre-Dame in Melun	1851.0
+Q29375308	40	http://www.wikidata.org/entity/Q29375308	pipe organ in Houdan (Yvelines, Île-de-France, France)	1739.0
+Q29270130	39	http://www.wikidata.org/entity/Q29270130	pipe organ in the Saint-Pierre collegiate church in Douai (Nord, France)	1739.0
+Q107045420	39	http://www.wikidata.org/entity/Q107045420	Ōgane	1301.0
+Q29225393	38	http://www.wikidata.org/entity/Q29225393	Pipe organ of the Cathédrale Saint-Michel de Carcassonne	1860.0
+Q29377777	38	http://www.wikidata.org/entity/Q29377777	Golden pipe organ	1820.0
+Q56737492	38	http://www.wikidata.org/entity/Q56737492	Lyra-N 875	-2000.0
+Q65210759	38	http://www.wikidata.org/entity/Q65210759	Q65210759	1984.0
+Q108881843	38	http://www.wikidata.org/entity/Q108881843	The Grand Bell in Pagoda of the Celestial Lady	1710.0
+Q29225390	37	http://www.wikidata.org/entity/Q29225390	pipe organ in Saint-Vincent church in Carcassonne (Aude, Occitanie, France)	1740.0
+Q110385410	37	http://www.wikidata.org/entity/Q110385410	Saint Anne bell	1819.0
+Q112827787	37	http://www.wikidata.org/entity/Q112827787	Rieger organ, St. Catherine's Church	1990.0
+Q29177147	36	http://www.wikidata.org/entity/Q29177147	pipe organ (Nogent-sur-Seine)	1587.0
+Q29377775	36	http://www.wikidata.org/entity/Q29377775	Cavaillon cathedral	1653.0
+Q110336109	36	http://www.wikidata.org/entity/Q110336109	Gallery Organ	1930.0
+Q55116937	35	http://www.wikidata.org/entity/Q55116937	Mechanical organ by Davrainville - CnAM 10635	1819.0
+Q29220605	34	http://www.wikidata.org/entity/Q29220605	pipe organ in Étampes	1587.0
+Q29385611	34	http://www.wikidata.org/entity/Q29385611	Guitar	1640.0
+Q110879044	34	http://www.wikidata.org/entity/Q110879044	Cloche-sous-marine d'Ouessant	1909.0
+Q29326208	33	http://www.wikidata.org/entity/Q29326208	Pipe organ in Pertuis	1601.0
+Q29385573	33	http://www.wikidata.org/entity/Q29385573	Grand Piano	1720.0
+Q56605674	33	http://www.wikidata.org/entity/Q56605674	Six-piston Trombone by Adolphe Sax 2010.33.6	1866.0
+Q56678494	33	http://www.wikidata.org/entity/Q56678494	Military serpent-E 2353	1900.0
+Q98582039	33	http://www.wikidata.org/entity/Q98582039	National War Memorial Carillon	1932.0
+Q112978899	33	http://www.wikidata.org/entity/Q112978899	Q112978899	1968.0
+Q28820730	32	http://www.wikidata.org/entity/Q28820730	Aztec Drum	1500.0
+Q29119049	32	http://www.wikidata.org/entity/Q29119049	Q29119049	1855.0
+Q29385571	32	http://www.wikidata.org/entity/Q29385571	Double Virginal	1600.0
+Q101416567	32	http://www.wikidata.org/entity/Q101416567	Egedacher organ Zwettl abbey	1731.0
+Q109454164	32	http://www.wikidata.org/entity/Q109454164	San Rocco	1742.0
+Q29374648	31	http://www.wikidata.org/entity/Q29374648	pipe organ (Caudebec-en-Caux, Seine-Maritime, Normandy, France)	1543.0
+Q53445802	31	http://www.wikidata.org/entity/Q53445802	Mandora (ca.1420) from Milan?, Italy. MET 64.101.1409	1500.0
+Q29177156	30	http://www.wikidata.org/entity/Q29177156	pipe organ	1755.0
+Q115461660	30	http://www.wikidata.org/entity/Q115461660	Organ of the Monastery of Sant Cugat	1530.0
+Q29111509	29	http://www.wikidata.org/entity/Q29111509	Pipe organ of Église Saint-Martin d'Erstein	1914.0
+Q29326961	29	http://www.wikidata.org/entity/Q29326961	organ in L'Isle-sur-la-Sorgue	1648.0
+Q29330417	29	http://www.wikidata.org/entity/Q29330417	pipe organ in Saint-Andéol church	1609.0
+Q110334745	29	http://www.wikidata.org/entity/Q110334745	Opus 1032	1924.0
+Q110550938	29	http://www.wikidata.org/entity/Q110550938	Kerimäki church organ	1894.0
+Q29251234	28	http://www.wikidata.org/entity/Q29251234	pipe organ (Lunéville)	1751.0
+Q29326671	28	http://www.wikidata.org/entity/Q29326671	organ of Pernes-les-Fontaines (Vaucluse, Comtat Venaissin, France)	1603.0
+Q29385590	28	http://www.wikidata.org/entity/Q29385590	Grand Pianoforte	1840.0
+Q105421557	28	http://www.wikidata.org/entity/Q105421557	Q105421557	1600.0
+Q117206510	28	http://www.wikidata.org/entity/Q117206510	Wagner organ in Angermünde	1744.0
+Q13574180	27	http://www.wikidata.org/entity/Q13574180	Q13574180	1920.0
+Q114057976	27	http://www.wikidata.org/entity/Q114057976	Petter Lindqvist organ	1768.0
+Q12341642	26	http://www.wikidata.org/entity/Q12341642	Q12341642	1930.0
+Q13157159	26	http://www.wikidata.org/entity/Q13157159	Loughnashade Trumpet	-99.0
+Q117290097	26	http://www.wikidata.org/entity/Q117290097	pipe organ in Stendal (Saxony-Anhalt, Germany)	1580.0
+Q11939509	25	http://www.wikidata.org/entity/Q11939509	Pipe organ of Murbach Abbey Church	1871.0
+Q29128696	25	http://www.wikidata.org/entity/Q29128696	Choir organ of Cathédrale Notre-Dame de Bayeux	1861.0
+Q29188750	25	http://www.wikidata.org/entity/Q29188750	pipe organ in Bastia	1740.0
+Q29210709	25	http://www.wikidata.org/entity/Q29210709	pipe organ in Notre-Dame-des-Victoires basilica	1739.0
+Q29262977	25	http://www.wikidata.org/entity/Q29262977	pipe organ  (Villefranche-de-Rouergue)	1845.0
+Q56760585	25	http://www.wikidata.org/entity/Q56760585	Honour trumpet-2012.0300	1800.0
+Q29334421	24	http://www.wikidata.org/entity/Q29334421	Q29334421	1880.0
+Q29385588	24	http://www.wikidata.org/entity/Q29385588	"""The Gould"" Violin"	1693.0
+Q29177165	23	http://www.wikidata.org/entity/Q29177165	pipe organ in Bar-sur-Aube (Aube, Champagne-Ardenne, France)	1744.0
+Q56259481	23	http://www.wikidata.org/entity/Q56259481	Russian bassoon-084 bis	1830.0
+Q65203986	23	http://www.wikidata.org/entity/Q65203986	Q65203986	1913.0
+Q2576799	22	http://www.wikidata.org/entity/Q2576799	organ of Jørlunde Church	2009.0
+Q18380331	22	http://www.wikidata.org/entity/Q18380331	Q18380331	1748.0
+Q24706055	22	http://www.wikidata.org/entity/Q24706055	pipe organ of Aloja Lutheran church	1856.0
+Q29128685	22	http://www.wikidata.org/entity/Q29128685	pipe organ in Juaye-Mondaye (Calvados, Normandy, France)	1742.0
+Q29225383	22	http://www.wikidata.org/entity/Q29225383	pipe organ of the St-Martin church in Limoux (Aude, Occitanie, France)	1740.0
+Q36350652	22	http://www.wikidata.org/entity/Q36350652	Cat-shaped trumpet	1000.0
+Q43738782	22	http://www.wikidata.org/entity/Q43738782	Pipe organ of Basilica in Aglona	1701.0
+Q29119050	21	http://www.wikidata.org/entity/Q29119050	Q29119050	1885.0
+Q29306406	21	http://www.wikidata.org/entity/Q29306406	Manosque Saint-Sauveur	1625.0
+Q29328351	21	http://www.wikidata.org/entity/Q29328351	Cathédrale Saint-Jean de Belley	1860.0
+Q87485943	21	http://www.wikidata.org/entity/Q87485943	Organ of Stadtkirche Balingen	1767.0
+Q89441855	21	http://www.wikidata.org/entity/Q89441855	Q89441855	1768.0
+Q104769959	21	http://www.wikidata.org/entity/Q104769959	Q104769959	1613.0
+Q116785564	21	http://www.wikidata.org/entity/Q116785564	Kose Church organ	1890.0
+Q29260221	20	http://www.wikidata.org/entity/Q29260221	Foix, abbey church St.Volusien, great organ	1868.0
+Q99657068	20	http://www.wikidata.org/entity/Q99657068	Conte de Fontana Stradivarius	1702.0
+Q29111477	19	http://www.wikidata.org/entity/Q29111477	Jean-André Silbermann pipe organ	1781.0
+Q29114239	19	http://www.wikidata.org/entity/Q29114239	pipe organ in Saint-Hippolyte (Haut-Rhin, Alsace, France)	1739.0
+Q107046076	19	http://www.wikidata.org/entity/Q107046076	Temple bell, Eisanji	917.0
+Q123531516	19	http://www.wikidata.org/entity/Q123531516	Willemotte	1734.0
+Q56760375	18	http://www.wikidata.org/entity/Q56760375	Soprano saxhorn-E 1098	1856.0
+Q102142197	18	http://www.wikidata.org/entity/Q102142197	Cảnh Thịnh bronze drum	1800.0
+Q115550581	18	http://www.wikidata.org/entity/Q115550581	Great Bell of Changhua Confucian Temple	1805.0
+Q29116683	17	http://www.wikidata.org/entity/Q29116683	Q29116683	1596.0
+Q29225382	17	http://www.wikidata.org/entity/Q29225382	pipe organ (Saint Vincent Collegiate in Montreal, Aude, France)	1738.0
+Q29230303	17	http://www.wikidata.org/entity/Q29230303	Nîmes St Paul church, main organ	1848.0
+Q29328349	17	http://www.wikidata.org/entity/Q29328349	Orgue de tribune de l'église Saint-Michel de Nantua	1845.0
+Q29334414	17	http://www.wikidata.org/entity/Q29334414	Q29334414	1835.0
+Q29385694	17	http://www.wikidata.org/entity/Q29385694	Cittern	1685.0
+Q115649739	17	http://www.wikidata.org/entity/Q115649739	Kromatisk nyckelharpa	1981.0
+Q118214961	17	http://www.wikidata.org/entity/Q118214961	Bell Maria, 1888 ,Church of Saint Maurice, Olomouc	1888.0
+Q29144878	16	http://www.wikidata.org/entity/Q29144878	Grandes orgues	1889.0
+Q29385575	16	http://www.wikidata.org/entity/Q29385575	O-daiko	1873.0
+Q65212504	16	http://www.wikidata.org/entity/Q65212504	Q65212504	1718.0
+Q110553523	16	http://www.wikidata.org/entity/Q110553523	Sankt Petri kyrkas orgel by Olof Schwan	1797.0
+Q111845172	16	http://www.wikidata.org/entity/Q111845172	Q111845172	1587.0
+Q117036021	16	http://www.wikidata.org/entity/Q117036021	Pipe organ of Savona Cathedral	1800.0
+Q18380332	15	http://www.wikidata.org/entity/Q18380332	Q18380332	1699.0	
+Q29199435	15	http://www.wikidata.org/entity/Q29199435	pipe organ of the Saint-Pierre church in Jussey	1717.0
+Q66565800	15	http://www.wikidata.org/entity/Q66565800	Karlštejnská zvonkohra	2013.0
+Q84992079	15	http://www.wikidata.org/entity/Q84992079	Sistrum-E 11201	-1000.0
+Q29126081	14	http://www.wikidata.org/entity/Q29126081	Église Notre-Dame du Marthuret	1838.0
+Q29263652	14	http://www.wikidata.org/entity/Q29263652	pipe organ (Saint-Gaudens, Haute-Garonne, France)	1700.0
+Q56259576	14	http://www.wikidata.org/entity/Q56259576	Soprano saxhorn-E 2211	1850.0
+Q114025487	14	http://www.wikidata.org/entity/Q114025487	Organ of Kerimäki Church winter annex	1986.0
+Q117327204	14	http://www.wikidata.org/entity/Q117327204	pipe organ (Nîmes Saint-Baudile)	1876.0
+Q121834109	14	http://www.wikidata.org/entity/Q121834109	lyre-guitar	1800.0
+Q29185820	13	http://www.wikidata.org/entity/Q29185820	Grandes-orgues de la basilique Saint-Jean-Baptiste de Chaumont	1768.0
+Q29215157	13	http://www.wikidata.org/entity/Q29215157	pipe organ (Nemours, Seine-et-Marne, France)	1653.0
+Q56259281	13	http://www.wikidata.org/entity/Q56259281	Buccin-081 bis	1825.0
+Q56760305	13	http://www.wikidata.org/entity/Q56760305	Russian bassoon-E 267	1900.0
+Q96279811	13	http://www.wikidata.org/entity/Q96279811	Marangona	1819.0
+Q106419216	13	http://www.wikidata.org/entity/Q106419216	Poledník	1723.0
+Q110331704	13	http://www.wikidata.org/entity/Q110331704	Opus 979	1923.0
+Q110420184	13	http://www.wikidata.org/entity/Q110420184	Sankta Gertruds kyrkas orgel by Jonas Wistenius	1743.0
+Q110539276	13	http://www.wikidata.org/entity/Q110539276	Trefaldighetskyrkans orgel by Pehr Zacharias Strand	1827.0
+Q111822632	13	http://www.wikidata.org/entity/Q111822632	main organ in Remiremont (Vosges, France)	1845.0
+Q112306800	13	http://www.wikidata.org/entity/Q112306800	Q112306800	1536.0
+Q115650080	13	http://www.wikidata.org/entity/Q115650080	Q115650080	1977.0
+Q56760330	12	http://www.wikidata.org/entity/Q56760330	Soprano saxhorn-E 1693	1858.0
+Q69892243	12	http://www.wikidata.org/entity/Q69892243	Quadruple duct flute-promised gift of Timothy Phillips	1000.0
+Q108431348	12	http://www.wikidata.org/entity/Q108431348	Bourdon Clock Waalsdorpervlakte	1959.0
+Q110397198	12	http://www.wikidata.org/entity/Q110397198	Näshults kyrkas orgel by Johannes Magnusson	1863.0
+Q29225378	11	http://www.wikidata.org/entity/Q29225378	Q29225378	1750.0
+Q29233955	11	http://www.wikidata.org/entity/Q29233955	Grandstand pipe organ on the Notre-Dame-du-Lac church  in Lunel (Hérault, France)	1856.0
+Q56259346	11	http://www.wikidata.org/entity/Q56259346	Buccin-2012.0.45	1900.0
+Q56260317	11	http://www.wikidata.org/entity/Q56260317	Ophicleide-05.547	1820.0
+Q112731055	11	http://www.wikidata.org/entity/Q112731055	Pipe organ of Saint John the Evangelist church in Aigen	1997.0
+Q115654963	11	http://www.wikidata.org/entity/Q115654963	Q115654963	1977.0
+Q118215163	11	http://www.wikidata.org/entity/Q118215163	Bell Maria, 1925, Church of Saint Maurice, Olomouc	1925.0
+Q123009883	11	http://www.wikidata.org/entity/Q123009883	Q123009883	1839.0
+Q29134145	10	http://www.wikidata.org/entity/Q29134145	pipe organ in Saint-Jean-Baptiste church in Saint-Jean-de-Losne	1768.0
+Q106418785	10	http://www.wikidata.org/entity/Q106418785	Budvar	1995.0
+Q113087779	10	http://www.wikidata.org/entity/Q113087779	Q113087779	1973.0
+Q115650537	10	http://www.wikidata.org/entity/Q115650537	Kromatisk nyckelharpa	1945.0
+Q29114218	9	http://www.wikidata.org/entity/Q29114218	Pipe organ of Notre-Dame-des-Sept-Douleurs church in Kientzheim (Alsace, France)	1847.0
+Q29251250	9	http://www.wikidata.org/entity/Q29251250	Blâmont St-Maurice church	1768.0
+Q51363800	9	http://www.wikidata.org/entity/Q51363800	Pipe organ of Lutheran church in Viļķene	1868.0
+Q114394334	9	http://www.wikidata.org/entity/Q114394334	Marco da Paz	2014.0
+Q96024596	8	http://www.wikidata.org/entity/Q96024596	Marta	1723.0
+Q97102723	8	http://www.wikidata.org/entity/Q97102723	orgue Casavant, Opus 3896	2013.0
+Q110420755	8	http://www.wikidata.org/entity/Q110420755	Bredestads kyrka orgel by Jonas Wistenius	1750.0
+Q110453444	8	http://www.wikidata.org/entity/Q110453444	Åseda kyrkas orgel by Sven Axtelius	1753.0
+Q116771674	8	http://www.wikidata.org/entity/Q116771674	Veikko Virtanen organ at Espoo Cathedral	2012.0
+Q29138487	7	http://www.wikidata.org/entity/Q29138487	Orgue de tribune de la cathédrale Vieux-Saint-Vincent de Mâcon	1841.0
+Q29153972	7	http://www.wikidata.org/entity/Q29153972	pipe organ in Notre-Dame church in Vitré	1851.0
+Q97197709	7	http://www.wikidata.org/entity/Q97197709	Orgue de Cardona	1948.0
+Q107710322	7	http://www.wikidata.org/entity/Q107710322	Bankekinds kyrkas orgel by Jonas Wistenius	1758.0
+Q107740854	7	http://www.wikidata.org/entity/Q107740854	Vreta klosters kyrkas orgel by Jonas Wistenius	1747.0
+Q110389799	7	http://www.wikidata.org/entity/Q110389799	Korsberga kyrkas orgel by Johannes Magnusson	1865.0
+Q110400841	7	http://www.wikidata.org/entity/Q110400841	Sätila kyrkas orgel by Jonas Wistenius	1761.0
+Q110411910	7	http://www.wikidata.org/entity/Q110411910	Barnarps kyrkas orgel by Jonas Wistenius	1750.0
+Q112731054	7	http://www.wikidata.org/entity/Q112731054	Riedl-Positiv Gmünd-Neustadt	1997.0
+Q113091013	7	http://www.wikidata.org/entity/Q113091013	Späth-Orgel in St. Jakob	1950.0
+Q113489274	7	http://www.wikidata.org/entity/Q113489274	Västra Hargs kyrkas kororgel by Reinhard Kohlus	1968.0
+Q29138485	6	http://www.wikidata.org/entity/Q29138485	Orgue de chœur de l'église Saint-Pierre de Mâcon	1866.0
+Q63865605	6	http://www.wikidata.org/entity/Q63865605	Pipe organ of Igreja da Ordem Terceira do Carmo, Salvador, Bahia	1889.0
+Q107640657	6	http://www.wikidata.org/entity/Q107640657	Q107640657	1841.0
+Q107642917	6	http://www.wikidata.org/entity/Q107642917	Åtvids gamla kyrkas orgel by Jonas Wistenius	1751.0
+Q110393649	6	http://www.wikidata.org/entity/Q110393649	Lenhovda kyrkas orgel by Johannes Magnusson	1849.0
+Q110402481	6	http://www.wikidata.org/entity/Q110402481	Svarttorps gamla kyrkas orgel by Jonas Wistenius	1763.0
+Q110414358	6	http://www.wikidata.org/entity/Q110414358	Näshults kyrkas orgel by Jonas Wistenius	1744.0
+Q110426889	6	http://www.wikidata.org/entity/Q110426889	Herrestads kyrkas orgel by Jonas Wistenius	1766.0
+Q110585188	6	http://www.wikidata.org/entity/Q110585188	Sankta Maria kyrkas orgel by Johan Georg Amdor	1709.0
+Q112980093	6	http://www.wikidata.org/entity/Q112980093	Hammer-Orgel in Auferstehungskirche	1966.0
+Q29230306	5	http://www.wikidata.org/entity/Q29230306	Nîmes Saint-Charles church	1850.0
+Q88183178	5	http://www.wikidata.org/entity/Q88183178	Fleyé	1958.0
+Q108059222	5	http://www.wikidata.org/entity/Q108059222	Fagervik Church organ	1700.0
+Q110420843	5	http://www.wikidata.org/entity/Q110420843	Askeryds kyrkas orgel by Jonas Wistenius	1760.0
+Q112056297	5	http://www.wikidata.org/entity/Q112056297	Q112056297	1878.0
+Q115654996	5	http://www.wikidata.org/entity/Q115654996	Kromatisk nyckelharpa	1972.0
+Q115655946	5	http://www.wikidata.org/entity/Q115655946	Nyckelharpa	1779.0
+Q107643478	4	http://www.wikidata.org/entity/Q107643478	Skällviks kyrkas orgel by Jonas Wistenius	1762.0
+Q107718434	4	http://www.wikidata.org/entity/Q107718434	Odensvi kyrkas orgel by Jonas Wistenius	1776.0
+Q110391589	4	http://www.wikidata.org/entity/Q110391589	Almundsryds kyrkas orgel by Magnusson and Johansson	1861.0
+Q110401748	4	http://www.wikidata.org/entity/Q110401748	Tölö kyrkas orgel by Jonas Wistenius	1775.0
+Q110402589	4	http://www.wikidata.org/entity/Q110402589	Röks gamla kyrka orgel by Jonas Wistenius	1752.0
+Q110427008	4	http://www.wikidata.org/entity/Q110427008	Landeryds kyrkas orgel by Jonas Wistenius	1767.0
+Q112065595	4	http://www.wikidata.org/entity/Q112065595	Källa nya kyrkas orgel by Carl Elfström	1892.0
+Q113054570	4	http://www.wikidata.org/entity/Q113054570	Q113054570	1960.0
+Q122911455	4	http://www.wikidata.org/entity/Q122911455	Q122911455	1950.0
+Q56711532	3	http://www.wikidata.org/entity/Q56711532	Forveille straight serpent-E 0869	1830.0
+Q56711788	3	http://www.wikidata.org/entity/Q56711788	Forveille straight serpent-2012.0.65	1830.0
+Q110386818	3	http://www.wikidata.org/entity/Q110386818	Hemmesjö nya kyrkas orgel by Magnusson and Johansson	1857.0
+Q110397467	3	http://www.wikidata.org/entity/Q110397467	Arby kyrkas orgel by Johannes Magnusson	1852.0
+Q110559982	3	http://www.wikidata.org/entity/Q110559982	Falsterbo kyrkas orgel by Andreas Malmlöf	1769.0
+Q112066206	3	http://www.wikidata.org/entity/Q112066206	Hamneda kyrkas orgel by Carl Elfström	1900.0
+Q112092593	3	http://www.wikidata.org/entity/Q112092593	Q112092593	1600.0
+Q87196901	2	http://www.wikidata.org/entity/Q87196901	Door knocker-MAO 97	1300.0
+Q107640358	2	http://www.wikidata.org/entity/Q107640358	Q107640358	1932.0
+Q107641219	2	http://www.wikidata.org/entity/Q107641219	Q107641219	1864.0
+Q110393736	2	http://www.wikidata.org/entity/Q110393736	Norra Sandsjö kyrkas orgel by Johannes Magnusson	1855.0
+Q112055681	2	http://www.wikidata.org/entity/Q112055681	Silbodals kyrkas orgel by Carl Elfström	1912.0
+Q112056233	2	http://www.wikidata.org/entity/Q112056233	Vartofta-Åsaka kyrkas orgel by Carl Elfström	1880.0
+Q112056524	2	http://www.wikidata.org/entity/Q112056524	Hannäs kyrkas orgel by Carl Elfström	1885.0
+Q112056554	2	http://www.wikidata.org/entity/Q112056554	Gårdeby kyrkas orgel by Carl Elfström	1887.0
+Q112056585	2	http://www.wikidata.org/entity/Q112056585	Bjälbo kyrkas orgel by Carl Elfström	1882.0
+Q112056625	2	http://www.wikidata.org/entity/Q112056625	Q112056625	1886.0
+Q115655840	2	http://www.wikidata.org/entity/Q115655840	Nyckelharpa	1781.0
+Q31088988	1	http://www.wikidata.org/entity/Q31088988	Swahili olifant counterweigth	1700.0
+Q110386100	1	http://www.wikidata.org/entity/Q110386100	Bäckebo kyrkas orgel by Johannes Magnusson	1848.0
+Q110390806	1	http://www.wikidata.org/entity/Q110390806	Påskallaviks kyrkas orgel by Johannes Magnusson	1865.0
+Q110390874	1	http://www.wikidata.org/entity/Q110390874	Skirö kyrkas orgel by Johannes Magnusson	1857.0
+Q110397295	1	http://www.wikidata.org/entity/Q110397295	Nävelsjö kyrkas orgel by Johannes Magnusson	1852.0
+Q112056615	1	http://www.wikidata.org/entity/Q112056615	Q112056615	1886.0

@@ -1,0 +1,66 @@
+Entity	QRank	director	directorLabel	numAwards
+Q43203	12675522	http://www.wikidata.org/entity/Q43203	Clint Eastwood	2
+Q8877	11342324	http://www.wikidata.org/entity/Q8877	Steven Spielberg	2
+Q42574	10220584	http://www.wikidata.org/entity/Q42574	James Cameron	1
+Q11930	8120858	http://www.wikidata.org/entity/Q11930	Kevin Costner	1
+Q41148	7499256	http://www.wikidata.org/entity/Q41148	Martin Scorsese	1
+Q42229	7253973	http://www.wikidata.org/entity/Q42229	Mel Gibson	1
+Q51552	5461456	http://www.wikidata.org/entity/Q51552	Roman Polanski	1
+Q25089	4879896	http://www.wikidata.org/entity/Q25089	Woody Allen	1
+Q59215	4396887	http://www.wikidata.org/entity/Q59215	Robert Redford	1
+Q219124	4171406	http://www.wikidata.org/entity/Q219124	Guillermo del Toro	1
+Q56094	4051637	http://www.wikidata.org/entity/Q56094	Francis Ford Coppola	1
+Q103646	3165081	http://www.wikidata.org/entity/Q103646	Ron Howard	1
+Q95030	2534009	http://www.wikidata.org/entity/Q95030	Warren Beatty	1
+Q51506	2438666	http://www.wikidata.org/entity/Q51506	Richard Attenborough	1
+Q18350026	2211584	http://www.wikidata.org/entity/Q18350026	Damien Chazelle	1
+Q223233	2082696	http://www.wikidata.org/entity/Q223233	Sam Mendes	1
+Q4465	1968103	http://www.wikidata.org/entity/Q4465	Peter Jackson	1
+Q187364	1735620	http://www.wikidata.org/entity/Q187364	Robert Zemeckis	1
+Q179497	1729679	http://www.wikidata.org/entity/Q179497	Oliver Stone	2
+Q51582	1553180	http://www.wikidata.org/entity/Q51582	William Friedkin	1
+Q51114	1383591	http://www.wikidata.org/entity/Q51114	John Ford	4
+Q103917	1372124	http://www.wikidata.org/entity/Q103917	Steven Soderbergh	1
+Q34816	1268103	http://www.wikidata.org/entity/Q34816	Kathryn Bigelow	1
+Q160726	1183283	http://www.wikidata.org/entity/Q160726	Ang Lee	2
+Q51575	1154197	http://www.wikidata.org/entity/Q51575	John Huston	1
+Q51547	1059003	http://www.wikidata.org/entity/Q51547	Billy Wilder	2
+Q72717	972694	http://www.wikidata.org/entity/Q72717	Elia Kazan	2
+Q134867	962928	http://www.wikidata.org/entity/Q134867	Danny Boyle	1
+Q51535	956402	http://www.wikidata.org/entity/Q51535	Vincente Minnelli	1
+Q51522	935491	http://www.wikidata.org/entity/Q51522	Sydney Pollack	1
+Q53009	762663	http://www.wikidata.org/entity/Q53009	Bernardo Bertolucci	1
+Q51525	719829	http://www.wikidata.org/entity/Q51525	Miloš Forman	2
+Q269692	699959	http://www.wikidata.org/entity/Q269692	Barry Levinson	1
+Q313256	699445	http://www.wikidata.org/entity/Q313256	Bob Fosse	1
+Q51537	689747	http://www.wikidata.org/entity/Q51537	Mike Nichols	1
+Q59129	636474	http://www.wikidata.org/entity/Q59129	Michael Cimino	1
+Q48987	581939	http://www.wikidata.org/entity/Q48987	Jonathan Demme	1
+Q51492	566234	http://www.wikidata.org/entity/Q51492	Frank Capra	3
+Q52411	548173	http://www.wikidata.org/entity/Q52411	Tony Richardson	1
+Q230448	488418	http://www.wikidata.org/entity/Q230448	Jane Campion	1
+Q55260	485251	http://www.wikidata.org/entity/Q55260	David Lean	2
+Q188726	464048	http://www.wikidata.org/entity/Q188726	Anthony Minghella	1
+Q95125	452740	http://www.wikidata.org/entity/Q95125	James L. Brooks	1
+Q51495	425906	http://www.wikidata.org/entity/Q51495	William Wyler	3
+Q51583	300185	http://www.wikidata.org/entity/Q51583	Joseph L. Mankiewicz	2
+Q51491	291324	http://www.wikidata.org/entity/Q51491	Michael Curtiz	1
+Q56014	288800	http://www.wikidata.org/entity/Q56014	George Cukor	1
+Q62503	247037	http://www.wikidata.org/entity/Q62503	Victor Fleming	1
+Q95143	229658	http://www.wikidata.org/entity/Q95143	Carol Reed	1
+Q59821	228030	http://www.wikidata.org/entity/Q59821	Robert Wise	2
+Q260125	220458	http://www.wikidata.org/entity/Q260125	John G. Avildsen	1
+Q55303	209394	http://www.wikidata.org/entity/Q55303	John Schlesinger	1
+Q353019	205466	http://www.wikidata.org/entity/Q353019	Jerome Robbins	1
+Q55420	194768	http://www.wikidata.org/entity/Q55420	Fred Zinnemann	2
+Q51570	157942	http://www.wikidata.org/entity/Q51570	George Roy Hill	1
+Q51490	136915	http://www.wikidata.org/entity/Q51490	George Stevens	2
+Q285928	109609	http://www.wikidata.org/entity/Q285928	Lewis Milestone	1
+Q51503	93570	http://www.wikidata.org/entity/Q51503	Franklin J. Schaffner	1
+Q59085	76039	http://www.wikidata.org/entity/Q59085	Robert Benton	1
+Q332530	68069	http://www.wikidata.org/entity/Q332530	Leo McCarey	2
+Q369190	52874	http://www.wikidata.org/entity/Q369190	Frank Borzage	1
+Q270038	47255	http://www.wikidata.org/entity/Q270038	Delbert Mann	1
+Q95111	37600	http://www.wikidata.org/entity/Q95111	Norman Taurog	1
+Q13595311	36969	http://www.wikidata.org/entity/Q13595311	Joel Coen	1
+Q28941	36858	http://www.wikidata.org/entity/Q28941	Frank Lloyd	2

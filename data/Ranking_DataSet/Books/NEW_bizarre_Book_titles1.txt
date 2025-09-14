@@ -1,0 +1,38 @@
+title	score
+Mindset: The New Psychology of Success	1.0
+The Ultimate Hitchhiker's Guide to the Galaxy	5.0
+The Long Walk	3.0
+The Divine Comedy	3.0
+The God of Small Things	5.0
+On the Beach	3.0
+The Coldest Winter Ever	1.0
+The Phantom Tollbooth	3.0
+The Picture of Dorian Gray	3.0
+The Quickie	1.0
+James and the Giant Peach	3.0
+Ender's Game (Ender's Saga, #1)	2.0
+The Catcher in the Rye	1.0
+Misery	1.0
+The Call of the Wild	1.0
+The Road	2.0
+Jurassic Park (Jurassic Park, #1)	2.0
+Crime and Punishment	2.0
+The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)	1.0
+Holy Bible: King James Version	1.0
+Horns	3.0
+Keeper of the Lost Cities (Keeper of the Lost Cities, #1)	1.0
+Slammed (Slammed, #1)	5.0
+After (After, #1)	1.0
+Binti (Binti, #1)	1.0
+World War Z: An Oral History of the Zombie War	2.0
+American Pastoral (The American Trilogy, #1)	1.0
+The Shining	3.0
+The Bonfire of the Vanities	1.0
+'Salem's Lot	2.0
+The Name of the Rose	1.0
+Love in the Time of Cholera	1.0
+Wolf Hall (Thomas Cromwell, #1)	1.0
+The Martian	2.0
+Under the Banner of Heaven: A Story of Violent Faith	2.0
+The Wicked Girls	2.0
+The Heart is a Lonely Hunter	1.0

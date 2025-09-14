@@ -1,0 +1,75 @@
+title	score
+Braveheart (1995)	4.0
+Schindler's List (1993)	5.0
+Dances with Wolves (1990)	5.0
+Fargo (1996)	4.0
+Aliens (1986)	4.0
+Apocalypse Now (1979)	2.6666666667000003
+Star Wars: Episode VI - Return of the Jedi (1983)	1.0
+Full Metal Jacket (1987)	2.0
+Glory (1989)	5.0
+Killing Fields, The (1984)	5.0
+Good Will Hunting (1997)	4.0
+Titanic (1997)	4.0
+Saving Private Ryan (1998)	4.5
+American History X (1998)	4.5
+Minority Report (2002)	2.0
+Lord of the Rings: The Two Towers, The (2002)	2.0
+City of God (Cidade de Deus) (2002)	3.0
+Ratatouille (2007)	1.0
+Jurassic Park (1993)	1.0
+Mission: Impossible (1996)	1.0
+Alien (1979)	1.0
+Bourne Identity, The (2002)	4.0
+Fantastic Four (2005)	2.0
+Bourne Ultimatum, The (2007)	3.0
+Rushmore (1998)	3.0
+Office Space (1999)	3.0
+Raging Bull (1980)	4.0
+Metropolis (1927)	1.0
+Parenthood (1989)	2.0
+French Connection, The (1971)	5.0
+No Country for Old Men (2007)	3.0
+Godfather: Part II, The (1974)	5.0
+Meet the Parents (2000)	2.0
+Battle of Algiers, The (La battaglia di Algeri) (1966)	5.0
+Snow White and the Seven Dwarfs (1937)	1.0
+Liar Liar (1997)	1.0
+Run Lola Run (Lola rennt) (1998)	4.0
+Aeon Flux (2005)	2.0
+Dark Knight, The (2008)	2.3333333333
+Seven (a.k.a. Se7en) (1995)	3.0
+Taxi Driver (1976)	5.0
+Blue Velvet (1986)	4.0
+Golden Compass, The (2007)	1.0
+Pretty Woman (1990)	2.0
+To Kill a Mockingbird (1962)	5.0
+Edukators, The (Die Fetten Jahre sind vorbei) (2004)	3.0
+Heat (1995)	2.0
+Platoon (1986)	4.0
+Black Hawk Down (2001)	4.0
+Trainspotting (1996)	4.3333333333
+Mulholland Drive (2001)	3.0
+Sneakers (1992)	3.0
+Amores Perros (Love's a Bitch) (2000)	4.0
+Ocean's Thirteen (2007)	2.0
+Leaving Las Vegas (1995)	3.0
+Beetlejuice (1988)	2.0
+Police Academy (1984)	2.0
+Mannequin (1987)	2.0
+Hellboy II: The Golden Army (2008)	1.0
+Pocahontas (1995)	1.0
+Princess Diaries, The (2001)	2.0
+Speed (1994)	2.0
+21 Grams (2003)	4.0
+High Fidelity (2000)	3.0
+Stripes (1981)	2.0
+Head-On (Gegen die Wand) (2004)	4.0
+Life as a House (2001)	3.0
+Indian in the Cupboard, The (1995)	2.0
+You Can Count on Me (2000)	2.0
+Exorcist III, The (1990)	1.0
+Big Easy, The (1987)	4.0
+UHF (1989)	2.0
+Twentieth Century (1934)	2.0
+Sahara (2005)	1.0

@@ -1,0 +1,19 @@
+title	score
+The Long Walk	5.0
+The Coldest Winter Ever	4.5
+Watership Down (Watership Down, #1)	4.0
+The Hobbit	1.0
+The Quickie	4.0
+Misery	2.0
+Rich Dad, Poor Dad	1.0
+Crime and Punishment	1.0
+Horns	2.0
+The Call of Cthulhu	2.0
+Binti (Binti, #1)	4.0
+Fight Club	5.0
+The Stand	3.0
+Harry Potter Boxset (Harry Potter, #1-7)	1.0
+Ramona Blue	5.0
+Neverwhere	2.0
+Old Man's War (Old Man's War, #1)	2.0
+Best Served Cold	5.0

@@ -1,0 +1,13 @@
+title	score
+Jurassic Park (1993)	2.0
+Last Action Hero (1993)	3.0
+Cape Fear (1991)	3.0
+Ray (2004)	1.0
+12 Angry Men (1957)	5.0
+Five Easy Pieces (1970)	1.0
+Cruel Intentions (1999)	1.0
+Boys Don't Cry (1999)	1.0
+Princess Mononoke (Mononoke-hime) (1997)	1.0
+Gran Torino (2008)	4.0
+Encounters at the End of the World (2008)	1.0
+3 Extremes (Three... Extremes) (Saam gaang yi) (2004)	3.0

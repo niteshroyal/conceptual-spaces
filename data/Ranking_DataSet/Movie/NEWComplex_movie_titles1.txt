@@ -1,0 +1,24 @@
+title	score
+Apocalypse Now (1979)	3.0
+Minority Report (2002)	3.0
+Twelve Monkeys (a.k.a. 12 Monkeys) (1995)	4.2
+Blade Runner (1982)	4.0
+Matrix, The (1999)	4.0
+Back to the Future (1985)	3.0
+Back to the Future Part II (1989)	5.0
+Princess Bride, The (1987)	1.0
+Miller's Crossing (1990)	5.0
+Snatch (2000)	4.0
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	2.0
+Dead Poets Society (1989)	4.0
+North by Northwest (1959)	3.0
+There's Something About Mary (1998)	2.0
+Usual Suspects, The (1995)	3.0
+Ghost in the Shell (Kôkaku kidôtai) (1995)	3.5
+Pretty Woman (1990)	1.0
+Patton (1970)	3.0
+Three Colors: Blue (Trois couleurs: Bleu) (1993)	5.0
+Village, The (2004)	4.0
+Primer (2004)	5.0
+Rashomon (Rashômon) (1950)	5.0
+Dracula (Bram Stoker's Dracula) (1992)	1.0
